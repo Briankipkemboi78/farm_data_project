@@ -1,0 +1,343 @@
+entity_id,entity_name,first_name,last_name,gender,year_of_birth
+1470157558564695309,Ban Nguyen Thi,Minh,Nguyen Van,Male,1968.0
+1470157558564695295,Ngo K,Phap,Nguyen Ngoc,Male,1978.0
+1470157558564694946,Nghia Chau Trong,Nam,Vu Phuong,Male,1967.0
+1470157558564695057,Cuc Pham Thi,Noi,K,Male,1980.0
+1470157558564694699,Huy Pham Van,Dung,Tran Thi,Female,1962.0
+1470157558564694968,Huu Nguyen Van,Vinh,Cao Van,Male,1964.0
+1470157558564694704,Linh Tran Thi Ngoc,Hung,Nguyen Van,Male,1969.0
+1470157558564695065,Thong K,Nhung,Dong Thi,Female,1968.0
+1470157558564694989,Dac K,Bien,Duong Cong,Male,1961.0
+1470157558564695215,Thi Nghiem Van,Tong,Nguyen Ba,Male,1987.0
+1470157558564694714,Hien Nguyen Thi,Diep,Ngo Van,Male,1992.0
+1470157558564694722,Hoc Pham Van,Thai,Ho Minh,Male,1965.0
+1470157558564694903,Theu Duong Thi,Tuan,Tran Van,Male,1977.0
+1470157558564694972,Thuy Nguyen Thi,Lien,Nguyen Thi,Female,1957.0
+1470157558564694797,Hung Bui Duy,Toi,Pham Ba,Male,1973.0
+1470157558564695074,Hoang Dinh Gia,Phuong,Tran Quoc,Male,1969.0
+1470157558564694799,Truong Ngo Xuan,Binh,Cao Thai,Male,1970.0
+1470157558564695163,Hien Ka,Hien,Dinh Van,Male,1964.0
+1470157558564695952,Thoa Nguyen Thi,Thoa,Nguyen Thi,Female,1962.0
+1470157558564695873,Quang Nguyen Van,Quang,Nguyen Van,Male,1991.0
+1470157558564695063,Chat Tran Van,Hoan,Nguyen Van,Male,1990.0
+1470157558564695879,Thuy Tran Thi,Thuy,Tran Thi,Female,1973.0
+1470157558564696002,Tinh Ho Dinh,Tinh,Ho Dinh,Male,1952.0
+1470157558564695991,Cham Nguyen Thi,Cham,Nguyen Thi,Female,1961.0
+1470157558564695965,Phuong Mai Trong,Phuong,Mai Trong,Male,1979.0
+1470157558564695118,Nhanh K Bon Da Luych,Vuong,Tran Quoc,Male,1976.0
+1470157558564694820,Sanh Nguyen Viet,Vinh,Tran Duc,Male,1974.0
+1470157558564695191,Truong Do Manh,Gem,K,Male,1978.0
+1470157558564695739,Thong Hoang Trung,Thong,Hoang Trung,Male,1964.0
+1470157558564695307,Mung Dinh Thi,B,Nguyen Van Tien,Male,1982.0
+1470157558564695573,Muc Vu Viet,Muc,Vu Viet,Male,1962.0
+1470157558564695554,Hao Pham Cong,Hao,Pham Cong,Male,1987.0
+1470157558564695390,Hoang Pham Van,Anh,Vu Hoang,Female,1986.0
+1470157558564695569,Tuan Dang Van,Tuan,Dang Van,Male,1986.0
+1470157558564695558,Thuan Nguyen Van,Thuan,Nguyen Van,Male,1965.0
+1470157558564695628,Van Nguyen Thi,Van,Nguyen Thi,Female,1969.0
+1470157558564695562,Vuong Lang Van,Vuong,Lang Van,Male,1980.0
+1470157558564695658,Tinh Dao Van,Tinh,Dao Van,Male,1976.0
+1470157558564695386,Nga Mai Duc,Vinh,Ho Quang,Male,1986.0
+1470157558564695504,Lai Nguyen Xuan,Len,Nguyen Thi,Female,1980.0
+1470157558564695096,Lanh Le Thi,Su,Nguyen Van,Male,1980.0
+1470157558564695337,Tan Le Van,,,,
+1470157558564695889,Deo K,,,,
+1470157558564695757,Tam Nguyen Huu,Tam,Nguyen Huu,Male,1972.0
+1469278379854639222,Tr?n V?n Thanh,V?n Thanh,Tr?n,Male,1956.0
+1469278379854639342,K ??uh,??uh,K,Male,1975.0
+1469278379854638502,Bùi Trung ??ng,Trung ??ng,Bùi,Male,1959.0
+1469278379854638316,Tr?n Quang Tri?u,Quang Tri?u,Tr?n,Male,1964.0
+1469883818362504539,Ph?m V?n L?nh,V?n L?nh,Ph?m,Male,1968.0
+1469278379855013128,Nguy?n V?n L??ng,L??ng,Nguy?n V?n,Male,1985.0
+1469278379855012334,Nguy?n V?n H?u,,,,
+1469278379855013186,?? V?n T?ng,T?ng,?? V?n,Female,1962.0
+1469883818362504743,Lê Ti?n L?c,Ti?n L?c,Lê,Male,1972.0
+1469278379854782274,Phan Nguy?n Thùy D??ng,Nguy?n Thùy D??ng,Phan,Female,1987.0
+1469278379855014872,Ph?m V?n T?ng,T?ng,Ph?m V?n,Male,1951.0
+1469278379855004447,Tr?n V?n Hòa,Hòa,Tr?n V?n,Male,1962.0
+1469278379854781944,??ng V?n H?nh,V?n H?nh,??ng,Male,1977.0
+1469278379854781789,Tr?n Th? Hu?,Th? Hu?,Tr?n,Female,1974.0
+1469278379854781780,Nguy?n V?n C??ng,V?n C??ng,Nguy?n,Male,1974.0
+1469278379855014611,?ào V?n Minh,Minh,?ào V?n,Male,1967.0
+1469278379855014782,Nguy?n V?n Hùng,Hùng,Nguy?n V?n,Male,1981.0
+1469278379855013420,Nguy?n Th? ?ào,?ào,Nguy?n Th?,Male,1990.0
+1469278379855013426,Nguy?n Kh?c C??ng,C??ng,Nguy?n Kh?c,Male,1975.0
+1469278379855008977,Lê Ng?c ???c,???c,Lê Ng?c,Male,1972.0
+1469278379854782189,Tr?n V?n Khuê,V?n Khuê,Tr?n,Male,1960.0
+1469883818362504707,Ph?m Hoàng Hi?n,Hoàng Hi?n,Ph?m,Male,1984.0
+1469278379855004763,Nguy?n T?t Lâm,Lâm,Nguy?n T?t,Male,1992.0
+1469278379854782176,Ch?c Cún Kíu,Cún Kíu,Ch?c,Male,1979.0
+1469278379855013194,Võ Th? Niêm,Niêm,Võ Th?,Female,1963.0
+1469278379854783010,Bùi Th? Liên,Th? Liên,Bùi,Female,1957.0
+1469278379855012739,R? Châm A Rung,Rung,R? Châm A,Male,1958.0
+1469278379854783130,Ph?m V?n ??ng,V?n ??ng,Ph?m,Male,1970.0
+1469278379855009281,Nguy?n Ng?c H??ng,H??ng,Nguy?n Ng?c,Male,1974.0
+1469883818362505057,Lê Th? Hu?,Hu?,Lê Th?,Female,
+1469278379854782955,Tr?n ?ình V?n,?ình V?n,Tr?n,Male,1978.0
+1469278379854782066,Cù Th? Thu H??ng,Th? Thu H??ng,Cù,Female,1995.0
+1469278379854782983,Lê Minh Phúc,Minh Phúc,Lê,Male,1972.0
+1469278379855009775,Mai Ng?c S?n,S?n,Mai Ng?c,Male,1982.0
+1469278379854781982,Tr?n Ng?c Anh,Ng?c Anh,Tr?n,Male,1976.0
+1469883818362504785,Bùi Qu?c D?ng,Qu?c D?ng,Bùi,Male,1979.0
+1469278379854782311,Nguy?n V?n T?nh,V?n T?nh,Nguy?n,Male,1968.0
+1469883818362504788,?? Công C??ng,Công C??ng,??,Male,1966.0
+1469278379854782873,Nguy?n Xuân Phúc,Xuân Phúc,Nguy?n,Male,1979.0
+1469278379855013487,Nguy?n V?n Khang,Khang,Nguy?n V?n,Male,1994.0
+1469278379854782303,Tr??ng V?n D?,V?n D?,Tr??ng,Male,1966.0
+1469278379854782330,Tr?n ?ình D?ng,?ình D?ng,Tr?n,Male,1976.0
+1469278379855013538,Ngô Nh? Nôm,Nôm,Ngô Nh?,Male,1993.0
+1469278379854677182,?inh V?n Trình,V?n Trình,?inh,Male,1972.0
+1469278379854782765,??ng Hoàng Minh,Hoàng Minh,??ng,Male,1975.0
+1469278379854677051,Nguy?n Th? Công,Th? Công,Nguy?n,Female,1971.0
+1469278379855012279,Ph?m Th? Loan,Loan,Ph?m Th?,Male,1995.0
+1469278379854782856,??ng V?n H?n,V?n H?n,??ng,Male,1983.0
+1469278379855009590,Uông V?n Chi?n,Chi?n,Uông V?n,Female,1996.0
+1469278379854677054,Tr?n V?n Công,V?n Công,Tr?n,Male,1983.0
+1469278379855012573,?? V?n C??ng,C??ng,?? V?n,Female,1978.0
+1469278379854783229,Ph?m V?n L?u,V?n L?u,Ph?m,Male,1975.0
+1469278379854781962,Tr?n Th? Ngh?a,Th? Ngh?a,Tr?n,Female,1976.0
+1469278379854677037,H? ?ình Liêm,?ình Liêm,H?,Male,1984.0
+1469278379855012570,Ph?m V?n Loát,Loát,Ph?m V?n,Female,1993.0
+1469883818362504744,Vi V?n Ti?n,V?n Ti?n,Vi,Male,1976.0
+1469278379855012184,H? Th? Th?ng,Th?ng,H? Th?,Female,1963.0
+1469883818362504715,Tr??ng Th? Thu Th?y,Th? Thu Th?y,Tr??ng,Female,1988.0
+1469278379854783135,Tr?n ?Ình Hoàng,?Ình Hoàng,Tr?n,Male,1998.0
+1469278379855012158,Nguy?n V?n Du?n,Du?n,Nguy?n V?n,Male,1959.0
+1469278379854783115,Lê H?u Bình,H?u Bình,Lê,Male,1969.0
+1469278379854782426,Ph?m Quang S?n,Quang S?n,Ph?m,Male,1975.0
+1469278379855013057,Puih X?p,X?p,Puih,Male,1986.0
+1469278379854783104,Tr?n V?n N?,V?n N?,Tr?n,Male,1982.0
+1469278379854782419,Nguy?n Th? Thu?n,Th? Thu?n,Nguy?n,Female,1963.0
+1469278379855009927,Nguy?n Th? Chích,Chích,Nguy?n Th?,Female,1955.0
+1469278379854677226,?? ?ình Chung,?ình Chung,??,Male,1974.0
+1469278379855012818,Tr?n Th? M? Di?m,Di?m,Tr?n Th? M?,Male,1965.0
+1469278379854677162,Nông V?n Ty,V?n Ty,Nông,Male,1980.0
+1469278379854782733,Tr?n V?n Hu?nh,V?n Hu?nh,Tr?n,Male,1980.0
+1469278379854677174,Chu V?n Ngán,V?n Ngán,Chu,Male,1992.0
+1469278379854783053,Nguy?n H?u Tr?ng,H?u Tr?ng,Nguy?n,Male,1967.0
+1469278379854782727,Tr?n V?n T?p,V?n T?p,Tr?n,Male,1977.0
+1469278379855013676,Phan Th? Hi?n,Hi?n,Phan Th?,Male,1994.0
+1469278379855013697,Nguy?n Tu?n Anh,Anh,Nguy?n Tu?n,Male,1952.0
+1469278379854782243,Nguy?n Th? Kim Vy,Th? Kim Vy,Nguy?n,Female,1981.0
+1469278379855012382,Nguy?n ??c Trung,Trung,Nguy?n ??c,Male,1970.0
+1469278379854783211,Tr?n V?n S?n,V?n S?n,Tr?n,Male,1976.0
+1469278379855012339,Lê ?ình Khang,Khang,Lê ?ình,Male,1981.0
+1469278379854783216,Võ T?,T?,Võ,Female,1947.0
+1469278379855012856,Phan Th? Nhung,Nhung,Phan Th?,Female,1975.0
+1469278379855013932,Hoàng B?o Vi?t,Vi?t,Hoàng B?o,Female,1967.0
+1469278379855013152,Nguy?n V?n Ph?i,Ph?i,Nguy?n V?n,Male,1987.0
+1469278379855014007,Phùng V?n Ngh?a,Ngh?a,Phùng V?n,Male,1953.0
+1469278379855013593,D??ng V?n Tuy?n,Tuy?n,D??ng V?n,Male,1961.0
+1469278379855013826,Hoàng H?i ??ng,??ng,Hoàng H?i,Male,1946.0
+1469278379855012881,Tr?n Th? Th?m,,,,
+1469278379855013861,Nguy?n Th? H??ng,H??ng,Nguy?n Th?,Female,
+1469278379855013563,Lê V?n Ba,Ba,Lê V?n,Male,1991.0
+1469278379855012835,D??ng Th? Hu?,Hu?,D??ng Th?,Female,1979.0
+1469278379855009880,Hoàng Thanh Tu?n,Tu?n,Hoàng Thanh,Male,1970.0
+1469278379855009844,Ngô ??c Th?c,Th?c,Ngô ??c,Female,1971.0
+1469278379855009842,L??ng Xuân Khiên,Khiên,L??ng Xuân,Male,1969.0
+1469278379854641911,K Br?p,Br?p,K,Male,1981.0
+1469278379855005159,R? Lan Hren,Hren,R? Lan,Male,1991.0
+1469278379855008338,Nguy?n Ng?c Sáng,Sáng,Nguy?n Ng?c,Male,1974.0
+1469278379854638788,Nguy?n Minh Hòa,Minh Hòa,Nguy?n,Male,1970.0
+1469278379855008185,Lê Th? H?ng,H?ng,Lê Th?,Male,1975.0
+1469278379855009021,Ph?m Th? S?n,S?n,Ph?m Th?,Male,1943.0
+1469278379855004887,Nguy?n Quang Tuy?n,Tuy?n,Nguy?n Quang,Male,1994.0
+1469278379854638847,Tr?n M?nh Ho?t,M?nh Ho?t,Tr?n,Male,1977.0
+1469278379855004785,??ng ?ình Thân,Thân,??ng ?ình,Male,1952.0
+1469278379855004825,?? H?ng ?i?p,?i?p,?? H?ng,Female,1993.0
+1469278379855014199,Võ Th? H??ng,H??ng,Võ Th?,Male,1986.0
+1469278379855014401,H? Th? H?i,H?i,H? Th?,Male,1950.0
+1469278379854640837,Nguy?n V?n Ngh?,V?n Ngh?,Nguy?n,Male,1955.0
+1469278379855014074,Tr?n Xuân Long,Long,Tr?n Xuân,Female,1970.0
+1469278379854639556,K Ngheoh,Ngheoh,K,Male,1963.0
+1469278379854640166,Tr?n Mai Loan,Mai Loan,Tr?n,Male,1979.0
+1469883818362504681,Nguy?n Th? Ph??ng,Th? Ph??ng,Nguy?n,Female,1981.0
+1469278379855014088,Phùng Th? H?nh,H?nh,Phùng Th?,Male,1989.0
+1469278379855014073,Nguy?n Th? L?,L?,Nguy?n Th?,Female,1982.0
+1469278379855014104,Nguy?n Ti?n Qu?c,Qu?c,Nguy?n Ti?n,Female,1974.0
+1469278379855014345,Nguy?n H?i,H?i,Nguy?n,Female,1987.0
+1469883818362504890,Tr?n Thanh Ngh?a,Ngh?a,Tr?n Thanh,Male,1984.0
+1469278379855014289,Nguy?n Kim Hùng,Hùng,Nguy?n Kim,Female,
+1469278379854641656,H? A T?c,A T?c,H?,Male,1980.0
+1469278379854642031,Ka H?ng,H?ng,Ka,Male,1987.0
+1469278379855008648,H? Quang Toàn,Toàn,H? Quang,Male,1955.0
+1469278379855008633,Nguy?n Th? D??ng,D??ng,Nguy?n Th?,Female,1943.0
+1469278379854639991,K ?i?u,?i?u,K,Female,1973.0
+1469883818362504409,K Na,Na,K,Female,1963.0
+1469278379855014643,V? V?n Hi?p,Hi?p,V? V?n,Male,1962.0
+1469278379855009318,Nguy?n T?t Ti?n,Ti?n,Nguy?n T?t,Male,1963.0
+1469278379854638141,Tr??ng V?n H?c,V?n H?c,Tr??ng,Male,1973.0
+1469278379855009319,H? Th? V?,V?,H? Th?,Female,1970.0
+1469278379854640735,Bùi Th? H??ng,Th? H??ng,Bùi,Male,1962.0
+1469278379855008002,Rmah Prinh,Prinh,Rmah,Male,1988.0
+1469278379855009390,Tr?n V?n B?,B?,Tr?n V?n,Male,1944.0
+1469278379854638365,Bùi Th? Ba,Th? Ba,Bùi,Female,1969.0
+1469278379854641789,??ng Th? Th?y,Th? Th?y,??ng,Female,1940.0
+1469278379854642507,V? Th? ??nh,Th? ??nh,V?,Male,1961.0
+1469278379854641951,Ka Hi?n,Hi?n,Ka,Male,1993.0
+1469278379855008000,Rmah L?m,L?m,Rmah,Male,1990.0
+1469278379854642852,Hoàng S? S?,S? S?,Hoàng,Female,1977.0
+1469278379854638345,Nguy?n ??c Th?,??c Th?,Nguy?n,Male,1977.0
+1469278379854638306,Nguy?n Th? Nguyên,Th? Nguyên,Nguy?n,Male,1947.0
+1469278379855004840,Tr?n V?n ?ông,?ông,Tr?n V?n,Male,1961.0
+1469278379854642720,Nguy?n Th? ??nh,Th? ??nh,Nguy?n,Male,1978.0
+1469278379855005225,Nguy?n Th? Trang,Trang,Nguy?n Th?,Male,1975.0
+1469278379855005212,Tr?n Xuân Th?nh,Th?nh,Tr?n Xuân,Male,1969.0
+1469278379854638332,Tr??ng Th? Kim Dung,Th? Kim Dung,Tr??ng,Male,1977.0
+1469278379854642963,Nguy?n Th? H?ng,Th? H?ng,Nguy?n,Male,1979.0
+1469278379854638287,Phan Xuân Hào,Xuân Hào,Phan,Male,1977.0
+1469278379855005276,Nguy?n Th? Vê,Vê,Nguy?n Th?,Male,1962.0
+1469278379855005249,Bùi Qu?c Ph??ng,Ph??ng,Bùi Qu?c,Male,1954.0
+1469278379854642946,Nguy?n H?ng Th?ng,,,,
+1469278379855008686,Puih Blip,Blip,Puih,Female,1962.0
+1469278379855008072,Lê C?,C?,Lê,Male,1996.0
+1469278379855005043,Lê Th? Vong,Vong,Lê Th?,Male,1980.0
+1469278379854641146,K Gass,Gass,K,Male,1982.0
+1469278379855005002,Bùi Th? Nhung,Nhung,Bùi Th?,Male,1994.0
+1469278379855005032,Nguy?n V?n Minh,Minh,Nguy?n V?n,Male,1995.0
+1469278379855005028,Nguy?n Cao Hùng,Hùng,Nguy?n Cao,Male,1947.0
+1469278379854640452,?? Chí Hi?u,Chí Hi?u,??,Male,1986.0
+1469278379854638593,Nguy?n Tr?ng Kiên,Tr?ng Kiên,Nguy?n,Male,1974.0
+1469278379855008702,Puih Bluih,Bluih,Puih,Male,1957.0
+1469278379854639859,L??ng Kh?c Thanh,Kh?c Thanh,L??ng,Female,1985.0
+1469278379854638512,?inh V?n V?,V?n V?,?inh,Male,1989.0
+1469278379854641222,Ka Li?u,Li?u,Ka,Male,1991.0
+1469278379854639942,Thái Trung Du?,Trung Du?,Thái,Female,1982.0
+1469278379854638490,Hoàng Duy Dinh,Duy Dinh,Hoàng,Male,1953.0
+1469278379854638519,Nguy?n Th? Vinh,Th? Vinh,Nguy?n,Male,1968.0
+1469278379854638792,Tr?n H?ng Phong,H?ng Phong,Tr?n,Male,1990.0
+1469278379854642831,Chu Th? Oanh,Th? Oanh,Chu,Male,1961.0
+1469278379854639534,K Brin,Brin,K,Male,1983.0
+1469278379854638214,Phan Thanh ??m,Thanh ??m,Phan,Male,1972.0
+1469278379854639354,K Niêm,Niêm,K,Male,1964.0
+1469278379854638432,Tr?n V?n Minh,V?n Minh,Tr?n,Male,1979.0
+1469278379854639362,Nguy?n V?n Quy?n,V?n Quy?n,Nguy?n,Male,1982.0
+1469278379854638434,Lê Thanh Hà,Thanh Hà,Lê,Female,1970.0
+1469278379854639448,Ka D?p,,,,
+1469278379854639340,K Gi?h,Gi?h,K,Female,1950.0
+1469278379854638373,Nguy?n S? Thành,S? Thành,Nguy?n,Male,1956.0
+1469278379854639445,K Vinh,Vinh,K,Male,1983.0
+1469278379854639420,K Biôs,Biôs,K,Male,1982.0
+1469278379854642243,Võ Thanh Nhàn,Thanh Nhàn,Võ,Female,1977.0
+1469278379854642131,Lê V?n Môn,V?n Môn,Lê,Male,1973.0
+1469278379854639686,K Nos,Nos,K,Male,1968.0
+1469278379854642125,V? Ng?c Nhâm,Ng?c Nhâm,V?,Male,1972.0
+1469278379854640951,Nguy?n V?n Ph??ng,V?n Ph??ng,Nguy?n,Female,1960.0
+1469278379854642215,Hu?nh Ng?c Hu?,Ng?c Hu?,Hu?nh,Male,1983.0
+1469278379854640079,Nguy?n V?n ?ông,V?n ?ông,Nguy?n,Male,1993.0
+1469278379854642194,??ng V?n C?,V?n C?,??ng,Male,1940.0
+1469278379854640971,Ph?m V?n Vinh,V?n Vinh,Ph?m,Male,1984.0
+1469278379854640065,Nguy?n Th? Kim Ngân,Th? Kim Ngân,Nguy?n,Male,1979.0
+1469278379854642173,??ng V?n Xuân,V?n Xuân,??ng,Female,1968.0
+1469278379854641215,K S?t,S?t,K,Male,1972.0
+1469278379854640961,K Griin,Griin,K,Male,1993.0
+1469278379854640900,Tr?n ??c M?nh,??c M?nh,Tr?n,Male,1972.0
+1469278379854642890,Ngô Quang Trung,Quang Trung,Ngô,Male,1972.0
+1469278379854640339,Tr?n ?ình ??o,?ình ??o,Tr?n,Male,1971.0
+1469278379854643031,Tr?n V?n Nguy?n,V?n Nguy?n,Tr?n,Male,1975.0
+1469278379854641605,V? V?n ?áng,V?n ?áng,V?,Female,1970.0
+1469278379854640257,H? Th? Lý,Th? Lý,H?,Male,1963.0
+1469278379854643043,Nguy?n V?n C?,V?n C?,Nguy?n,Female,1958.0
+1469278379854641569,Nguy?n V?n Ho?n,V?n Ho?n,Nguy?n,Male,1965.0
+1469278379854642073,Ph?m V?n Ninh,V?n Ninh,Ph?m,Male,1979.0
+1469278379854642301,?ào Quang Lành,Quang Lành,?ào,Female,1959.0
+1469278379854640613,K Br?i,Br?i,K,Male,1960.0
+1469278379854642479,Nguy?n Minh Toàn,Minh Toàn,Nguy?n,Female,1987.0
+1469278379854640625,K S?,S?,K,Male,1979.0
+1469883818362505174,Tr?n V?n Phúc,Phúc,Tr?n V?n,Male,1998.0
+1469278379855039037,D??ng V?n ??c,??c,D??ng V?n,Male,1980.0
+1469278379855040664,Nguy?n V?n Tu?n,Tu?n,Nguy?n V?n,Male,1977.0
+1469278379855036915,H Yin By?,H Yin By?,H Yin By?,Male,1977.0
+1469278379855037067,Nguy?n Th? Ngh?,Ngh?,Nguy?n Th?,Male,1977.0
+1469278379855038019,Ngô Tùng Lâm,Lâm,Ngô Tùng,Female,1953.0
+1469278379855037842,Nguy?n V?n Tu?n,Tu?n,Nguy?n V?n,Male,1972.0
+1469278379855040862,Phan Bá Trà,Trà,Phan Bá,Male,1958.0
+1469278379855038442,H Duyên By?,H Duyên By?,H Duyên By?,Male,1959.0
+1469278379855004727,Nguy?n Ng?c Th??ng,,,,
+1469278379855040212,Y Men Niê,Niê,Y Men,Male,1977.0
+1469278379855039053,Hoàng V?n Tuy?n,Tuy?n,Hoàng V?n,Male,1968.0
+1469278379855038729,Nông V?n Hòa,Hòa,Nông V?n,Male,1968.0
+1469278379855038358,Tr??ng V?n Ph??ng,Ph??ng,Tr??ng V?n,Male,1974.0
+1469278379855037425,L??ng Vi?t Quý,Quý,L??ng Vi?t,Male,1977.0
+1469278379855038409,Xa Th? Nguy?t,Nguy?t,Xa Th?,Male,1981.0
+1469278379855039084,Nguy?n Thái Ph??ng,Ph??ng,Nguy?n Thái,Male,1987.0
+1469278379855040001,Tr?n Trí Di?m,Di?m,Tr?n Trí,Male,1968.0
+1469278379855038668,Y Niên Aliô,Y Niên,Y Niên Aliô,Male,1981.0
+1469278379855009580,Ph?m ??c Ng?c,,,,
+1469278379855040455,H Ri By?,By?,H Ri,Female,1977.0
+1469278379855040422,H N?p Êban,Êban,H N?p,Female,1977.0
+1469278379855039608,Nguy?n Xuân Lai,Lai,Nguy?n Xuân,Male,1977.0
+1469278379855038830,Y Huet H Wiêng,Wiêng,Y Huet H,Male,1959.0
+1469278379855039042,Nguy?n Xuân ??c,??c,Nguy?n Xuân,Female,1985.0
+1469883818362505115,H Jia Kp?r,Kp?r,H Jia,Female,1982.0
+1469883818362505118,H Djum H??k,H??k,H Djum,Female,1963.0
+1469278379855038999,Lê Th? H?i,H?i,Lê Th?,Male,1946.0
+1469278379855039728,Y Myun Niê,Niê,Y Myun,Male,1977.0
+1469278379855039878,Y Tuk Adr?ng,Adr?ng,Y Tuk,Male,1977.0
+1469278379855038499,Y N? Ê ban,ban,Y N? Ê,Female,1962.0
+1469278379855039832,?oàn V?n Vinh,Vinh,?oàn V?n,Male,1977.0
+1469278379855037698,Tr?n V?n Minh,Minh,Tr?n V?n,Male,1967.0
+1469278379855037177,?ào Th? Thu,Thu,?ào Th?,Male,1977.0
+1469278379855037185,Hoàng Vi?t D?ng,D?ng,Hoàng Vi?t,Male,1977.0
+1469278379855040741,L??ng V?n Lâm,Lâm,L??ng V?n,Male,1983.0
+1469278379855037201,Tr?n Danh Tú,,,,
+1469278379855039787,H Mer Bkrong,Bkrong,H Mer,Female,1977.0
+1469278379855040252,Nguy?n Ph?c H?ng,H?ng,Nguy?n Ph?c,Male,1955.0
+1469278379855040132,??u Quang H?nh,H?nh,??u Quang,Male,1967.0
+1469278379855039488,?inh Công V??ng,V??ng,?inh Công,Male,1977.0
+1469278379855040307,Nguy?n Th? H?ng Chinh,Chinh,Nguy?n Th? H?ng,Male,1975.0
+1469278379855039486,?inh Th? C??ng,C??ng,?inh Th?,Female,1977.0
+1469278379855040352,Y Nôn Ênuôl,Ênuôl,Y Nôn,Female,1977.0
+1469278379855039407,Hoàng V?n Hà,Hà,Hoàng V?n,Male,1977.0
+1469278379855040432,Y J? Êban,Êban,Y J?,Female,1977.0
+1469278379855038122,Nguy?n Minh Hùng,Hùng,Nguy?n Minh,Male,1959.0
+1469278379855040242,Y Bun Ênuôl,Ênuôl,Y Bun,Male,1977.0
+1469278379855039629,Bùi V?n Bình,Bình,Bùi V?n,Male,1977.0
+1469883818362505224,Lê ?úng,?úng,Lê,Male,1979.0
+1469278379855040198,H Djuang Êban,Êban,H Djuang,Male,1977.0
+1469278379855040099,Nguy?n Minh Trí,Trí,Nguy?n Minh,Female,1969.0
+1469278379855038070,Nguy?n Trung,Trung,Nguy?n,Male,1985.0
+1469278379855038552,?inh Th? Út,Út,?inh Th?,Female,1964.0
+1469278379855038690,Nguy?n V?n Chung,Chung,Nguy?n V?n,Male,1978.0
+1469278379855037403,Nguy?n Quang Chinh,Chinh,Nguy?n Quang,Male,1977.0
+1469278379855038672,H Yuan Hwing,H Yuan,H Yuan Hwing,Male,1963.0
+1469278379855037409,Võ V?n Tý,Tý,Võ V?n,Male,1977.0
+1469278379855037416,Tr?n V?n Bình,Bình,Tr?n V?n,Male,1977.0
+1469278379855037520,Y J?t By?,By?,Y J?t,Male,1977.0
+1469278379855037251,Nguy?n ?ình T?,,,,
+1469278379855040589,Lê Th? Gi?u,Gi?u,Lê Th?,Male,1977.0
+1469278379855036998,??ng V?n S?,S?,??ng V?n,Male,1977.0
+1469278379854782610,Nguy?n Th? Hoa,Th? Hoa,Nguy?n,Female,1979.0
+1469278379855039342,Nguy?n Trung Th?c,Th?c,Nguy?n Trung,Male,1973.0
+1469278379855037024,Cao Ng?c Khanh,Khanh,Cao Ng?c,Male,1977.0
+1469278379855039320,M?c V?n Mùi,,,,
+1469278379855036851,Y Hi?h Adr?ng,Adr?ng,Y Hi?h,Male,1977.0
+1469278379855036956,Lê ??ng Khánh,Khánh,Lê ??ng,Male,1977.0
+1469278379855012202,Ph?m Th? Ph??ng,,,,
+1469278379855037391,Tr?nh Công Quý,Quý,Tr?nh Công,Male,1977.0
+1469278379854640502,Nguy?n Duy Chinh,Duy Chinh,Nguy?n,Male,1967.0
+1469278379854640527,Nguy?n V?n H?nh,V?n H?nh,Nguy?n,Female,1984.0
+1469278379855013741,Tr?n V?n H?nh,,,,
+1469278379855039900,Y L?t Bkrông,,,,
+1469278379855040542,Phan ?ình Quý,,,,
+1469278379855004500,Ksor Kíu,,,,
+1469278379855004491,?? V?n Thi?n,,,,
+1469278379854641314,K H?ng,H?ng,K,Male,1970.0
+1469278379855036603,H? V?n Th?ng,Th?ng,H? V?n,Male,1977.0
+1469278379855037069,Hà Th? Hoài,,,,
+1469278379855037183,??u Th? Thành,Thành,??u Th?,Male,1977.0
+1469278379855037071,Mai Th? Nhung,Nhung,Mai Th?,Female,1977.0
+1469278379855036960,Nguy?n V?n Minh,,,,
+1469278379855036789,Nguy?n Th? Li?u,,,,
+1469278379855037002,Nguy?n Th? Lan,,,,
+1469278379855036719,D??ng Thanh Sâm,Sâm,D??ng Thanh,Male,1977.0
+1469278379855036643,Võ V?n Nguyên,,,,
+1469278379855009751,Bùi Vi?t Phong,Phong,Bùi Vi?t,Male,1966.0
+1469278379855004455,Nguy?n Cao Sanh,,,,
+1469278379855004533,V? V?n S?n,,,,
+1469278379855040784,S?m V?n Qu?n,Qu?n,S?m V?n,Male,1959.0
+1469278379855004487,Lê Công ?oàn,,,,
+1469278379855038127,Nguy?n H?u C?u,C?u,Nguy?n H?u,Male,1984.0
+1469278379855004451,Ph?m Quý D??ng,,,,
+1469278379854782766,Lê V?n Khu,,,,
