@@ -3,22 +3,26 @@ import pandas as pd
 from models.models import (
     build_dim_entities,
     build_dim_education,
-    build_dim_identification
+    build_dim_identification,
+    build_dim_species
 )
 
-# Ensure the output directory exists
+# Create output directory
 os.makedirs("output", exist_ok=True)
 
-# Step 1: Load base raw data
+# Load base raw data
 df = pd.read_csv("raw_data/raw_data.csv", low_memory=False, encoding="ISO-8859-1")
-df = df.loc[:, ~df.columns.duplicated()]  # Drop duplicate columns if any
+df = df.loc[:, ~df.columns.duplicated()]
 
-# Step 2: Build normalized dimension tables
+# Introduce keys and create dimension tables
 dim_entities = build_dim_entities(df)
-dim_education = build_dim_education(df)
+dim_education, df = build_dim_education(df)
 dim_identification = build_dim_identification(df)
+dim_species, df = build_dim_species(df)
 
-# Step 3: Entity ID validation
+# Now df contains all foreign keys and is ready for use in building fact tables
+
+# Validate entity_id
 if dim_entities['entity_id'].is_unique:
     print("✅ All entity_id values are unique.")
 else:
@@ -29,9 +33,10 @@ else:
 print(f"📄 Total records in dim_entities: {len(dim_entities)}")
 print(f"🔢 Number of unique entity_id values: {dim_entities['entity_id'].nunique()}")
 
-# Step 4: Save all tables to the output folder
+# Save dimension tables only (not the flat file)
 dim_entities.to_csv("output/dim_entities.csv", index=False)
 dim_education.to_csv("output/dim_education.csv", index=False)
 dim_identification.to_csv("output/dim_identification.csv", index=False)
+dim_species.to_csv("output/dim_species.csv", index=False)
 
-print("✅ All models successfully generated and saved to the 'output/' directory.")
+print("✅ All dimension models successfully generated and saved.")

@@ -40,20 +40,14 @@ def build_dim_entities(df: pd.DataFrame) -> pd.DataFrame:
 def build_dim_education(df: pd.DataFrame) -> pd.DataFrame:
     df = clean_entity_id(df)
 
-    # Select required columns
-    education_level_df = df[
-        ['Entity ID', 'Education Level (Update)']
-    ].copy()
+     # Create the dimension table
+    dim_education = df[['Education Level (Update)']].drop_duplicates().dropna().reset_index(drop=True)
+    dim_education['education_id'] = dim_education.index + 1
 
-    # Rename columns for consistency
-    education_level_df.columns = [
-        'entity_id',  'education_level'
-    ]
+    # Merge education_id into original df
+    df = df.merge(dim_education, on='Education Level (Update)', how='left')
 
-    # Drop duplicates to ensure uniqueness
-    education_level_df = education_level_df.drop_duplicates().reset_index(drop=True)
-
-    return education_level_df
+    return dim_education, df
 
 
 # Identification
@@ -74,3 +68,16 @@ def build_dim_identification(df: pd.DataFrame) -> pd.DataFrame:
     identification_df = identification_df.drop_duplicates().reset_index(drop=True)
 
     return identification_df
+
+# Education
+def build_dim_species(df: pd.DataFrame) -> pd.DataFrame:
+    df = clean_entity_id(df)
+
+     # Create the dimension table
+    dim_species = df[['Species']].drop_duplicates().dropna().reset_index(drop=True)
+    dim_species['Species_id'] = dim_species.index + 1
+
+    # Merge education_id into original df
+    df = df.merge(dim_species, on='Species', how='left')
+
+    return dim_species, df
