@@ -81,3 +81,24 @@ def build_dim_species(df: pd.DataFrame) -> pd.DataFrame:
     df = df.merge(dim_species, on='Species', how='left')
 
     return dim_species, df
+
+
+# Farm details
+def build_dim_farm_details(df: pd.DataFrame) -> pd.DataFrame:
+    df = clean_entity_id(df)
+
+    # Select required columns
+    farm_detail_df = df[
+        ['Entity ID', 'Latitude (update)', 'Longitude (update)', 'Altitude (update)', 'GPS method (update)', 'Polygon (update)', 'Calculate Polygon Area (update)',
+         'Polygon method (update)', 'Total Farm Area (Update)', 'Existing Plot - Plot number' ]
+    ].copy()
+
+    # Rename columns for consistency
+    farm_detail_df.columns = [
+        'entity_id',  'identification_id', 'identification_id_type'
+    ]
+
+    # Drop duplicates to ensure uniqueness
+    identification_df = identification_df.drop_duplicates().reset_index(drop=True)
+
+    return identification_df
