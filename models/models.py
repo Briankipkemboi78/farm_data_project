@@ -103,6 +103,38 @@ def build_dim_farm_detail(df: pd.DataFrame) -> pd.DataFrame:
 
     return farm_detail_df
 
+# Country
+def build_dim_country(df: pd.DataFrame):
+    dim_country = df[['Country']].drop_duplicates().dropna().reset_index(drop=True)
+    dim_country['country_id'] = dim_country.index + 1
+    return dim_country
+
+# Region
+def build_dim_region(df: pd.DataFrame, dim_country: pd.DataFrame):
+    df = df.merge(dim_country, on='Country', how='left')
+    dim_region = df[['Region', 'country_id']].drop_duplicates().dropna().reset_index(drop=True)
+    dim_region['region_id'] = dim_region.index + 1
+    return dim_region
+
+# # subregion
+# def build_dim_subregion(df: pd.DataFrame, dim_region: pd.DataFrame):
+#     df = df.merge(dim_region, on='Region', how='left')
+#     dim_subregion = df[['Subregion', 'region_id']].drop_duplicates().dropna().reset_index(drop=True)
+#     dim_subregion.columns = ['entity_id', 'address', 'phone', 'email', 'subregion_id']
+#     dim_subregion['subregion_id'] = dim_subregion.index + 1
+#     return dim_subregion
+
+# #contact_details
+# def build_dim_contact_details(df: pd.DataFrame, dim_subregion: pd.DataFrame):
+#     df = df.merge(dim_subregion, on='Subregion', how='left')
+#     dim_contact = df[['Entity ID', 'Address (Update)', 'Phone Number (Update)', 'Email (Update)', 'subregion_id']].drop_duplicates()
+#     # Rename for consistency
+#     dim_contact.columns = ['entity_id', 'address', 'phone_number', 'email', 'subregion_id']
+#     dim_contact['contact_id'] = dim_contact.index + 1
+#     df = df.merge(dim_contact, on=['Entity ID', 'Address', 'Phone', 'subregion_id'], how='left')
+#     return dim_contact, df
+
+
 
 # Survery_data
 def build_fact_survey_data(df: pd.DataFrame) -> pd.DataFrame:
