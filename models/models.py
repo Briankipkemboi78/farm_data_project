@@ -84,7 +84,7 @@ def build_dim_species(df: pd.DataFrame) -> pd.DataFrame:
 
 
 # Farm details
-def build_dim_farm_details(df: pd.DataFrame) -> pd.DataFrame:
+def build_dim_farm_detail(df: pd.DataFrame) -> pd.DataFrame:
     df = clean_entity_id(df)
 
     # Select required columns
@@ -95,10 +95,28 @@ def build_dim_farm_details(df: pd.DataFrame) -> pd.DataFrame:
 
     # Rename columns for consistency
     farm_detail_df.columns = [
-        'entity_id',  'identification_id', 'identification_id_type'
+        'entity_id',  'latitude', 'longitude', 'altitude', 'gps_method', 'polygon', 'polygon_area', 'polygon_method', 'total_farm_area', 'plot_number'
     ]
 
     # Drop duplicates to ensure uniqueness
     identification_df = identification_df.drop_duplicates().reset_index(drop=True)
 
     return identification_df
+
+
+# Survery_data
+def build_fact_survey_data(df: pd.DataFrame) -> pd.DataFrame:
+    cols_to_drop = ['Entity Name', 'First Name', 'Last Name', 'Gender', 'Year of Birth',
+        'Education Level (Update)',
+        'Identification ID (Update)', 'Identification ID Type (Update)',
+        'Species',
+        'Latitude (update)', 'Longitude (update)', 'Altitude (update)',
+        'GPS method (update)', 'Polygon (update)', 'Calculate Polygon Area (update)',
+        'Polygon method (update)', 'Total Farm Area (Update)', 'Existing Plot - Plot number']
+    
+    # Dropping the columns safely
+    df_cleaned = df.drop(columns=[col for col in cols_to_drop if col in df.columns])
+
+    return df_cleaned
+    
+

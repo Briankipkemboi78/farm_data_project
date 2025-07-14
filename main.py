@@ -4,7 +4,9 @@ from models.models import (
     build_dim_entities,
     build_dim_education,
     build_dim_identification,
-    build_dim_species
+    build_dim_species,
+    build_dim_farm_detail,
+    build_fact_survey_data
 )
 
 # Create output directory
@@ -19,6 +21,8 @@ dim_entities = build_dim_entities(df)
 dim_education, df = build_dim_education(df)
 dim_identification = build_dim_identification(df)
 dim_species, df = build_dim_species(df)
+dim_farm_detail = build_dim_farm_detail(df)
+fact_survey = build_fact_survey_data(df)
 
 # Now df contains all foreign keys and is ready for use in building fact tables
 
@@ -37,6 +41,8 @@ print(f"🔢 Number of unique entity_id values: {dim_entities['entity_id'].nuniq
 dim_entities.to_csv("output/dim_entities.csv", index=False)
 dim_education.to_csv("output/dim_education.csv", index=False)
 dim_identification.to_csv("output/dim_identification.csv", index=False)
-dim_species.to_csv("output/dim_species.csv", index=False)
+dim_species.to_csv("output/dim_species.csv", index=False),
+dim_farm_detail.to_csv("output/dim_farm_detail.csv", index=False)
+fact_survey.to_csv("output/fact_survey.csv", index=False)
 
 print("✅ All dimension models successfully generated and saved.")
