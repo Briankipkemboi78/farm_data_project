@@ -89,19 +89,19 @@ def build_dim_farm_detail(df: pd.DataFrame) -> pd.DataFrame:
 
     # Select required columns
     farm_detail_df = df[
-        ['Entity ID', 'Latitude (update)', 'Longitude (update)', 'Altitude (update)', 'GPS method (update)', 'Polygon (update)', 'Calculate Polygon Area (update)',
-         'Polygon method (update)', 'Total Farm Area (Update)', 'Existing Plot - Plot number' ]
+        ['Entity ID', 'Latitude (update)', 'Longitude (update)', 'Altitude (update)', 'Polygon (update)', 'Calculate Polygon Area (update)', 
+        'Total Farm Area (Update)', 'Existing Plot - Plot number' ]
     ].copy()
 
     # Rename columns for consistency
     farm_detail_df.columns = [
-        'entity_id',  'latitude', 'longitude', 'altitude', 'gps_method', 'polygon', 'polygon_area', 'polygon_method', 'total_farm_area', 'plot_number'
+        'entity_id',  'latitude', 'longitude', 'altitude','polygon', 'polygon_area', 'total_farm_area', 'plot_number'
     ]
 
     # Drop duplicates to ensure uniqueness
-    identification_df = identification_df.drop_duplicates().reset_index(drop=True)
+    farm_detail_df = farm_detail_df.drop_duplicates().reset_index(drop=True)
 
-    return identification_df
+    return farm_detail_df
 
 
 # Survery_data

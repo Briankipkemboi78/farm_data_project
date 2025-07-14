@@ -28,21 +28,21 @@ fact_survey = build_fact_survey_data(df)
 
 # Validate entity_id
 if dim_entities['entity_id'].is_unique:
-    print("✅ All entity_id values are unique.")
+    print("All entity_id values are unique.")
 else:
     duplicates = dim_entities[dim_entities.duplicated('entity_id', keep=False)]
-    print("❌ Duplicate entity_id values found:")
+    print("Duplicate entity_id values found:")
     print(duplicates)
 
-print(f"📄 Total records in dim_entities: {len(dim_entities)}")
-print(f"🔢 Number of unique entity_id values: {dim_entities['entity_id'].nunique()}")
+print(f"Total records in dim_entities: {len(dim_entities)}")
+print(f"Number of unique entity_id values: {dim_entities['entity_id'].nunique()}")
 
 # Save dimension tables only (not the flat file)
 dim_entities.to_csv("output/dim_entities.csv", index=False)
 dim_education.to_csv("output/dim_education.csv", index=False)
 dim_identification.to_csv("output/dim_identification.csv", index=False)
-dim_species.to_csv("output/dim_species.csv", index=False),
+dim_species.to_csv("output/dim_species.csv", index=False)
 dim_farm_detail.to_csv("output/dim_farm_detail.csv", index=False)
 fact_survey.to_csv("output/fact_survey.csv", index=False)
 
-print("✅ All dimension models successfully generated and saved.")
+print("All dimension models successfully generated and saved.")
