@@ -112,17 +112,31 @@ def build_dim_country(df: pd.DataFrame):
 # Region
 def build_dim_region(df: pd.DataFrame, dim_country: pd.DataFrame):
     df = df.merge(dim_country, on='Country', how='left')
-    dim_region = df[['Region', 'country_id']].drop_duplicates().dropna().reset_index(drop=True)
+
+    # Rename here for consistency before extracting
+    df = df.rename(columns={'Region (update)': 'region'})
+
+    dim_region = df[['region', 'country_id']].drop_duplicates().dropna().reset_index(drop=True)
     dim_region['region_id'] = dim_region.index + 1
+
     return dim_region
 
-# # subregion
-# def build_dim_subregion(df: pd.DataFrame, dim_region: pd.DataFrame):
-#     df = df.merge(dim_region, on='Region', how='left')
-#     dim_subregion = df[['Subregion', 'region_id']].drop_duplicates().dropna().reset_index(drop=True)
-#     dim_subregion.columns = ['entity_id', 'address', 'phone', 'email', 'subregion_id']
-#     dim_subregion['subregion_id'] = dim_subregion.index + 1
-#     return dim_subregion
+# subregion
+def build_dim_subregion(df: pd.DataFrame, dim_region: pd.DataFrame):
+    #Rename columns for consistency
+    if 'Region (update)' in df.columns:
+        df = df.rename(columns={'Region (update)': 'region'})
+    if 'Sub Region (update)' in df.columns:
+        df = df.rename(columns={'Sub Region (update)': 'sub_region'})
+
+    # Merge region_id from dim_region
+    df = df.merge(dim_region, on='region', how='left')
+
+    # Build subregion table
+    dim_subregion = df[['sub_region', 'region_id']].drop_duplicates().dropna().reset_index(drop=True)
+    dim_subregion['subregion_id'] = dim_subregion.index + 1
+
+    return dim_subregion
 
 # #contact_details
 # def build_dim_contact_details(df: pd.DataFrame, dim_subregion: pd.DataFrame):
