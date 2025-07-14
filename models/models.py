@@ -117,6 +117,9 @@ def build_fact_survey_data(df: pd.DataFrame) -> pd.DataFrame:
     # Dropping the columns safely
     df_cleaned = df.drop(columns=[col for col in cols_to_drop if col in df.columns])
 
+    # Dropping columns where all values are NaN
+    df_cleaned = df_cleaned.dropna(axis=1, how='all')
+
     return df_cleaned
     
 
