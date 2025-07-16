@@ -45,13 +45,23 @@ def build_dim_species(df: pd.DataFrame) -> pd.DataFrame:
 
 # Dimension: Farm Detail
 def build_dim_farm_detail(df: pd.DataFrame) -> pd.DataFrame:
-    used_cols = ['Entity ID', 'Latitude (update)', 'Longitude (update)', 'Altitude (update)',
-                 'Polygon (update)', 'Calculate Polygon Area (update)',
-                 'Total Farm Area (Update)', 'Existing Plot - Plot number']
+    used_cols = [
+        'Entity ID', 'Latitude', 'Longitude', 'Altitude', 'Calculate Polygon Area',
+        'Total Farm Area', 'Existing Plot - Plot number'
+    ]
+
+    # Safety check for missing columns
+    missing_cols = [col for col in used_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing expected farm detail columns: {missing_cols}")
+
     Context.used_columns.update(used_cols)
+
     farm_detail_df = df[used_cols].copy()
-    farm_detail_df.columns = ['entity_id', 'latitude', 'longitude', 'altitude', 'polygon', 'polygon_area',
-                              'total_farm_area', 'plot_number']
+    farm_detail_df.columns = [
+        'entity_id', 'latitude', 'longitude', 'altitude', 'polygon_area', 'total_farm_area', 'plot_number'
+    ]
+
     return farm_detail_df.drop_duplicates().reset_index(drop=True)
 
 # Dimension: Plot Detail
@@ -89,31 +99,56 @@ def build_dim_country(df: pd.DataFrame) -> pd.DataFrame:
 
 # Dimension: Region
 def build_dim_region(df: pd.DataFrame, dim_country: pd.DataFrame) -> pd.DataFrame:
-    rename_map = {'Region (update)': 'region'}
-    df = df.merge(dim_country, on='Country', how='left').rename(columns=rename_map)
-    Context.used_columns.update(rename_map.keys())
-    dim_region = df[['region', 'country_id']].drop_duplicates().dropna().reset_index(drop=True)
+   
+    used_cols = ['Country', 'Region']
+
+    missing_cols = [col for col in used_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing expected region columns: {missing_cols}")
+    Context.used_columns.update(used_cols)
+
+    df = df.merge(dim_country, on='Country', how='left')
+
+    dim_region = df[['Region', 'country_id']].drop_duplicates().dropna().reset_index(drop=True)
+    dim_region.columns = ['region', 'country_id']
     dim_region['region_id'] = dim_region.index + 1
+
     return dim_region
 
 # Dimension: Subregion
 def build_dim_subregion(df: pd.DataFrame, dim_region: pd.DataFrame) -> pd.DataFrame:
-    rename_map = {'Region (update)': 'region', 'Sub Region (update)': 'sub_region'}
+    expected_cols = ['Region', 'Sub Region']
+
+    # Safety check for required columns
+    missing_cols = [col for col in expected_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing expected subregion columns: {missing_cols}")
+
+    # Rename for consistency
+    rename_map = {
+        'Region': 'region',
+        'Sub Region': 'sub_region'
+    }
     df = df.rename(columns=rename_map)
     Context.used_columns.update(rename_map.keys())
+
+    # Merge with region dimension to get region_id
     df = df.merge(dim_region, on='region', how='left')
+
+    # Build subregion dimension
     dim_subregion = df[['sub_region', 'region_id']].drop_duplicates().dropna().reset_index(drop=True)
     dim_subregion['subregion_id'] = dim_subregion.index + 1
+
     return dim_subregion
 
 # Dimension: Contact Details
 def build_dim_contact_details(df: pd.DataFrame, dim_subregion: pd.DataFrame) -> pd.DataFrame:
     rename_map = {
         'Entity ID': 'entity_id',
-        'Sub Region (update)': 'sub_region',
-        'Address (Update)': 'address',
-        'Phone Number (Update)': 'phone_number',
-        'Email (Update)': 'email'
+        'Sub Region': 'sub_region',
+        'Address': 'address',
+        'Phone Number': 'phone_number',
+        'Email': 'email'
     }
     df = df.rename(columns=rename_map)
     Context.used_columns.update(rename_map.keys())
@@ -152,6 +187,63 @@ def build_dim_household(df: pd.DataFrame) -> pd.DataFrame:
     # Reorder
     household_df = household_df[['entity_id', 'no_of_adults', 'no_of_boys', 'no_of_girls']]
     return household_df.drop_duplicates().reset_index(drop=True)
+
+
+# water
+def build_dim_irrigation_and_water(df: pd.DataFrame) -> pd.DataFrame:
+    entity_col = 'Entity ID' if 'Entity ID' in df.columns else 'entity_id'
+    used_cols = [
+        entity_col,
+        'Do you irrigate your coffee?',
+        'Do you know the water usage?',
+        'Do you conduct wet processing at the farm?',
+        'Do you consistent monitor and record total water usage for irrigation at the farm  - if applicable',
+        'Do you consistent monitor and record total water usage for wet processing at the farm - if applicable',
+        'Water use in Irrigation (m3 water / ha / year)',
+        'Water use in wet processing (m3 water / kg parchment coffee)',
+        'Is the Waste water treatment adequate vs production volume',
+        'Do you have water bodies at your farm?',
+        'If you have water bodies at your farm, what is the minimum distance between field (fertilizer and pesticide application area) and the water body?',
+        'Are the riparian buffer strips covered with natural vegetation (hedges, bushes, trees, etc)?',
+        'Where does the irrigation water come from?',
+        'How many irrigation rounds/year?',
+        'How much irrigation water per round? (m3/ha/round)'
+    ]
+
+    # Optional safety check
+    missing_cols = [col for col in used_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing columns in irrigation and water model: {missing_cols}")
+
+    # Track used columns to drop from fact later
+    Context.used_columns.update(used_cols)
+
+    irrigation_df = df[used_cols].copy()
+
+    irrigation_df.columns = [
+        'entity_id',
+        'irrigates_coffee',
+        'knows_water_usage',
+        'wet_processing_at_farm',
+        'monitors_irrigation_usage',
+        'monitors_wet_processing_usage',
+        'water_use_irrigation_m3_per_ha',
+        'water_use_wet_processing_m3_per_kg',
+        'adequate_wastewater_treatment',
+        'has_water_bodies',
+        'distance_to_water_body',
+        'riparian_buffer_vegetation',
+        'irrigation_source',
+        'irrigation_rounds_per_year',
+        'irrigation_water_per_round_m3_per_ha'
+    ]
+
+    irrigation_df = irrigation_df.dropna(
+        subset=irrigation_df.columns.difference(['entity_id']),
+        how='all'
+    )
+
+    return irrigation_df.drop_duplicates().reset_index(drop=True)
 
 
 # Fact Table

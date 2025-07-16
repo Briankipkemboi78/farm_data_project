@@ -25,80 +25,35 @@ Farmer signature
 Data collection cant be completed
 Do you want to update existing information?
 Do you want to autofill the field with existing information?
-Entity Name (update)
 Farm ID
-Farm ID (update)
 Address 1
-Address 1 (update)
 Address 2
-Address 2 (update)
-Region
-Sub Region
 sub_region
-Unit (update)
-Latitude
-Longitude
-Altitude
-Polygon
-Calculate Polygon Area
-Total Farm Area
 Do you want to update existing plot information?
 Do you want to autofill the field with existing plot information?
-Species (Update)
 Variety
-Variety (Update)
-Year Started (update)
 Production (Kg)
-Total Coffee Area (Update)
-Coffee Area Under Active Production (Update)
-Coffee Area Under Rejuvenation Stage (less than 3 years) (Update)
 Coffee Area Intercropping
-Coffee Area Intercropping (Update)
 Intercropping crops
-Intercropping crops (Update)
 Coffee Area Monocropping
-Coffee Area Monocropping (Update)
 Other Crops
-Other Crops (Update)
 Land Area Other Crops
-Land Area Other Crops (Update)
 Land Area Under Natural Habitat or Conservation Management
-Land Area Under Natural Habitat or Conservation Management (Update)
 Farm Area Dedicated to Other Uses
-Farm Area Dedicated to Other Uses (Update)
 Total Area
-Total Area (Update)
-Latitude (Update)
-Longitude (Update)
-Altitude (Update)
 Calculate Polygon Area (Ha)
-Calculate Polygon Area (update) (Ha)
 Calculated Polygon Area (Ha)
 Farmer and household information (M&E step 3)
 Pick People
 Do you want to update existing people information?
 Do you want to autofill the field with existing people information?
-First Name (Update)
-Last Name (Update)
-Gender (Update)
-Identification ID Type
-Identification ID
-Year of Birth (Update)
 Relation to Entity
-Relation to Entity (Update)
-Education Level
 Lead Farmer
-Lead Farmer (Update)
 Local Group
 Do you want to update existing address and contact information?
 Do you want to autofill the field with existing address and contact information?
-Address
 address
-Region (Update)
-Sub Region (Update)
-Phone Number
 phone_number
-Email
 email
 Number of adults in farmers family
 Number of boys in the family (living in the farm household)
@@ -162,18 +117,7 @@ Do you keep bee hives in your farm?
 "What is the percentage of agriculture land dedicated to agroforestry (coffee with commercial tree species, non-crop trees like native trees, shade trees, nitrofixing trees)?"
 What is the total number of non-coffee trees within the coffee plot and/or field border (converted per ha)
 Number of different tree species (non-coffee) within the coffee plot and/or field border
-Do you irrigate your coffee?
-Do you know the water usage?
-Do you conduct wet processing at the farm?
-Do you consistent monitor and record total water usage for irrigation at the farm  - if applicable
-Do you consistent monitor and record total water usage for wet processing at the farm - if applicable
-Water use in Irrigation (m3 water / ha / year)
-Water use in wet processing (m3 water / kg parchment coffee)
 "Do you control irrigation based on soil moisture monitoring (sensors, upside bottle practise, .)?"
-Is the Waste water treatment adequate vs production volume
-Do you have water bodies at your farm?
-"If you have water bodies at your farm, what is the minimum distance between field (fertilizer and pesticide application area) and the water body?"
-"Are the riparian buffer strips covered with natural vegetation (hedges, bushes, trees, etc)?"
 "Do you keep financial management records (i.e. expenses, income P/L, etc.)?"
 Are you member of an approved RS Unit
 FAT score
@@ -191,9 +135,6 @@ What portion of the coffee area has shade trees (all kind of trees covering coff
 Number of different shade tree species (excl. commercial tree species)
 What portion of shade trees are N-fixing? (%)
 What portion of shade trees are native? (%)
-Where does the irrigation water come from?
-How many irrigation rounds/year?
-How much irrigation water per round? (m3/ha/round)
 Qualitative (M&E step 8)
 How satisfied are you about the Nescafe Plan this year?
 "If the respondent is dissatisfied, what is the reason/cause?"
