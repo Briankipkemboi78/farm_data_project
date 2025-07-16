@@ -25,7 +25,6 @@ Farmer signature
 Data collection cant be completed
 Do you want to update existing information?
 Do you want to autofill the field with existing information?
-Entity Name.1
 Entity Name (update)
 Farm ID
 Farm ID (update)
@@ -33,11 +32,9 @@ Address 1
 Address 1 (update)
 Address 2
 Address 2 (update)
-Country.1
 Region
 Sub Region
 sub_region
-Unit.1
 Unit (update)
 Latitude
 Longitude
@@ -57,9 +54,11 @@ Coffee Area Under Active Production (Update)
 Coffee Area Under Rejuvenation Stage (less than 3 years) (Update)
 Coffee Area Intercropping
 Coffee Area Intercropping (Update)
+Intercropping crops
 Intercropping crops (Update)
 Coffee Area Monocropping
 Coffee Area Monocropping (Update)
+Other Crops
 Other Crops (Update)
 Land Area Other Crops
 Land Area Other Crops (Update)
@@ -69,36 +68,13 @@ Farm Area Dedicated to Other Uses
 Farm Area Dedicated to Other Uses (Update)
 Total Area
 Total Area (Update)
-Latitude.1
 Latitude (Update)
-Longitude.1
 Longitude (Update)
-Altitude.1
 Altitude (Update)
-Polygon.1
-Polygon (update).1
 Calculate Polygon Area (Ha)
 Calculate Polygon Area (update) (Ha)
-Species.1
-Variety.1
-Year Started.1
-Production.1
-Total Coffee Area.1
-Coffee Area Under Active Production.1
-Coffee Area Under Rejuvenation Stage (less than 3 years).1
-Coffee Area Intercropping.1
-Intercropping crops.1
-Coffee Area Monocropping.1
-Other Crops.1
-Land Area Other Crops.1
-Land Area Under Natural Habitat or Conservation Management.1
-Farm Area Dedicated to Other Uses.1
-Total Area.1
-Latitude.2
-Longitude.2
-Altitude.2
-Polygon.2
 Calculated Polygon Area (Ha)
+Farmer and household information (M&E step 3)
 Pick People
 Do you want to update existing people information?
 Do you want to autofill the field with existing people information?
@@ -118,10 +94,7 @@ Do you want to update existing address and contact information?
 Do you want to autofill the field with existing address and contact information?
 Address
 address
-Country.2
-Region.1
 Region (Update)
-Sub Region.1
 Sub Region (Update)
 Phone Number
 phone_number
@@ -130,25 +103,7 @@ email
 Number of adults in farmers family
 Number of boys in the family (living in the farm household)
 Number of girls in the family (living in the farm household)
-First Name.1
-Last Name.1
-Gender.1
-Identification ID Type.1
-Identification ID.1
-Year of Birth.1
-Relation to Entity.1
-Education Level.1
-Lead Farmer.1
-Local Group.1
-Address.1
-Country.3
-Region.2
-Sub Region.2
-Phone Number.1
-Email.1
-Number of adults in farmers family.1
-Number of boys in the family (living in the farm household).1
-Number of girls in the family (living in the farm household).1
+Nescafe Plan interaction/ technical assistance (M&E step 4)
 Year joined Nescafé Plan
 Number of Nescafe training sessions in last 12 months male
 Number of Nescafe training sessions in last 12 months female
@@ -167,6 +122,7 @@ How satisfied is the farmer with the quality of plantlets received from Nescafé
 Expansion
 Filling up the gaps/renovation
 Not applicable
+Farm economics & recordkeeping (M&E step 5)
 1st main cash crop beside coffee
 2nd main cash crop beside coffee
 Other crop 1
@@ -174,6 +130,8 @@ Other crop 2
 Other crops
 Livestock
 How do you sell your coffee
+None
+FAT Coffee V2 (M&E step 6)
 "What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)"
 "Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?"
 "What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?"
@@ -206,9 +164,7 @@ What is the total number of non-coffee trees within the coffee plot and/or field
 Number of different tree species (non-coffee) within the coffee plot and/or field border
 Do you irrigate your coffee?
 Do you know the water usage?
-Upload evidence.1
 Do you conduct wet processing at the farm?
-Upload evidence.2
 Do you consistent monitor and record total water usage for irrigation at the farm  - if applicable
 Do you consistent monitor and record total water usage for wet processing at the farm - if applicable
 Water use in Irrigation (m3 water / ha / year)
@@ -216,7 +172,6 @@ Water use in wet processing (m3 water / kg parchment coffee)
 "Do you control irrigation based on soil moisture monitoring (sensors, upside bottle practise, .)?"
 Is the Waste water treatment adequate vs production volume
 Do you have water bodies at your farm?
-Upload evidence.3
 "If you have water bodies at your farm, what is the minimum distance between field (fertilizer and pesticide application area) and the water body?"
 "Are the riparian buffer strips covered with natural vegetation (hedges, bushes, trees, etc)?"
 "Do you keep financial management records (i.e. expenses, income P/L, etc.)?"
@@ -224,6 +179,7 @@ Are you member of an approved RS Unit
 FAT score
 FAT %
 FAT Level
+RegAgri & Carbon (M&E step 7)
 Number coffee trees arabica - if applicable (trees/ha)
 Number coffee trees robusta (trees/ha)
 Coffee trees age 0-2 (%)
@@ -238,6 +194,7 @@ What portion of shade trees are native? (%)
 Where does the irrigation water come from?
 How many irrigation rounds/year?
 How much irrigation water per round? (m3/ha/round)
+Qualitative (M&E step 8)
 How satisfied are you about the Nescafe Plan this year?
 "If the respondent is dissatisfied, what is the reason/cause?"
 How confident are you that your children / next generation will have a good livelihood from coffee farming?
@@ -252,19 +209,12 @@ No family to take over my farm
 COVID - 19
 Other (please specify)
 Other (please specify) text
-None.2
 How do you tackle the challenges
 Status by enumerator
 Comment by enumerator
 Status by validator
 Assessment header (M&E step 1)
 Farm and plot information (M&E step 2)
-Farmer and household information (M&E step 3).1
-Nescafe Plan interaction/ technical assistance (M&E step 4).1
-Farm economics & recordkeeping (M&E step 5).1
-FAT Coffee V2 (M&E step 6).1
-RegAgri & Carbon (M&E step 7).1
-Qualitative (M&E step 8).1
 Comments by validator
 Validator name
 plot_id

@@ -21,7 +21,7 @@ def build_dim_entities(df: pd.DataFrame) -> pd.DataFrame:
 
 # Dimension: Education
 def build_dim_education(df: pd.DataFrame) -> pd.DataFrame:
-    used_cols = ['Education Level (Update)']
+    used_cols = ['Education Level']
     Context.used_columns.update(used_cols)
     dim_education = df[used_cols].drop_duplicates().dropna().reset_index(drop=True)
     dim_education['education_id'] = dim_education.index + 1
@@ -29,7 +29,7 @@ def build_dim_education(df: pd.DataFrame) -> pd.DataFrame:
 
 # Dimension: Identification
 def build_dim_identification(df: pd.DataFrame) -> pd.DataFrame:
-    used_cols = ['Entity ID', 'Identification ID (Update)', 'Identification ID Type (Update)']
+    used_cols = ['Entity ID', 'Identification ID', 'Identification ID Type']
     Context.used_columns.update(used_cols)
     identification_df = df[used_cols].copy()
     identification_df.columns = ['entity_id', 'identification_id', 'identification_id_type']
@@ -122,9 +122,63 @@ def build_dim_contact_details(df: pd.DataFrame, dim_subregion: pd.DataFrame) -> 
     dim_contact['contact_id'] = dim_contact.index + 1
     return dim_contact
 
+
+# Dimension: Household Demographics
+def build_dim_household(df: pd.DataFrame) -> pd.DataFrame:
+    # Define column groups based on name patterns
+    column_groups = {
+        'no_of_adults': [col for col in df.columns if 'Number of adults in farmers family' in col],
+        'no_of_boys': [col for col in df.columns if 'Number of boys' in col],
+        'no_of_girls': [col for col in df.columns if 'Number of girls' in col]
+    }
+
+    # Helper: Select column with the most non-null values
+    def select_most_complete_column(cols):
+        return df[cols].loc[:, df[cols].notna().sum().idxmax()]
+
+    # Build normalized DataFrame
+    household_df = pd.DataFrame()
+    for new_col, col_list in column_groups.items():
+        household_df[new_col] = select_most_complete_column(col_list)
+        Context.used_columns.update(col_list)  # Track all variants as used
+
+    # Add entity_id
+    if 'Entity ID' in df.columns:
+        household_df['entity_id'] = df['Entity ID']
+        Context.used_columns.add('Entity ID')
+    else:
+        household_df['entity_id'] = ['HH' + str(i + 1) for i in range(len(household_df))]
+
+    # Reorder
+    household_df = household_df[['entity_id', 'no_of_adults', 'no_of_boys', 'no_of_girls']]
+    return household_df.drop_duplicates().reset_index(drop=True)
+
+
 # Fact Table
 def build_fact_survey_data(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    Cleans the fact_survey table by:
+    - Dropping columns already used in dimension tables
+    - Dropping suffix variants (.1, .2, .3) just in case
+    - Dropping any columns with all nulls
+    """
+    # Drop columns used in dimension tables
     dropped_cols = [col for col in Context.used_columns if col in df.columns]
-    logging.info(f"🧹 Dropping used columns from fact_survey: {dropped_cols}")
-    df_cleaned = df.drop(columns=dropped_cols)
-    return df_cleaned.dropna(axis=1, how='all')
+
+    # Drop columns that still have unwanted suffixes
+    suffixes = ['.1', '.2', '.3']
+    suffix_cols_to_drop = [col for col in df.columns if any(col.endswith(suffix) for suffix in suffixes)]
+
+    # Combine and ensure uniqueness
+    all_cols_to_drop = list(set(dropped_cols + suffix_cols_to_drop))
+
+    # Drop the columns
+    df_cleaned = df.drop(columns=all_cols_to_drop, errors='ignore')
+
+    # Drop columns that are entirely NaN
+    df_cleaned = df_cleaned.dropna(axis=1, how='all')
+
+    return df_cleaned
+
+
+
