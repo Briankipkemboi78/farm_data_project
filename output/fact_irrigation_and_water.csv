@@ -1,0 +1,326 @@
+entity_id,year_of_reporting,irrigates_coffee,knows_water_usage,wet_processing_at_farm,monitors_irrigation_usage,monitors_wet_processing_usage,water_use_irrigation_m3_per_ha,water_use_wet_processing_m3_per_kg,adequate_wastewater_treatment,has_water_bodies,distance_to_water_body,riparian_buffer_vegetation,irrigation_source,irrigation_rounds_per_year,irrigation_water_per_round_m3_per_ha
+1470157558564695309,2024,True,Yes,False,No,Not applicable,1260.0,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,420.0
+1470157558564695295,2024,True,Yes,False,No,Not applicable,1694.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,565.0
+1470157558564694946,2024,True,Yes,False,No,Not applicable,684.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,228.0
+1470157558564695057,2024,True,Yes,False,No,Not applicable,446.4,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,223.2
+1470157558564694699,2024,True,Yes,False,No,Not applicable,1600.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1470157558564694968,2024,True,Yes,False,No,Not applicable,821.0,No wet processing,Not applicable,True,1-5 m,Partially,"Surface water (river, lake, pond, etc.)",4-Mar,274.0
+1470157558564694704,2024,True,Yes,False,Yes,Not applicable,750.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,250.0
+1470157558564695065,2024,True,Yes,False,Yes,Not applicable,1700.0,No wet processing,Not applicable,True,6-10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,425.0
+1470157558564694989,2024,True,Yes,False,No,Not applicable,720.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,360.0
+1470157558564695215,2024,True,Yes,False,No,Not applicable,360.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,120.0
+1470157558564694714,2024,True,Yes,False,Yes,Not applicable,1067.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,533.0
+1470157558564694722,2024,True,Yes,False,Yes,Not applicable,350.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,175.0
+1470157558564694903,2024,True,Yes,False,No,Not applicable,1275.0,No wet processing,Not applicable,True,1-5 m,Partially,"Surface water (river, lake, pond, etc.)",4-Mar,424.8
+1470157558564694972,2024,True,Yes,False,No,Not applicable,400.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,400.0
+1470157558564694797,2024,True,Yes,False,No,Not applicable,644.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,322.0
+1470157558564695074,2024,True,Yes,False,No,Not applicable,224.5,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,224.5
+1470157558564694799,2024,True,Yes,False,Yes,Not applicable,640.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,320.0
+1470157558564695163,2024,True,Yes,False,No,Not applicable,1165.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,291.0
+1470157558564695952,2024,True,Yes,False,No,Not applicable,563.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,188.0
+1470157558564695873,2024,True,Yes,False,No,Not applicable,345.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,115.0
+1470157558564695063,2024,False,Not applicable,False,Not applicable,Not applicable,0.0,No wet processing,Not applicable,False,,,0,0,0.0
+1470157558564695879,2024,True,Yes,False,No,Not applicable,1577.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,526.0
+1470157558564696002,2024,True,Yes,False,Yes,Not applicable,1386.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,462.0
+1470157558564695991,2024,True,Yes,False,Yes,Not applicable,870.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,435.0
+1470157558564695965,2024,True,Yes,False,No,Not applicable,926.3,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,463.1
+1470157558564695118,2024,True,Yes,False,No,Not applicable,1039.6,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,346.5
+1470157558564694820,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1470157558564695191,2024,True,Yes,False,No,Not applicable,1333.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,333.0
+1470157558564695739,2024,True,Yes,False,No,Not applicable,987.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,247.0
+1470157558564695307,2024,True,Yes,False,Yes,Not applicable,400.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,100.0
+1470157558564695573,2024,True,Yes,False,No,Not applicable,2400.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,600.0
+1470157558564695554,2024,True,Yes,False,No,Not applicable,1053.0,No wet processing,Not applicable,True,0 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,263.0
+1470157558564695390,2024,True,Yes,False,No,Not applicable,800.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,400.0
+1470157558564695569,2024,True,Yes,False,No,Not applicable,1650.0,No wet processing,Not applicable,True,>10 m,Partially,"Surface water (river, lake, pond, etc.)",4-Mar,550.0
+1470157558564695558,2024,True,Yes,False,No,Not applicable,635.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,159.0
+1470157558564695628,2024,True,Yes,False,No,Not applicable,1657.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,414.0
+1470157558564695562,2024,True,Yes,False,No,Not applicable,3209.7,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,401.0
+1470157558564695658,2024,True,Yes,False,Yes,Not applicable,2000.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,400.0
+1470157558564695386,2024,True,Yes,False,No,Not applicable,784.0,No wet processing,Not applicable,True,0 m,No,Groundwater well,4-Mar,196.0
+1470157558564695504,2024,True,Yes,False,Yes,Not applicable,1556.0,No wet processing,Not applicable,True,0 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,389.0
+1470157558564695096,2024,True,Yes,False,No,Not applicable,1694.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,423.2
+1469278379854639342,2024,True,Yes,False,Yes,Not applicable,750.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,250.0
+1469278379854638502,2024,True,Yes,False,Yes,Not applicable,500.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,500.0
+1469278379854638316,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469883818362504539,2024,False,Not applicable,False,Not applicable,Not applicable,,No wet processing,Not applicable,False,,,Unknown,0,
+1469278379855013128,2024,True,Yes,False,Yes,Not applicable,1155.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,385.0
+1469278379855012334,2024,True,Yes,False,Yes,Not applicable,1389.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,463.0
+1469278379855013186,2024,True,Yes,False,Yes,Not applicable,1346.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,448.8
+1469883818362504743,2024,True,Yes,False,Yes,Not applicable,2800.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",8-Jul,400.0
+1469278379854782274,2024,True,Yes,False,Yes,Not applicable,489.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,244.0
+1469278379855014872,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469278379855004447,2024,True,Yes,False,Yes,Not applicable,955.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,318.0
+1469278379854781944,2024,True,Yes,False,Yes,Not applicable,660.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,220.0
+1469278379854781789,2024,True,Yes,False,Yes,Not applicable,333.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,83.3
+1469278379854781780,2024,True,No,False,Yes,Not applicable,2083.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,417.0
+1469278379855014611,2024,True,Yes,False,Yes,Not applicable,682.0,No wet processing,Not applicable,True,1-5 m,Yes,Groundwater well,4-Mar,170.0
+1469278379855014782,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,400.0
+1469278379855013420,2024,True,Yes,False,Yes,Not applicable,1485.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,495.0
+1469278379855013426,2024,True,Yes,False,Yes,Not applicable,1395.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,349.0
+1469278379855008977,2024,True,Yes,False,Yes,Not applicable,1400.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469278379854782189,2024,True,Yes,False,Yes,Not applicable,1138.0,No wet processing,Not applicable,True,0 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,379.0
+1469883818362504707,2024,True,Yes,False,Yes,Not applicable,1059.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,353.0
+1469278379855004763,2024,True,Yes,False,Yes,Not applicable,1947.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,487.0
+1469278379854782176,2024,True,Yes,False,Yes,Not applicable,1500.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",8-Jul,150.0
+1469278379855013194,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469278379854783010,2024,True,Yes,False,Yes,Not applicable,600.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,200.0
+1469278379855012739,2024,True,Yes,False,Yes,Not applicable,1560.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,520.0
+1469278379854783130,2024,True,Yes,False,Yes,Not applicable,440.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,220.0
+1469278379855009281,2024,True,Yes,False,Yes,Not applicable,1782.4,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,447.0
+1469883818362505057,2024,True,Yes,False,Yes,Not applicable,2000.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,400.0
+1469278379854782955,2024,True,Yes,False,Yes,Not applicable,391.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,130.0
+1469278379854782066,2024,True,Yes,False,Yes,Not applicable,1540.0,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,385.0
+1469278379854782983,2024,True,Yes,False,Yes,Not applicable,975.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,243.0
+1469278379855009775,2024,True,Yes,False,Yes,Not applicable,900.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,300.0
+1469278379854781982,2024,True,Yes,False,Yes,Not applicable,480.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,160.0
+1469883818362504785,2024,True,Yes,False,Yes,Not applicable,500.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,167.0
+1469278379854782311,2024,True,Yes,False,Yes,Not applicable,300.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,100.0
+1469883818362504788,2024,True,Yes,False,Yes,Not applicable,200.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,100.0
+1469278379854782873,2024,True,Yes,False,Yes,Not applicable,1360.0,No wet processing,Not applicable,True,1-5 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,453.0
+1469278379855013487,2024,True,Yes,False,Yes,Not applicable,822.0,No wet processing,Not applicable,True,>10 m,Yes,Groundwater well,2-Jan,411.0
+1469278379854782303,2024,True,Yes,False,No,Not applicable,154.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,153.0
+1469278379854782330,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,200.0
+1469278379855013538,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,400.0
+1469278379854677182,2024,True,Yes,False,Yes,Not applicable,400.0,No wet processing,Not applicable,True,1-5 m,No,"Surface water (river, lake, pond, etc.)",2-Jan,200.0
+1469278379854782765,2024,True,Yes,False,Yes,Not applicable,538.46154,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,180.0
+1469278379854677051,2024,True,Yes,False,Yes,Not applicable,900.0,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,300.0
+1469278379855012279,2024,True,Yes,False,Yes,Not applicable,1694.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,423.0
+1469278379854782856,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,300.0
+1469278379855009590,2024,True,Yes,False,Yes,Not applicable,1512.0,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,504.0
+1469278379854677054,2024,True,Yes,False,Yes,Not applicable,990.0,No wet processing,Not applicable,True,>10 m,Partially,"Surface water (river, lake, pond, etc.)",4-Mar,330.0
+1469278379855012573,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,300.0
+1469278379854783229,2024,True,Yes,False,Yes,Not applicable,600.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,150.0
+1469278379854781962,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,0 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,240.0
+1469278379854677037,2024,True,Yes,False,Yes,Not applicable,1600.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379855012570,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469883818362504744,2024,True,Yes,False,Yes,Not applicable,1511.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,378.0
+1469278379855012184,2024,True,Yes,False,Yes,Not applicable,1080.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,360.0
+1469883818362504715,2024,True,Yes,False,Yes,Not applicable,444.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,222.0
+1469278379854783135,2024,True,Yes,False,Yes,Not applicable,2631.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,526.0
+1469278379855012158,2024,True,Yes,False,Yes,Not applicable,1312.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,438.0
+1469278379854783115,2024,True,Yes,False,Yes,Not applicable,1600.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379854782426,2024,True,Yes,False,Yes,Not applicable,594.0,No wet processing,Not applicable,True,1-5 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,198.0
+1469278379855013057,2024,True,Yes,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469278379854783104,2024,True,Yes,False,Yes,Not applicable,840.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,280.0
+1469278379854782419,2024,True,Yes,False,Yes,Not applicable,750.0,No wet processing,Not applicable,True,>10 m,Partially,"Surface water (river, lake, pond, etc.)",4-Mar,188.0
+1469278379855009927,2024,True,Yes,False,Yes,Not applicable,950.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,317.0
+1469278379854677226,2024,True,Yes,False,Yes,Not applicable,140.0,No wet processing,Not applicable,True,0 m,Yes,Groundwater well,8-Jul,20.0
+1469278379855012818,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379854677162,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,333.0
+1469278379854782733,2024,True,Yes,False,Yes,Not applicable,686.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,171.0
+1469278379854677174,2024,True,Yes,False,Yes,Not applicable,872.0,No wet processing,Not applicable,True,0 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,290.91
+1469278379854783053,2024,True,Yes,False,Yes,Not applicable,480.0,No wet processing,Not applicable,True,>10 m,Partially,"Surface water (river, lake, pond, etc.)",4-Mar,160.0
+1469278379854782727,2024,True,Yes,False,Yes,Not applicable,643.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,214.0
+1469278379855013676,2024,True,Yes,False,Yes,Not applicable,1109.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,369.0
+1469278379855013697,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,,4-Mar,200.0
+1469278379854782243,2024,True,Yes,False,Yes,Not applicable,1418.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,355.0
+1469278379855012382,2024,True,Yes,False,Yes,Not applicable,1145.45455,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,381.0
+1469278379854783211,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,1-5 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,300.0
+1469278379855012339,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379854783216,2024,True,Yes,False,Yes,Not applicable,1120.0,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,280.0
+1469278379855012856,2024,True,Yes,False,Yes,Not applicable,1380.0,No wet processing,Not applicable,True,6-10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,460.0
+1469278379855013932,2024,True,Yes,False,Yes,Not applicable,1620.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,540.0
+1469278379855013152,2024,True,Yes,False,Yes,Not applicable,1187.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,396.0
+1469278379855014007,2024,True,Yes,False,Yes,Not applicable,1100.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,367.0
+1469278379855013593,2024,True,Yes,False,Yes,Not applicable,1222.22222,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,407.0
+1469278379855013826,2024,True,Yes,False,Yes,Not applicable,1350.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,450.0
+1469278379855012881,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469278379855013861,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,1-5 m,Yes,Groundwater well,4-Mar,400.0
+1469278379855013563,2024,True,Yes,False,Yes,Not applicable,1100.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,367.0
+1469278379855012835,2024,True,Yes,False,Yes,Not applicable,1380.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,460.0
+1469278379855009880,2024,True,Yes,False,Yes,Not applicable,1400.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,467.0
+1469278379855009844,2024,True,Yes,False,Yes,Not applicable,1026.0,No wet processing,Not applicable,True,,,"Surface water (river, lake, pond, etc.)",4-Mar,342.0
+1469278379855009842,2024,True,Yes,False,Yes,Not applicable,1600.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379854641911,2024,True,Yes,False,Yes,Not applicable,1280.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,640.0
+1469278379855005159,2024,True,Yes,False,Yes,Not applicable,1800.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",6-May,360.0
+1469278379855008338,2024,True,Yes,False,Yes,Not applicable,1450.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,363.0
+1469278379854638788,2024,True,Yes,False,Yes,Not applicable,1600.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,320.0
+1469278379855008185,2024,True,Yes,False,Yes,Not applicable,1333.33333,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,333.33
+1469278379855009021,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469278379855004887,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469278379854638847,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,400.0
+1469278379855004785,2024,True,Yes,False,Yes,Not applicable,1980.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,495.0
+1469278379855004825,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,350.0
+1469278379855014199,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,>10 m,Not applicable,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379855014401,2024,True,Yes,False,Yes,Not applicable,1500.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,500.0
+1469278379854640837,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469278379855014074,2024,True,Yes,False,Yes,Not applicable,1607.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,402.0
+1469278379854639556,2024,True,Yes,False,Yes,Not applicable,660.0,No wet processing,Not applicable,True,1-5 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,220.0
+1469278379854640166,2024,True,Yes,False,Yes,Not applicable,600.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,150.0
+1469883818362504681,2024,True,Yes,False,Yes,Not applicable,1260.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,420.0
+1469278379855014088,2024,True,Yes,False,Yes,Not applicable,1474.0,No wet processing,Not applicable,True,>10 m,Yes,Groundwater well,4-Mar,368.0
+1469278379855014073,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,330.0
+1469278379855014104,2024,True,Yes,False,Yes,Not applicable,1295.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,432.0
+1469278379855014345,2024,True,Yes,False,Yes,Not applicable,1400.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469883818362504890,2024,True,Yes,False,Yes,Not applicable,1400.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469278379855014289,2024,True,Yes,False,Yes,Not applicable,1540.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,385.0
+1469278379854641656,2024,True,Yes,False,Yes,Not applicable,1575.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,262.0
+1469278379854642031,2024,True,Yes,False,Yes,Not applicable,1622.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,811.0
+1469278379855008648,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,350.0
+1469278379855008633,2024,True,Yes,False,Yes,Not applicable,1155.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,385.0
+1469278379854639991,2024,True,Yes,False,Yes,Not applicable,1440.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,480.0
+1469883818362504409,2024,True,Yes,False,Yes,Not applicable,810.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,270.0
+1469278379855014643,2024,True,Yes,False,Yes,Not applicable,1920.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,480.0
+1469278379855009318,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379854638141,2024,True,Yes,False,Yes,Not applicable,360.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,180.0
+1469278379855009319,2024,True,Yes,False,Yes,Not applicable,842.10526,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,421.05
+1469278379854640735,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469278379855008002,2024,True,Yes,False,Yes,Not applicable,1250.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,417.0
+1469278379855009390,2024,True,Yes,False,Yes,Not applicable,880.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,440.0
+1469278379854638365,2024,True,Yes,False,Yes,Not applicable,1440.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,480.0
+1469278379854641789,2024,True,Yes,False,Yes,Not applicable,420.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,210.0
+1469278379854642507,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,400.0
+1469278379854641951,2024,True,Yes,False,Yes,Not applicable,480.0,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",2-Jan,240.0
+1469278379855008000,2024,True,Yes,False,Yes,Not applicable,1340.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,335.0
+1469278379854642852,2024,True,Yes,False,Yes,Not applicable,400.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,200.0
+1469278379854638345,2024,True,Yes,False,Yes,Not applicable,2182.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,545.0
+1469278379854638306,2024,True,Yes,False,Yes,Not applicable,2275.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,455.0
+1469278379855004840,2024,True,Yes,False,Yes,Not applicable,1210.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,403.0
+1469278379854642720,2024,True,Yes,False,Yes,Not applicable,430.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,215.0
+1469278379855005225,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,300.0
+1469278379855005212,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,330.0
+1469278379854638332,2024,True,Yes,False,Yes,Not applicable,758.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",6-May,152.0
+1469278379854642963,2024,True,Yes,False,Yes,Not applicable,1100.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,367.0
+1469278379854638287,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,True,>10 m,Partially,"Surface water (river, lake, pond, etc.)",2-Jan,400.0
+1469278379855005276,2024,True,Yes,False,Yes,Not applicable,1210.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,403.0
+1469278379855005249,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,440.0
+1469278379854642946,2024,True,Yes,False,Yes,Not applicable,808.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,269.23
+1469278379855008686,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,267.0
+1469278379855008072,2024,True,Yes,False,Yes,Not applicable,1366.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,455.17
+1469278379855005043,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,334.0
+1469278379854641146,2024,True,Yes,False,Yes,Not applicable,960.0,No wet processing,Not applicable,True,Not applicable,Not applicable,Groundwater well,2-Jan,480.0
+1469278379855005002,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,333.0
+1469278379855005032,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,333.0
+1469278379855005028,2024,True,Yes,False,Yes,Not applicable,1100.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,367.0
+1469278379854640452,2024,True,Yes,False,Yes,Not applicable,892.96875,No wet processing,Not applicable,True,>10 m,No,"Surface water (river, lake, pond, etc.)",4-Mar,298.0
+1469278379854638593,2024,True,Yes,False,Yes,Not applicable,800.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,400.0
+1469278379855008702,2024,True,Yes,False,Yes,Not applicable,825.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,275.0
+1469278379854639859,2024,True,Yes,False,Yes,Not applicable,288.46154,No wet processing,Not applicable,True,0 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,144.23
+1469278379854638512,2024,True,Yes,False,Yes,Not applicable,1333.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,666.0
+1469278379854641222,2024,False,Not applicable,False,Not applicable,Not applicable,,No wet processing,Not applicable,False,,,Unknown,0,
+1469278379854639942,2024,True,Yes,False,Yes,Not applicable,1244.0,No wet processing,Not applicable,True,0 m,Yes,Groundwater well,4-Mar,415.0
+1469278379854638490,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,400.0
+1469278379854638519,2024,True,Yes,False,Yes,Not applicable,480.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,120.0
+1469278379854638792,2024,True,Yes,False,Yes,Not applicable,300.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,300.0
+1469278379854642831,2024,True,Yes,False,Yes,Not applicable,300.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,300.0
+1469278379854639534,2024,True,Yes,False,Yes,Not applicable,976.27119,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,488.14
+1469278379854638214,2024,True,Yes,False,Yes,Not applicable,2083.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,694.0
+1469278379854639354,2024,True,Yes,False,Yes,Not applicable,546.04651,No wet processing,Not applicable,True,1-5 m,No,"Surface water (river, lake, pond, etc.)",2-Jan,273.02
+1469278379854638432,2024,True,Yes,False,Yes,Not applicable,840.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,420.0
+1469278379854639362,2024,True,Yes,False,Yes,Not applicable,950.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,317.0
+1469278379854638434,2024,True,Yes,False,Yes,Not applicable,690.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,230.0
+1469278379854639448,2024,True,Yes,False,Yes,Not applicable,30.0,No wet processing,Not applicable,True,0 m,Yes,Groundwater well,2-Jan,30.0
+1469278379854639340,2024,True,Yes,False,Yes,Not applicable,318.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,318.0
+1469278379854638373,2024,True,Yes,False,Yes,Not applicable,1320.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,330.0
+1469278379854639445,2024,True,Yes,False,Yes,Not applicable,323.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,161.33
+1469278379854639420,2024,True,Yes,False,Yes,Not applicable,829.28571,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",4-Mar,277.0
+1469278379854642243,2024,True,Yes,False,Yes,Not applicable,982.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,327.3
+1469278379854642131,2024,True,Yes,False,Yes,Not applicable,788.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,394.0
+1469278379854639686,2024,True,Yes,False,Yes,Not applicable,704.0,No wet processing,Not applicable,True,6-10 m,No,"Surface water (river, lake, pond, etc.)",2-Jan,352.0
+1469278379854642125,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379854640951,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,210.0
+1469278379854642215,2024,True,Yes,False,Yes,Not applicable,340.0,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,170.0
+1469278379854640079,2024,True,Yes,False,Yes,Not applicable,1013.0,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,506.0
+1469278379854642194,2024,True,Yes,False,Yes,Not applicable,926.31579,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,463.0
+1469278379854640971,2024,True,Yes,False,Yes,Not applicable,1260.0,No wet processing,Not applicable,True,0 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,420.0
+1469278379854640065,2024,True,Yes,False,Yes,Not applicable,1080.0,No wet processing,Not applicable,True,6-10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,360.0
+1469278379854642173,2024,True,Yes,False,Yes,Not applicable,1462.5,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,488.0
+1469278379854641215,2024,True,Yes,False,Yes,Not applicable,665.32258,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,333.0
+1469278379854640961,2024,True,Yes,False,Yes,Not applicable,267.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,133.33
+1469278379854640900,2024,True,Yes,False,Yes,Not applicable,990.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,248.0
+1469278379854642890,2024,True,Yes,False,Yes,Not applicable,816.32653,No wet processing,Not applicable,False,,,Groundwater well,2-Jan,408.16
+1469278379854640339,2024,True,Yes,False,Yes,Not applicable,338.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,113.0
+1469278379854643031,2024,True,Yes,False,Yes,Not applicable,600.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,300.0
+1469278379854641605,2024,True,Yes,False,Yes,Not applicable,877.41935,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,219.35
+1469278379854640257,2024,True,Yes,False,Yes,Not applicable,298.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,74.4
+1469278379854643043,2024,True,Yes,False,Yes,Not applicable,1085.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,362.0
+1469278379854641569,2024,True,Yes,False,Yes,Not applicable,645.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,215.0
+1469278379854642073,2024,True,Yes,False,Yes,Not applicable,903.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,451.0
+1469278379854642301,2024,True,Yes,False,Yes,Not applicable,405.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,405.0
+1469278379854640613,2024,True,Yes,False,Yes,Not applicable,660.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,220.0
+1469278379854642479,2024,True,Yes,False,Yes,Not applicable,465.14286,No wet processing,Not applicable,False,,,"Surface water (river, lake, pond, etc.)",2-Jan,233.0
+1469278379854640625,2024,True,No,False,Yes,Not applicable,440.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",2-Jan,220.0
+1469883818362505174,2024,True,Yes,False,Yes,Not applicable,1083.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,216.0
+1469278379855039037,2024,True,Yes,False,Yes,Not applicable,1650.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,275.0
+1469278379855040664,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,200.0
+1469278379855036915,2024,True,Yes,False,Yes,Not applicable,1920.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,480.0
+1469278379855037067,2024,True,Yes,False,Yes,Not applicable,1888.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,472.0
+1469278379855038019,2024,True,Yes,False,Yes,Not applicable,1020.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,255.0
+1469278379855037842,2024,True,Yes,False,Yes,Not applicable,563.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,113.0
+1469278379855040862,2024,True,Yes,False,Yes,Not applicable,1723.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,431.0
+1469278379855038442,2024,True,Yes,False,No,Not applicable,2400.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,400.0
+1469278379855040212,2024,True,Yes,False,Yes,Not applicable,1636.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,233.0
+1469278379855039053,2024,True,Yes,False,Yes,Not applicable,1400.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,233.33
+1469278379855038729,2024,True,Yes,False,Yes,Not applicable,7680.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,768.0
+1469278379855038358,2024,True,Yes,False,Yes,Not applicable,1141.25,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,380.42
+1469278379855037425,2024,True,Yes,False,Yes,Not applicable,1267.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,317.0
+1469278379855038409,2024,True,Yes,False,Yes,Not applicable,1050.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,350.0
+1469278379855039084,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,200.0
+1469278379855040001,2024,True,Yes,False,Yes,Not applicable,2455.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,491.0
+1469278379855038668,2024,True,Yes,False,Yes,Not applicable,2000.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,400.0
+1469278379855040455,2024,True,Yes,False,Yes,Not applicable,2520.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,420.0
+1469278379855040422,2024,True,Yes,False,Yes,Not applicable,2400.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,400.0
+1469278379855039608,2024,True,Yes,False,Yes,Not applicable,1467.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,489.0
+1469278379855038830,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,200.0
+1469278379855039042,2024,True,Yes,False,Yes,Not applicable,2289.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",8-Jul,327.0
+1469883818362505115,2024,True,Yes,False,Yes,Not applicable,2640.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,440.0
+1469883818362505118,2024,True,Yes,False,Yes,Not applicable,3840.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,480.0
+1469278379855038999,2024,True,Yes,False,Yes,Not applicable,1173.33333,No wet processing,Not applicable,True,>10 m,Yes,Groundwater well,4-Mar,293.33
+1469278379855039728,2024,True,Yes,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379855039878,2024,True,Yes,False,Yes,Not applicable,2000.0,No wet processing,Not applicable,True,1-5 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,400.0
+1469278379855038499,2024,True,Yes,False,Yes,Not applicable,1272.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,212.0
+1469278379855039832,2024,True,Yes,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379855037698,2024,True,Yes,False,Yes,Not applicable,396.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,99.0
+1469278379855037177,2024,True,Yes,False,Yes,Not applicable,1607.14286,No wet processing,Not applicable,False,,,Groundwater well,6-May,321.0
+1469278379855037185,2024,True,No,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379855040741,2024,True,Yes,False,Yes,Not applicable,4000.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,400.0
+1469278379855037201,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,200.0
+1469278379855039787,2024,True,Yes,False,Yes,Not applicable,1600.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,400.0
+1469278379855040252,2024,True,Yes,False,Yes,Not applicable,2400.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,400.0
+1469278379855040132,2024,True,Yes,False,Yes,Not applicable,1360.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,340.0
+1469278379855039488,2024,True,Yes,False,Yes,Not applicable,1642.10526,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,410.53
+1469278379855040307,2024,True,Yes,False,Yes,Not applicable,1648.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,412.0
+1469278379855039486,2024,True,Yes,False,Yes,Not applicable,525.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,175.0
+1469278379855040352,2024,True,Yes,False,Yes,Not applicable,2137.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,356.0
+1469278379855039407,2024,True,Yes,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379855040432,2024,True,Yes,False,Yes,Not applicable,1298.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,324.0
+1469278379855038122,2024,True,Yes,False,Yes,Not applicable,1680.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,280.0
+1469278379855040242,2024,True,Yes,False,Yes,Not applicable,863.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,288.0
+1469278379855039629,2024,True,Yes,False,Yes,Not applicable,1687.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,422.0
+1469883818362505224,2024,True,Yes,False,Yes,Not applicable,1450.0,No wet processing,Not applicable,True,>10 m,Yes,Groundwater well,4-Mar,363.0
+1469278379855040198,2024,True,Yes,False,Yes,Not applicable,1142.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,285.0
+1469278379855040099,2024,True,Yes,False,Yes,Not applicable,2000.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,400.0
+1469278379855038070,2024,True,Yes,False,Yes,Not applicable,1735.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,217.0
+1469278379855038552,2024,True,Yes,False,Yes,Not applicable,2136.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,356.0
+1469278379855038690,2024,True,Yes,False,Yes,Not applicable,3158.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,316.0
+1469278379855037403,2024,True,Yes,False,Yes,Not applicable,544.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,136.0
+1469278379855038672,2024,True,Yes,False,Yes,Not applicable,1484.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,212.0
+1469278379855037409,2024,True,Yes,False,Yes,Not applicable,2046.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,416.0
+1469278379855037416,2024,True,Yes,False,Yes,Not applicable,360.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,90.0
+1469278379855037520,2024,True,Yes,False,Yes,Not applicable,2625.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,525.0
+1469278379855037251,2024,True,Yes,False,Yes,Not applicable,2150.0,No wet processing,Not applicable,False,,,Groundwater well,6-May,430.0
+1469278379855040589,2024,True,Yes,False,Yes,Not applicable,2090.0,No wet processing,Not applicable,False,,,Groundwater well,8-Jul,299.0
+1469278379855036998,2024,True,Yes,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379854782610,2024,True,Yes,False,No,Not applicable,338.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,113.0
+1469278379855039342,2024,True,Yes,False,Yes,Not applicable,333.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",6-May,67.0
+1469278379855037024,2024,True,Yes,False,Yes,Not applicable,576.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,144.0
+1469278379855036851,2024,True,Yes,False,Yes,Not applicable,2160.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,540.0
+1469278379855036956,2024,True,Yes,False,Yes,Not applicable,1760.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,440.0
+1469278379855012202,2024,,,,,,,,,,,,,4-Mar,1600.0
+1469278379855037391,2024,True,Yes,False,Yes,Not applicable,1000.0,No wet processing,Not applicable,True,6-10 m,Yes,,4-Mar,350.0
+1469278379854640502,2024,True,Yes,False,No,Not applicable,300.0,No wet processing,Not applicable,True,0 m,No,,6-May,508.0
+1469278379854640527,2024,True,Yes,False,Yes,Not applicable,1725.0,No wet processing,Not applicable,True,1-5 m,Yes,,4-Mar,432.0
+1469278379854641314,2024,True,Yes,False,Yes,Not applicable,1600.0,No wet processing,Not applicable,True,1-5 m,,,4-Mar,400.0
+1469278379855036603,2024,True,Yes,False,Yes,Not applicable,1540.0,No wet processing,Not applicable,False,,,Groundwater well,4-Mar,385.0
+1469278379855037069,2024,True,Yes,False,Yes,Not applicable,2976.0,No wet processing,Not applicable,False,,,,4-Mar,2976.0
+1469278379855037183,2024,True,Yes,False,Yes,Not applicable,1440.0,No wet processing,Not applicable,False,,,,4-Mar,480.0
+1469278379855037071,2024,True,Yes,False,Yes,Not applicable,400.0,No wet processing,Not applicable,False,,,,4-Mar,200.0
+1469278379855036960,2024,True,Yes,False,Yes,Not applicable,17600.0,No wet processing,Not applicable,False,,,,4-Mar,17600.0
+1469278379855036789,2024,,,,,,,,,,,,,4-Mar,400.0
+1469278379855037002,2024,True,Yes,True,Yes,No,440.0,> 0.04,Not applicable,False,,,,4-Mar,440.0
+1469278379855036719,2024,True,Yes,False,Yes,Not applicable,393.8,No wet processing,Not applicable,False,,,,4-Mar,383.0
+1469278379855036643,2024,True,Yes,False,Not applicable,Not applicable,1380.0,No wet processing,Not applicable,False,,,,4-Mar,460.0
+1469278379855009751,2024,True,Yes,False,Yes,Not applicable,1200.0,No wet processing,Not applicable,True,>10 m,Yes,"Surface water (river, lake, pond, etc.)",4-Mar,300.0
+1469278379855040784,2024,True,Yes,False,No,Not applicable,2945.0,No wet processing,Not applicable,False,,,,Continuous,327.0
+1469278379855038127,2024,True,Yes,False,No,Not applicable,1000.0,No wet processing,Not applicable,False,,,,,

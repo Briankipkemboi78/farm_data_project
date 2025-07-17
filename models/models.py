@@ -190,10 +190,11 @@ def build_dim_household(df: pd.DataFrame) -> pd.DataFrame:
 
 
 # water
-def build_dim_irrigation_and_water(df: pd.DataFrame) -> pd.DataFrame:
+def build_fact_irrigation_and_water(df: pd.DataFrame) -> pd.DataFrame:
     entity_col = 'Entity ID' if 'Entity ID' in df.columns else 'entity_id'
     used_cols = [
         entity_col,
+        'Year of reporting',
         'Do you irrigate your coffee?',
         'Do you know the water usage?',
         'Do you conduct wet processing at the farm?',
@@ -222,6 +223,7 @@ def build_dim_irrigation_and_water(df: pd.DataFrame) -> pd.DataFrame:
 
     irrigation_df.columns = [
         'entity_id',
+        'year_of_reporting',
         'irrigates_coffee',
         'knows_water_usage',
         'wet_processing_at_farm',
@@ -238,10 +240,8 @@ def build_dim_irrigation_and_water(df: pd.DataFrame) -> pd.DataFrame:
         'irrigation_water_per_round_m3_per_ha'
     ]
 
-    irrigation_df = irrigation_df.dropna(
-        subset=irrigation_df.columns.difference(['entity_id']),
-        how='all'
-    )
+    cols_to_check = irrigation_df.columns.difference(['entity_id', 'year_of_reporting'])
+    irrigation_df = irrigation_df.dropna(subset=cols_to_check, how='all')
 
     return irrigation_df.drop_duplicates().reset_index(drop=True)
 
