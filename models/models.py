@@ -245,6 +245,117 @@ def build_dim_irrigation_and_water(df: pd.DataFrame) -> pd.DataFrame:
 
     return irrigation_df.drop_duplicates().reset_index(drop=True)
 
+#Soil
+def build_fact_soil(df: pd.DataFrame) -> pd.DataFrame:
+    entity_col = 'Entity ID' if 'Entity ID' in df.columns else 'entity_id'
+
+    used_cols = [
+        entity_col,
+        'Year of reporting',  # <-- now using existing column
+        'What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)',
+        'Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?',
+        'What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?',
+        'Do you perform regularly a soil analysis (lab, soil test kit)?',
+        'On average, what is the interval of soil analysis (lab, soil test kit) for texture, pH, SOM, nitrogen (N), phosphorus (P), and potassium (K) (farm sample or a representative sample of a group of smallholdings in the same area)',
+        'Do you calculate your annual fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?',
+        'What is the soil organic matter (SOM) level in your soils (%)?',
+        'What is the Soil pH?',
+        'What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter, and/or biochar?',
+        'Organic fertilizer applied kg per ha',
+        'Total fertilizer applied kg per ha',
+        'Percentage organic fertiliser vs total fertiliser applied per ha (organic/ total applied x 100)',
+        'What is the most frequently used fertilizer',
+        'N%',
+        'P%',
+        'K%',
+        'How much you apply per year',
+        'How many ha in the coffee area',
+        'Yield GC per ha',
+        'N Productivity (NP) = Y/N (Yield kg GC per ha / N kg applied per ha)',
+        'Are you applying 4C unacceptable and/or red listed agro-inputs (insecticides, fungicides, herbicides) in your farm?',
+        'How often are you applying herbicides (per year)',
+        'Which integrated weed management practices do you apply (on 100% of the field acreage)?'
+    ]
+
+    missing_cols = [col for col in used_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing columns in soil fact model: {missing_cols}")
+
+    Context.used_columns.update(used_cols)
+
+    soil_df = df[used_cols].copy()
+
+    soil_df.columns = [
+        'entity_id',
+        'year_of_reporting',
+        'coffee_land_with_cover_crop_percent',
+        'has_erosion_control',
+        'agricultural_land_with_severe_erosion_percent',
+        'performs_soil_analysis',
+        'soil_analysis_interval',
+        'calculates_fertilizer_plan',
+        'soil_organic_matter_percent',
+        'soil_ph',
+        'coffee_land_receiving_organic_fertilizer_percent',
+        'organic_fertilizer_kg_per_ha',
+        'total_fertilizer_kg_per_ha',
+        'organic_fertilizer_percent_of_total',
+        'most_used_fertilizer',
+        'n_percent',
+        'p_percent',
+        'k_percent',
+        'fertilizer_applied_per_year',
+        'coffee_area_ha',
+        'yield_gc_per_ha',
+        'n_productivity_np',
+        'uses_red_listed_agro_inputs',
+        'herbicide_application_frequency_per_year',
+        'weed_management_practices'
+    ]
+
+    soil_df = soil_df.dropna(
+        subset=soil_df.columns.difference(['entity_id', 'year_of_reporting']),
+        how='all'
+    )
+
+    return soil_df.drop_duplicates().reset_index(drop=True)
+
+
+
+# cash_crop_1
+
+def build_first_cash_crop(df: pd.DataFrame) -> pd.DataFrame:
+    entity_col = 'Entity ID' if 'Entity ID' in df.columns else 'entity_id'
+    
+    used_cols = [
+        entity_col,
+        '1st main cash crop beside coffee'
+    ]
+
+    # Check for missing columns
+    missing_cols = [col for col in used_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"Missing columns in First Cash Crop model: {missing_cols}")
+
+    # Track used columns
+    Context.used_columns.update(used_cols)
+
+    crop_df = df[used_cols].copy()
+
+    # Rename columns to standard names for fact table
+    crop_df.columns = [
+        'entity_id',
+        'main_cash_crop_name'
+    ]
+
+    # Drop rows with no data except entity_id
+    crop_df = crop_df.dropna(
+        subset=crop_df.columns.difference(['entity_id']),
+        how='all'
+    )
+
+    return crop_df.drop_duplicates().reset_index(drop=True)
+
 
 # Fact Table
 def build_fact_survey_data(df: pd.DataFrame) -> pd.DataFrame:

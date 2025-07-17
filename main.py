@@ -4,7 +4,7 @@ from models.models import (
     build_dim_entities, build_dim_education, build_dim_identification,
     build_dim_species, build_dim_farm_detail, build_dim_country,
     build_dim_region, build_dim_subregion, build_dim_contact_details, build_dim_plot_details,
-    build_dim_irrigation_and_water,
+    build_dim_irrigation_and_water, build_first_cash_crop,
     build_fact_survey_data
 )
 from models.utils import deduplicate_columns, drop_empty_columns, clean_entity_id
@@ -35,14 +35,14 @@ dim_education = build_dim_education(df)
 dim_identification = build_dim_identification(df)
 dim_species = build_dim_species(df)
 dim_farm_detail = build_dim_farm_detail(df)
-
 dim_country = build_dim_country(df)
 dim_region = build_dim_region(df, dim_country)
 dim_subregion = build_dim_subregion(df, dim_region)
 dim_contact = build_dim_contact_details(df, dim_subregion)
-
 dim_plot_detail, df = build_dim_plot_details(df)
 dim_irrigation_water = build_dim_irrigation_and_water(df)
+dim_first_cash_crop = build_first_cash_crop(df)
+#dim_second_cash_crop = build_second_cash_crop(df)
 
 # -----------------------------------
 # Merge foreign keys for fact table
@@ -78,6 +78,8 @@ dim_subregion.to_csv("output/dim_subregion.csv", index=False)
 dim_contact.to_csv("output/dim_contact_details.csv", index=False)
 dim_plot_detail.to_csv("output/dim_plot_detail.csv", index=False)
 dim_irrigation_water.to_csv("output/dim_irrigation_and_water.csv", index=False)
+dim_first_cash_crop.to_csv("output/dim_first_cash_crop.csv", index=False)
+#dim_second_cash_crop.to_csv("output/dim_second_cash_crop.csv", index=False)
 fact_survey.to_csv("output/fact_survey.csv", index=False)
 
 # ---------------------
