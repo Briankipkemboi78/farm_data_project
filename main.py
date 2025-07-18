@@ -4,7 +4,7 @@ from models.models import (
     build_dim_entities, build_dim_education, build_dim_identification,
     build_dim_species, build_dim_farm_detail, build_dim_country,
     build_dim_region, build_dim_subregion, build_dim_contact_details, build_dim_plot_details,
-    build_fact_irrigation_and_water,build_fact_soil, build_first_cash_crop,
+    build_fact_irrigation_and_water,build_fact_soil, build_first_cash_crop, build_fact_training_data,
     build_fact_survey_data
 )
 from models.utils import deduplicate_columns, drop_empty_columns, clean_entity_id
@@ -64,6 +64,7 @@ df = df.merge(dim_contact, on=['entity_id', 'address', 'phone_number', 'email', 
 # ---------------------
 fact_irrigation_water = build_fact_irrigation_and_water(df)
 fact_soil = build_fact_soil(df)
+fact_training = build_fact_training_data(df)
 fact_survey = build_fact_survey_data(df)
 
 # ---------------------
@@ -81,6 +82,7 @@ dim_contact.to_csv("output/dim_contact_details.csv", index=False)
 dim_plot_detail.to_csv("output/dim_plot_detail.csv", index=False)
 fact_irrigation_water.to_csv("output/fact_irrigation_and_water.csv", index=False)
 fact_soil.to_csv("output/fact_soil.csv", index=False)
+fact_training.to_csv("output/fact_training.csv", index=False)
 dim_first_cash_crop.to_csv("output/dim_first_cash_crop.csv", index=False)
 #dim_second_cash_crop.to_csv("output/dim_second_cash_crop.csv", index=False)
 fact_survey.to_csv("output/fact_survey.csv", index=False)

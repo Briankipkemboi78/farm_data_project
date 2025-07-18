@@ -321,7 +321,45 @@ def build_fact_soil(df: pd.DataFrame) -> pd.DataFrame:
     return soil_df.drop_duplicates().reset_index(drop=True)
 
 
+# Training
+def build_fact_training_data(df: pd.DataFrame) -> pd.DataFrame:
+    entity_col = 'Entity ID' if 'Entity ID' in df.columns else 'entity_id'
 
+    used_cols = [
+        entity_col,
+        'Year of reporting',
+        'Year joined Nescafé Plan',
+        'Number of Nescafe training sessions in last 12 months male',
+        'Number of Nescafe training sessions in last 12 months female',
+        'Number of Nescafe training sessions in last 12 months youth 18-29',
+        'Number of technical visits by Nescafe /project staff in last 12 months:'
+    ]
+
+    missing_cols = [col for col in used_cols if col not in df.columns]
+    if missing_cols:
+        raise KeyError(f"❌ Missing columns in training fact model: {missing_cols}")
+
+    Context.used_columns.update(used_cols)
+
+    training_df = df[used_cols].copy()
+
+    training_df.columns = [
+        'entity_id',
+        'year_of_reporting',
+        'year_joined_nescafe_plan',
+        'no_male_last_12_months',
+        'no_female_last_12_months',
+        'no_youth_18_29_last_12_months',
+        'technical_visits_last_12_months'
+    ]
+
+    # Drop rows where all values except ID and year are NaN
+    training_df = training_df.dropna(
+        subset=training_df.columns.difference(['entity_id', 'year_of_reporting']),
+        how='all'
+    )
+
+    return training_df.drop_duplicates().reset_index(drop=True)
 
 
 # cash_crop_1
