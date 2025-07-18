@@ -322,6 +322,8 @@ def build_fact_soil(df: pd.DataFrame) -> pd.DataFrame:
 
 
 
+
+
 # cash_crop_1
 
 def build_first_cash_crop(df: pd.DataFrame) -> pd.DataFrame:
