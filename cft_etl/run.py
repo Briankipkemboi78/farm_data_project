@@ -7,9 +7,13 @@ OUTPUT_DIR = 'output'
 if not os.path.exists(OUTPUT_DIR):
     os.makedirs(OUTPUT_DIR)
 
-df = load_data(INPUT_PATH)
-tables = run_etl_pipeline(df)
+# Load data from multiple sheets
+df_main, df_crop_production, df_energy = load_data(INPUT_PATH)
 
+# Run the ETL pipeline
+tables = run_etl_pipeline(df_main, df_crop_production, df_energy)
+
+# Export each table
 for name, table in tables.items():
     table.to_csv(f"{OUTPUT_DIR}/{name}.csv", index=False)
     print(f"{name.upper()} exported ✅ — {len(table)} rows")
