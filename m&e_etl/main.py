@@ -7,15 +7,17 @@ from models.models import (
     build_fact_irrigation_and_water,build_fact_soil, build_first_cash_crop, build_fact_training_data,
     build_fact_survey_data
 )
-from models.utils import deduplicate_columns, drop_empty_columns, clean_entity_id
+from models.utils import deduplicate_columns, drop_empty_columns, clean_entity_id, process_dataframe
 
 # Create output directory
 os.makedirs("output", exist_ok=True)
 
 # Load raw data
 df_raw = pd.read_csv("raw_data/raw_data.csv", low_memory=False, encoding="ISO-8859-1")
+df_cft = pd.read_excel("raw_data/cft.xlsx")
+df_cft = process_dataframe(df_cft)
 
-# 1. Deduplicate duplicated/variant columns (e.g., .1, (Update))
+# Deduplicate duplicated/variant columns (e.g., .1, (Update)) # for 
 df = deduplicate_columns(df_raw, output_log_path="output/column_deduplication_log.csv")
 
 # 2. Drop null-like columns (entirely NaN / blank / dash)
@@ -28,7 +30,7 @@ df = df.loc[:, ~df.columns.duplicated()]
 df.to_csv("output/cleaned_data_for_modeling.csv", index=False)
 
 # ----------------------
-# Build Dimension Tables
+# Build Dimension Tables from 
 # ----------------------
 dim_entities = build_dim_entities(df)
 dim_education = build_dim_education(df)
@@ -101,3 +103,8 @@ print("✔️ All dimension and fact tables generated and saved.")
 fact_columns = pd.DataFrame(fact_survey.columns, columns=["column_name"])
 fact_columns.to_csv("output/fact_survey_columns.csv", index=False)
 print("📝 fact_survey column names saved to output/fact_survey_columns.csv")
+
+#CFT Columns
+column_list = pd.DataFrame(df_cft.columns, columns=["column_name"])
+column_list.to_csv("output/cft_column_list.csv", index=False)
+

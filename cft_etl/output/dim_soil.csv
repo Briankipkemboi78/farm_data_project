@@ -1,0 +1,56 @@
+soil_id,texture,organic_matter,classification,organic_carbon,ph,moisture,drainage
+1,sandy (coarse),1.72 < SOM <= 5.16,High Activity Clay Soils,2.0,pH <= 5.5,Moist,Good
+2,silt (medium),1.72 < SOM <= 5.16,Volcanic Soils,2.0,pH <= 5.5,Dry,Good
+3,sandy (coarse),1.72 < SOM <= 5.16,Sandy Soils,2.0,pH <= 5.5,Dry,Good
+4,sandy (coarse),5.16 < SOM <= 10.32,Volcanic Soils,4.5,pH <= 5.5,Dry,Good
+5,sandy (coarse),1.72 < SOM <= 5.16,Volcanic Soils,2.0,pH <= 5.5,Dry,Good
+6,clay (fine),,Sandy Soils,,5.5 < pH <= 7.3,Moist,Good
+7,silt (medium),SOM <= 1.72,Volcanic Soils,0.5,5.5 < pH <= 7.3,Dry,Good
+8,clay (fine),1.72 < SOM <= 5.16,Volcanic Soils,2.0,5.5 < pH <= 7.3,Moist,Good
+9,clay (fine),1.72 < SOM <= 5.16,Volcanic Soils,2.0,5.5 < pH <= 7.3,Dry,Good
+10,clay (fine),SOM <= 1.72,Volcanic Soils,0.5,pH <= 5.5,Dry,Good
+11,clay (fine),SOM <= 1.72,Volcanic Soils,2.0,pH <= 5.5,Moist,Good
+12,sandy (coarse),SOM <= 1.72,Volcanic Soils,0.5,pH <= 5.5,Dry,Good
+13,sandy (coarse),SOM <= 1.72,Low Activity Clay Soils,0.5,pH <= 5.5,Dry,Good
+14,clay (fine),SOM <= 1.72,Volcanic Soils,2.0,pH <= 5.5,Dry,Good
+15,clay (fine),1.72 < SOM <= 5.16,Volcanic Soils,2.0,pH <= 5.5,Dry,Good
+16,clay (fine),5.16 < SOM <= 10.32,Volcanic Soils,4.5,pH <= 5.5,Dry,Good
+17,clay (fine),SOM <= 1.72,Low Activity Clay Soils,0.5,pH <= 5.5,Dry,Good
+18,sandy (coarse),SOM <= 1.72,Low Activity Clay Soils,2.0,pH <= 5.5,Dry,Good
+19,clay (fine),1.72 < SOM <= 5.16,Sandy Soils,2.0,pH <= 5.5,Dry,Good
+20,sandy (coarse),SOM <= 1.72,Volcanic Soils,2.0,pH <= 5.5,Dry,Good
+21,sandy (coarse),SOM <= 1.72,Volcanic Soils,4.5,pH <= 5.5,Dry,Poor
+22,clay (fine),1.72 < SOM <= 5.16,Sandy Soils,2.0,,Dry,Good
+23,clay (fine),SOM <= 1.72,Sandy Soils,0.5,pH <= 5.5,Moist,Good
+24,clay (fine),5.16 < SOM <= 10.32,Sandy Soils,4.5,pH <= 5.5,Dry,Good
+25,clay (fine),1.72 < SOM <= 5.16,Sandy Soils,2.0,pH <= 5.5,Moist,Good
+26,clay (fine),SOM <= 1.72,Sandy Soils,0.5,pH <= 5.5,Dry,Good
+27,sandy (coarse),1.72 < SOM <= 5.16,Low Activity Clay Soils,2.0,pH <= 5.5,Dry,Good
+28,sandy (coarse),SOM <= 1.72,Low Activity Clay Soils,0.5,pH <= 5.5,Moist,Good
+29,clay (fine),1.72 < SOM <= 5.16,Volcanic Soils,2.0,pH <= 5.5,Moist,Good
+30,sandy (coarse),SOM <= 1.72,Sandy Soils,0.5,pH <= 5.5,Dry,Good
+31,silt (medium),1.72 < SOM <= 5.16,Volcanic Soils,2.0,7.3 < pH <= 8.5,Dry,Poor
+32,,,,,,,
+33,sandy (coarse),5.16 < SOM <= 10.32,Volcanic Soils,4.5,pH <= 5.5,Moist,Good
+34,sandy (coarse),5.16 < SOM <= 10.32,Volcanic Soils,0.5,pH <= 5.5,Dry,Good
+35,sandy (coarse),1.72 < SOM <= 5.16,Volcanic Soils,2.0,5.5 < pH <= 7.3,Dry,Good
+36,clay (fine),5.16 < SOM <= 10.32,Volcanic Soils,4.5,pH <= 5.5,Moist,Good
+37,clay (fine),1.72 < SOM <= 5.16,Sandy Soils,2.0,5.5 < pH <= 7.3,Dry,Good
+38,clay (fine),5.16 < SOM <= 10.32,Sandy Soils,4.5,5.5 < pH <= 7.3,Dry,Good
+39,sandy (coarse),SOM <= 1.72,Volcanic Soils,0.5,pH <= 5.5,Moist,Good
+40,clay (fine),5.16 < SOM <= 10.32,Low Activity Clay Soils,4.5,pH <= 5.5,Dry,Good
+41,sandy (coarse),,,,,,
+42,sandy (coarse),5.16 < SOM <= 10.32,Volcanic Soils,4.5,pH <= 5.5,,Good
+43,sandy (coarse),1.72 < SOM <= 5.16,Volcanic Soils,4.5,pH <= 5.5,Dry,Good
+44,sandy (coarse),5.16 < SOM <= 10.32,Volcanic Soils,2.0,pH <= 5.5,Dry,Good
+45,sandy (coarse),1.72 < SOM <= 5.16,Sandy Soils,2.0,pH <= 5.5,Moist,Good
+46,sandy (coarse),SOM <= 1.72,Sandy Soils,2.0,pH <= 5.5,Dry,Good
+47,sandy (coarse),1.72 < SOM <= 5.16,Volcanic Soils,2.0,pH <= 5.5,Moist,Good
+48,,,Volcanic Soils,,,Moist,
+49,clay (fine),SOM <= 1.72,Volcanic Soils,0.5,pH <= 5.5,Dry,Poor
+50,clay (fine),1.72 < SOM <= 5.16,Low Activity Clay Soils,2.0,pH <= 5.5,Dry,Good
+51,sandy (coarse),5.16 < SOM <= 10.32,Sandy Soils,4.5,pH > 8.5,Moist,Poor
+52,sandy (coarse),SOM > 10.32,Volcanic Soils,6.0,7.3 < pH <= 8.5,Dry,Good
+53,sandy (coarse),SOM <= 1.72,Sandy Soils,0.5,pH <= 5.5,Moist,Good
+54,sandy (coarse),5.16 < SOM <= 10.32,Sandy Soils,4.5,pH <= 5.5,Dry,Good
+55,,,Wetland Soils,,,Moist,

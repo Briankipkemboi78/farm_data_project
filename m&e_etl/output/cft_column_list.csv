@@ -1,0 +1,214 @@
+column_name
+result_id
+Assesment UID
+EntityDisplayID
+EntitySystemID
+EntityName
+Country
+BusinessName
+DateCreated
+DateSynched
+Interviewee
+FA Name
+status
+Metadata Information
+Date Of The Data Collection
+Year of Reporting
+Enumerator
+Date of the data creation
+GPS Location
+Altitude
+Soil Classification
+Climate
+Annual average temperature
+Unit of Measurement
+Size
+Intensity
+Specialization
+Is there any evidence to submit
+Evidence Photo
+Crop Name
+Crop area
+UoM Crop Area
+Harvest year
+Harvested amount
+UoM Harvested amount
+Farm-gate ready amount
+UoM Farmgate ready amount
+Assessment name
+Residue amount
+UoM Residue amount
+Residue management
+Are there any co-products of this crop which you use or sell
+User Notes
+Soil texture
+Soil organic matter (%)
+Custom Value Soil Organic Matter
+Soil organic carbon (%)
+Soil moisture average
+Soil drainage
+Soil pH
+Your field name
+User Note
+Inputs - User Notes
+Do you produce waste water containing organic matter
+Waste water volume
+Oxygen demand
+Do you use your own irrigation system
+Emissions based on
+Events
+Irrigation Method
+Water source
+Pumping depth
+UoM Pumping depth
+Horizontal distance
+UoM Horizontal distance
+Power source
+Event 1
+Event 1 - Total water added
+Event 1 - UOM Total water added
+Event 1 - Percent area irrigated
+Event 1 - Do you use source and pump default
+Event 2
+Event 2 - Total water added
+Event 2 - UOM Total water added
+Event 2 - Percent area irrigated
+Event 2 - Do you use source and pump default
+Event 3
+Event 3 - Total water added
+Event 3 - UOM Total water added
+Event 3 - Percent area irrigated
+Event 3 - Do you use source and pump default
+Event 4
+Event 4 - Total water added
+Event 4 - UOM Total water added
+Event 4 - Percent area irrigated
+Event 4 - Do you use source and pump default
+Event 5
+Event 5 - Total water added
+Event 5 - UOM Total water added
+Event 5 - Percent area irrigated
+Event 5 - Do you use source and pump default
+Event 6
+Event 6 - Total water added
+Event 6 - UOM Total water added
+Event 6 - Percent area irrigated
+Event 6 - Do you use source and pump default
+Event 7
+Event 7 - Total water added
+Event 7 - UOM Total water added
+Event 7 - Percent area irrigated
+Event 7 - Do you use source and pump default
+Event 8
+Event 8 - Total water added
+Event 8 - UOM Total water added
+Event 8 - Percent area irrigated
+Event 8 - Do you use source and pump default
+Event 9
+Event 9 - Total water added
+Event 9 - UOM Total water added
+Event 9 - Percent area irrigated
+Event 9 - Do you use source and pump default
+Event 10
+Event 10 - Total water added
+Event 10 - UOM Total water added
+Event 10 - Percent area irrigated
+Event 10 - Do you use source and pump default
+Has any part of this field been converted in the last 20 years
+Prior 1
+Prior 1 - Year of change
+Prior 1 - Allocation
+Prior 1 - Land Use From
+Prior 1 - Land Use To
+Prior 1 - Tillage from
+Prior 1 - Tillage To
+Prior 1 - Carbon Inputs from
+Prior 1 - Carbon Inputs to
+Prior 2
+Prior 2 - Year of change
+Prior 2 - Allocation
+Prior 2 - Land Use To
+Prior 2 - Tillage To
+Prior 2 - Carbon Inputs to
+Prior 3
+Prior 3 - Year of change
+Prior 3 - Allocation
+Prior 4
+Prior 4 - Year of change
+Prior 4 - Allocation
+Result *Seed production - (CO2)
+Result *Residue management (CO2)
+Result *Fertiliser production (CO2)
+Result *Soil - fertiliser (CO2)
+Result *Paddy methane (CO2)
+Result *Crop protection (CO2)
+Result *Carbon stock changes (CO2)
+Result *Energy use - field (CO2)
+Result *Energy use - processing (CO2)
+Result *Waste water (CO2)
+Result *Off-farm transport (CO2)
+Result *Seed production (N2O)
+Result *Residue management (N2O)
+Result *Fertiliser production (N2O)
+Result *Soil - fertiliser (N2O)
+Result *Paddy methane (N2O)
+Result *Crop protection (N2O)
+Result *Carbon stock changes (N2O)
+Result *Energy use - field (N2O)
+Result *Energy use - processing (N2O)
+Result *Waste water (N2O)
+Result *Off-farm transport (N2O)
+Result *Seed production (CH4)
+Result *Residue management (CH4)
+Result *Fertiliser production (CH4)
+Result *Soil - fertiliser (CH4)
+Result *Paddy methane (CH4)
+Result *Crop protection (CH4)
+Result *Carbon stock changes (CH4)
+Result *Energy use - field (CH4)
+Result *Energy use - processing (CH4)
+Result *Waste water (CH4)
+Result *Off-farm transport (CH4)
+Result *Seed production (CO2e)
+Result *Residue management (CO2e)
+Result *Fertiliser production (CO2e)
+Result *Soil - fertiliser (CO2e)
+Result *Paddy methane (CO2e)
+Result *Crop protection (CO2e)
+Result *Carbon stock changes (CO2e)
+Result *Energy use - field (CO2e)
+Result *Energy use - processing (CO2e)
+Result *Waste water (CO2e)
+Result *Off-farm transport (CO2e)
+Total GHG
+Result *Seed production - GHGton
+Result *Residue management - GHGton
+Result *Fertiliser production - GHGton
+Result *Soil - fertiliser - GHGton
+Result *Crop protection - GHGton
+Result *Carbon stock changes - GHGton
+Result *Energy use - field - GHGton`
+Result *Energy use - processing - GHGton
+Result *Waste water - GHGton
+Result *Off-farm transport - GHGton
+Total GHG ton
+Result *Seed production - GHGha
+Result *Residue management - GHGha
+Result *Fertiliser production - GHGha
+Result *Soil - fertiliser - GHGha
+Result *Crop protection - GHGha
+Result *Carbon stock changes - GHGha
+Result *Energy use - field - GHGha
+Result *Energy use - processing - GHGha
+Result *Waste water - GHGha
+Result *Off-farm transport - GHGha
+Total GHG ha
+Approval Status
+Remarks
+RemarkAPI
+Detail Incomplete
+Last sent date API
+CFT API Version
+Data Versioning
+LastModified by
+Last Updated

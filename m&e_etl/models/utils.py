@@ -15,19 +15,11 @@ def normalize_column_name(col: str) -> str:
     - Removing encoding artifacts (Â, �, etc.)
     - Stripping accents, special chars
     """
-    # Remove corrupted or smart quoted text like “Nescafe”
     col = re.sub(r'[“”"‘’\'].*?[“”"‘’\']', '', col)
 
-    # Remove known encoding artifacts
     col = col.replace('Â', '').replace('�', '')
-
-    # Normalize Unicode to ASCII
     col = unicodedata.normalize('NFKD', col).encode('ascii', 'ignore').decode('utf-8')
-
-    # Remove any remaining non-ASCII/control characters
     col = re.sub(r'[^\x20-\x7E]', '', col)
-
-    # Normalize whitespace
     col = re.sub(r'\s+', ' ', col)
 
     return col.strip()
@@ -88,7 +80,6 @@ def clean_column_names(df: pd.DataFrame) -> pd.DataFrame:
     df.columns = cleaned_cols
     return df
 
-# Example processing pipeline
 def process_dataframe(df: pd.DataFrame) -> pd.DataFrame:
     df = drop_empty_columns(df)
     df = clean_column_names(df)  # <-- Ensures final column names are fully cleaned

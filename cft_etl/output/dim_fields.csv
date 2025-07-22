@@ -1,0 +1,38 @@
+field_id,field_name,specialization,size,intensity,converted_flag
+1,sandy (coarse),Arable / Cereal,Medium (16 to 40 ESU),Medium,
+2,rẫy,Arable / Specialised crops,,,Yes
+3,,,,,
+4,rẫy,,,,No
+5,rẫy,Permanent crops,,,No
+6,Rẫy,Permanent crops,,,No
+7,rẩy,Permanent crops,,,No
+8,,Permanent crops,,,No
+9,ru1eaby,Permanent crops,,,No
+10,rẫy,Permanent crops,,,Yes
+11,,Permanent crops,,,
+12,rẫy,Permanent crops,,,
+13,rẫy,Arable / Specialised crops,,,No
+14,rẫy,Permanent crops,Small (less than 16 ESU),Low,No
+15,rây,Permanent crops,Small (less than 16 ESU),Low,No
+16,rẩy,Permanent crops,0,0,No
+17,rẫy,Permanent crops,0,0,No
+18,rẩy,,,,No
+19,rẫy,,,,
+20,ru1ea9y,Permanent crops,,,No
+21,dvcx,,,,
+22,rẫy,Permanent crops,0,0,
+23,rẩy,,,,
+24,rẩy,Permanent crops,,,Yes
+25,rẩy,Permanent crops,0,0,Yes
+26,,,,,No
+27,rẩy,Permanent crops,Small (less than 16 ESU),Low,No
+28,rẫy,Arable / Specialised crops,,,
+29,rẫy,Permanent crops,Small (less than 16 ESU),Medium,No
+30,râtx,Permanent crops,Small (less than 16 ESU),Low,No
+31,rẫy,Permanent crops,0,0,Yes
+32,rẫy,Arable / Cereal,0,,
+33,ru1eaby,Permanent crops,0,,No
+34,rẫy,,,,Yes
+35,,Arable / Cereal,,,
+36,rẩy cà phê,Permanent crops,0,0,No
+37,,Permanent crops,,Low,
