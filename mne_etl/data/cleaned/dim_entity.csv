@@ -1,0 +1,343 @@
+entity_id,entity_name,farm_id,gender,year_of_birth,relation_to_entity,lead_farmer,local_group
+1470157558564695309,nguyu1ec5n vu0103n minh,-,Male,1968.0,Owner,True,sucafina và h?i nông dân
+1470157558564695295,Nguyu1ec5n Ngu1ecdc phu00e1p,,Male,1978.0,Owner,False,sucafina
+1470157558564694946,vu0169 phu01b0u01a1ng nam,-,Male,1967.0,Owner,True,sucafina
+1470157558564695057,k nu1ed5i,,Male,1980.0,Owner,True,sucafina
+1470157558564694699,Huy Pham Van,-,Female,1962.0,Owner,True,sucafina
+1470157558564694968,cao vu0103n vinh,-,Male,1964.0,Owner,False,sucafina
+1470157558564694704,Linh Tran Thi Ngoc,,Male,1969.0,Owner,True,sucafina
+1470157558564695065,u0111u1ed3ng thu1ecb nhung,-,Female,1968.0,Owner,True,sucafina và h?i ph? n?
+1470157558564694989,du01b0u01a1ng cu00f4ng biu00ean,,Male,1961.0,Owner,True,sucafina
+1470157558564695215,Nguyu1ec5n bu00e1 tu00f2ng,-,Male,1987.0,Owner,False,sucafina
+1470157558564694714,Ngo Van Diep,,Male,1992.0,Owner,True,sucafina
+1470157558564694722,Hoc Pham Van,-,Male,1965.0,Owner,False,sucafina
+1470157558564694903,tru1ea7n vu0103n tuu00e2n,-,Male,1977.0,Owner,True,sucafina và h?i nông dân t?p th?
+1470157558564694972,liu00ean nguyu00ean thi,-,Female,1957.0,Owner,False,sucafina
+1470157558564694797,Hung Bui Duy,,Male,1973.0,Owner,True,sucafina
+1470157558564695074,Hoang Dinh Gia,-,Male,1969.0,Owner,True,sucafina
+1470157558564694799,Truong Ngo Xuan,-,Male,1970.0,Owner,False,sucafina
+1470157558564695163,u0111inh vu0103n hiu1ec3n,-,Male,1964.0,Owner,True,su ca fi na
+1470157558564695952,Nguyu1ec5n Thu1ecb Thoa,-,Female,1962.0,Owner,False,"sucafina, Nông Dân"
+1470157558564695873,Nguyu1ec5n vu0103n quang,-,Male,1991.0,Owner,False,sucafina
+1470157558564695063,Chat Tran Van,-,Male,1969.0,Owner,False,sucafina
+1470157558564695879,Tru1ea7n thu1ecb Thu00fay,-,Female,1973.0,Owner,False,sucafina
+1470157558564696002,Hu1ed7 u0110u00ecnh Tu00ednh,,Male,1952.0,Owner,True,sucafina
+1470157558564695991,Nguyu1ec5n Thu1ecb Chu00e0m,-,Female,1961.0,Owner,True,sucafina
+1470157558564695965,mai tru1ecdng phu01b0u01a1ng,-,Male,1979.0,Owner,False,sucafina
+1470157558564695118,tru1ea7n quu1ed1c vu01b0u01a1ng,,Male,1976.0,Owner,True,sucafina
+1470157558564694820,Sanh Nguyen Viet,,Male,1974.0,Owner,True,sucafina
+1470157558564695191,Truong Do Manh,-,Male,1978.0,Owner,True,sucafina
+1470157558564695739,hou00e0ng trung thu00f4ng,,Male,1964.0,Owner,False,sucafina
+1470157558564695307,Phu1ea1m thu1ecb Thuu1ef7,-,Male,1982.0,Owner,True,sucafina
+1470157558564695573,Vu0169 Viu1ebft Mu1ef1c,-,Male,1962.0,Owner,True,"sucafina, h?i nông dân"
+1470157558564695554,Lu01b0u01a1ng Thu1ecb Chiu00ean,-,Male,1987.0,Owner,False,suca fina + h?i nông dân
+1470157558564695390,Hoang Pham Van,-,Female,1986.0,Owner,False,sucafina
+1470157558564695569,u0111u1eb7ng vu0103n tuu1ea5n,-,Male,1986.0,Owner,True,"sucafina, h?i nông dân t?p th?"
+1470157558564695558,nguyu1ec5n vu0103n thuu1ea9n,-,Male,1965.0,Owner,True,sucafina
+1470157558564695628,Nguyu1ec5n Thu1ecb Vu1ea7n,-,Female,1969.0,Owner,True,"su ca fi na, h?i nông dân cà phê s?ch"
+1470157558564695562,vu0103n vu01b0u01a1ng,-,Male,1980.0,Owner,True,sucafina
+1470157558564695658,k xuu00e2n,-,Male,1976.0,Owner,True,sucafina
+1470157558564695386,Nga Mai Duc,-,Male,1986.0,Owner,False,sucafina
+1470157558564695504,Lai Nguyen Xuan,-,Female,1980.0,Owner,False,suca fina
+1470157558564695096,nguyu1ec5n vu0103n su1eed,-,Male,1980.0,Owner,True,sucafina
+1470157558564695337,Tan Le Van,-,,,,,
+1470157558564695889,,,,,,,
+1470157558564695757,-,-,Male,1972.0,Owner,False,
+1469278379854639222,,,Male,1956.0,Owner,False,
+1469278379854639342,K ??uh,,Male,1975.0,Owner,,
+1469278379854638502,Bùi Trung ??ng,,Male,1959.0,Owner,,
+1469278379854638316,Tr?n Quang Tri?u,,Male,1964.0,Owner,,
+1469883818362504539,Ph?m V?n L?nh,,Male,1968.0,Owner,,
+1469278379855013128,Nguy?n V?n L??ng,,Male,1976.0,Owner,,không
+1469278379855012334,Nguy?n V?n H?u,,,,,,
+1469278379855013186,?? V?n T?ng,,Male,1982.0,Owner,,"h?i nông dân, cuu chi?n binh"
+1469883818362504743,Lê Ti?n L?c,,Male,1972.0,Owner,False,
+1469278379854782274,Phan Nguy?n Thùy D??ng,,Female,1987.0,Owner,,
+1469278379855014872,Ph?m V?n T?ng,,Male,1976.0,Owner,,h?i nông dân
+1469278379855004447,Tr?n V?n Hòa,,Male,1969.0,Owner,,
+1469278379854781944,??ng V?n H?nh,,Male,1979.0,Owner,,không
+1469278379854781789,Tr?n Th? Hu?,,Female,1981.0,Owner,,
+1469278379854781780,Nguy?n V?n C??ng,,Male,1974.0,Owner,,không
+1469278379855014611,?ào V?n Minh,,Male,1967.0,Owner,,"h?i nông dân, h?i cuu chiên binh"
+1469278379855014782,Nguy?n V?n Hùng,,Male,1960.0,Owner,,
+1469278379855013420,Nguy?n Th? ?ào,,Male,1977.0,Owner,False,không
+1469278379855013426,Nguy?n Kh?c C??ng,,Male,1969.0,Owner,False,
+1469278379855008977,Lê Ng?c ???c,,Male,1957.0,Owner,False,h?i ng cao tu?i
+1469278379854782189,Tr?n V?n Khuê,,Male,1960.0,Owner,,
+1469883818362504707,Ph?m Hoàng Hi?n,,Male,1984.0,Owner,,
+1469278379855004763,Nguy?n T?t Lâm,,Male,1977.0,Owner,False,h?i nông dân xã
+1469278379854782176,Ch?c Cún Kíu,,Female,1979.0,Owner,True,không
+1469278379855013194,Võ Th? Niêm,,Female,1966.0,Owner,False,h?i ng??i cao tu?i
+1469278379854783010,Bùi Th? Liên,,Female,1975.0,Owner,,
+1469278379855012739,R? Châm A Rung,,Male,1973.0,Owner,,
+1469278379854783130,Ph?m V?n ??ng,,Male,1979.0,Owner,,
+1469278379855009281,Nguy?n Ng?c H??ng,,Male,1966.0,Owner,False,
+1469883818362505057,Lê Th? Hu?,,Female,1959.0,Owner,,
+1469278379854782955,Tr?n ?ình V?n,,Male,1978.0,Owner,,
+1469278379854782066,Cù Th? Thu H??ng,,Female,1995.0,Owner,,
+1469278379854782983,Lê Minh Phúc,,Male,1972.0,Owner,False,
+1469278379855009775,Mai Ng?c S?n,,Female,1973.0,Owner,False,không
+1469278379854781982,Tr?n Ng?c Anh,,Male,1976.0,Owner,,h?i nông dân ??a ph??ng
+1469883818362504785,Bùi Qu?c D?ng,,Male,1979.0,Owner,,không
+1469278379854782311,Nguy?n V?n T?nh,,Male,1968.0,Owner,,
+1469883818362504788,?? Công C??ng,,Male,1966.0,Owner,,không
+1469278379854782873,Nguy?n Xuân Phúc,,Male,1975.0,Owner,,
+1469278379855013487,Nguy?n V?n Khang,,Male,1978.0,Owner,,không
+1469278379854782303,Tr??ng V?n D?,-,Male,1966.0,Owner,,
+1469278379854782330,Tr?n ?ình D?ng,,Male,1976.0,Owner,,không
+1469278379855013538,Ngô Nh? Nôm,,Male,1959.0,Owner,False,h?i nông dân
+1469278379854677182,?inh V?n Trình,,Male,1972.0,Owner,True,-
+1469278379854782765,??ng Hoàng Minh,,Male,1975.0,Owner,,
+1469278379854677051,Nguy?n Th? Công,,Female,1971.0,Owner,False,h?i nông dân thôn 6
+1469278379855012279,Ph?m Th? Loan,,Female,1965.0,Owner,,
+1469278379854782856,??ng V?n H?n,,Male,1983.0,Owner,,
+1469278379855009590,Uông V?n Chi?n,,Female,1951.0,Owner,False,h?i c?u chi?n binh
+1469278379854677054,Tr?n V?n Công,,Male,1983.0,Owner,,
+1469278379855012573,?? V?n C??ng,,Female,1977.0,Owner,,h?i nông dân
+1469278379854783229,Ph?m V?n L?u,,Male,1975.0,Owner,,
+1469278379854781962,Tr?n Th? Ngh?a,,Female,1976.0,Owner,,không
+1469278379854677037,H? ?ình Liêm,,Male,1984.0,Owner,False,
+1469278379855012570,Ph?m V?n Loát,,Male,1964.0,Owner,,h?i nông dân
+1469883818362504744,Vi V?n Ti?n,,Male,1976.0,Owner,True,không
+1469278379855012184,H? Th? Th?ng,,Female,1968.0,Owner,False,"h?i nd, ph? n?"
+1469883818362504715,Tr??ng Th? Thu Th?y,,Female,1988.0,Owner,,
+1469278379854783135,Tr?n ?Ình Hoàng,,Male,1998.0,Owner,,
+1469278379855012158,Nguy?n V?n Du?n,,Male,1967.0,Owner,,h?i nông dân
+1469278379854783115,Lê H?u Bình,,Male,1969.0,Owner,False,
+1469278379854782426,Ph?m Quang S?n,,Male,1975.0,Owner,,h?i nông dân thôn 7
+1469278379855013057,Puih X?p,,Male,1977.0,Owner,,h?i nông dân
+1469278379854783104,Tr?n V?n N?,,Male,1982.0,Owner,,
+1469278379854782419,Nguy?n Th? Thu?n,,Female,1960.0,Owner,,
+1469278379855009927,Nguy?n Th? Chích,-,Female,1958.0,Owner,False,h?i cao tu?i
+1469278379854677226,?? ?ình Chung,,Male,1974.0,Owner,,
+1469278379855012818,Tr?n Th? M? Di?m,,Female,1991.0,Owner,,"h?i nd, ph? n?"
+1469278379854677162,Nông V?n Ty,,Male,1980.0,Owner,,
+1469278379854782733,Tr?n V?n Hu?nh,,Male,1980.0,Owner,,không
+1469278379854677174,Chu V?n Ngán,,Male,1992.0,Owner,,
+1469278379854783053,Nguy?n H?u Tr?ng,,Male,1967.0,Owner,False,
+1469278379854782727,Tr?n V?n T?p,,Male,1971.0,Owner,,không
+1469278379855013676,Phan Th? Hi?n,,Female,1976.0,Owner,,hôi ph? n?
+1469278379855013697,Nguy?n Tu?n Anh,,Male,1978.0,Owner,False,
+1469278379854782243,Nguy?n Th? Kim Vy,,Female,1981.0,Owner,,
+1469278379855012382,Nguy?n ??c Trung,,Male,1960.0,Owner,False,h?i nông dân
+1469278379854783211,Tr?n V?n S?n,,Male,1976.0,Owner,,
+1469278379855012339,Lê ?ình Khang,,,1959.0,Owner,False,không
+1469278379854783216,Võ T?,,Male,1947.0,Owner,False,
+1469278379855012856,Phan Th? Nhung,,Female,1970.0,Owner,,hôi nd
+1469278379855013932,Hoàng B?o Vi?t,,Male,1994.0,Owner,False,
+1469278379855013152,Nguy?n V?n Ph?i,,Male,1966.0,Owner,,
+1469278379855014007,Phùng V?n Ngh?a,,Male,1969.0,Owner,,h?i nông dân
+1469278379855013593,D??ng V?n Tuy?n,,Male,1961.0,Owner,,h?i c?u chi?n binh
+1469278379855013826,Hoàng H?i ??ng,,Male,1977.0,Owner,,hoiij nông dân
+1469278379855012881,Tr?n Th? Th?m,,,,,,
+1469278379855013861,Nguy?n Th? H??ng,,Female,1969.0,Owner,,"h?i nông dân, h?i ph? n? xã"
+1469278379855013563,Lê V?n Ba,,Male,1959.0,Owner,True,h?i nông dân c?a thôn Ia Yok
+1469278379855012835,D??ng Th? Hu?,,Female,1972.0,Owner,,"h?i nông dân, ph? n?"
+1469278379855009880,Hoàng Thanh Tu?n,,Male,,Owner,,
+1469278379855009844,Ngô ??c Th?c,,Male,1965.0,Owner,False,h?i nông th? tr?n
+1469278379855009842,L??ng Xuân Khiên,,Male,1969.0,Owner,False,
+1469278379854641911,K Br?p,,Male,1981.0,Owner,False,
+1469278379855005159,R? Lan Hren,,Male,1987.0,Owner,,
+1469278379855008338,Nguy?n Ng?c Sáng,,Male,1976.0,Owner,False,
+1469278379854638788,Nguy?n Minh Hòa,,Male,1970.0,Owner,False,
+1469278379855008185,Lê Th? Minh H?ng,,Female,1965.0,Owner,False,
+1469278379855009021,Ph?m Th? S?n,,Female,1975.0,Owner,,h?i ph? n?
+1469278379855004887,Nguy?n Quang Tuy?n,,Male,1968.0,Owner,False,h?i nông dân thôn
+1469278379854638847,Tr?n M?nh Ho?t,,Male,1977.0,Owner,,h?i nông dân
+1469278379855004785,??ng ?ình Thân,,Male,1952.0,Owner,,"h?i c?u chién binh, h?i nông dân"
+1469278379855004825,?? H?ng ?i?p,,Male,1993.0,Owner,,h?i nông dân xóm
+1469278379855014199,Võ Th? H??ng,,Female,1962.0,Owner,,h?i nông dân thôn tu?h klah
+1469278379855014401,H? Th? H?i,,Male,1983.0,Owner,False,
+1469278379854640837,Nguy?n V?n Ngh?,,Male,1955.0,Owner,,
+1469278379855014074,Tr?n Xuân Long,,Male,1979.0,Owner,,
+1469278379854639556,K Ngheoh,,Male,1963.0,Owner,False,
+1469278379854640166,Tr?n Mai Loan,,Female,1979.0,Owner,,
+1469883818362504681,Nguy?n Th? Ph??ng,,Female,1981.0,Owner,,
+1469278379855014088,Phùng Th? H?nh,,Female,1973.0,Owner,,
+1469278379855014073,Ph?m Th? L?,,Female,1967.0,Owner,,
+1469278379855014104,Nguy?n Ti?n Qu?c,,Male,1987.0,Owner,,
+1469278379855014345,Nguy?n H?i,,Male,1961.0,Owner,False,
+1469883818362504890,Tr?n Thanh Ngh?a,,Male,1981.0,Owner,,Thành viên h?p tác xã ia ring
+1469278379855014289,Nguy?n Kim Hùng,,Male,1966.0,Owner,,
+1469278379854641656,H? A T?c,,,1980.0,Owner,,
+1469278379854642031,Ka H?ng,,Female,1987.0,Owner,False,
+1469278379855008648,H? Quang Toàn,,Male,1976.0,Owner,False,h?p tác xã ia ring
+1469278379855008633,Nguy?n Th? D??ng,,Female,1997.0,Owner,False,
+1469278379854639991,K ?i?u,-,Male,1973.0,Owner,False,h?i nông dân
+1469883818362504409,K Na,-,Female,1963.0,Owner,False,
+1469278379855014643,V? V?n Hi?p,,Male,1976.0,Owner,False,H?i nông dân c?a Thôn
+1469278379855009318,Nguy?n T?t Ti?n,,Male,1970.0,Owner,,
+1469278379854638141,Tr??ng V?n H?c,-,Male,1973.0,Owner,False,
+1469278379855009319,H? Th? V?,,Male,1969.0,Owner,,
+1469278379854640735,Bùi Th? H??ng,,Female,1962.0,Owner,,
+1469278379855008002,Rmah Prinh,,Male,1965.0,Owner,,
+1469278379855009390,Tr?n V?n B?,,Male,1978.0,Owner,,
+1469278379854638365,Bùi Th? Ba,,Female,1969.0,Owner,True,-
+1469278379854641789,??ng Th? Th?y,,Female,1984.0,Owner,,
+1469278379854642507,V? Th? ??nh,,Female,1961.0,Owner,False,"h?i nông dân, vietgap"
+1469278379854641951,Ka Hi?n,-,Female,1993.0,Owner,False,
+1469278379855008000,Rmah L?m,,Male,1973.0,Owner,,
+1469278379854642852,Hoàng S? S?,,Male,1977.0,Owner,False,nông dân thôn
+1469278379854638345,Nguy?n ??c Th?,-,Male,1977.0,Owner,False,không
+1469278379854638306,Nguy?n Th? Nguyên,,Male,1947.0,Owner,,
+1469278379855004840,Tr?n V?n ?ông,,Male,1971.0,Owner,,
+1469278379854642720,Nguy?n Th? ??nh,,Male,1978.0,Owner,False,h?i nông dân
+1469278379855005225,Nguy?n Th? Trang,,Female,1966.0,Owner,,Chi h?i nông dân thôn tây h?
+1469278379855005212,Tr?n Xuân Th?nh,-,Male,1965.0,Owner,,
+1469278379854638332,Tr??ng Th? Kim Dung,,Male,1977.0,Owner,False,h?i nông dân
+1469278379854642963,Nguy?n Th? H?ng,-,Female,1979.0,Owner,False,h?i nông dân
+1469278379854638287,Phan Xuân Hào,,Male,1977.0,Owner,,
+1469278379855005276,Nguy?n Th? Vê,,Female,1963.0,Owner,,
+1469278379855005249,Bùi Qu?c Ph??ng,,Male,1989.0,Owner,,
+1469278379854642946,Kh?ng V?n Trang,-,,,,,
+1469278379855008686,Puih Blip,,Male,1966.0,Owner,,
+1469278379855008072,Lê C?,,Male,1954.0,Owner,False,h?i cao tu?i
+1469278379855005043,Lê Th? V?ng,,Female,1963.0,Owner,False,nhóm cà phê 27 thanh bình bình giáo
+1469278379854641146,K Gass,,Male,1982.0,Owner,False,
+1469278379855005002,Bùi Th? Nhung,,Female,1966.0,Owner,,
+1469278379855005032,Nguy?n V?n Minh,,Male,1984.0,Owner,,
+1469278379855005028,Nguy?n Cao Hùng,,Male,1984.0,Owner,False,
+1469278379854640452,?? Chí Hi?u,,Male,1986.0,Owner,,
+1469278379854638593,Nguy?n Tr?ng Kiên,,Male,1974.0,Owner,,
+1469278379855008702,Puih Pluih,,Female,1956.0,Owner,,
+1469278379854639859,L??ng Kh?c Thanh,,Male,1985.0,Owner,False,dám ??c h?p tác xã
+1469278379854638512,?inh V?n V?,,Male,1989.0,Owner,,
+1469278379854641222,Ka Li?u,,Female,1991.0,Owner,False,
+1469278379854639942,Thái Trung Du?,,Male,1982.0,Owner,,không
+1469278379854638490,Hoàng Duy Dinh,,Male,1953.0,Owner,False,
+1469278379854638519,Nguy?n Th? Vinh,,Female,1968.0,Owner,,
+1469278379854638792,Tr?n H?ng Phong,,Male,1990.0,Owner,,h?i nông dân ch? th?p ??
+1469278379854642831,Chu Th? Oanh,,Female,1961.0,Owner,,h?i nông dân
+1469278379854639534,K Brin,-,Male,1983.0,Owner,False,
+1469278379854638214,Phan Thanh ??m,,Male,1972.0,Owner,,
+1469278379854639354,K' Niêm,,Male,1970.0,Owner,False,
+1469278379854638432,Tr?n V?n Minh,,Male,1979.0,Owner,,
+1469278379854639362,Nguy?n V?n Quy?n,,Male,1982.0,Owner,,
+1469278379854638434,Lê Thanh Hà,,Male,1970.0,Owner,False,
+1469278379854639448,Ka D?p,,,,,,
+1469278379854639340,K Gi?h,,Male,1950.0,Owner,False,h?i ng??i cao tu?i
+1469278379854638373,Nguy?n S? Thành,,,0.0,Owner,,
+1469278379854639445,K Vinh,-,Male,1983.0,Owner,False,h?i nông dân ? thôn
+1469278379854639420,K Biôs,,Male,1976.0,Owner,False,
+1469278379854642243,Võ Thanh Nhàn,,Male,1977.0,Owner,False,
+1469278379854642131,Lê V?n Môn,,Male,1973.0,Owner,False,
+1469278379854639686,K Nos,,Male,1968.0,Owner,False,
+1469278379854642125,V? Ng?c Nhâm,,Male,1972.0,Owner,False,
+1469278379854640951,Nguy?n V?n Ph??ng,,Male,1960.0,Owner,,không
+1469278379854642215,Hu?nh Ng?c Hu?,,Male,1983.0,Owner,False,
+1469278379854640079,Nguy?n V?n ?ông,,Male,1993.0,Owner,,
+1469278379854642194,??ng V?n C?,,Male,1940.0,Owner,,
+1469278379854640971,Ph?m V?n Vinh,,Male,1984.0,Owner,,không
+1469278379854640065,Nguy?n Th? Kim Ngân,,Female,1979.0,Owner,,
+1469278379854642173,??ng V?n Xuân,,Male,1968.0,Owner,,h?i nông dân t?p th?
+1469278379854641215,K S?t,-,Male,1972.0,Owner,False,
+1469278379854640961,K Griin,,Male,1993.0,Owner,False,không
+1469278379854640900,Tr?n ??c M?nh,,Male,1972.0,Owner,,h?i m?kar
+1469278379854642890,Ngô Quang Trung,,Male,1975.0,Owner,False,
+1469278379854640339,Tr?n ?ình ??o,,Male,1971.0,Owner,,không
+1469278379854643031,Tr?n V?n Nguy?n,,Male,1975.0,Owner,,h?i nông dân thôn
+1469278379854641605,V? V?n ?áng,,Male,1970.0,Owner,False,
+1469278379854640257,H? Th? Lý,,Male,1963.0,Owner,False,không
+1469278379854643043,Nguy?n V?n C?,,Female,1958.0,Owner,,
+1469278379854641569,Nguy?n V?n Ho?n,,Male,1965.0,Owner,,
+1469278379854642073,Ph?m V?n Ninh,,Male,1979.0,Owner,,
+1469278379854642301,?ào Quang Lành,,Male,1959.0,Owner,,
+1469278379854640613,K Br?i,-,Male,1960.0,Owner,False,không
+1469278379854642479,Nguy?n Minh Toàn,-,Male,1987.0,Owner,False,
+1469278379854640625,K S?,,Male,1979.0,Owner,False,không
+1469883818362505174,Tr?n V?n Phúc,,Male,1998.0,Owner,,
+1469278379855039037,D??ng V?n ??c,,Male,1980.0,Owner,,
+1469278379855040664,Nguy?n V?n Tu?n,,Male,1977.0,Owner,,
+1469278379855036915,H Yin By?,,Female,1983.0,Owner,False,
+1469278379855037067,Nguy?n Th? Ngh?,,Female,1977.0,Owner,,
+1469278379855038019,Ngô Tùng Lâm,,Male,1953.0,Owner,False,
+1469278379855037842,Nguy?n V?n Tu?n,,Male,1972.0,Owner,,
+1469278379855040862,Phan Bá Trà,,Male,1958.0,Owner,,
+1469278379855038442,h juin h??k,,Female,1973.0,Owner,,h?i nông dân ph??ng thành nh?t
+1469278379855004727,,,,,,,
+1469278379855040212,Y Men Niê,,Male,1977.0,Owner,False,
+1469278379855039053,Hoàng V?n Tuy?n,,Male,1968.0,Owner,False,
+1469278379855038729,Nông V?n Hòa,,Male,1971.0,Owner,,
+1469278379855038358,Tr??ng V?n Ph??ng,,Male,1974.0,Owner,False,H?i nông dân xã
+1469278379855037425,L??ng Vi?t Quý,,Male,1977.0,Owner,False,
+1469278379855038409,Xa Th? Nguy?t,,Female,1981.0,Owner,,H?i nông dân nhóm ch?n nuôi và nestle
+1469278379855039084,Nguy?n Th? ph??ng,,Male,1987.0,Owner,False,
+1469278379855040001,Tr?n Trí Di?m,,Male,1968.0,Owner,,
+1469278379855038668,Y Niên Aliô,,Male,1985.0,Owner,False,h?i nông dân
+1469278379855009580,,,,,,,
+1469278379855040455,H Ri By?,,Female,1984.0,Owner,False,
+1469278379855040422,H N?p Êban,,Female,1979.0,Owner,False,
+1469278379855039608,Nguy?n Xuân Lai,,Male,1989.0,Owner,,h?i nông dân
+1469278379855038830,Y Huet H Wiêng,,,,Owner,,
+1469278379855039042,Nguy?n Xuân ??c,,Female,1985.0,Owner,,h?i nông dân
+1469883818362505115,H Jia Kp?r,,Female,1982.0,Owner,False,-
+1469883818362505118,H Djum H??k,,Female,1963.0,Owner,False,-
+1469278379855038999,Lê Th? H?i,,Male,1946.0,Owner,False,
+1469278379855039728,Y Myun Niê,,Male,1973.0,Owner,False,
+1469278379855039878,Y Tuk Adr?ng,,Male,1958.0,Owner,False,
+1469278379855038499,Y N? Ê ban,,Male,,Owner,,
+1469278379855039832,?oàn V?n Vinh,,Male,1976.0,Owner,,
+1469278379855037698,Tr?n V?n Minh,,Male,1967.0,Owner,,không
+1469278379855037177,?ào Th? Thu,,Female,1977.0,Owner,,
+1469278379855037185,Hoàng Vi?t D?ng,,Male,1967.0,Owner,False,
+1469278379855040741,L??ng V?n Lâm,,Male,1983.0,Owner,False,không
+1469278379855037201,Tr?n Danh Tú,,,,,,
+1469278379855039787,H Mer Bkrong,,Female,1981.0,Owner,,
+1469278379855040252,Nguy?n Ph?c H?ng,,Male,1955.0,Owner,False,
+1469278379855040132,??u Quang H?nh,,Male,1967.0,Owner,,
+1469278379855039488,?inh Công V??ng,,Male,1964.0,Owner,,h?i nông dân
+1469278379855040307,Nguy?n Th? H?ng Chinh,,Female,1975.0,Owner,False,
+1469278379855039486,?inh Th? C??ng,,Male,1977.0,Owner,True,h?i nông dân
+1469278379855040352,Y Nôn Ênuôl,,Female,0.0,Owner,,
+1469278379855039407,Hoàng V?n Hà,-,Male,1978.0,Owner,False,h?i nông dân t?p th? thôn cao th?ng
+1469278379855040432,Y j? Ê ban,,Male,1956.0,Owner,False,tiêu b?n v?ng
+1469278379855038122,Nguy?n Minh Hùng,-,Male,1959.0,Owner,False,c?u thanh niên xung phong
+1469278379855040242,Y Bun Ênuôl,,Female,1973.0,Owner,False,không
+1469278379855039629,Bùi V?n Bình,,Male,1969.0,Owner,,
+1469883818362505224,Lê ?úng,,Male,1979.0,Owner,False,h?i nông dân xã qu?ng hi?p
+1469278379855040198,H Djuang Êban,,Male,1977.0,Owner,True,-
+1469278379855040099,Nguy?n Minh Trí,,Male,1969.0,Owner,False,h?i viên h?i nông dân
+1469278379855038070,Nguy?n Trung,,Male,1985.0,Owner,,không
+1469278379855038552,?inh Th? Út,,Female,1964.0,Owner,,h?i nông dân
+1469278379855038690,Ph?m Doãn Trung,,Male,1973.0,Owner,,Chi h?i nông dân thôn ME tha 1a
+1469278379855037403,Nguy?n Quang Chinh,-,Male,1964.0,Owner,False,
+1469278379855038672,H Yuan Hwing,-,Female,1983.0,Owner,False,h?i nông dân
+1469278379855037409,Võ V?n Tý,-,,1954.0,Owner,,
+1469278379855037416,Tr?n V?n Bình,,Male,1975.0,Owner,,H?i nông dân
+1469278379855037520,Y J?t By?,,Male,1957.0,Owner,False,
+1469278379855037251,Nguy?n ?ình T?,,,,,,
+1469278379855040589,Lê Th? Gi?u,,Male,1977.0,Owner,False,
+1469278379855036998,??ng V?n S?,,Male,1974.0,Owner,,h?i nông dân t?p th?
+1469278379854782610,,,Female,1979.0,Owner,True,-
+1469278379855039342,Nguy?n Trung Th?c,,Male,1973.0,Owner,,không
+1469278379855037024,Cao Ng?c Khanh,,,,,False,
+1469278379855039320,M?c V?n Mùi,,,,,,
+1469278379855036851,h den brong,,Male,1977.0,Owner,False,
+1469278379855036956,Lê ??ng Khánh,,Male,1977.0,Owner,False,h?i nông dân
+1469278379855012202,Ph?m Th? Ph??ng,,,,,,
+1469278379855037391,Tr?nh Công Quý,,Male,1977.0,Owner,False,
+1469278379854640502,Nguy?n Duy Chinh,,Male,1967.0,Owner,False,
+1469278379854640527,Nguy?n V?n Nga,,Male,1984.0,Owner,False,h?i nông dân
+1469278379855013741,Tr?n V?n H?nh,,,,,,
+1469278379855039900,Y L?t Bkrông,,,,,,
+1469278379855040542,,,,,,,
+1469278379855004500,,,,,,,
+1469278379855004491,,,,,,,
+1469278379854641314,K H?ng,,Male,1970.0,Owner,False,h?i nông dân c?a nescafe
+1469278379855036603,H? V?n Th?ng,-,Male,1964.0,Owner,True,
+1469278379855037069,,,,,,,
+1469278379855037183,??u Th? Thành,,Female,1973.0,Owner,False,hôi ph? n? c?a cong ty
+1469278379855037071,Mai Th? Nhung,,Female,1982.0,Owner,,h?i ph? n?
+1469278379855036960,Nguy?n V?n Minh,0,,,,,
+1469278379855036789,Nguy?n Th? Li?u,,,,,,
+1469278379855037002,Nguy?n Th? Lan,,,,,,
+1469278379855036719,D??ng Thanh Sâm,,Male,1977.0,Owner,True,
+1469278379855036643,,,,,,,
+1469278379855009751,Bùi Vi?t Phong,,Male,1966.0,Owner,,h?i nông dân
+1469278379855004455,Nguy?n Cao Sanh,,,,,,
+1469278379855004533,,,,,,,
+1469278379855040784,S?m V?n Qu?n,,Male,1959.0,Owner,False,
+1469278379855004487,,,,,,,
+1469278379855038127,,,,,,,
+1469278379855004451,,,,,,,
+1469278379854782766,,,,,,,

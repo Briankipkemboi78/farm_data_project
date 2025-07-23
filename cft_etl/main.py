@@ -6,7 +6,7 @@ from etl.dims import (
 )
 from etl.facts import (
     results, emissions, audit, land_use,co_product,
-    energy_use
+    energy_use, fertilizer_input
 )
 
 def load_data(file_path: str) -> tuple:
@@ -22,9 +22,17 @@ def load_data(file_path: str) -> tuple:
     df_energy = pd.read_excel(file_path, sheet_name='Energy Usage')
     df_energy = clean_dataframe(df_energy)
 
-    return df_main, df_co_product, df_energy
+    df_fertilizer_input = pd.read_excel(file_path, sheet_name='Fertilizer Inputs')
+    df_fertilizer_input = clean_dataframe(df_fertilizer_input)
 
-def run_etl_pipeline(df_main: pd.DataFrame, df_co_product: pd.DataFrame, df_energy: pd.DataFrame) -> dict:
+
+    return df_main, df_co_product, df_energy, df_fertilizer_input
+
+def run_etl_pipeline(
+        df_main: pd.DataFrame, 
+        df_co_product: pd.DataFrame, 
+        df_energy: pd.DataFrame,
+        df_fertilizer_input: pd.DataFrame) -> dict:
     dim_entities_df = entities.build_dim_entities(df_main)
     entity_lookup = dict(zip(dim_entities_df['entity_system_id'], dim_entities_df['entity_id']))
 
@@ -48,5 +56,6 @@ def run_etl_pipeline(df_main: pd.DataFrame, df_co_product: pd.DataFrame, df_ener
         # Facts (auxiliary sheets)
         'fact_co_product': co_product.build_fact_co_product(df_co_product, entity_lookup),
         'fact_energy_usage': energy_use.build_fact_energy_usage(df_energy, entity_lookup),
+        'fact_fertilizer_input': fertilizer_input.build_fact_fertilizer_input(df_fertilizer_input, entity_lookup),
     }
 

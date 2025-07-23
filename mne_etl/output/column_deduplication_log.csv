@@ -1,0 +1,199 @@
+base_column,original_column,kept
+Entity ID,Entity ID,True
+System ID,System ID,True
+Entity Name,Entity Name,True
+Unit,Unit,True
+Country,Country,True
+Data Created,Data Created,True
+Date of The Data Collection,Date of The Data Collection,True
+Year of reporting,Year of reporting,True
+Enumerator,Enumerator,True
+Interviewee/Person,Interviewee/Person,True
+Assessment name,Assessment name,True
+Previous M&E assessment(s),Previous M&E assessment(s),True
+Year of previous M&E assessment(s) - 2018,Year of previous M&E assessment(s) - 2018,True
+Year of previous M&E assessment(s) - 2019,Year of previous M&E assessment(s) - 2019,True
+Year of previous M&E assessment(s) - 2020,Year of previous M&E assessment(s) - 2020,True
+Year of previous M&E assessment(s) - 2021,Year of previous M&E assessment(s) - 2021,True
+Year of previous M&E assessment(s) - 2022,Year of previous M&E assessment(s) - 2022,True
+Year of previous M&E assessment(s) - 2023,Year of previous M&E assessment(s) - 2023,True
+Currency,Currency,True
+Area unit,Area unit,True
+Volume unit,Volume unit,True
+Species - Arabica,Species - Arabica,True
+Species - Robusta,Species - Robusta,True
+Species - Liberica,Species - Liberica,True
+Entity picture,Entity picture,True
+Farmer signature,Farmer signature,True
+Data collection cant be completed,Data collection cant be completed,True
+Do you want to update existing information?,Do you want to update existing information?,True
+Do you want to autofill the field with existing information?,Do you want to autofill the field with existing information?,True
+Farm ID,Farm ID,True
+Address 1,Address 1,True
+Address 2,Address 2,True
+Region,Region,True
+Sub Region,Sub Region,True
+Latitude,Latitude,True
+Longitude,Longitude,True
+Altitude,Altitude,True
+Polygon,Polygon,True
+Calculate Polygon Area,Calculate Polygon Area,True
+Total Farm Area,Total Farm Area,True
+Existing Plot - Plot number,Existing Plot - Plot number,True
+Do you want to update existing plot information?,Do you want to update existing plot information?,True
+Do you want to autofill the field with existing plot information?,Do you want to autofill the field with existing plot information?,True
+Species,Species,True
+Variety,Variety,True
+Year Started,Year Started,True
+Production,Production,True
+Production (Kg),Production (Kg),True
+Total Coffee Area,Total Coffee Area,True
+Coffee Area Under Active Production,Coffee Area Under Active Production,True
+Coffee Area Under Rejuvenation Stage (less than 3 years),Coffee Area Under Rejuvenation Stage (less than 3 years),True
+Coffee Area Intercropping,Coffee Area Intercropping,True
+Intercropping crops,Intercropping crops,True
+Coffee Area Monocropping,Coffee Area Monocropping,True
+Other Crops,Other Crops,True
+Land Area Other Crops,Land Area Other Crops,True
+Land Area Under Natural Habitat or Conservation Management,Land Area Under Natural Habitat or Conservation Management,True
+Farm Area Dedicated to Other Uses,Farm Area Dedicated to Other Uses,True
+Total Area,Total Area,True
+Calculate Polygon Area (Ha),Calculate Polygon Area (Ha),True
+New Plot - Plot number,New Plot - Plot number,True
+Calculated Polygon Area (Ha),Calculated Polygon Area (Ha),True
+Pick People,Pick People,True
+Do you want to update existing people information?,Do you want to update existing people information?,True
+Do you want to autofill the field with existing people information?,Do you want to autofill the field with existing people information?,True
+First Name,First Name,True
+Last Name,Last Name,True
+Gender,Gender,True
+Identification ID Type,Identification ID Type,True
+Identification ID,Identification ID,True
+Year of Birth,Year of Birth,True
+Relation to Entity,Relation to Entity,True
+Education Level,Education Level,True
+Lead Farmer,Lead Farmer,True
+Local Group,Local Group,True
+Do you want to update existing address and contact information?,Do you want to update existing address and contact information?,True
+Do you want to autofill the field with existing address and contact information?,Do you want to autofill the field with existing address and contact information?,True
+Address,Address,True
+Phone Number,Phone Number,True
+Email,Email,True
+Number of adults in farmers family,Number of adults in farmers family,True
+Number of boys in the family (living in the farm household),Number of boys in the family (living in the farm household),True
+Number of girls in the family (living in the farm household),Number of girls in the family (living in the farm household),True
+Year joined Nescafe Plan,Year joined Nescafe Plan,True
+Number of Nescafe training sessions in last 12 months male,Number of Nescafe training sessions in last 12 months male,True
+Number of Nescafe training sessions in last 12 months female,Number of Nescafe training sessions in last 12 months female,True
+Number of Nescafe training sessions in last 12 months youth 18-29,Number of Nescafe training sessions in last 12 months youth 18-29,True
+Number of technical visits by Nescafe /project staff in last 12 months:,Number of technical visits by Nescafe /project staff in last 12 months:,True
+Yes - from Nescafe,Yes - from Nescafe,True
+Yes - other sources such as government,Yes - other sources such as government,True
+Yes - from unknown source,Yes - from unknown source,True
+Produced planlets in their own nursery,Produced planlets in their own nursery,True
+Hasnt sourced any planlets,Hasnt sourced any planlets,True
+When did the farmer last receive/purchase coffee plantlets from Nescafe?,When did the farmer last receive/purchase coffee plantlets from Nescafe?,True
+How many coffee plantlets has the farmer received / purchased from Nescafe in the past 12 months?,How many coffee plantlets has the farmer received / purchased from Nescafe in the past 12 months?,True
+What % of coffee plantlets received and planted (cumulative) from Nescafe have survived to date?,What % of coffee plantlets received and planted (cumulative) from Nescafe have survived to date?,True
+Classify the current condition of the plantlets (received from Nescafe):,Classify the current condition of the plantlets (received from Nescafe):,True
+How satisfied is the farmer with the quality of plantlets received from Nescafe?,How satisfied is the farmer with the quality of plantlets received from Nescafe?,True
+Expansion,Expansion,True
+Filling up the gaps/renovation,Filling up the gaps/renovation,True
+Not applicable,Not applicable,True
+1st main cash crop beside coffee,1st main cash crop beside coffee,True
+2nd main cash crop beside coffee,2nd main cash crop beside coffee,True
+Other crop 1,Other crop 1,True
+Other crop 2,Other crop 2,True
+Other crops,Other crops,True
+Livestock,Livestock,True
+How do you sell your coffee,How do you sell your coffee,True
+"What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)","What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)",True
+"Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?","Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?",True
+"What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?","What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?",True
+"Do you perform regularly a soil analysis (lab, soil test kit)?","Do you perform regularly a soil analysis (lab, soil test kit)?",True
+Upload evidence,Upload evidence,True
+"On average, what is the interval of soil analysis (lab, soil test kit) for texture, pH, SOM, nitrogen (N), phosphorus (P), and potassium (K) (farm sample or a representative sample of a group of smallholdings in the same area)","On average, what is the interval of soil analysis (lab, soil test kit) for texture, pH, SOM, nitrogen (N), phosphorus (P), and potassium (K) (farm sample or a representative sample of a group of smallholdings in the same area)",True
+"Do you calculate your annual fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?","Do you calculate your annual fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?",True
+What is the soil organic matter (SOM) level in your soils (%)?,What is the soil organic matter (SOM) level in your soils (%)?,True
+What is the Soil pH?,What is the Soil pH?,True
+"What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter, and/or biochar?","What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter, and/or biochar?",True
+Organic fertilizer applied kg per ha,Organic fertilizer applied kg per ha,True
+Total fertilizer applied kg per ha,Total fertilizer applied kg per ha,True
+Percentage organic fertiliser vs total fertiliser applied per ha (organic/ total applied x 100),Percentage organic fertiliser vs total fertiliser applied per ha (organic/ total applied x 100),True
+What is the most frequently used fertilizer,What is the most frequently used fertilizer,True
+N%,N%,True
+P%,P%,True
+K%,K%,True
+How much you apply per year,How much you apply per year,True
+How many ha in the coffee area,How many ha in the coffee area,True
+Yield GC per ha,Yield GC per ha,True
+N Productivity (NP) = Y/N (Yield kg GC per ha / N kg applied per ha),N Productivity (NP) = Y/N (Yield kg GC per ha / N kg applied per ha),True
+"Are you applying 4C unacceptable and/or red listed agro-inputs (insecticides, fungicides, herbicides) in your farm?","Are you applying 4C unacceptable and/or red listed agro-inputs (insecticides, fungicides, herbicides) in your farm?",True
+How often are you applying herbicides (per year),How often are you applying herbicides (per year),True
+Which integrated weed management practices do you apply (on 100% of the field acreage)?,Which integrated weed management practices do you apply (on 100% of the field acreage)?,True
+What is the % of the tree stock below 8 years of age (trees and/or productive stems or productive canopy e.g. Vietnam)?,What is the % of the tree stock below 8 years of age (trees and/or productive stems or productive canopy e.g. Vietnam)?,True
+"What is the percentage of agricultural area being biodiversity habitats such as hedges, trees alley, wind breaks, flower strip, green belts, riparian area, border trees, natural habitats non farmed area (that could potentially be cultivated), etc? (agriculture area with biodiversity habitat / total crop land x 100)","What is the percentage of agricultural area being biodiversity habitats such as hedges, trees alley, wind breaks, flower strip, green belts, riparian area, border trees, natural habitats non farmed area (that could potentially be cultivated), etc? (agriculture area with biodiversity habitat / total crop land x 100)",True
+Do you keep bee hives in your farm?,Do you keep bee hives in your farm?,True
+"What is the percentage of agriculture land dedicated to agroforestry (coffee with commercial tree species, non-crop trees like native trees, shade trees, nitrofixing trees)?","What is the percentage of agriculture land dedicated to agroforestry (coffee with commercial tree species, non-crop trees like native trees, shade trees, nitrofixing trees)?",True
+What is the total number of non-coffee trees within the coffee plot and/or field border (converted per ha),What is the total number of non-coffee trees within the coffee plot and/or field border (converted per ha),True
+Number of different tree species (non-coffee) within the coffee plot and/or field border,Number of different tree species (non-coffee) within the coffee plot and/or field border,True
+Do you irrigate your coffee?,Do you irrigate your coffee?,True
+Do you know the water usage?,Do you know the water usage?,True
+Do you conduct wet processing at the farm?,Do you conduct wet processing at the farm?,True
+Do you consistent monitor and record total water usage for irrigation at the farm - if applicable,Do you consistent monitor and record total water usage for irrigation at the farm - if applicable,True
+Do you consistent monitor and record total water usage for wet processing at the farm - if applicable,Do you consistent monitor and record total water usage for wet processing at the farm - if applicable,True
+Water use in Irrigation (m3 water / ha / year),Water use in Irrigation (m3 water / ha / year),True
+Water use in wet processing (m3 water / kg parchment coffee),Water use in wet processing (m3 water / kg parchment coffee),True
+"Do you control irrigation based on soil moisture monitoring (sensors, upside bottle practise, .)?","Do you control irrigation based on soil moisture monitoring (sensors, upside bottle practise, .)?",True
+Is the Waste water treatment adequate vs production volume,Is the Waste water treatment adequate vs production volume,True
+Do you have water bodies at your farm?,Do you have water bodies at your farm?,True
+"If you have water bodies at your farm, what is the minimum distance between field (fertilizer and pesticide application area) and the water body?","If you have water bodies at your farm, what is the minimum distance between field (fertilizer and pesticide application area) and the water body?",True
+"Are the riparian buffer strips covered with natural vegetation (hedges, bushes, trees, etc)?","Are the riparian buffer strips covered with natural vegetation (hedges, bushes, trees, etc)?",True
+"Do you keep financial management records (i.e. expenses, income P/L, etc.)?","Do you keep financial management records (i.e. expenses, income P/L, etc.)?",True
+Are you member of an approved RS Unit,Are you member of an approved RS Unit,True
+FAT score,FAT score,True
+FAT %,FAT %,True
+FAT Level,FAT Level,True
+Number coffee trees arabica - if applicable (trees/ha),Number coffee trees arabica - if applicable (trees/ha),True
+Number coffee trees robusta (trees/ha),Number coffee trees robusta (trees/ha),True
+Coffee trees age 0-2 (%),Coffee trees age 0-2 (%),True
+Coffee trees age 3-20 (%),Coffee trees age 3-20 (%),True
+Coffee trees age >20 (%),Coffee trees age >20 (%),True
+Number of different commercial species (crops) in the farm (beyond coffee),Number of different commercial species (crops) in the farm (beyond coffee),True
+What are the main other crops interplanted with coffee,What are the main other crops interplanted with coffee,True
+What portion of the coffee area has shade trees (all kind of trees covering coffee trees)? (%),What portion of the coffee area has shade trees (all kind of trees covering coffee trees)? (%),True
+Number of different shade tree species (excl. commercial tree species),Number of different shade tree species (excl. commercial tree species),True
+What portion of shade trees are N-fixing? (%),What portion of shade trees are N-fixing? (%),True
+What portion of shade trees are native? (%),What portion of shade trees are native? (%),True
+Where does the irrigation water come from?,Where does the irrigation water come from?,True
+How many irrigation rounds/year?,How many irrigation rounds/year?,True
+How much irrigation water per round? (m3/ha/round),How much irrigation water per round? (m3/ha/round),True
+How satisfied are you about the Nescafe Plan this year?,How satisfied are you about the Nescafe Plan this year?,True
+"If the respondent is dissatisfied, what is the reason/cause?","If the respondent is dissatisfied, what is the reason/cause?",True
+How confident are you that your children / next generation will have a good livelihood from coffee farming?,How confident are you that your children / next generation will have a good livelihood from coffee farming?,True
+Who is the sucessor to your farm?,Who is the sucessor to your farm?,True
+Weather/climate,Weather/climate,True
+Lack of irrigation water,Lack of irrigation water,True
+Low coffee prices,Low coffee prices,True
+Other crops more profitable,Other crops more profitable,True
+Expensive inputs,Expensive inputs,True
+Lack of labor,Lack of labor,True
+No family to take over my farm,No family to take over my farm,True
+COVID - 19,COVID - 19,True
+Other (please specify),Other (please specify),True
+Other (please specify) text,Other (please specify) text,True
+None,None,True
+How do you tackle the challenges,How do you tackle the challenges,True
+Status by enumerator,Status by enumerator,True
+Comment by enumerator,Comment by enumerator,True
+Status by validator,Status by validator,True
+Assessment header (M&E step 1),Assessment header (M&E step 1),True
+Farm and plot information (M&E step 2),Farm and plot information (M&E step 2),True
+Farmer and household information (M&E step 3),Farmer and household information (M&E step 3),True
+Nescafe Plan interaction/ technical assistance (M&E step 4),Nescafe Plan interaction/ technical assistance (M&E step 4),True
+Farm economics & recordkeeping (M&E step 5),Farm economics & recordkeeping (M&E step 5),True
+FAT Coffee V2 (M&E step 6),FAT Coffee V2 (M&E step 6),True
+RegAgri & Carbon (M&E step 7),RegAgri & Carbon (M&E step 7),True
+Qualitative (M&E step 8),Qualitative (M&E step 8),True
+Comments by validator,Comments by validator,True
+Validator name,Validator name,True
