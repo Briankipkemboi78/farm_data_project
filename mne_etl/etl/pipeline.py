@@ -50,6 +50,7 @@ def run_pipeline(df_raw: pd.DataFrame, df_cft: pd.DataFrame) -> dict:
     results['dim_plot'] = build_dim_plot(df_clean)
     results['dim_identification'] = build_dim_identification(df_clean)
     results['dim_education'] = build_dim_education(df_clean)
+    dim_education_df = results['dim_education']
 
     for df_name in results:
         used_columns.update(results[df_name].columns)
@@ -66,21 +67,20 @@ def run_pipeline(df_raw: pd.DataFrame, df_cft: pd.DataFrame) -> dict:
     results['fact_revenue_economics'] = build_fact_revenue_economics(df_clean)
 
     # Feedback
-    results['fact_feedback_demographics'] = build_fact_feedback_demographics(df_clean)
+    results['fact_feedback_demographics'] = build_fact_feedback_demographics(df_clean, dim_education_df)
     results['fact_feedback_agronomy'] = build_fact_feedback_agronomy(df_clean)
     results['fact_feedback_climate'] = build_fact_feedback_climate(df_clean)
     results['fact_feedback_programs'] = build_fact_feedback_programs(df_clean)
     results['fact_feedback_validator'] = build_fact_feedback_validator(df_clean)
 
     used_columns.update(
-        results['fact_feedback_demographics'].question_label.tolist() +
         results['fact_feedback_agronomy'].question_label.tolist() +
         results['fact_feedback_climate'].question_label.tolist() +
         results['fact_feedback_programs'].question_label.tolist() +
         results['fact_feedback_validator'].question_label.tolist()
     )
 
-    results['fact_survey_feedback'] = build_fact_survey_feedback(df_clean, used_columns)
+    results['fact_survey_feedback'] = build_fact_survey_feedback(df_clean,dim_education_df, used_columns)
 
     #CFT 
     # CFT models for df_cft_clean

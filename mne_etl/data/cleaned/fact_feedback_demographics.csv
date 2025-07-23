@@ -1,1145 +1,343 @@
-entity_id,question_label,response_text,theme_label,feedback_id
-1470157558564695309,Number of adults in farmers family,5.0,demographics,1
-1470157558564695309,Number of adults in farmers family,5.0,demographics,2
-1470157558564695309,Number of adults in farmers family,5.0,demographics,3
-1470157558564695309,Number of adults in farmers family,5.0,demographics,4
-1470157558564695295,Number of adults in farmers family,4.0,demographics,5
-1470157558564695295,Number of adults in farmers family,4.0,demographics,6
-1470157558564694946,Number of adults in farmers family,3.0,demographics,7
-1470157558564694946,Number of adults in farmers family,3.0,demographics,8
-1470157558564694946,Number of adults in farmers family,3.0,demographics,9
-1470157558564694946,Number of adults in farmers family,3.0,demographics,10
-1470157558564695057,Number of adults in farmers family,6.0,demographics,11
-1470157558564694699,Number of adults in farmers family,1.0,demographics,12
-1470157558564694968,Number of adults in farmers family,2.0,demographics,13
-1470157558564694704,Number of adults in farmers family,4.0,demographics,14
-1470157558564695065,Number of adults in farmers family,4.0,demographics,15
-1470157558564694989,Number of adults in farmers family,2.0,demographics,16
-1470157558564695215,Number of adults in farmers family,2.0,demographics,17
-1470157558564694714,Number of adults in farmers family,2.0,demographics,18
-1470157558564694722,Number of adults in farmers family,6.0,demographics,19
-1470157558564694722,Number of adults in farmers family,6.0,demographics,20
-1470157558564694903,Number of adults in farmers family,4.0,demographics,21
-1470157558564694972,Number of adults in farmers family,1.0,demographics,22
-1470157558564694797,Number of adults in farmers family,2.0,demographics,23
-1470157558564694797,Number of adults in farmers family,2.0,demographics,24
-1470157558564695074,Number of adults in farmers family,4.0,demographics,25
-1470157558564694799,Number of adults in farmers family,3.0,demographics,26
-1470157558564695163,Number of adults in farmers family,4.0,demographics,27
-1470157558564695952,Number of adults in farmers family,3.0,demographics,28
-1470157558564695873,Number of adults in farmers family,2.0,demographics,29
-1470157558564695063,Number of adults in farmers family,3.0,demographics,30
-1470157558564695879,Number of adults in farmers family,4.0,demographics,31
-1470157558564695879,Number of adults in farmers family,4.0,demographics,32
-1470157558564696002,Number of adults in farmers family,4.0,demographics,33
-1470157558564696002,Number of adults in farmers family,4.0,demographics,34
-1470157558564695991,Number of adults in farmers family,2.0,demographics,35
-1470157558564695965,Number of adults in farmers family,3.0,demographics,36
-1470157558564695965,Number of adults in farmers family,3.0,demographics,37
-1470157558564695118,Number of adults in farmers family,3.0,demographics,38
-1470157558564695118,Number of adults in farmers family,3.0,demographics,39
-1470157558564694820,Number of adults in farmers family,2.0,demographics,40
-1470157558564695191,Number of adults in farmers family,5.0,demographics,41
-1470157558564695191,Number of adults in farmers family,5.0,demographics,42
-1470157558564695739,Number of adults in farmers family,2.0,demographics,43
-1470157558564695739,Number of adults in farmers family,2.0,demographics,44
-1470157558564695739,Number of adults in farmers family,2.0,demographics,45
-1470157558564695307,Number of adults in farmers family,2.0,demographics,46
-1470157558564695573,Number of adults in farmers family,2.0,demographics,47
-1470157558564695554,Number of adults in farmers family,2.0,demographics,48
-1470157558564695390,Number of adults in farmers family,2.0,demographics,49
-1470157558564695569,Number of adults in farmers family,2.0,demographics,50
-1470157558564695558,Number of adults in farmers family,3.0,demographics,51
-1470157558564695558,Number of adults in farmers family,3.0,demographics,52
-1470157558564695628,Number of adults in farmers family,3.0,demographics,53
-1470157558564695562,Number of adults in farmers family,3.0,demographics,54
-1470157558564695562,Number of adults in farmers family,3.0,demographics,55
-1470157558564695658,Number of adults in farmers family,4.0,demographics,56
-1470157558564695658,Number of adults in farmers family,4.0,demographics,57
-1470157558564695386,Number of adults in farmers family,2.0,demographics,58
-1470157558564695386,Number of adults in farmers family,2.0,demographics,59
-1470157558564695504,Number of adults in farmers family,4.0,demographics,60
-1470157558564695504,Number of adults in farmers family,4.0,demographics,61
-1470157558564695504,Number of adults in farmers family,4.0,demographics,62
-1470157558564695096,Number of adults in farmers family,2.0,demographics,63
-1470157558564695096,Number of adults in farmers family,2.0,demographics,64
-1470157558564695757,Number of adults in farmers family,4.0,demographics,67
-1469278379854639222,Number of adults in farmers family,5.0,demographics,68
-1469278379854639342,Number of adults in farmers family,2.0,demographics,69
-1469278379854638502,Number of adults in farmers family,3.0,demographics,70
-1469278379854638316,Number of adults in farmers family,2.0,demographics,71
-1469883818362504539,Number of adults in farmers family,2.0,demographics,72
-1469278379855013128,Number of adults in farmers family,2.0,demographics,73
-1469278379855013186,Number of adults in farmers family,2.0,demographics,75
-1469883818362504743,Number of adults in farmers family,2.0,demographics,76
-1469278379854782274,Number of adults in farmers family,2.0,demographics,77
-1469278379855014872,Number of adults in farmers family,3.0,demographics,78
-1469278379855004447,Number of adults in farmers family,4.0,demographics,79
-1469278379855004447,Number of adults in farmers family,4.0,demographics,80
-1469278379855004447,Number of adults in farmers family,4.0,demographics,81
-1469278379854781944,Number of adults in farmers family,3.0,demographics,82
-1469278379854781789,Number of adults in farmers family,4.0,demographics,83
-1469278379854781780,Number of adults in farmers family,4.0,demographics,84
-1469278379855014611,Number of adults in farmers family,2.0,demographics,85
-1469278379855014782,Number of adults in farmers family,2.0,demographics,86
-1469278379855013420,Number of adults in farmers family,2.0,demographics,87
-1469278379855013426,Number of adults in farmers family,2.0,demographics,88
-1469278379855008977,Number of adults in farmers family,2.0,demographics,89
-1469278379854782189,Number of adults in farmers family,2.0,demographics,90
-1469883818362504707,Number of adults in farmers family,2.0,demographics,91
-1469278379855004763,Number of adults in farmers family,2.0,demographics,92
-1469278379854782176,Number of adults in farmers family,1.0,demographics,93
-1469278379855013194,Number of adults in farmers family,1.0,demographics,94
-1469278379854783010,Number of adults in farmers family,3.0,demographics,95
-1469278379855012739,Number of adults in farmers family,2.0,demographics,96
-1469278379854783130,Number of adults in farmers family,4.0,demographics,97
-1469278379855009281,Number of adults in farmers family,3.0,demographics,98
-1469883818362505057,Number of adults in farmers family,3.0,demographics,99
-1469278379854782955,Number of adults in farmers family,2.0,demographics,100
-1469278379854782066,Number of adults in farmers family,2.0,demographics,101
-1469278379854782983,Number of adults in farmers family,5.0,demographics,102
-1469278379855009775,Number of adults in farmers family,2.0,demographics,103
-1469278379855009775,Number of adults in farmers family,2.0,demographics,104
-1469278379854781982,Number of adults in farmers family,4.0,demographics,105
-1469883818362504785,Number of adults in farmers family,3.0,demographics,106
-1469278379854782311,Number of adults in farmers family,2.0,demographics,107
-1469883818362504788,Number of adults in farmers family,2.0,demographics,108
-1469278379854782873,Number of adults in farmers family,4.0,demographics,109
-1469278379855013487,Number of adults in farmers family,3.0,demographics,110
-1469278379854782303,Number of adults in farmers family,2.0,demographics,111
-1469278379854782330,Number of adults in farmers family,3.0,demographics,112
-1469278379855013538,Number of adults in farmers family,2.0,demographics,113
-1469278379854677182,Number of adults in farmers family,4.0,demographics,114
-1469278379854782765,Number of adults in farmers family,4.0,demographics,115
-1469278379854677051,Number of adults in farmers family,2.0,demographics,116
-1469278379855012279,Number of adults in farmers family,2.0,demographics,117
-1469278379854782856,Number of adults in farmers family,2.0,demographics,118
-1469278379855009590,Number of adults in farmers family,2.0,demographics,119
-1469278379855009590,Number of adults in farmers family,2.0,demographics,120
-1469278379855009590,Number of adults in farmers family,2.0,demographics,121
-1469278379854677054,Number of adults in farmers family,2.0,demographics,122
-1469278379855012573,Number of adults in farmers family,3.0,demographics,123
-1469278379854783229,Number of adults in farmers family,2.0,demographics,124
-1469278379854781962,Number of adults in farmers family,4.0,demographics,125
-1469278379854677037,Number of adults in farmers family,2.0,demographics,126
-1469278379855012570,Number of adults in farmers family,2.0,demographics,127
-1469883818362504744,Number of adults in farmers family,3.0,demographics,128
-1469278379855012184,Number of adults in farmers family,1.0,demographics,129
-1469883818362504715,Number of adults in farmers family,3.0,demographics,130
-1469278379854783135,Number of adults in farmers family,2.0,demographics,131
-1469278379855012158,Number of adults in farmers family,2.0,demographics,132
-1469278379854783115,Number of adults in farmers family,2.0,demographics,133
-1469278379854782426,Number of adults in farmers family,2.0,demographics,134
-1469278379855013057,Number of adults in farmers family,4.0,demographics,135
-1469278379855013057,Number of adults in farmers family,4.0,demographics,136
-1469278379854783104,Number of adults in farmers family,2.0,demographics,137
-1469278379854782419,Number of adults in farmers family,3.0,demographics,138
-1469278379855009927,Number of adults in farmers family,1.0,demographics,139
-1469278379854677226,Number of adults in farmers family,2.0,demographics,140
-1469278379855012818,Number of adults in farmers family,2.0,demographics,141
-1469278379854677162,Number of adults in farmers family,4.0,demographics,142
-1469278379854782733,Number of adults in farmers family,2.0,demographics,143
-1469278379854677174,Number of adults in farmers family,2.0,demographics,144
-1469278379854783053,Number of adults in farmers family,5.0,demographics,145
-1469278379854782727,Number of adults in farmers family,2.0,demographics,146
-1469278379855013676,Number of adults in farmers family,2.0,demographics,147
-1469278379855013697,Number of adults in farmers family,2.0,demographics,148
-1469278379854782243,Number of adults in farmers family,2.0,demographics,149
-1469278379855012382,Number of adults in farmers family,2.0,demographics,150
-1469278379854783211,Number of adults in farmers family,4.0,demographics,151
-1469278379855012339,Number of adults in farmers family,2.0,demographics,152
-1469278379854783216,Number of adults in farmers family,2.0,demographics,153
-1469278379855012856,Number of adults in farmers family,2.0,demographics,154
-1469278379855013932,Number of adults in farmers family,2.0,demographics,155
-1469278379855013152,Number of adults in farmers family,4.0,demographics,156
-1469278379855014007,Number of adults in farmers family,2.0,demographics,157
-1469278379855014007,Number of adults in farmers family,2.0,demographics,158
-1469278379855013593,Number of adults in farmers family,2.0,demographics,159
-1469278379855013826,Number of adults in farmers family,2.0,demographics,160
-1469278379855013861,Number of adults in farmers family,2.0,demographics,162
-1469278379855013563,Number of adults in farmers family,2.0,demographics,163
-1469278379855012835,Number of adults in farmers family,2.0,demographics,164
-1469278379855009880,Number of adults in farmers family,2.0,demographics,165
-1469278379855009844,Number of adults in farmers family,2.0,demographics,166
-1469278379855009842,Number of adults in farmers family,4.0,demographics,167
-1469278379855009842,Number of adults in farmers family,4.0,demographics,168
-1469278379854641911,Number of adults in farmers family,4.0,demographics,169
-1469278379854641911,Number of adults in farmers family,4.0,demographics,170
-1469278379855005159,Number of adults in farmers family,2.0,demographics,171
-1469278379855008338,Number of adults in farmers family,4.0,demographics,172
-1469278379854638788,Number of adults in farmers family,5.0,demographics,173
-1469278379855008185,Number of adults in farmers family,2.0,demographics,174
-1469278379855008185,Number of adults in farmers family,2.0,demographics,175
-1469278379855009021,Number of adults in farmers family,3.0,demographics,176
-1469278379855004887,Number of adults in farmers family,2.0,demographics,177
-1469278379854638847,Number of adults in farmers family,2.0,demographics,178
-1469278379855004785,Number of adults in farmers family,3.0,demographics,179
-1469278379855004825,Number of adults in farmers family,4.0,demographics,180
-1469278379855014199,Number of adults in farmers family,3.0,demographics,181
-1469278379855014401,Number of adults in farmers family,2.0,demographics,182
-1469278379854640837,Number of adults in farmers family,3.0,demographics,183
-1469278379855014074,Number of adults in farmers family,2.0,demographics,184
-1469278379854639556,Number of adults in farmers family,4.0,demographics,185
-1469278379854640166,Number of adults in farmers family,5.0,demographics,186
-1469883818362504681,Number of adults in farmers family,3.0,demographics,187
-1469278379855014088,Number of adults in farmers family,2.0,demographics,188
-1469278379855014073,Number of adults in farmers family,2.0,demographics,189
-1469278379855014104,Number of adults in farmers family,2.0,demographics,190
-1469278379855014345,Number of adults in farmers family,2.0,demographics,191
-1469883818362504890,Number of adults in farmers family,3.0,demographics,192
-1469278379855014289,Number of adults in farmers family,2.0,demographics,193
-1469278379854641656,Number of adults in farmers family,2.0,demographics,194
-1469278379854642031,Number of adults in farmers family,3.0,demographics,195
-1469278379854642031,Number of adults in farmers family,3.0,demographics,196
-1469278379855008648,Number of adults in farmers family,3.0,demographics,197
-1469278379855008633,Number of adults in farmers family,3.0,demographics,198
-1469278379854639991,Number of adults in farmers family,3.0,demographics,199
-1469278379854639991,Number of adults in farmers family,3.0,demographics,200
-1469883818362504409,Number of adults in farmers family,5.0,demographics,201
-1469278379855014643,Number of adults in farmers family,3.0,demographics,202
-1469278379855009318,Number of adults in farmers family,2.0,demographics,203
-1469278379854638141,Number of adults in farmers family,4.0,demographics,204
-1469278379855009319,Number of adults in farmers family,2.0,demographics,205
-1469278379855009319,Number of adults in farmers family,2.0,demographics,206
-1469278379855009319,Number of adults in farmers family,2.0,demographics,207
-1469278379854640735,Number of adults in farmers family,4.0,demographics,208
-1469278379855008002,Number of adults in farmers family,4.0,demographics,209
-1469278379855009390,Number of adults in farmers family,2.0,demographics,210
-1469278379854638365,Number of adults in farmers family,5.0,demographics,211
-1469278379854641789,Number of adults in farmers family,1.0,demographics,212
-1469278379854642507,Number of adults in farmers family,3.0,demographics,213
-1469278379854641951,Number of adults in farmers family,2.0,demographics,214
-1469278379854641951,Number of adults in farmers family,2.0,demographics,215
-1469278379854641951,Number of adults in farmers family,2.0,demographics,216
-1469278379855008000,Number of adults in farmers family,3.0,demographics,217
-1469278379854642852,Number of adults in farmers family,3.0,demographics,218
-1469278379854638345,Number of adults in farmers family,2.0,demographics,219
-1469278379854638306,Number of adults in farmers family,2.0,demographics,220
-1469278379855004840,Number of adults in farmers family,3.0,demographics,221
-1469278379854642720,Number of adults in farmers family,3.0,demographics,222
-1469278379855005225,Number of adults in farmers family,2.0,demographics,223
-1469278379855005212,Number of adults in farmers family,3.0,demographics,224
-1469278379855005212,Number of adults in farmers family,3.0,demographics,225
-1469278379854638332,Number of adults in farmers family,2.0,demographics,226
-1469278379854642963,Number of adults in farmers family,4.0,demographics,227
-1469278379854642963,Number of adults in farmers family,4.0,demographics,228
-1469278379854638287,Number of adults in farmers family,2.0,demographics,229
-1469278379855005276,Number of adults in farmers family,2.0,demographics,230
-1469278379855005249,Number of adults in farmers family,2.0,demographics,231
-1469278379855005249,Number of adults in farmers family,2.0,demographics,232
-1469278379855008686,Number of adults in farmers family,2.0,demographics,235
-1469278379855008072,Number of adults in farmers family,2.0,demographics,236
-1469278379855008072,Number of adults in farmers family,2.0,demographics,237
-1469278379855008072,Number of adults in farmers family,2.0,demographics,238
-1469278379855005043,Number of adults in farmers family,2.0,demographics,239
-1469278379855005043,Number of adults in farmers family,2.0,demographics,240
-1469278379854641146,Number of adults in farmers family,5.0,demographics,241
-1469278379855005002,Number of adults in farmers family,3.0,demographics,242
-1469278379855005032,Number of adults in farmers family,2.0,demographics,243
-1469278379855005028,Number of adults in farmers family,2.0,demographics,244
-1469278379854640452,Number of adults in farmers family,2.0,demographics,245
-1469278379854638593,Number of adults in farmers family,4.0,demographics,246
-1469278379855008702,Number of adults in farmers family,3.0,demographics,247
-1469278379855008702,Number of adults in farmers family,3.0,demographics,248
-1469278379854639859,Number of adults in farmers family,2.0,demographics,249
-1469278379854638512,Number of adults in farmers family,2.0,demographics,250
-1469278379854641222,Number of adults in farmers family,2.0,demographics,251
-1469278379854639942,Number of adults in farmers family,2.0,demographics,252
-1469278379854639942,Number of adults in farmers family,2.0,demographics,253
-1469278379854638490,Number of adults in farmers family,2.0,demographics,254
-1469278379854638519,Number of adults in farmers family,1.0,demographics,255
-1469278379854638792,Number of adults in farmers family,2.0,demographics,256
-1469278379854642831,Number of adults in farmers family,2.0,demographics,257
-1469278379854639534,Number of adults in farmers family,5.0,demographics,258
-1469278379854639534,Number of adults in farmers family,5.0,demographics,259
-1469278379854638214,Number of adults in farmers family,4.0,demographics,260
-1469278379854639354,Number of adults in farmers family,3.0,demographics,261
-1469278379854639354,Number of adults in farmers family,3.0,demographics,262
-1469278379854638432,Number of adults in farmers family,2.0,demographics,263
-1469278379854639362,Number of adults in farmers family,2.0,demographics,264
-1469278379854638434,Number of adults in farmers family,4.0,demographics,265
-1469278379854639340,Number of adults in farmers family,4.0,demographics,268
-1469278379854638373,Number of adults in farmers family,4.0,demographics,269
-1469278379854639445,Number of adults in farmers family,2.0,demographics,270
-1469278379854639420,Number of adults in farmers family,2.0,demographics,271
-1469278379854642243,Number of adults in farmers family,4.0,demographics,272
-1469278379854642243,Number of adults in farmers family,4.0,demographics,273
-1469278379854642131,Number of adults in farmers family,4.0,demographics,274
-1469278379854639686,Number of adults in farmers family,4.0,demographics,275
-1469278379854639686,Number of adults in farmers family,4.0,demographics,276
-1469278379854642125,Number of adults in farmers family,4.0,demographics,277
-1469278379854640951,Number of adults in farmers family,3.0,demographics,278
-1469278379854642215,Number of adults in farmers family,2.0,demographics,279
-1469278379854642215,Number of adults in farmers family,2.0,demographics,280
-1469278379854640079,Number of adults in farmers family,4.0,demographics,281
-1469278379854642194,Number of adults in farmers family,4.0,demographics,282
-1469278379854640971,Number of adults in farmers family,3.0,demographics,283
-1469278379854640065,Number of adults in farmers family,4.0,demographics,284
-1469278379854640065,Number of adults in farmers family,4.0,demographics,285
-1469278379854642173,Number of adults in farmers family,2.0,demographics,286
-1469278379854642173,Number of adults in farmers family,2.0,demographics,287
-1469278379854641215,Number of adults in farmers family,3.0,demographics,288
-1469278379854641215,Number of adults in farmers family,3.0,demographics,289
-1469278379854641215,Number of adults in farmers family,3.0,demographics,290
-1469278379854641215,Number of adults in farmers family,3.0,demographics,291
-1469278379854641215,Number of adults in farmers family,3.0,demographics,292
-1469278379854641215,Number of adults in farmers family,3.0,demographics,293
-1469278379854640961,Number of adults in farmers family,3.0,demographics,294
-1469278379854640900,Number of adults in farmers family,1.0,demographics,295
-1469278379854642890,Number of adults in farmers family,3.0,demographics,296
-1469278379854640339,Number of adults in farmers family,4.0,demographics,297
-1469278379854643031,Number of adults in farmers family,2.0,demographics,298
-1469278379854641605,Number of adults in farmers family,4.0,demographics,299
-1469278379854641605,Number of adults in farmers family,4.0,demographics,300
-1469278379854640257,Number of adults in farmers family,3.0,demographics,301
-1469278379854643043,Number of adults in farmers family,3.0,demographics,302
-1469278379854641569,Number of adults in farmers family,2.0,demographics,303
-1469278379854642073,Number of adults in farmers family,3.0,demographics,304
-1469278379854642301,Number of adults in farmers family,6.0,demographics,305
-1469278379854640613,Number of adults in farmers family,4.0,demographics,306
-1469278379854642479,Number of adults in farmers family,3.0,demographics,307
-1469278379854642479,Number of adults in farmers family,3.0,demographics,308
-1469278379854642479,Number of adults in farmers family,3.0,demographics,309
-1469278379854640625,Number of adults in farmers family,3.0,demographics,310
-1469883818362505174,Number of adults in farmers family,4.0,demographics,311
-1469278379855039037,Number of adults in farmers family,3.0,demographics,312
-1469278379855040664,Number of adults in farmers family,2.0,demographics,313
-1469278379855036915,Number of adults in farmers family,3.0,demographics,314
-1469278379855037067,Number of adults in farmers family,2.0,demographics,315
-1469278379855038019,Number of adults in farmers family,3.0,demographics,316
-1469278379855037842,Number of adults in farmers family,2.0,demographics,317
-1469278379855040862,Number of adults in farmers family,3.0,demographics,318
-1469278379855038442,Number of adults in farmers family,4.0,demographics,319
-1469278379855040212,Number of adults in farmers family,4.0,demographics,321
-1469278379855039053,Number of adults in farmers family,2.0,demographics,322
-1469278379855038729,Number of adults in farmers family,1.0,demographics,323
-1469278379855038358,Number of adults in farmers family,2.0,demographics,324
-1469278379855037425,Number of adults in farmers family,4.0,demographics,325
-1469278379855038409,Number of adults in farmers family,4.0,demographics,326
-1469278379855039084,Number of adults in farmers family,2.0,demographics,327
-1469278379855040001,Number of adults in farmers family,4.0,demographics,328
-1469278379855040001,Number of adults in farmers family,4.0,demographics,329
-1469278379855040001,Number of adults in farmers family,4.0,demographics,330
-1469278379855038668,Number of adults in farmers family,3.0,demographics,331
-1469278379855040455,Number of adults in farmers family,2.0,demographics,333
-1469278379855040422,Number of adults in farmers family,4.0,demographics,334
-1469278379855039608,Number of adults in farmers family,6.0,demographics,335
-1469278379855038830,Number of adults in farmers family,4.0,demographics,336
-1469278379855039042,Number of adults in farmers family,3.0,demographics,337
-1469883818362505115,Number of adults in farmers family,5.0,demographics,338
-1469883818362505118,Number of adults in farmers family,6.0,demographics,339
-1469278379855038999,Number of adults in farmers family,3.0,demographics,340
-1469278379855039728,Number of adults in farmers family,5.0,demographics,341
-1469278379855039878,Number of adults in farmers family,5.0,demographics,342
-1469278379855038499,Number of adults in farmers family,4.0,demographics,343
-1469278379855039832,Number of adults in farmers family,3.0,demographics,344
-1469278379855037698,Number of adults in farmers family,2.0,demographics,345
-1469278379855037177,Number of adults in farmers family,4.0,demographics,346
-1469278379855037185,Number of adults in farmers family,4.0,demographics,347
-1469278379855040741,Number of adults in farmers family,4.0,demographics,348
-1469278379855039787,Number of adults in farmers family,2.0,demographics,350
-1469278379855040252,Number of adults in farmers family,4.0,demographics,351
-1469278379855040132,Number of adults in farmers family,4.0,demographics,352
-1469278379855039488,Number of adults in farmers family,4.0,demographics,353
-1469278379855040307,Number of adults in farmers family,4.0,demographics,354
-1469278379855040307,Number of adults in farmers family,4.0,demographics,355
-1469278379855039486,Number of adults in farmers family,3.0,demographics,356
-1469278379855040352,Number of adults in farmers family,3.0,demographics,357
-1469278379855040352,Number of adults in farmers family,3.0,demographics,358
-1469278379855040352,Number of adults in farmers family,3.0,demographics,359
-1469278379855039407,Number of adults in farmers family,4.0,demographics,360
-1469278379855040432,Number of adults in farmers family,6.0,demographics,361
-1469278379855038122,Number of adults in farmers family,3.0,demographics,362
-1469278379855040242,Number of adults in farmers family,4.0,demographics,363
-1469278379855039629,Number of adults in farmers family,3.0,demographics,364
-1469883818362505224,Number of adults in farmers family,2.0,demographics,365
-1469278379855040198,Number of adults in farmers family,5.0,demographics,366
-1469278379855040099,Number of adults in farmers family,2.0,demographics,367
-1469278379855038070,Number of adults in farmers family,2.0,demographics,368
-1469278379855038552,Number of adults in farmers family,2.0,demographics,369
-1469278379855038690,Number of adults in farmers family,4.0,demographics,370
-1469278379855037403,Number of adults in farmers family,5.0,demographics,371
-1469278379855038672,Number of adults in farmers family,3.0,demographics,372
-1469278379855037409,Number of adults in farmers family,4.0,demographics,373
-1469278379855037416,Number of adults in farmers family,3.0,demographics,374
-1469278379855037520,Number of adults in farmers family,4.0,demographics,375
-1469278379855040589,Number of adults in farmers family,4.0,demographics,377
-1469278379855036998,Number of adults in farmers family,3.0,demographics,378
-1469278379854782610,Number of adults in farmers family,2.0,demographics,379
-1469278379855039342,Number of adults in farmers family,2.0,demographics,380
-1469278379855037024,Number of adults in farmers family,4.0,demographics,381
-1469278379855036851,Number of adults in farmers family,7.0,demographics,383
-1469278379855036956,Number of adults in farmers family,6.0,demographics,384
-1469278379855036956,Number of adults in farmers family,6.0,demographics,385
-1469278379855036956,Number of adults in farmers family,6.0,demographics,386
-1469278379855037391,Number of adults in farmers family,4.0,demographics,388
-1469278379854640502,Number of adults in farmers family,5.0,demographics,389
-1469278379854640502,Number of adults in farmers family,5.0,demographics,390
-1469278379854640527,Number of adults in farmers family,2.0,demographics,391
-1469278379854641314,Number of adults in farmers family,3.0,demographics,397
-1469278379855036603,Number of adults in farmers family,4.0,demographics,398
-1469278379855037183,Number of adults in farmers family,3.0,demographics,400
-1469278379855037071,Number of adults in farmers family,7.0,demographics,401
-1469278379855036719,Number of adults in farmers family,2.0,demographics,406
-1469278379855009751,Number of adults in farmers family,2.0,demographics,408
-1469278379855040784,Number of adults in farmers family,2.0,demographics,411
-1469278379855038127,Number of adults in farmers family,1.0,demographics,413
-1470157558564695309,Number of boys in the family (living in the farm household),0.0,demographics,417
-1470157558564695309,Number of boys in the family (living in the farm household),0.0,demographics,418
-1470157558564695309,Number of boys in the family (living in the farm household),0.0,demographics,419
-1470157558564695309,Number of boys in the family (living in the farm household),0.0,demographics,420
-1470157558564695295,Number of boys in the family (living in the farm household),0.0,demographics,421
-1470157558564695295,Number of boys in the family (living in the farm household),0.0,demographics,422
-1470157558564694946,Number of boys in the family (living in the farm household),0.0,demographics,423
-1470157558564694946,Number of boys in the family (living in the farm household),0.0,demographics,424
-1470157558564694946,Number of boys in the family (living in the farm household),0.0,demographics,425
-1470157558564694946,Number of boys in the family (living in the farm household),0.0,demographics,426
-1470157558564695057,Number of boys in the family (living in the farm household),0.0,demographics,427
-1470157558564694699,Number of boys in the family (living in the farm household),0.0,demographics,428
-1470157558564694968,Number of boys in the family (living in the farm household),0.0,demographics,429
-1470157558564694704,Number of boys in the family (living in the farm household),0.0,demographics,430
-1470157558564695065,Number of boys in the family (living in the farm household),1.0,demographics,431
-1470157558564694989,Number of boys in the family (living in the farm household),0.0,demographics,432
-1470157558564695215,Number of boys in the family (living in the farm household),2.0,demographics,433
-1470157558564694714,Number of boys in the family (living in the farm household),0.0,demographics,434
-1470157558564694722,Number of boys in the family (living in the farm household),1.0,demographics,435
-1470157558564694722,Number of boys in the family (living in the farm household),1.0,demographics,436
-1470157558564694903,Number of boys in the family (living in the farm household),0.0,demographics,437
-1470157558564694972,Number of boys in the family (living in the farm household),0.0,demographics,438
-1470157558564694797,Number of boys in the family (living in the farm household),0.0,demographics,439
-1470157558564694797,Number of boys in the family (living in the farm household),0.0,demographics,440
-1470157558564695074,Number of boys in the family (living in the farm household),0.0,demographics,441
-1470157558564694799,Number of boys in the family (living in the farm household),1.0,demographics,442
-1470157558564695163,Number of boys in the family (living in the farm household),1.0,demographics,443
-1470157558564695952,Number of boys in the family (living in the farm household),0.0,demographics,444
-1470157558564695873,Number of boys in the family (living in the farm household),1.0,demographics,445
-1470157558564695063,Number of boys in the family (living in the farm household),0.0,demographics,446
-1470157558564695879,Number of boys in the family (living in the farm household),1.0,demographics,447
-1470157558564695879,Number of boys in the family (living in the farm household),1.0,demographics,448
-1470157558564696002,Number of boys in the family (living in the farm household),0.0,demographics,449
-1470157558564696002,Number of boys in the family (living in the farm household),0.0,demographics,450
-1470157558564695991,Number of boys in the family (living in the farm household),0.0,demographics,451
-1470157558564695965,Number of boys in the family (living in the farm household),1.0,demographics,452
-1470157558564695965,Number of boys in the family (living in the farm household),1.0,demographics,453
-1470157558564695118,Number of boys in the family (living in the farm household),0.0,demographics,454
-1470157558564695118,Number of boys in the family (living in the farm household),0.0,demographics,455
-1470157558564694820,Number of boys in the family (living in the farm household),0.0,demographics,456
-1470157558564695191,Number of boys in the family (living in the farm household),0.0,demographics,457
-1470157558564695191,Number of boys in the family (living in the farm household),0.0,demographics,458
-1470157558564695739,Number of boys in the family (living in the farm household),0.0,demographics,459
-1470157558564695739,Number of boys in the family (living in the farm household),0.0,demographics,460
-1470157558564695739,Number of boys in the family (living in the farm household),0.0,demographics,461
-1470157558564695307,Number of boys in the family (living in the farm household),3.0,demographics,462
-1470157558564695573,Number of boys in the family (living in the farm household),0.0,demographics,463
-1470157558564695554,Number of boys in the family (living in the farm household),2.0,demographics,464
-1470157558564695390,Number of boys in the family (living in the farm household),1.0,demographics,465
-1470157558564695569,Number of boys in the family (living in the farm household),1.0,demographics,466
-1470157558564695558,Number of boys in the family (living in the farm household),0.0,demographics,467
-1470157558564695558,Number of boys in the family (living in the farm household),0.0,demographics,468
-1470157558564695628,Number of boys in the family (living in the farm household),0.0,demographics,469
-1470157558564695562,Number of boys in the family (living in the farm household),0.0,demographics,470
-1470157558564695562,Number of boys in the family (living in the farm household),0.0,demographics,471
-1470157558564695658,Number of boys in the family (living in the farm household),0.0,demographics,472
-1470157558564695658,Number of boys in the family (living in the farm household),0.0,demographics,473
-1470157558564695386,Number of boys in the family (living in the farm household),1.0,demographics,474
-1470157558564695386,Number of boys in the family (living in the farm household),1.0,demographics,475
-1470157558564695504,Number of boys in the family (living in the farm household),2.0,demographics,476
-1470157558564695504,Number of boys in the family (living in the farm household),2.0,demographics,477
-1470157558564695504,Number of boys in the family (living in the farm household),2.0,demographics,478
-1470157558564695096,Number of boys in the family (living in the farm household),2.0,demographics,479
-1470157558564695096,Number of boys in the family (living in the farm household),2.0,demographics,480
-1470157558564695757,Number of boys in the family (living in the farm household),0.0,demographics,483
-1469278379854639222,Number of boys in the family (living in the farm household),1.0,demographics,484
-1469278379854639342,Number of boys in the family (living in the farm household),0.0,demographics,485
-1469278379854638502,Number of boys in the family (living in the farm household),0.0,demographics,486
-1469278379854638316,Number of boys in the family (living in the farm household),1.0,demographics,487
-1469883818362504539,Number of boys in the family (living in the farm household),1.0,demographics,488
-1469278379855013128,Number of boys in the family (living in the farm household),0.0,demographics,489
-1469278379855013186,Number of boys in the family (living in the farm household),1.0,demographics,491
-1469883818362504743,Number of boys in the family (living in the farm household),2.0,demographics,492
-1469278379854782274,Number of boys in the family (living in the farm household),0.0,demographics,493
-1469278379855014872,Number of boys in the family (living in the farm household),0.0,demographics,494
-1469278379855004447,Number of boys in the family (living in the farm household),0.0,demographics,495
-1469278379855004447,Number of boys in the family (living in the farm household),0.0,demographics,496
-1469278379855004447,Number of boys in the family (living in the farm household),0.0,demographics,497
-1469278379854781944,Number of boys in the family (living in the farm household),1.0,demographics,498
-1469278379854781789,Number of boys in the family (living in the farm household),2.0,demographics,499
-1469278379854781780,Number of boys in the family (living in the farm household),0.0,demographics,500
-1469278379855014611,Number of boys in the family (living in the farm household),1.0,demographics,501
-1469278379855014782,Number of boys in the family (living in the farm household),0.0,demographics,502
-1469278379855013420,Number of boys in the family (living in the farm household),0.0,demographics,503
-1469278379855013426,Number of boys in the family (living in the farm household),1.0,demographics,504
-1469278379855008977,Number of boys in the family (living in the farm household),0.0,demographics,505
-1469278379854782189,Number of boys in the family (living in the farm household),0.0,demographics,506
-1469883818362504707,Number of boys in the family (living in the farm household),0.0,demographics,507
-1469278379855004763,Number of boys in the family (living in the farm household),1.0,demographics,508
-1469278379854782176,Number of boys in the family (living in the farm household),0.0,demographics,509
-1469278379855013194,Number of boys in the family (living in the farm household),0.0,demographics,510
-1469278379855012739,Number of boys in the family (living in the farm household),0.0,demographics,512
-1469278379854783130,Number of boys in the family (living in the farm household),0.0,demographics,513
-1469278379855009281,Number of boys in the family (living in the farm household),0.0,demographics,514
-1469883818362505057,Number of boys in the family (living in the farm household),0.0,demographics,515
-1469278379854782955,Number of boys in the family (living in the farm household),1.0,demographics,516
-1469278379854782066,Number of boys in the family (living in the farm household),0.0,demographics,517
-1469278379854782983,Number of boys in the family (living in the farm household),0.0,demographics,518
-1469278379855009775,Number of boys in the family (living in the farm household),0.0,demographics,519
-1469278379855009775,Number of boys in the family (living in the farm household),0.0,demographics,520
-1469278379854781982,Number of boys in the family (living in the farm household),0.0,demographics,521
-1469278379854782311,Number of boys in the family (living in the farm household),0.0,demographics,523
-1469883818362504788,Number of boys in the family (living in the farm household),0.0,demographics,524
-1469278379854782873,Number of boys in the family (living in the farm household),0.0,demographics,525
-1469278379855013487,Number of boys in the family (living in the farm household),2.0,demographics,526
-1469278379854782303,Number of boys in the family (living in the farm household),0.0,demographics,527
-1469278379854782330,Number of boys in the family (living in the farm household),0.0,demographics,528
-1469278379855013538,Number of boys in the family (living in the farm household),0.0,demographics,529
-1469278379854677182,Number of boys in the family (living in the farm household),0.0,demographics,530
-1469278379854782765,Number of boys in the family (living in the farm household),1.0,demographics,531
-1469278379854677051,Number of boys in the family (living in the farm household),0.0,demographics,532
-1469278379855012279,Number of boys in the family (living in the farm household),0.0,demographics,533
-1469278379854782856,Number of boys in the family (living in the farm household),1.0,demographics,534
-1469278379855009590,Number of boys in the family (living in the farm household),0.0,demographics,535
-1469278379855009590,Number of boys in the family (living in the farm household),0.0,demographics,536
-1469278379855009590,Number of boys in the family (living in the farm household),0.0,demographics,537
-1469278379854677054,Number of boys in the family (living in the farm household),3.0,demographics,538
-1469278379855012573,Number of boys in the family (living in the farm household),0.0,demographics,539
-1469278379854783229,Number of boys in the family (living in the farm household),1.0,demographics,540
-1469278379854781962,Number of boys in the family (living in the farm household),0.0,demographics,541
-1469278379854677037,Number of boys in the family (living in the farm household),4.0,demographics,542
-1469278379855012570,Number of boys in the family (living in the farm household),0.0,demographics,543
-1469883818362504744,Number of boys in the family (living in the farm household),1.0,demographics,544
-1469278379855012184,Number of boys in the family (living in the farm household),0.0,demographics,545
-1469883818362504715,Number of boys in the family (living in the farm household),1.0,demographics,546
-1469278379854783135,Number of boys in the family (living in the farm household),0.0,demographics,547
-1469278379855012158,Number of boys in the family (living in the farm household),0.0,demographics,548
-1469278379854783115,Number of boys in the family (living in the farm household),0.0,demographics,549
-1469278379854782426,Number of boys in the family (living in the farm household),1.0,demographics,550
-1469278379855013057,Number of boys in the family (living in the farm household),0.0,demographics,551
-1469278379855013057,Number of boys in the family (living in the farm household),0.0,demographics,552
-1469278379854783104,Number of boys in the family (living in the farm household),2.0,demographics,553
-1469278379854782419,Number of boys in the family (living in the farm household),0.0,demographics,554
-1469278379855009927,Number of boys in the family (living in the farm household),0.0,demographics,555
-1469278379854677226,Number of boys in the family (living in the farm household),0.0,demographics,556
-1469278379855012818,Number of boys in the family (living in the farm household),2.0,demographics,557
-1469278379854677162,Number of boys in the family (living in the farm household),0.0,demographics,558
-1469278379854782733,Number of boys in the family (living in the farm household),0.0,demographics,559
-1469278379854677174,Number of boys in the family (living in the farm household),1.0,demographics,560
-1469278379854783053,Number of boys in the family (living in the farm household),0.0,demographics,561
-1469278379854782727,Number of boys in the family (living in the farm household),0.0,demographics,562
-1469278379855013676,Number of boys in the family (living in the farm household),0.0,demographics,563
-1469278379855013697,Number of boys in the family (living in the farm household),1.0,demographics,564
-1469278379854782243,Number of boys in the family (living in the farm household),1.0,demographics,565
-1469278379855012382,Number of boys in the family (living in the farm household),0.0,demographics,566
-1469278379854783211,Number of boys in the family (living in the farm household),1.0,demographics,567
-1469278379855012339,Number of boys in the family (living in the farm household),0.0,demographics,568
-1469278379854783216,Number of boys in the family (living in the farm household),2.0,demographics,569
-1469278379855012856,Number of boys in the family (living in the farm household),0.0,demographics,570
-1469278379855013932,Number of boys in the family (living in the farm household),0.0,demographics,571
-1469278379855013152,Number of boys in the family (living in the farm household),0.0,demographics,572
-1469278379855014007,Number of boys in the family (living in the farm household),0.0,demographics,573
-1469278379855014007,Number of boys in the family (living in the farm household),0.0,demographics,574
-1469278379855013593,Number of boys in the family (living in the farm household),0.0,demographics,575
-1469278379855013826,Number of boys in the family (living in the farm household),2.0,demographics,576
-1469278379855013861,Number of boys in the family (living in the farm household),0.0,demographics,578
-1469278379855013563,Number of boys in the family (living in the farm household),0.0,demographics,579
-1469278379855012835,Number of boys in the family (living in the farm household),0.0,demographics,580
-1469278379855009880,Number of boys in the family (living in the farm household),1.0,demographics,581
-1469278379855009844,Number of boys in the family (living in the farm household),0.0,demographics,582
-1469278379855009842,Number of boys in the family (living in the farm household),2.0,demographics,583
-1469278379855009842,Number of boys in the family (living in the farm household),2.0,demographics,584
-1469278379854641911,Number of boys in the family (living in the farm household),0.0,demographics,585
-1469278379854641911,Number of boys in the family (living in the farm household),0.0,demographics,586
-1469278379855005159,Number of boys in the family (living in the farm household),2.0,demographics,587
-1469278379855008338,Number of boys in the family (living in the farm household),0.0,demographics,588
-1469278379854638788,Number of boys in the family (living in the farm household),1.0,demographics,589
-1469278379855008185,Number of boys in the family (living in the farm household),0.0,demographics,590
-1469278379855008185,Number of boys in the family (living in the farm household),0.0,demographics,591
-1469278379855009021,Number of boys in the family (living in the farm household),0.0,demographics,592
-1469278379855004887,Number of boys in the family (living in the farm household),0.0,demographics,593
-1469278379854638847,Number of boys in the family (living in the farm household),1.0,demographics,594
-1469278379855004785,Number of boys in the family (living in the farm household),0.0,demographics,595
-1469278379855004825,Number of boys in the family (living in the farm household),1.0,demographics,596
-1469278379855014199,Number of boys in the family (living in the farm household),0.0,demographics,597
-1469278379855014401,Number of boys in the family (living in the farm household),2.0,demographics,598
-1469278379854640837,Number of boys in the family (living in the farm household),0.0,demographics,599
-1469278379855014074,Number of boys in the family (living in the farm household),1.0,demographics,600
-1469278379854639556,Number of boys in the family (living in the farm household),1.0,demographics,601
-1469278379854640166,Number of boys in the family (living in the farm household),0.0,demographics,602
-1469883818362504681,Number of boys in the family (living in the farm household),0.0,demographics,603
-1469278379855014088,Number of boys in the family (living in the farm household),0.0,demographics,604
-1469278379855014073,Number of boys in the family (living in the farm household),0.0,demographics,605
-1469278379855014104,Number of boys in the family (living in the farm household),1.0,demographics,606
-1469278379855014345,Number of boys in the family (living in the farm household),0.0,demographics,607
-1469883818362504890,Number of boys in the family (living in the farm household),1.0,demographics,608
-1469278379855014289,Number of boys in the family (living in the farm household),0.0,demographics,609
-1469278379854641656,Number of boys in the family (living in the farm household),1.0,demographics,610
-1469278379854642031,Number of boys in the family (living in the farm household),0.0,demographics,611
-1469278379854642031,Number of boys in the family (living in the farm household),0.0,demographics,612
-1469278379855008648,Number of boys in the family (living in the farm household),0.0,demographics,613
-1469278379855008633,Number of boys in the family (living in the farm household),1.0,demographics,614
-1469278379854639991,Number of boys in the family (living in the farm household),0.0,demographics,615
-1469278379854639991,Number of boys in the family (living in the farm household),0.0,demographics,616
-1469883818362504409,Number of boys in the family (living in the farm household),1.0,demographics,617
-1469278379855014643,Number of boys in the family (living in the farm household),0.0,demographics,618
-1469278379855009318,Number of boys in the family (living in the farm household),0.0,demographics,619
-1469278379854638141,Number of boys in the family (living in the farm household),0.0,demographics,620
-1469278379855009319,Number of boys in the family (living in the farm household),0.0,demographics,621
-1469278379855009319,Number of boys in the family (living in the farm household),0.0,demographics,622
-1469278379855009319,Number of boys in the family (living in the farm household),0.0,demographics,623
-1469278379854640735,Number of boys in the family (living in the farm household),1.0,demographics,624
-1469278379855008002,Number of boys in the family (living in the farm household),2.0,demographics,625
-1469278379855009390,Number of boys in the family (living in the farm household),0.0,demographics,626
-1469278379854638365,Number of boys in the family (living in the farm household),0.0,demographics,627
-1469278379854641789,Number of boys in the family (living in the farm household),1.0,demographics,628
-1469278379854642507,Number of boys in the family (living in the farm household),0.0,demographics,629
-1469278379854641951,Number of boys in the family (living in the farm household),1.0,demographics,630
-1469278379854641951,Number of boys in the family (living in the farm household),1.0,demographics,631
-1469278379854641951,Number of boys in the family (living in the farm household),1.0,demographics,632
-1469278379855008000,Number of boys in the family (living in the farm household),1.0,demographics,633
-1469278379854642852,Number of boys in the family (living in the farm household),1.0,demographics,634
-1469278379854638345,Number of boys in the family (living in the farm household),0.0,demographics,635
-1469278379854638306,Number of boys in the family (living in the farm household),0.0,demographics,636
-1469278379855004840,Number of boys in the family (living in the farm household),1.0,demographics,637
-1469278379854642720,Number of boys in the family (living in the farm household),0.0,demographics,638
-1469278379855005225,Number of boys in the family (living in the farm household),0.0,demographics,639
-1469278379855005212,Number of boys in the family (living in the farm household),0.0,demographics,640
-1469278379855005212,Number of boys in the family (living in the farm household),0.0,demographics,641
-1469278379854638332,Number of boys in the family (living in the farm household),0.0,demographics,642
-1469278379854642963,Number of boys in the family (living in the farm household),1.0,demographics,643
-1469278379854642963,Number of boys in the family (living in the farm household),1.0,demographics,644
-1469278379854638287,Number of boys in the family (living in the farm household),1.0,demographics,645
-1469278379855005276,Number of boys in the family (living in the farm household),0.0,demographics,646
-1469278379855005249,Number of boys in the family (living in the farm household),0.0,demographics,647
-1469278379855005249,Number of boys in the family (living in the farm household),0.0,demographics,648
-1469278379855008686,Number of boys in the family (living in the farm household),2.0,demographics,651
-1469278379855008072,Number of boys in the family (living in the farm household),0.0,demographics,652
-1469278379855008072,Number of boys in the family (living in the farm household),0.0,demographics,653
-1469278379855008072,Number of boys in the family (living in the farm household),0.0,demographics,654
-1469278379855005043,Number of boys in the family (living in the farm household),0.0,demographics,655
-1469278379855005043,Number of boys in the family (living in the farm household),0.0,demographics,656
-1469278379854641146,Number of boys in the family (living in the farm household),1.0,demographics,657
-1469278379855005002,Number of boys in the family (living in the farm household),0.0,demographics,658
-1469278379855005032,Number of boys in the family (living in the farm household),0.0,demographics,659
-1469278379855005028,Number of boys in the family (living in the farm household),1.0,demographics,660
-1469278379854640452,Number of boys in the family (living in the farm household),1.0,demographics,661
-1469278379854638593,Number of boys in the family (living in the farm household),0.0,demographics,662
-1469278379855008702,Number of boys in the family (living in the farm household),1.0,demographics,663
-1469278379855008702,Number of boys in the family (living in the farm household),1.0,demographics,664
-1469278379854639859,Number of boys in the family (living in the farm household),0.0,demographics,665
-1469278379854638512,Number of boys in the family (living in the farm household),1.0,demographics,666
-1469278379854641222,Number of boys in the family (living in the farm household),2.0,demographics,667
-1469278379854639942,Number of boys in the family (living in the farm household),0.0,demographics,668
-1469278379854639942,Number of boys in the family (living in the farm household),0.0,demographics,669
-1469278379854638490,Number of boys in the family (living in the farm household),0.0,demographics,670
-1469278379854638519,Number of boys in the family (living in the farm household),1.0,demographics,671
-1469278379854638792,Number of boys in the family (living in the farm household),0.0,demographics,672
-1469278379854642831,Number of boys in the family (living in the farm household),0.0,demographics,673
-1469278379854639534,Number of boys in the family (living in the farm household),4.0,demographics,674
-1469278379854639534,Number of boys in the family (living in the farm household),4.0,demographics,675
-1469278379854638214,Number of boys in the family (living in the farm household),1.0,demographics,676
-1469278379854639354,Number of boys in the family (living in the farm household),0.0,demographics,677
-1469278379854639354,Number of boys in the family (living in the farm household),0.0,demographics,678
-1469278379854638432,Number of boys in the family (living in the farm household),1.0,demographics,679
-1469278379854639362,Number of boys in the family (living in the farm household),2.0,demographics,680
-1469278379854638434,Number of boys in the family (living in the farm household),0.0,demographics,681
-1469278379854639340,Number of boys in the family (living in the farm household),1.0,demographics,684
-1469278379854638373,Number of boys in the family (living in the farm household),2.0,demographics,685
-1469278379854639445,Number of boys in the family (living in the farm household),0.0,demographics,686
-1469278379854639420,Number of boys in the family (living in the farm household),0.0,demographics,687
-1469278379854642243,Number of boys in the family (living in the farm household),1.0,demographics,688
-1469278379854642243,Number of boys in the family (living in the farm household),1.0,demographics,689
-1469278379854642131,Number of boys in the family (living in the farm household),0.0,demographics,690
-1469278379854639686,Number of boys in the family (living in the farm household),1.0,demographics,691
-1469278379854639686,Number of boys in the family (living in the farm household),1.0,demographics,692
-1469278379854642125,Number of boys in the family (living in the farm household),0.0,demographics,693
-1469278379854640951,Number of boys in the family (living in the farm household),1.0,demographics,694
-1469278379854642215,Number of boys in the family (living in the farm household),1.0,demographics,695
-1469278379854642215,Number of boys in the family (living in the farm household),1.0,demographics,696
-1469278379854640079,Number of boys in the family (living in the farm household),0.0,demographics,697
-1469278379854642194,Number of boys in the family (living in the farm household),0.0,demographics,698
-1469278379854640971,Number of boys in the family (living in the farm household),1.0,demographics,699
-1469278379854640065,Number of boys in the family (living in the farm household),0.0,demographics,700
-1469278379854640065,Number of boys in the family (living in the farm household),0.0,demographics,701
-1469278379854642173,Number of boys in the family (living in the farm household),0.0,demographics,702
-1469278379854642173,Number of boys in the family (living in the farm household),0.0,demographics,703
-1469278379854641215,Number of boys in the family (living in the farm household),1.0,demographics,704
-1469278379854641215,Number of boys in the family (living in the farm household),1.0,demographics,705
-1469278379854641215,Number of boys in the family (living in the farm household),1.0,demographics,706
-1469278379854641215,Number of boys in the family (living in the farm household),1.0,demographics,707
-1469278379854641215,Number of boys in the family (living in the farm household),1.0,demographics,708
-1469278379854641215,Number of boys in the family (living in the farm household),1.0,demographics,709
-1469278379854640961,Number of boys in the family (living in the farm household),1.0,demographics,710
-1469278379854640900,Number of boys in the family (living in the farm household),0.0,demographics,711
-1469278379854642890,Number of boys in the family (living in the farm household),0.0,demographics,712
-1469278379854640339,Number of boys in the family (living in the farm household),0.0,demographics,713
-1469278379854643031,Number of boys in the family (living in the farm household),0.0,demographics,714
-1469278379854641605,Number of boys in the family (living in the farm household),0.0,demographics,715
-1469278379854641605,Number of boys in the family (living in the farm household),0.0,demographics,716
-1469278379854640257,Number of boys in the family (living in the farm household),1.0,demographics,717
-1469278379854643043,Number of boys in the family (living in the farm household),0.0,demographics,718
-1469278379854641569,Number of boys in the family (living in the farm household),0.0,demographics,719
-1469278379854642073,Number of boys in the family (living in the farm household),0.0,demographics,720
-1469278379854640613,Number of boys in the family (living in the farm household),2.0,demographics,722
-1469278379854642479,Number of boys in the family (living in the farm household),1.0,demographics,723
-1469278379854642479,Number of boys in the family (living in the farm household),1.0,demographics,724
-1469278379854642479,Number of boys in the family (living in the farm household),1.0,demographics,725
-1469278379854640625,Number of boys in the family (living in the farm household),1.0,demographics,726
-1469883818362505174,Number of boys in the family (living in the farm household),0.0,demographics,727
-1469278379855039037,Number of boys in the family (living in the farm household),1.0,demographics,728
-1469278379855040664,Number of boys in the family (living in the farm household),0.0,demographics,729
-1469278379855036915,Number of boys in the family (living in the farm household),0.0,demographics,730
-1469278379855037067,Number of boys in the family (living in the farm household),1.0,demographics,731
-1469278379855038019,Number of boys in the family (living in the farm household),1.0,demographics,732
-1469278379855037842,Number of boys in the family (living in the farm household),1.0,demographics,733
-1469278379855040862,Number of boys in the family (living in the farm household),0.0,demographics,734
-1469278379855038442,Number of boys in the family (living in the farm household),0.0,demographics,735
-1469278379855040212,Number of boys in the family (living in the farm household),1.0,demographics,737
-1469278379855039053,Number of boys in the family (living in the farm household),0.0,demographics,738
-1469278379855038729,Number of boys in the family (living in the farm household),0.0,demographics,739
-1469278379855038358,Number of boys in the family (living in the farm household),0.0,demographics,740
-1469278379855037425,Number of boys in the family (living in the farm household),0.0,demographics,741
-1469278379855038409,Number of boys in the family (living in the farm household),1.0,demographics,742
-1469278379855039084,Number of boys in the family (living in the farm household),0.0,demographics,743
-1469278379855040001,Number of boys in the family (living in the farm household),0.0,demographics,744
-1469278379855040001,Number of boys in the family (living in the farm household),0.0,demographics,745
-1469278379855040001,Number of boys in the family (living in the farm household),0.0,demographics,746
-1469278379855038668,Number of boys in the family (living in the farm household),1.0,demographics,747
-1469278379855040455,Number of boys in the family (living in the farm household),1.0,demographics,749
-1469278379855040422,Number of boys in the family (living in the farm household),0.0,demographics,750
-1469278379855039608,Number of boys in the family (living in the farm household),1.0,demographics,751
-1469278379855038830,Number of boys in the family (living in the farm household),0.0,demographics,752
-1469278379855039042,Number of boys in the family (living in the farm household),2.0,demographics,753
-1469883818362505115,Number of boys in the family (living in the farm household),1.0,demographics,754
-1469883818362505118,Number of boys in the family (living in the farm household),0.0,demographics,755
-1469278379855038999,Number of boys in the family (living in the farm household),1.0,demographics,756
-1469278379855039728,Number of boys in the family (living in the farm household),0.0,demographics,757
-1469278379855039878,Number of boys in the family (living in the farm household),0.0,demographics,758
-1469278379855038499,Number of boys in the family (living in the farm household),2.0,demographics,759
-1469278379855039832,Number of boys in the family (living in the farm household),0.0,demographics,760
-1469278379855037698,Number of boys in the family (living in the farm household),1.0,demographics,761
-1469278379855037177,Number of boys in the family (living in the farm household),0.0,demographics,762
-1469278379855037185,Number of boys in the family (living in the farm household),0.0,demographics,763
-1469278379855040741,Number of boys in the family (living in the farm household),1.0,demographics,764
-1469278379855039787,Number of boys in the family (living in the farm household),1.0,demographics,766
-1469278379855040252,Number of boys in the family (living in the farm household),0.0,demographics,767
-1469278379855040132,Number of boys in the family (living in the farm household),2.0,demographics,768
-1469278379855039488,Number of boys in the family (living in the farm household),1.0,demographics,769
-1469278379855040307,Number of boys in the family (living in the farm household),0.0,demographics,770
-1469278379855040307,Number of boys in the family (living in the farm household),0.0,demographics,771
-1469278379855039486,Number of boys in the family (living in the farm household),1.0,demographics,772
-1469278379855040352,Number of boys in the family (living in the farm household),1.0,demographics,773
-1469278379855040352,Number of boys in the family (living in the farm household),1.0,demographics,774
-1469278379855040352,Number of boys in the family (living in the farm household),1.0,demographics,775
-1469278379855039407,Number of boys in the family (living in the farm household),1.0,demographics,776
-1469278379855040432,Number of boys in the family (living in the farm household),0.0,demographics,777
-1469278379855038122,Number of boys in the family (living in the farm household),2.0,demographics,778
-1469278379855040242,Number of boys in the family (living in the farm household),1.0,demographics,779
-1469278379855039629,Number of boys in the family (living in the farm household),0.0,demographics,780
-1469883818362505224,Number of boys in the family (living in the farm household),2.0,demographics,781
-1469278379855040198,Number of boys in the family (living in the farm household),2.0,demographics,782
-1469278379855040099,Number of boys in the family (living in the farm household),0.0,demographics,783
-1469278379855038070,Number of boys in the family (living in the farm household),0.0,demographics,784
-1469278379855038690,Number of boys in the family (living in the farm household),0.0,demographics,786
-1469278379855037403,Number of boys in the family (living in the farm household),0.0,demographics,787
-1469278379855038672,Number of boys in the family (living in the farm household),2.0,demographics,788
-1469278379855037409,Number of boys in the family (living in the farm household),1.0,demographics,789
-1469278379855037416,Number of boys in the family (living in the farm household),1.0,demographics,790
-1469278379855037520,Number of boys in the family (living in the farm household),1.0,demographics,791
-1469278379855040589,Number of boys in the family (living in the farm household),0.0,demographics,793
-1469278379854782610,Number of boys in the family (living in the farm household),2.0,demographics,795
-1469278379855039342,Number of boys in the family (living in the farm household),1.0,demographics,796
-1469278379855037024,Number of boys in the family (living in the farm household),0.0,demographics,797
-1469278379855036851,Number of boys in the family (living in the farm household),0.0,demographics,799
-1469278379855036956,Number of boys in the family (living in the farm household),0.0,demographics,800
-1469278379855036956,Number of boys in the family (living in the farm household),0.0,demographics,801
-1469278379855036956,Number of boys in the family (living in the farm household),0.0,demographics,802
-1469278379855037391,Number of boys in the family (living in the farm household),0.0,demographics,804
-1469278379854640502,Number of boys in the family (living in the farm household),4.0,demographics,805
-1469278379854640502,Number of boys in the family (living in the farm household),4.0,demographics,806
-1469278379854640527,Number of boys in the family (living in the farm household),1.0,demographics,807
-1469278379854641314,Number of boys in the family (living in the farm household),0.0,demographics,813
-1469278379855036603,Number of boys in the family (living in the farm household),0.0,demographics,814
-1469278379855037183,Number of boys in the family (living in the farm household),0.0,demographics,816
-1469278379855037071,Number of boys in the family (living in the farm household),0.0,demographics,817
-1469278379855036719,Number of boys in the family (living in the farm household),0.0,demographics,822
-1469278379855009751,Number of boys in the family (living in the farm household),0.0,demographics,824
-1469278379855040784,Number of boys in the family (living in the farm household),0.0,demographics,827
-1469278379855038127,Number of boys in the family (living in the farm household),0.0,demographics,829
-1470157558564695309,Number of girls in the family (living in the farm household),0.0,demographics,833
-1470157558564695309,Number of girls in the family (living in the farm household),0.0,demographics,834
-1470157558564695309,Number of girls in the family (living in the farm household),0.0,demographics,835
-1470157558564695309,Number of girls in the family (living in the farm household),0.0,demographics,836
-1470157558564695295,Number of girls in the family (living in the farm household),2.0,demographics,837
-1470157558564695295,Number of girls in the family (living in the farm household),2.0,demographics,838
-1470157558564694946,Number of girls in the family (living in the farm household),0.0,demographics,839
-1470157558564694946,Number of girls in the family (living in the farm household),0.0,demographics,840
-1470157558564694946,Number of girls in the family (living in the farm household),0.0,demographics,841
-1470157558564694946,Number of girls in the family (living in the farm household),0.0,demographics,842
-1470157558564695057,Number of girls in the family (living in the farm household),1.0,demographics,843
-1470157558564694699,Number of girls in the family (living in the farm household),0.0,demographics,844
-1470157558564694968,Number of girls in the family (living in the farm household),0.0,demographics,845
-1470157558564694704,Number of girls in the family (living in the farm household),0.0,demographics,846
-1470157558564695065,Number of girls in the family (living in the farm household),0.0,demographics,847
-1470157558564694989,Number of girls in the family (living in the farm household),0.0,demographics,848
-1470157558564695215,Number of girls in the family (living in the farm household),1.0,demographics,849
-1470157558564694714,Number of girls in the family (living in the farm household),2.0,demographics,850
-1470157558564694722,Number of girls in the family (living in the farm household),1.0,demographics,851
-1470157558564694722,Number of girls in the family (living in the farm household),1.0,demographics,852
-1470157558564694903,Number of girls in the family (living in the farm household),0.0,demographics,853
-1470157558564694972,Number of girls in the family (living in the farm household),0.0,demographics,854
-1470157558564694797,Number of girls in the family (living in the farm household),1.0,demographics,855
-1470157558564694797,Number of girls in the family (living in the farm household),1.0,demographics,856
-1470157558564695074,Number of girls in the family (living in the farm household),0.0,demographics,857
-1470157558564694799,Number of girls in the family (living in the farm household),0.0,demographics,858
-1470157558564695163,Number of girls in the family (living in the farm household),0.0,demographics,859
-1470157558564695952,Number of girls in the family (living in the farm household),0.0,demographics,860
-1470157558564695873,Number of girls in the family (living in the farm household),2.0,demographics,861
-1470157558564695063,Number of girls in the family (living in the farm household),0.0,demographics,862
-1470157558564695879,Number of girls in the family (living in the farm household),1.0,demographics,863
-1470157558564695879,Number of girls in the family (living in the farm household),1.0,demographics,864
-1470157558564696002,Number of girls in the family (living in the farm household),0.0,demographics,865
-1470157558564696002,Number of girls in the family (living in the farm household),0.0,demographics,866
-1470157558564695991,Number of girls in the family (living in the farm household),0.0,demographics,867
-1470157558564695965,Number of girls in the family (living in the farm household),1.0,demographics,868
-1470157558564695965,Number of girls in the family (living in the farm household),1.0,demographics,869
-1470157558564695118,Number of girls in the family (living in the farm household),1.0,demographics,870
-1470157558564695118,Number of girls in the family (living in the farm household),1.0,demographics,871
-1470157558564694820,Number of girls in the family (living in the farm household),0.0,demographics,872
-1470157558564695191,Number of girls in the family (living in the farm household),0.0,demographics,873
-1470157558564695191,Number of girls in the family (living in the farm household),0.0,demographics,874
-1470157558564695739,Number of girls in the family (living in the farm household),0.0,demographics,875
-1470157558564695739,Number of girls in the family (living in the farm household),0.0,demographics,876
-1470157558564695739,Number of girls in the family (living in the farm household),0.0,demographics,877
-1470157558564695307,Number of girls in the family (living in the farm household),0.0,demographics,878
-1470157558564695573,Number of girls in the family (living in the farm household),0.0,demographics,879
-1470157558564695554,Number of girls in the family (living in the farm household),0.0,demographics,880
-1470157558564695390,Number of girls in the family (living in the farm household),0.0,demographics,881
-1470157558564695569,Number of girls in the family (living in the farm household),2.0,demographics,882
-1470157558564695558,Number of girls in the family (living in the farm household),0.0,demographics,883
-1470157558564695558,Number of girls in the family (living in the farm household),0.0,demographics,884
-1470157558564695628,Number of girls in the family (living in the farm household),0.0,demographics,885
-1470157558564695562,Number of girls in the family (living in the farm household),0.0,demographics,886
-1470157558564695562,Number of girls in the family (living in the farm household),0.0,demographics,887
-1470157558564695658,Number of girls in the family (living in the farm household),0.0,demographics,888
-1470157558564695658,Number of girls in the family (living in the farm household),0.0,demographics,889
-1470157558564695386,Number of girls in the family (living in the farm household),1.0,demographics,890
-1470157558564695386,Number of girls in the family (living in the farm household),1.0,demographics,891
-1470157558564695504,Number of girls in the family (living in the farm household),0.0,demographics,892
-1470157558564695504,Number of girls in the family (living in the farm household),0.0,demographics,893
-1470157558564695504,Number of girls in the family (living in the farm household),0.0,demographics,894
-1470157558564695096,Number of girls in the family (living in the farm household),0.0,demographics,895
-1470157558564695096,Number of girls in the family (living in the farm household),0.0,demographics,896
-1470157558564695757,Number of girls in the family (living in the farm household),0.0,demographics,899
-1469278379854639222,Number of girls in the family (living in the farm household),0.0,demographics,900
-1469278379854639342,Number of girls in the family (living in the farm household),0.0,demographics,901
-1469278379854638502,Number of girls in the family (living in the farm household),0.0,demographics,902
-1469278379854638316,Number of girls in the family (living in the farm household),1.0,demographics,903
-1469883818362504539,Number of girls in the family (living in the farm household),0.0,demographics,904
-1469278379855013128,Number of girls in the family (living in the farm household),0.0,demographics,905
-1469278379855013186,Number of girls in the family (living in the farm household),1.0,demographics,907
-1469883818362504743,Number of girls in the family (living in the farm household),0.0,demographics,908
-1469278379854782274,Number of girls in the family (living in the farm household),2.0,demographics,909
-1469278379855014872,Number of girls in the family (living in the farm household),0.0,demographics,910
-1469278379855004447,Number of girls in the family (living in the farm household),0.0,demographics,911
-1469278379855004447,Number of girls in the family (living in the farm household),0.0,demographics,912
-1469278379855004447,Number of girls in the family (living in the farm household),0.0,demographics,913
-1469278379854781944,Number of girls in the family (living in the farm household),0.0,demographics,914
-1469278379854781789,Number of girls in the family (living in the farm household),2.0,demographics,915
-1469278379854781780,Number of girls in the family (living in the farm household),1.0,demographics,916
-1469278379855014611,Number of girls in the family (living in the farm household),0.0,demographics,917
-1469278379855014782,Number of girls in the family (living in the farm household),1.0,demographics,918
-1469278379855013420,Number of girls in the family (living in the farm household),1.0,demographics,919
-1469278379855013426,Number of girls in the family (living in the farm household),0.0,demographics,920
-1469278379855008977,Number of girls in the family (living in the farm household),0.0,demographics,921
-1469278379854782189,Number of girls in the family (living in the farm household),0.0,demographics,922
-1469883818362504707,Number of girls in the family (living in the farm household),2.0,demographics,923
-1469278379855004763,Number of girls in the family (living in the farm household),1.0,demographics,924
-1469278379854782176,Number of girls in the family (living in the farm household),1.0,demographics,925
-1469278379855013194,Number of girls in the family (living in the farm household),0.0,demographics,926
-1469278379854783010,Number of girls in the family (living in the farm household),1.0,demographics,927
-1469278379855012739,Number of girls in the family (living in the farm household),0.0,demographics,928
-1469278379854783130,Number of girls in the family (living in the farm household),0.0,demographics,929
-1469278379855009281,Number of girls in the family (living in the farm household),0.0,demographics,930
-1469883818362505057,Number of girls in the family (living in the farm household),0.0,demographics,931
-1469278379854782955,Number of girls in the family (living in the farm household),0.0,demographics,932
-1469278379854782066,Number of girls in the family (living in the farm household),2.0,demographics,933
-1469278379854782983,Number of girls in the family (living in the farm household),0.0,demographics,934
-1469278379855009775,Number of girls in the family (living in the farm household),0.0,demographics,935
-1469278379855009775,Number of girls in the family (living in the farm household),0.0,demographics,936
-1469278379854781982,Number of girls in the family (living in the farm household),0.0,demographics,937
-1469883818362504785,Number of girls in the family (living in the farm household),1.0,demographics,938
-1469278379854782311,Number of girls in the family (living in the farm household),0.0,demographics,939
-1469883818362504788,Number of girls in the family (living in the farm household),0.0,demographics,940
-1469278379854782873,Number of girls in the family (living in the farm household),0.0,demographics,941
-1469278379855013487,Number of girls in the family (living in the farm household),0.0,demographics,942
-1469278379854782303,Number of girls in the family (living in the farm household),0.0,demographics,943
-1469278379854782330,Number of girls in the family (living in the farm household),1.0,demographics,944
-1469278379855013538,Number of girls in the family (living in the farm household),0.0,demographics,945
-1469278379854677182,Number of girls in the family (living in the farm household),0.0,demographics,946
-1469278379854677051,Number of girls in the family (living in the farm household),0.0,demographics,948
-1469278379855012279,Number of girls in the family (living in the farm household),0.0,demographics,949
-1469278379855009590,Number of girls in the family (living in the farm household),0.0,demographics,951
-1469278379855009590,Number of girls in the family (living in the farm household),0.0,demographics,952
-1469278379855009590,Number of girls in the family (living in the farm household),0.0,demographics,953
-1469278379854677054,Number of girls in the family (living in the farm household),2.0,demographics,954
-1469278379855012573,Number of girls in the family (living in the farm household),0.0,demographics,955
-1469278379854783229,Number of girls in the family (living in the farm household),1.0,demographics,956
-1469278379854781962,Number of girls in the family (living in the farm household),0.0,demographics,957
-1469278379854677037,Number of girls in the family (living in the farm household),0.0,demographics,958
-1469278379855012570,Number of girls in the family (living in the farm household),0.0,demographics,959
-1469883818362504744,Number of girls in the family (living in the farm household),0.0,demographics,960
-1469278379855012184,Number of girls in the family (living in the farm household),0.0,demographics,961
-1469883818362504715,Number of girls in the family (living in the farm household),2.0,demographics,962
-1469278379854783135,Number of girls in the family (living in the farm household),0.0,demographics,963
-1469278379855012158,Number of girls in the family (living in the farm household),0.0,demographics,964
-1469278379854783115,Number of girls in the family (living in the farm household),0.0,demographics,965
-1469278379854782426,Number of girls in the family (living in the farm household),0.0,demographics,966
-1469278379855013057,Number of girls in the family (living in the farm household),1.0,demographics,967
-1469278379855013057,Number of girls in the family (living in the farm household),1.0,demographics,968
-1469278379854783104,Number of girls in the family (living in the farm household),0.0,demographics,969
-1469278379854782419,Number of girls in the family (living in the farm household),0.0,demographics,970
-1469278379855009927,Number of girls in the family (living in the farm household),0.0,demographics,971
-1469278379854677226,Number of girls in the family (living in the farm household),0.0,demographics,972
-1469278379855012818,Number of girls in the family (living in the farm household),0.0,demographics,973
-1469278379854677162,Number of girls in the family (living in the farm household),0.0,demographics,974
-1469278379854782733,Number of girls in the family (living in the farm household),2.0,demographics,975
-1469278379854677174,Number of girls in the family (living in the farm household),1.0,demographics,976
-1469278379854783053,Number of girls in the family (living in the farm household),0.0,demographics,977
-1469278379854782727,Number of girls in the family (living in the farm household),0.0,demographics,978
-1469278379855013676,Number of girls in the family (living in the farm household),2.0,demographics,979
-1469278379855013697,Number of girls in the family (living in the farm household),1.0,demographics,980
-1469278379854782243,Number of girls in the family (living in the farm household),1.0,demographics,981
-1469278379855012382,Number of girls in the family (living in the farm household),0.0,demographics,982
-1469278379854783211,Number of girls in the family (living in the farm household),0.0,demographics,983
-1469278379855012339,Number of girls in the family (living in the farm household),0.0,demographics,984
-1469278379854783216,Number of girls in the family (living in the farm household),1.0,demographics,985
-1469278379855012856,Number of girls in the family (living in the farm household),0.0,demographics,986
-1469278379855013932,Number of girls in the family (living in the farm household),1.0,demographics,987
-1469278379855013152,Number of girls in the family (living in the farm household),0.0,demographics,988
-1469278379855014007,Number of girls in the family (living in the farm household),0.0,demographics,989
-1469278379855014007,Number of girls in the family (living in the farm household),0.0,demographics,990
-1469278379855013593,Number of girls in the family (living in the farm household),0.0,demographics,991
-1469278379855013826,Number of girls in the family (living in the farm household),0.0,demographics,992
-1469278379855013861,Number of girls in the family (living in the farm household),0.0,demographics,994
-1469278379855013563,Number of girls in the family (living in the farm household),0.0,demographics,995
-1469278379855012835,Number of girls in the family (living in the farm household),0.0,demographics,996
-1469278379855009880,Number of girls in the family (living in the farm household),1.0,demographics,997
-1469278379855009844,Number of girls in the family (living in the farm household),0.0,demographics,998
-1469278379855009842,Number of girls in the family (living in the farm household),0.0,demographics,999
-1469278379855009842,Number of girls in the family (living in the farm household),0.0,demographics,1000
-1469278379854641911,Number of girls in the family (living in the farm household),2.0,demographics,1001
-1469278379854641911,Number of girls in the family (living in the farm household),2.0,demographics,1002
-1469278379855005159,Number of girls in the family (living in the farm household),1.0,demographics,1003
-1469278379855008338,Number of girls in the family (living in the farm household),0.0,demographics,1004
-1469278379854638788,Number of girls in the family (living in the farm household),0.0,demographics,1005
-1469278379855008185,Number of girls in the family (living in the farm household),0.0,demographics,1006
-1469278379855008185,Number of girls in the family (living in the farm household),0.0,demographics,1007
-1469278379855009021,Number of girls in the family (living in the farm household),1.0,demographics,1008
-1469278379855004887,Number of girls in the family (living in the farm household),1.0,demographics,1009
-1469278379854638847,Number of girls in the family (living in the farm household),1.0,demographics,1010
-1469278379855004785,Number of girls in the family (living in the farm household),0.0,demographics,1011
-1469278379855004825,Number of girls in the family (living in the farm household),2.0,demographics,1012
-1469278379855014199,Number of girls in the family (living in the farm household),0.0,demographics,1013
-1469278379855014401,Number of girls in the family (living in the farm household),0.0,demographics,1014
-1469278379854640837,Number of girls in the family (living in the farm household),0.0,demographics,1015
-1469278379855014074,Number of girls in the family (living in the farm household),2.0,demographics,1016
-1469278379854639556,Number of girls in the family (living in the farm household),1.0,demographics,1017
-1469278379854640166,Number of girls in the family (living in the farm household),1.0,demographics,1018
-1469883818362504681,Number of girls in the family (living in the farm household),1.0,demographics,1019
-1469278379855014088,Number of girls in the family (living in the farm household),0.0,demographics,1020
-1469278379855014073,Number of girls in the family (living in the farm household),0.0,demographics,1021
-1469278379855014104,Number of girls in the family (living in the farm household),2.0,demographics,1022
-1469278379855014345,Number of girls in the family (living in the farm household),0.0,demographics,1023
-1469278379855014289,Number of girls in the family (living in the farm household),0.0,demographics,1025
-1469278379854641656,Number of girls in the family (living in the farm household),2.0,demographics,1026
-1469278379854642031,Number of girls in the family (living in the farm household),3.0,demographics,1027
-1469278379854642031,Number of girls in the family (living in the farm household),3.0,demographics,1028
-1469278379855008648,Number of girls in the family (living in the farm household),0.0,demographics,1029
-1469278379855008633,Number of girls in the family (living in the farm household),1.0,demographics,1030
-1469278379854639991,Number of girls in the family (living in the farm household),1.0,demographics,1031
-1469278379854639991,Number of girls in the family (living in the farm household),1.0,demographics,1032
-1469883818362504409,Number of girls in the family (living in the farm household),2.0,demographics,1033
-1469278379855014643,Number of girls in the family (living in the farm household),3.0,demographics,1034
-1469278379855009318,Number of girls in the family (living in the farm household),3.0,demographics,1035
-1469278379854638141,Number of girls in the family (living in the farm household),0.0,demographics,1036
-1469278379855009319,Number of girls in the family (living in the farm household),1.0,demographics,1037
-1469278379855009319,Number of girls in the family (living in the farm household),1.0,demographics,1038
-1469278379855009319,Number of girls in the family (living in the farm household),1.0,demographics,1039
-1469278379854640735,Number of girls in the family (living in the farm household),1.0,demographics,1040
-1469278379855008002,Number of girls in the family (living in the farm household),1.0,demographics,1041
-1469278379855009390,Number of girls in the family (living in the farm household),2.0,demographics,1042
-1469278379854638365,Number of girls in the family (living in the farm household),0.0,demographics,1043
-1469278379854641789,Number of girls in the family (living in the farm household),0.0,demographics,1044
-1469278379854642507,Number of girls in the family (living in the farm household),0.0,demographics,1045
-1469278379854641951,Number of girls in the family (living in the farm household),1.0,demographics,1046
-1469278379854641951,Number of girls in the family (living in the farm household),1.0,demographics,1047
-1469278379854641951,Number of girls in the family (living in the farm household),1.0,demographics,1048
-1469278379855008000,Number of girls in the family (living in the farm household),1.0,demographics,1049
-1469278379854642852,Number of girls in the family (living in the farm household),0.0,demographics,1050
-1469278379854638345,Number of girls in the family (living in the farm household),1.0,demographics,1051
-1469278379854638306,Number of girls in the family (living in the farm household),0.0,demographics,1052
-1469278379855004840,Number of girls in the family (living in the farm household),0.0,demographics,1053
-1469278379854642720,Number of girls in the family (living in the farm household),0.0,demographics,1054
-1469278379855005225,Number of girls in the family (living in the farm household),0.0,demographics,1055
-1469278379855005212,Number of girls in the family (living in the farm household),0.0,demographics,1056
-1469278379855005212,Number of girls in the family (living in the farm household),0.0,demographics,1057
-1469278379854638332,Number of girls in the family (living in the farm household),1.0,demographics,1058
-1469278379854642963,Number of girls in the family (living in the farm household),0.0,demographics,1059
-1469278379854642963,Number of girls in the family (living in the farm household),0.0,demographics,1060
-1469278379854638287,Number of girls in the family (living in the farm household),2.0,demographics,1061
-1469278379855005276,Number of girls in the family (living in the farm household),0.0,demographics,1062
-1469278379855005249,Number of girls in the family (living in the farm household),2.0,demographics,1063
-1469278379855005249,Number of girls in the family (living in the farm household),2.0,demographics,1064
-1469278379855008686,Number of girls in the family (living in the farm household),0.0,demographics,1067
-1469278379855008072,Number of girls in the family (living in the farm household),0.0,demographics,1068
-1469278379855008072,Number of girls in the family (living in the farm household),0.0,demographics,1069
-1469278379855008072,Number of girls in the family (living in the farm household),0.0,demographics,1070
-1469278379855005043,Number of girls in the family (living in the farm household),0.0,demographics,1071
-1469278379855005043,Number of girls in the family (living in the farm household),0.0,demographics,1072
-1469278379854641146,Number of girls in the family (living in the farm household),0.0,demographics,1073
-1469278379855005002,Number of girls in the family (living in the farm household),0.0,demographics,1074
-1469278379855005032,Number of girls in the family (living in the farm household),2.0,demographics,1075
-1469278379855005028,Number of girls in the family (living in the farm household),1.0,demographics,1076
-1469278379854640452,Number of girls in the family (living in the farm household),1.0,demographics,1077
-1469278379854638593,Number of girls in the family (living in the farm household),0.0,demographics,1078
-1469278379855008702,Number of girls in the family (living in the farm household),2.0,demographics,1079
-1469278379855008702,Number of girls in the family (living in the farm household),2.0,demographics,1080
-1469278379854639859,Number of girls in the family (living in the farm household),2.0,demographics,1081
-1469278379854641222,Number of girls in the family (living in the farm household),0.0,demographics,1083
-1469278379854639942,Number of girls in the family (living in the farm household),3.0,demographics,1084
-1469278379854639942,Number of girls in the family (living in the farm household),3.0,demographics,1085
-1469278379854638490,Number of girls in the family (living in the farm household),0.0,demographics,1086
-1469278379854638519,Number of girls in the family (living in the farm household),0.0,demographics,1087
-1469278379854638792,Number of girls in the family (living in the farm household),2.0,demographics,1088
-1469278379854642831,Number of girls in the family (living in the farm household),0.0,demographics,1089
-1469278379854639534,Number of girls in the family (living in the farm household),0.0,demographics,1090
-1469278379854639534,Number of girls in the family (living in the farm household),0.0,demographics,1091
-1469278379854638214,Number of girls in the family (living in the farm household),0.0,demographics,1092
-1469278379854639354,Number of girls in the family (living in the farm household),0.0,demographics,1093
-1469278379854639354,Number of girls in the family (living in the farm household),0.0,demographics,1094
-1469278379854638432,Number of girls in the family (living in the farm household),1.0,demographics,1095
-1469278379854639362,Number of girls in the family (living in the farm household),0.0,demographics,1096
-1469278379854638434,Number of girls in the family (living in the farm household),0.0,demographics,1097
-1469278379854639340,Number of girls in the family (living in the farm household),1.0,demographics,1100
-1469278379854638373,Number of girls in the family (living in the farm household),0.0,demographics,1101
-1469278379854639445,Number of girls in the family (living in the farm household),4.0,demographics,1102
-1469278379854639420,Number of girls in the family (living in the farm household),0.0,demographics,1103
-1469278379854642243,Number of girls in the family (living in the farm household),1.0,demographics,1104
-1469278379854642243,Number of girls in the family (living in the farm household),1.0,demographics,1105
-1469278379854642131,Number of girls in the family (living in the farm household),0.0,demographics,1106
-1469278379854639686,Number of girls in the family (living in the farm household),0.0,demographics,1107
-1469278379854639686,Number of girls in the family (living in the farm household),0.0,demographics,1108
-1469278379854642125,Number of girls in the family (living in the farm household),0.0,demographics,1109
-1469278379854640951,Number of girls in the family (living in the farm household),1.0,demographics,1110
-1469278379854642215,Number of girls in the family (living in the farm household),1.0,demographics,1111
-1469278379854642215,Number of girls in the family (living in the farm household),1.0,demographics,1112
-1469278379854640079,Number of girls in the family (living in the farm household),1.0,demographics,1113
-1469278379854642194,Number of girls in the family (living in the farm household),1.0,demographics,1114
-1469278379854640971,Number of girls in the family (living in the farm household),0.0,demographics,1115
-1469278379854640065,Number of girls in the family (living in the farm household),1.0,demographics,1116
-1469278379854640065,Number of girls in the family (living in the farm household),1.0,demographics,1117
-1469278379854642173,Number of girls in the family (living in the farm household),0.0,demographics,1118
-1469278379854642173,Number of girls in the family (living in the farm household),0.0,demographics,1119
-1469278379854641215,Number of girls in the family (living in the farm household),0.0,demographics,1120
-1469278379854641215,Number of girls in the family (living in the farm household),0.0,demographics,1121
-1469278379854641215,Number of girls in the family (living in the farm household),0.0,demographics,1122
-1469278379854641215,Number of girls in the family (living in the farm household),0.0,demographics,1123
-1469278379854641215,Number of girls in the family (living in the farm household),0.0,demographics,1124
-1469278379854641215,Number of girls in the family (living in the farm household),0.0,demographics,1125
-1469278379854640961,Number of girls in the family (living in the farm household),2.0,demographics,1126
-1469278379854640900,Number of girls in the family (living in the farm household),0.0,demographics,1127
-1469278379854642890,Number of girls in the family (living in the farm household),1.0,demographics,1128
-1469278379854640339,Number of girls in the family (living in the farm household),0.0,demographics,1129
-1469278379854643031,Number of girls in the family (living in the farm household),0.0,demographics,1130
-1469278379854641605,Number of girls in the family (living in the farm household),0.0,demographics,1131
-1469278379854641605,Number of girls in the family (living in the farm household),0.0,demographics,1132
-1469278379854640257,Number of girls in the family (living in the farm household),1.0,demographics,1133
-1469278379854643043,Number of girls in the family (living in the farm household),0.0,demographics,1134
-1469278379854641569,Number of girls in the family (living in the farm household),0.0,demographics,1135
-1469278379854642073,Number of girls in the family (living in the farm household),2.0,demographics,1136
-1469278379854642301,Number of girls in the family (living in the farm household),2.0,demographics,1137
-1469278379854640613,Number of girls in the family (living in the farm household),0.0,demographics,1138
-1469278379854642479,Number of girls in the family (living in the farm household),1.0,demographics,1139
-1469278379854642479,Number of girls in the family (living in the farm household),1.0,demographics,1140
-1469278379854642479,Number of girls in the family (living in the farm household),1.0,demographics,1141
-1469278379854640625,Number of girls in the family (living in the farm household),0.0,demographics,1142
-1469883818362505174,Number of girls in the family (living in the farm household),0.0,demographics,1143
-1469278379855039037,Number of girls in the family (living in the farm household),0.0,demographics,1144
-1469278379855040664,Number of girls in the family (living in the farm household),1.0,demographics,1145
-1469278379855036915,Number of girls in the family (living in the farm household),2.0,demographics,1146
-1469278379855037067,Number of girls in the family (living in the farm household),0.0,demographics,1147
-1469278379855038019,Number of girls in the family (living in the farm household),0.0,demographics,1148
-1469278379855037842,Number of girls in the family (living in the farm household),1.0,demographics,1149
-1469278379855040862,Number of girls in the family (living in the farm household),0.0,demographics,1150
-1469278379855038442,Number of girls in the family (living in the farm household),0.0,demographics,1151
-1469278379855040212,Number of girls in the family (living in the farm household),0.0,demographics,1153
-1469278379855039053,Number of girls in the family (living in the farm household),0.0,demographics,1154
-1469278379855038729,Number of girls in the family (living in the farm household),0.0,demographics,1155
-1469278379855038358,Number of girls in the family (living in the farm household),0.0,demographics,1156
-1469278379855037425,Number of girls in the family (living in the farm household),0.0,demographics,1157
-1469278379855038409,Number of girls in the family (living in the farm household),0.0,demographics,1158
-1469278379855039084,Number of girls in the family (living in the farm household),2.0,demographics,1159
-1469278379855040001,Number of girls in the family (living in the farm household),0.0,demographics,1160
-1469278379855040001,Number of girls in the family (living in the farm household),0.0,demographics,1161
-1469278379855040001,Number of girls in the family (living in the farm household),0.0,demographics,1162
-1469278379855038668,Number of girls in the family (living in the farm household),0.0,demographics,1163
-1469278379855040455,Number of girls in the family (living in the farm household),0.0,demographics,1165
-1469278379855040422,Number of girls in the family (living in the farm household),2.0,demographics,1166
-1469278379855039608,Number of girls in the family (living in the farm household),1.0,demographics,1167
-1469278379855038830,Number of girls in the family (living in the farm household),3.0,demographics,1168
-1469278379855039042,Number of girls in the family (living in the farm household),0.0,demographics,1169
-1469883818362505115,Number of girls in the family (living in the farm household),0.0,demographics,1170
-1469883818362505118,Number of girls in the family (living in the farm household),0.0,demographics,1171
-1469278379855038999,Number of girls in the family (living in the farm household),1.0,demographics,1172
-1469278379855039728,Number of girls in the family (living in the farm household),1.0,demographics,1173
-1469278379855039878,Number of girls in the family (living in the farm household),1.0,demographics,1174
-1469278379855038499,Number of girls in the family (living in the farm household),1.0,demographics,1175
-1469278379855039832,Number of girls in the family (living in the farm household),1.0,demographics,1176
-1469278379855037698,Number of girls in the family (living in the farm household),0.0,demographics,1177
-1469278379855037177,Number of girls in the family (living in the farm household),0.0,demographics,1178
-1469278379855037185,Number of girls in the family (living in the farm household),0.0,demographics,1179
-1469278379855040741,Number of girls in the family (living in the farm household),0.0,demographics,1180
-1469278379855039787,Number of girls in the family (living in the farm household),1.0,demographics,1182
-1469278379855040252,Number of girls in the family (living in the farm household),0.0,demographics,1183
-1469278379855040132,Number of girls in the family (living in the farm household),0.0,demographics,1184
-1469278379855039488,Number of girls in the family (living in the farm household),0.0,demographics,1185
-1469278379855040307,Number of girls in the family (living in the farm household),0.0,demographics,1186
-1469278379855040307,Number of girls in the family (living in the farm household),0.0,demographics,1187
-1469278379855039486,Number of girls in the family (living in the farm household),0.0,demographics,1188
-1469278379855040352,Number of girls in the family (living in the farm household),0.0,demographics,1189
-1469278379855040352,Number of girls in the family (living in the farm household),0.0,demographics,1190
-1469278379855040352,Number of girls in the family (living in the farm household),0.0,demographics,1191
-1469278379855039407,Number of girls in the family (living in the farm household),0.0,demographics,1192
-1469278379855040432,Number of girls in the family (living in the farm household),0.0,demographics,1193
-1469278379855038122,Number of girls in the family (living in the farm household),0.0,demographics,1194
-1469278379855040242,Number of girls in the family (living in the farm household),0.0,demographics,1195
-1469278379855039629,Number of girls in the family (living in the farm household),1.0,demographics,1196
-1469883818362505224,Number of girls in the family (living in the farm household),1.0,demographics,1197
-1469278379855040198,Number of girls in the family (living in the farm household),0.0,demographics,1198
-1469278379855040099,Number of girls in the family (living in the farm household),1.0,demographics,1199
-1469278379855038070,Number of girls in the family (living in the farm household),3.0,demographics,1200
-1469278379855038690,Number of girls in the family (living in the farm household),1.0,demographics,1202
-1469278379855037403,Number of girls in the family (living in the farm household),0.0,demographics,1203
-1469278379855038672,Number of girls in the family (living in the farm household),0.0,demographics,1204
-1469278379855037409,Number of girls in the family (living in the farm household),0.0,demographics,1205
-1469278379855037416,Number of girls in the family (living in the farm household),0.0,demographics,1206
-1469278379855037520,Number of girls in the family (living in the farm household),1.0,demographics,1207
-1469278379855040589,Number of girls in the family (living in the farm household),0.0,demographics,1209
-1469278379854782610,Number of girls in the family (living in the farm household),0.0,demographics,1211
-1469278379855039342,Number of girls in the family (living in the farm household),2.0,demographics,1212
-1469278379855037024,Number of girls in the family (living in the farm household),0.0,demographics,1213
-1469278379855036851,Number of girls in the family (living in the farm household),1.0,demographics,1215
-1469278379855036956,Number of girls in the family (living in the farm household),0.0,demographics,1216
-1469278379855036956,Number of girls in the family (living in the farm household),0.0,demographics,1217
-1469278379855036956,Number of girls in the family (living in the farm household),0.0,demographics,1218
-1469278379855037391,Number of girls in the family (living in the farm household),0.0,demographics,1220
-1469278379854640502,Number of girls in the family (living in the farm household),3.0,demographics,1221
-1469278379854640502,Number of girls in the family (living in the farm household),3.0,demographics,1222
-1469278379854640527,Number of girls in the family (living in the farm household),0.0,demographics,1223
-1469278379854641314,Number of girls in the family (living in the farm household),1.0,demographics,1229
-1469278379855036603,Number of girls in the family (living in the farm household),1.0,demographics,1230
-1469278379855037183,Number of girls in the family (living in the farm household),1.0,demographics,1232
-1469278379855037071,Number of girls in the family (living in the farm household),0.0,demographics,1233
-1469278379855036719,Number of girls in the family (living in the farm household),1.0,demographics,1238
-1469278379855009751,Number of girls in the family (living in the farm household),0.0,demographics,1240
-1469278379855040784,Number of girls in the family (living in the farm household),0.0,demographics,1243
-1469278379855038127,Number of girls in the family (living in the farm household),0.0,demographics,1245
+entity_id,survey_year,collection_date,num_adults,num_boys,num_girls,education_id
+1470157558564695309,2024,20-Nov-24,5.0,0.0,0.0,1.0
+1470157558564695295,2024,20-Nov-24,4.0,0.0,2.0,2.0
+1470157558564694946,2024,20-Nov-24,3.0,0.0,0.0,1.0
+1470157558564695057,2024,20-Nov-24,6.0,0.0,1.0,2.0
+1470157558564694699,2024,20-Nov-24,1.0,0.0,0.0,2.0
+1470157558564694968,2024,20-Nov-24,2.0,0.0,0.0,2.0
+1470157558564694704,2024,20-Nov-24,4.0,0.0,0.0,2.0
+1470157558564695065,2024,20-Nov-24,4.0,1.0,0.0,3.0
+1470157558564694989,2024,20-Nov-24,2.0,0.0,0.0,3.0
+1470157558564695215,2024,20-Nov-24,2.0,2.0,1.0,2.0
+1470157558564694714,2024,20-Nov-24,2.0,0.0,2.0,1.0
+1470157558564694722,2024,20-Nov-24,6.0,1.0,1.0,1.0
+1470157558564694903,2024,20-Nov-24,4.0,0.0,0.0,3.0
+1470157558564694972,2024,20-Nov-24,1.0,0.0,0.0,2.0
+1470157558564694797,2024,20-Nov-24,2.0,0.0,1.0,1.0
+1470157558564695074,2024,20-Nov-24,4.0,0.0,0.0,3.0
+1470157558564694799,2024,20-Nov-24,3.0,1.0,0.0,1.0
+1470157558564695163,2024,19-Nov-24,4.0,1.0,0.0,2.0
+1470157558564695952,2024,19-Nov-24,3.0,0.0,0.0,1.0
+1470157558564695873,2024,19-Nov-24,2.0,1.0,2.0,1.0
+1470157558564695063,2024,19-Nov-24,3.0,0.0,0.0,1.0
+1470157558564695879,2024,19-Nov-24,4.0,1.0,1.0,2.0
+1470157558564696002,2024,19-Nov-24,4.0,0.0,0.0,1.0
+1470157558564695991,2024,19-Nov-24,2.0,0.0,0.0,1.0
+1470157558564695965,2024,19-Nov-24,3.0,1.0,1.0,2.0
+1470157558564695118,2024,19-Nov-24,3.0,0.0,1.0,3.0
+1470157558564694820,2024,19-Nov-24,2.0,0.0,0.0,1.0
+1470157558564695191,2024,19-Nov-24,5.0,0.0,0.0,
+1470157558564695739,2024,19-Nov-24,2.0,0.0,0.0,2.0
+1470157558564695307,2024,19-Nov-24,2.0,3.0,0.0,1.0
+1470157558564695573,2024,18-Nov-24,2.0,0.0,0.0,1.0
+1470157558564695554,2024,18-Nov-24,2.0,2.0,0.0,3.0
+1470157558564695390,2024,18-Nov-24,2.0,1.0,0.0,4.0
+1470157558564695569,2024,18-Nov-24,2.0,1.0,2.0,2.0
+1470157558564695558,2024,18-Nov-24,3.0,0.0,0.0,3.0
+1470157558564695628,2024,18-Nov-24,3.0,0.0,0.0,3.0
+1470157558564695562,2024,18-Nov-24,3.0,0.0,0.0,3.0
+1470157558564695658,2024,18-Nov-24,4.0,0.0,0.0,2.0
+1470157558564695386,2024,18-Nov-24,2.0,1.0,1.0,1.0
+1470157558564695504,2024,18-Nov-24,4.0,2.0,0.0,3.0
+1470157558564695096,2024,19-Nov-24,2.0,2.0,0.0,2.0
+1470157558564695337,2024,5-Nov-24,,,,
+1470157558564695889,2024,5-Nov-24,,,,
+1470157558564695757,2024,4-Nov-24,4.0,0.0,0.0,5.0
+1469278379854639222,2024,14-Sep-24,5.0,1.0,0.0,
+1469278379854639342,2024,30-Jul-24,2.0,0.0,0.0,2.0
+1469278379854638502,2024,30-Jul-24,3.0,0.0,0.0,2.0
+1469278379854638316,2024,29-Jul-24,2.0,1.0,1.0,1.0
+1469883818362504539,2024,29-Jul-24,2.0,1.0,0.0,2.0
+1469278379855013128,2024,23-Jul-24,2.0,0.0,0.0,3.0
+1469278379855012334,2024,20-Jul-24,,,,
+1469278379855013186,2024,20-Jul-24,2.0,1.0,1.0,3.0
+1469883818362504743,2024,19-Jul-24,2.0,2.0,0.0,1.0
+1469278379854782274,2024,18-Jul-24,2.0,0.0,2.0,6.0
+1469278379855014872,2024,18-Jul-24,3.0,0.0,0.0,3.0
+1469278379855004447,2024,18-Jul-24,4.0,0.0,0.0,1.0
+1469278379854781944,2024,18-Jul-24,3.0,1.0,0.0,3.0
+1469278379854781789,2024,17-Jul-24,4.0,2.0,2.0,
+1469278379854781780,2024,17-Jul-24,4.0,0.0,1.0,3.0
+1469278379855014611,2024,17-Jul-24,2.0,1.0,0.0,3.0
+1469278379855014782,2024,17-Jul-24,2.0,0.0,1.0,3.0
+1469278379855013420,2024,17-Jul-24,2.0,0.0,1.0,3.0
+1469278379855013426,2024,17-Jul-24,2.0,1.0,0.0,1.0
+1469278379855008977,2024,17-Jul-24,2.0,0.0,0.0,3.0
+1469278379854782189,2024,17-Jul-24,2.0,0.0,0.0,3.0
+1469883818362504707,2024,17-Jul-24,2.0,0.0,2.0,1.0
+1469278379855004763,2024,17-Jul-24,2.0,1.0,1.0,2.0
+1469278379854782176,2024,17-Jul-24,1.0,0.0,1.0,
+1469278379855013194,2024,17-Jul-24,1.0,0.0,0.0,3.0
+1469278379854783010,2024,17-Jul-24,3.0,,1.0,2.0
+1469278379855012739,2024,16-Jul-24,2.0,0.0,0.0,3.0
+1469278379854783130,2024,16-Jul-24,4.0,0.0,0.0,2.0
+1469278379855009281,2024,16-Jul-24,3.0,0.0,0.0,3.0
+1469883818362505057,2024,16-Jul-24,3.0,0.0,0.0,3.0
+1469278379854782955,2024,16-Jul-24,2.0,1.0,0.0,1.0
+1469278379854782066,2024,16-Jul-24,2.0,0.0,2.0,3.0
+1469278379854782983,2024,16-Jul-24,5.0,0.0,0.0,1.0
+1469278379855009775,2024,16-Jul-24,2.0,0.0,0.0,2.0
+1469278379854781982,2024,16-Jul-24,4.0,0.0,0.0,2.0
+1469883818362504785,2024,16-Jul-24,3.0,,1.0,2.0
+1469278379854782311,2024,16-Jul-24,2.0,0.0,0.0,2.0
+1469883818362504788,2024,16-Jul-24,2.0,0.0,0.0,1.0
+1469278379854782873,2024,16-Jul-24,4.0,0.0,0.0,3.0
+1469278379855013487,2024,16-Jul-24,3.0,2.0,0.0,3.0
+1469278379854782303,2024,16-Jul-24,2.0,0.0,0.0,1.0
+1469278379854782330,2024,16-Jul-24,3.0,0.0,1.0,1.0
+1469278379855013538,2024,16-Jul-24,2.0,0.0,0.0,3.0
+1469278379854677182,2024,16-Jul-24,4.0,0.0,0.0,
+1469278379854782765,2024,15-Jul-24,4.0,1.0,,2.0
+1469278379854677051,2024,15-Jul-24,2.0,0.0,0.0,1.0
+1469278379855012279,2024,15-Jul-24,2.0,0.0,0.0,3.0
+1469278379854782856,2024,15-Jul-24,2.0,1.0,,2.0
+1469278379855009590,2024,15-Jul-24,2.0,0.0,0.0,3.0
+1469278379854677054,2024,15-Jul-24,2.0,3.0,2.0,3.0
+1469278379855012573,2024,15-Jul-24,3.0,0.0,0.0,3.0
+1469278379854783229,2024,15-Jul-24,2.0,1.0,1.0,2.0
+1469278379854781962,2024,15-Jul-24,4.0,0.0,0.0,
+1469278379854677037,2024,15-Jul-24,2.0,4.0,0.0,2.0
+1469278379855012570,2024,15-Jul-24,2.0,0.0,0.0,3.0
+1469883818362504744,2024,15-Jul-24,3.0,1.0,0.0,2.0
+1469278379855012184,2024,14-Jul-24,1.0,0.0,0.0,3.0
+1469883818362504715,2024,14-Jul-24,3.0,1.0,2.0,2.0
+1469278379854783135,2024,14-Jul-24,2.0,0.0,0.0,1.0
+1469278379855012158,2024,14-Jul-24,2.0,0.0,0.0,3.0
+1469278379854783115,2024,14-Jul-24,2.0,0.0,0.0,2.0
+1469278379854782426,2024,14-Jul-24,2.0,1.0,0.0,3.0
+1469278379855013057,2024,14-Jul-24,4.0,0.0,1.0,2.0
+1469278379854783104,2024,14-Jul-24,2.0,2.0,0.0,3.0
+1469278379854782419,2024,14-Jul-24,3.0,0.0,0.0,3.0
+1469278379855009927,2024,14-Jul-24,1.0,0.0,0.0,2.0
+1469278379854677226,2024,14-Jul-24,2.0,0.0,0.0,2.0
+1469278379855012818,2024,14-Jul-24,2.0,2.0,0.0,2.0
+1469278379854677162,2024,14-Jul-24,4.0,0.0,0.0,2.0
+1469278379854782733,2024,14-Jul-24,2.0,0.0,2.0,1.0
+1469278379854677174,2024,14-Jul-24,2.0,1.0,1.0,2.0
+1469278379854783053,2024,14-Jul-24,5.0,0.0,0.0,1.0
+1469278379854782727,2024,14-Jul-24,2.0,0.0,0.0,3.0
+1469278379855013676,2024,14-Jul-24,2.0,0.0,2.0,3.0
+1469278379855013697,2024,14-Jul-24,2.0,1.0,1.0,1.0
+1469278379854782243,2024,13-Jul-24,2.0,1.0,1.0,2.0
+1469278379855012382,2024,13-Jul-24,2.0,0.0,0.0,3.0
+1469278379854783211,2024,13-Jul-24,4.0,1.0,0.0,2.0
+1469278379855012339,2024,13-Jul-24,2.0,0.0,0.0,2.0
+1469278379854783216,2024,13-Jul-24,2.0,2.0,1.0,3.0
+1469278379855012856,2024,13-Jul-24,2.0,0.0,0.0,3.0
+1469278379855013932,2024,13-Jul-24,2.0,0.0,1.0,3.0
+1469278379855013152,2024,13-Jul-24,4.0,0.0,0.0,3.0
+1469278379855014007,2024,13-Jul-24,2.0,0.0,0.0,3.0
+1469278379855013593,2024,13-Jul-24,2.0,0.0,0.0,3.0
+1469278379855013826,2024,13-Jul-24,2.0,2.0,0.0,3.0
+1469278379855012881,2024,13-Jul-24,,,,
+1469278379855013861,2024,13-Jul-24,2.0,0.0,0.0,3.0
+1469278379855013563,2024,13-Jul-24,2.0,0.0,0.0,1.0
+1469278379855012835,2024,13-Jul-24,2.0,0.0,0.0,3.0
+1469278379855009880,2024,12-Jul-24,2.0,1.0,1.0,1.0
+1469278379855009844,2024,12-Jul-24,2.0,0.0,0.0,1.0
+1469278379855009842,2024,12-Jul-24,4.0,2.0,0.0,1.0
+1469278379854641911,2024,12-Jul-24,4.0,0.0,2.0,2.0
+1469278379855005159,2024,12-Jul-24,2.0,2.0,1.0,3.0
+1469278379855008338,2024,12-Jul-24,4.0,0.0,0.0,2.0
+1469278379854638788,2024,12-Jul-24,5.0,1.0,0.0,2.0
+1469278379855008185,2024,12-Jul-24,2.0,0.0,0.0,1.0
+1469278379855009021,2024,12-Jul-24,3.0,0.0,1.0,2.0
+1469278379855004887,2024,12-Jul-24,2.0,0.0,1.0,1.0
+1469278379854638847,2024,12-Jul-24,2.0,1.0,1.0,1.0
+1469278379855004785,2024,12-Jul-24,3.0,0.0,0.0,3.0
+1469278379855004825,2024,12-Jul-24,4.0,1.0,2.0,2.0
+1469278379855014199,2024,11-Jul-24,3.0,0.0,0.0,1.0
+1469278379855014401,2024,11-Jul-24,2.0,2.0,0.0,2.0
+1469278379854640837,2024,11-Jul-24,3.0,0.0,0.0,2.0
+1469278379855014074,2024,11-Jul-24,2.0,1.0,2.0,3.0
+1469278379854639556,2024,11-Jul-24,4.0,1.0,1.0,2.0
+1469278379854640166,2024,11-Jul-24,5.0,0.0,1.0,2.0
+1469883818362504681,2024,11-Jul-24,3.0,0.0,1.0,2.0
+1469278379855014088,2024,11-Jul-24,2.0,0.0,0.0,3.0
+1469278379855014073,2024,11-Jul-24,2.0,0.0,0.0,3.0
+1469278379855014104,2024,11-Jul-24,2.0,1.0,2.0,7.0
+1469278379855014345,2024,11-Jul-24,2.0,0.0,0.0,1.0
+1469883818362504890,2024,11-Jul-24,3.0,1.0,,2.0
+1469278379855014289,2024,11-Jul-24,2.0,0.0,0.0,1.0
+1469278379854641656,2024,11-Jul-24,2.0,1.0,2.0,2.0
+1469278379854642031,2024,11-Jul-24,3.0,0.0,3.0,2.0
+1469278379855008648,2024,11-Jul-24,3.0,0.0,0.0,2.0
+1469278379855008633,2024,11-Jul-24,3.0,1.0,1.0,3.0
+1469278379854639991,2024,11-Jul-24,3.0,0.0,1.0,3.0
+1469883818362504409,2024,11-Jul-24,5.0,1.0,2.0,3.0
+1469278379855014643,2024,10-Jul-24,3.0,0.0,3.0,3.0
+1469278379855009318,2024,10-Jul-24,2.0,0.0,3.0,2.0
+1469278379854638141,2024,10-Jul-24,4.0,0.0,0.0,3.0
+1469278379855009319,2024,10-Jul-24,2.0,0.0,1.0,2.0
+1469278379854640735,2024,10-Jul-24,4.0,1.0,1.0,3.0
+1469278379855008002,2024,10-Jul-24,4.0,2.0,1.0,2.0
+1469278379855009390,2024,10-Jul-24,2.0,0.0,2.0,2.0
+1469278379854638365,2024,10-Jul-24,5.0,0.0,0.0,1.0
+1469278379854641789,2024,10-Jul-24,1.0,1.0,0.0,2.0
+1469278379854642507,2024,10-Jul-24,3.0,0.0,0.0,3.0
+1469278379854641951,2024,10-Jul-24,2.0,1.0,1.0,3.0
+1469278379855008000,2024,10-Jul-24,3.0,1.0,1.0,2.0
+1469278379854642852,2024,10-Jul-24,3.0,1.0,0.0,3.0
+1469278379854638345,2024,10-Jul-24,2.0,0.0,1.0,2.0
+1469278379854638306,2024,10-Jul-24,2.0,0.0,0.0,3.0
+1469278379855004840,2024,10-Jul-24,3.0,1.0,0.0,2.0
+1469278379854642720,2024,10-Jul-24,3.0,0.0,0.0,3.0
+1469278379855005225,2024,10-Jul-24,2.0,0.0,0.0,2.0
+1469278379855005212,2024,10-Jul-24,3.0,0.0,0.0,3.0
+1469278379854638332,2024,10-Jul-24,2.0,0.0,1.0,3.0
+1469278379854642963,2024,10-Jul-24,4.0,1.0,0.0,2.0
+1469278379854638287,2024,10-Jul-24,2.0,1.0,2.0,3.0
+1469278379855005276,2024,10-Jul-24,2.0,0.0,0.0,2.0
+1469278379855005249,2024,10-Jul-24,2.0,0.0,2.0,2.0
+1469278379854642946,2024,10-Jul-24,,,,
+1469278379855008686,2024,9-Jul-24,2.0,2.0,0.0,2.0
+1469278379855008072,2024,9-Jul-24,2.0,0.0,0.0,2.0
+1469278379855005043,2024,9-Jul-24,2.0,0.0,0.0,3.0
+1469278379854641146,2024,9-Jul-24,5.0,1.0,0.0,2.0
+1469278379855005002,2024,9-Jul-24,3.0,0.0,0.0,3.0
+1469278379855005032,2024,9-Jul-24,2.0,0.0,2.0,3.0
+1469278379855005028,2024,9-Jul-24,2.0,1.0,1.0,1.0
+1469278379854640452,2024,9-Jul-24,2.0,1.0,1.0,1.0
+1469278379854638593,2024,9-Jul-24,4.0,0.0,0.0,1.0
+1469278379855008702,2024,9-Jul-24,3.0,1.0,2.0,
+1469278379854639859,2024,9-Jul-24,2.0,0.0,2.0,4.0
+1469278379854638512,2024,9-Jul-24,2.0,1.0,,1.0
+1469278379854641222,2024,9-Jul-24,2.0,2.0,0.0,3.0
+1469278379854639942,2024,9-Jul-24,2.0,0.0,3.0,3.0
+1469278379854638490,2024,9-Jul-24,2.0,0.0,0.0,3.0
+1469278379854638519,2024,9-Jul-24,1.0,1.0,0.0,1.0
+1469278379854638792,2024,9-Jul-24,2.0,0.0,2.0,6.0
+1469278379854642831,2024,8-Jul-24,2.0,0.0,0.0,3.0
+1469278379854639534,2024,8-Jul-24,5.0,4.0,0.0,1.0
+1469278379854638214,2024,8-Jul-24,4.0,1.0,0.0,2.0
+1469278379854639354,2024,8-Jul-24,3.0,0.0,0.0,
+1469278379854638432,2024,8-Jul-24,2.0,1.0,1.0,3.0
+1469278379854639362,2024,8-Jul-24,2.0,2.0,0.0,3.0
+1469278379854638434,2024,8-Jul-24,4.0,0.0,0.0,1.0
+1469278379854639448,2024,8-Jul-24,,,,
+1469278379854639340,2024,8-Jul-24,4.0,1.0,1.0,3.0
+1469278379854638373,2024,8-Jul-24,4.0,2.0,0.0,1.0
+1469278379854639445,2024,8-Jul-24,2.0,0.0,4.0,1.0
+1469278379854639420,2024,8-Jul-24,2.0,0.0,0.0,
+1469278379854642243,2024,7-Jul-24,4.0,1.0,1.0,2.0
+1469278379854642131,2024,7-Jul-24,4.0,0.0,0.0,1.0
+1469278379854639686,2024,7-Jul-24,4.0,1.0,0.0,3.0
+1469278379854642125,2024,7-Jul-24,4.0,0.0,0.0,3.0
+1469278379854640951,2024,7-Jul-24,3.0,1.0,1.0,3.0
+1469278379854642215,2024,7-Jul-24,2.0,1.0,1.0,2.0
+1469278379854640079,2024,7-Jul-24,4.0,0.0,1.0,6.0
+1469278379854642194,2024,7-Jul-24,4.0,0.0,1.0,3.0
+1469278379854640971,2024,7-Jul-24,3.0,1.0,0.0,1.0
+1469278379854640065,2024,7-Jul-24,4.0,0.0,1.0,6.0
+1469278379854642173,2024,7-Jul-24,2.0,0.0,0.0,2.0
+1469278379854641215,2024,6-Jul-24,3.0,1.0,0.0,
+1469278379854640961,2024,6-Jul-24,3.0,1.0,2.0,3.0
+1469278379854640900,2024,6-Jul-24,1.0,0.0,0.0,3.0
+1469278379854642890,2024,6-Jul-24,3.0,0.0,1.0,3.0
+1469278379854640339,2024,6-Jul-24,4.0,0.0,0.0,3.0
+1469278379854643031,2024,6-Jul-24,2.0,0.0,0.0,3.0
+1469278379854641605,2024,6-Jul-24,4.0,0.0,0.0,3.0
+1469278379854640257,2024,6-Jul-24,3.0,1.0,1.0,
+1469278379854643043,2024,6-Jul-24,3.0,0.0,0.0,3.0
+1469278379854641569,2024,5-Jul-24,2.0,0.0,0.0,3.0
+1469278379854642073,2024,5-Jul-24,3.0,0.0,2.0,1.0
+1469278379854642301,2024,5-Jul-24,6.0,,2.0,3.0
+1469278379854640613,2024,5-Jul-24,4.0,2.0,0.0,2.0
+1469278379854642479,2024,5-Jul-24,3.0,1.0,1.0,1.0
+1469278379854640625,2024,5-Jul-24,3.0,1.0,0.0,1.0
+1469883818362505174,2024,4-Jul-24,4.0,0.0,0.0,1.0
+1469278379855039037,2024,4-Jul-24,3.0,1.0,0.0,2.0
+1469278379855040664,2024,3-Jul-24,2.0,0.0,1.0,3.0
+1469278379855036915,2024,3-Jul-24,3.0,0.0,2.0,
+1469278379855037067,2024,3-Jul-24,2.0,1.0,0.0,3.0
+1469278379855038019,2024,3-Jul-24,3.0,1.0,0.0,2.0
+1469278379855037842,2024,3-Jul-24,2.0,1.0,1.0,2.0
+1469278379855040862,2024,3-Jul-24,3.0,0.0,0.0,3.0
+1469278379855038442,2024,2-Jul-24,4.0,0.0,0.0,3.0
+1469278379855004727,2024,2-Jul-24,,,,
+1469278379855040212,2024,2-Jul-24,4.0,1.0,0.0,3.0
+1469278379855039053,2024,2-Jul-24,2.0,0.0,0.0,3.0
+1469278379855038729,2024,2-Jul-24,1.0,0.0,0.0,2.0
+1469278379855038358,2024,2-Jul-24,2.0,0.0,0.0,1.0
+1469278379855037425,2024,2-Jul-24,4.0,0.0,0.0,2.0
+1469278379855038409,2024,2-Jul-24,4.0,1.0,0.0,2.0
+1469278379855039084,2024,2-Jul-24,2.0,0.0,2.0,1.0
+1469278379855040001,2024,2-Jul-24,4.0,0.0,0.0,1.0
+1469278379855038668,2024,1-Jul-24,3.0,1.0,0.0,2.0
+1469278379855009580,2024,1-Jul-24,,,,
+1469278379855040455,2024,1-Jul-24,2.0,1.0,0.0,1.0
+1469278379855040422,2024,1-Jul-24,4.0,0.0,2.0,1.0
+1469278379855039608,2024,1-Jul-24,6.0,1.0,1.0,1.0
+1469278379855038830,2024,1-Jul-24,4.0,0.0,3.0,
+1469278379855039042,2024,30-Jun-24,3.0,2.0,0.0,3.0
+1469883818362505115,2024,30-Jun-24,5.0,1.0,0.0,2.0
+1469883818362505118,2024,30-Jun-24,6.0,0.0,0.0,3.0
+1469278379855038999,2024,30-Jun-24,3.0,1.0,1.0,2.0
+1469278379855039728,2024,30-Jun-24,5.0,0.0,1.0,3.0
+1469278379855039878,2024,30-Jun-24,5.0,0.0,1.0,2.0
+1469278379855038499,2024,30-Jun-24,4.0,2.0,1.0,2.0
+1469278379855039832,2024,30-Jun-24,3.0,0.0,1.0,1.0
+1469278379855037698,2024,29-Jun-24,2.0,1.0,0.0,1.0
+1469278379855037177,2024,29-Jun-24,4.0,0.0,0.0,1.0
+1469278379855037185,2024,29-Jun-24,4.0,0.0,0.0,2.0
+1469278379855040741,2024,29-Jun-24,4.0,1.0,0.0,2.0
+1469278379855037201,2024,29-Jun-24,,,,
+1469278379855039787,2024,28-Jun-24,2.0,1.0,1.0,2.0
+1469278379855040252,2024,28-Jun-24,4.0,0.0,0.0,4.0
+1469278379855040132,2024,28-Jun-24,4.0,2.0,0.0,3.0
+1469278379855039488,2024,28-Jun-24,4.0,1.0,0.0,2.0
+1469278379855040307,2024,28-Jun-24,4.0,0.0,0.0,3.0
+1469278379855039486,2024,28-Jun-24,3.0,1.0,0.0,1.0
+1469278379855040352,2024,27-Jun-24,3.0,1.0,0.0,2.0
+1469278379855039407,2024,27-Jun-24,4.0,1.0,0.0,3.0
+1469278379855040432,2024,27-Jun-24,6.0,0.0,0.0,2.0
+1469278379855038122,2024,27-Jun-24,3.0,2.0,0.0,3.0
+1469278379855040242,2024,27-Jun-24,4.0,1.0,0.0,2.0
+1469278379855039629,2024,27-Jun-24,3.0,0.0,1.0,3.0
+1469883818362505224,2024,27-Jun-24,2.0,2.0,1.0,6.0
+1469278379855040198,2024,27-Jun-24,5.0,2.0,0.0,1.0
+1469278379855040099,2024,27-Jun-24,2.0,0.0,1.0,2.0
+1469278379855038070,2024,27-Jun-24,2.0,0.0,3.0,2.0
+1469278379855038552,2024,26-Jun-24,2.0,,,1.0
+1469278379855038690,2024,26-Jun-24,4.0,0.0,1.0,1.0
+1469278379855037403,2024,26-Jun-24,5.0,0.0,0.0,2.0
+1469278379855038672,2024,26-Jun-24,3.0,2.0,0.0,1.0
+1469278379855037409,2024,26-Jun-24,4.0,1.0,0.0,1.0
+1469278379855037416,2024,26-Jun-24,3.0,1.0,0.0,1.0
+1469278379855037520,2024,26-Jun-24,4.0,1.0,1.0,
+1469278379855037251,2024,26-Jun-24,,,,
+1469278379855040589,2024,26-Jun-24,4.0,0.0,0.0,1.0
+1469278379855036998,2024,26-Jun-24,3.0,,,3.0
+1469278379854782610,2024,26-Jun-24,2.0,2.0,0.0,1.0
+1469278379855039342,2024,26-Jun-24,2.0,1.0,2.0,1.0
+1469278379855037024,2024,26-Jun-24,4.0,0.0,0.0,2.0
+1469278379855039320,2024,,,,,
+1469278379855036851,2024,26-Jun-24,7.0,0.0,1.0,2.0
+1469278379855036956,2024,26-Jun-24,6.0,0.0,0.0,2.0
+1469278379855012202,2024,25-Jun-24,,,,
+1469278379855037391,2024,25-Jun-24,4.0,0.0,0.0,3.0
+1469278379854640502,2024,23-Jun-24,5.0,4.0,3.0,5.0
+1469278379854640527,2024,19-Jun-24,2.0,1.0,0.0,3.0
+1469278379855013741,2024,19-Jun-24,,,,
+1469278379855039900,2024,14-Jun-24,,,,
+1469278379855040542,2024,24-May-24,,,,
+1469278379855004500,2024,18-May-24,,,,
+1469278379855004491,2024,17-May-24,,,,
+1469278379854641314,2024,17-May-24,3.0,0.0,1.0,1.0
+1469278379855036603,2024,29-Jun-24,4.0,0.0,1.0,6.0
+1469278379855037069,2024,16-May-24,,,,
+1469278379855037183,2024,16-May-24,3.0,0.0,1.0,3.0
+1469278379855037071,2024,16-May-24,7.0,0.0,0.0,6.0
+1469278379855036960,2024,16-May-24,,,,
+1469278379855036789,2024,15-May-24,,,,
+1469278379855037002,2024,15-May-24,,,,
+1469278379855036719,2024,15-May-24,2.0,0.0,1.0,5.0
+1469278379855036643,2024,15-May-24,,,,
+1469278379855009751,2024,16-Jul-24,2.0,0.0,0.0,3.0
+1469278379855004455,2024,14-May-24,,,,
+1469278379855004533,2024,10-May-24,,,,
+1469278379855040784,2024,10-May-24,2.0,0.0,0.0,3.0
+1469278379855004487,2024,10-May-24,,,,
+1469278379855038127,2024,10-May-24,1.0,0.0,0.0,
+1469278379855004451,2024,7-May-24,,,,
+1469278379854782766,2024,3-May-24,,,,
