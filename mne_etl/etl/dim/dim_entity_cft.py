@@ -1,9 +1,10 @@
-from etl.utils.model_builder import build_model_safe
+from etl.utils.matcher import match
 
 def build_dim_entity_cft(df):
-    keywords = {
-        'entity_id': ['Entity ID', 'EntitySystemID'],
-        'entity_name': ['EntityName'],
-        'interviewee': ['Interviewee', 'Respondent']
+    cols = {
+        'entity_id': match(df, ['EntitySystemID']),
+        'entity_name': match(df, ['EntityName']),
+        'interviewee': match(df, ['Interviewee', 'Respondent'])
     }
-    return build_model_safe(df, keywords, label='dim_entity_cft')
+    out = df[list(cols.values())].copy().rename(columns={v: k for k, v in cols.items()})
+    return out.drop_duplicates().reset_index(drop=True)

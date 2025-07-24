@@ -28,50 +28,68 @@ from etl.feedback.fact_feedback_programs import build_fact_feedback_programs
 from etl.feedback.fact_feedback_validator import build_fact_feedback_validator
 from etl.feedback.fact_survey_feedback import build_fact_survey_feedback
 
-# CFT
-
+# CFT Models
 from etl.dim.dim_entity_cft import build_dim_entity_cft
-#from etl.dim.dim_field_geolocation_cft import build_dim_field_geolocation_cft
-#from etl.fact.fact_assessment_cft import build_fact_assessment_cft
-# from etl.fact.fact_climate_crops_cft import build_fact_climate_crops_cft
-# from etl.fact.fact_soil_cft import build_fact_soil_cft
-# from etl.fact.fact_waste_management_cft import build_fact_waste_management_cft
+from etl.dim.dim_geolocation_cft import build_dim_geolocation
+from etl.fact.fact_energy_use_cft import build_fact_energy_usage
 
-def run_pipeline(df_raw: pd.DataFrame, df_cft: pd.DataFrame) -> dict:
+def run_pipeline(df_raw: pd.DataFrame, 
+                 df_cft: pd.DataFrame,
+                 df_co_product_cleaned: pd.DataFrame,
+                 df_energy: pd.DataFrame,
+                 df_fertilizer_input: pd.DataFrame) -> dict:
+
+
     df_clean = process_dataframe(df_raw)
     df_cft_clean = clean_cft(df_cft)
+
+    # 🧱 Core Output Dictionary
     results = {}
     used_columns = set()
 
-    # Dimensions
-    results['dim_entity'] = build_dim_entity(df_clean)
-    results['dim_location'] = build_dim_location(df_clean)
-    results['dim_farmer'] = build_dim_farmer(df_clean)
-    results['dim_plot'] = build_dim_plot(df_clean)
-    results['dim_identification'] = build_dim_identification(df_clean)
-    results['dim_education'] = build_dim_education(df_clean)
+    # ✨ Dimension Models
+    dim_functions = {
+        'dim_entity': build_dim_entity,
+        'dim_location': build_dim_location,
+        'dim_farmer': build_dim_farmer,
+        'dim_plot': build_dim_plot,
+        'dim_identification': build_dim_identification,
+        'dim_education': build_dim_education
+    }
+
+    for name, func in dim_functions.items():
+        results[name] = func(df_clean)
+
     dim_education_df = results['dim_education']
+    used_columns.update(col for df in results.values() for col in df.columns)
 
-    for df_name in results:
-        used_columns.update(results[df_name].columns)
+    # 📊 Fact Models
+    fact_functions = {
+        'fact_soil_assessment': build_fact_soil_assessment,
+        'fact_biodiversity_assessment': build_fact_biodiversity_assessment,
+        'fact_water_management': build_fact_water_management,
+        'fact_agro_inputs': build_fact_agro_inputs,
+        'fact_economics': build_fact_economics,
+        'fact_recordkeeping': build_fact_recordkeeping,
+        'fact_nescafe_plan': build_fact_nescafe_plan,
+        'fact_revenue_economics': build_fact_revenue_economics
+    }
 
-    # Facts
-    results['fact_soil_assessment'] = build_fact_soil_assessment(df_clean)
-    results['fact_biodiversity_assessment'] = build_fact_biodiversity_assessment(df_clean)
-    results['fact_water_management'] = build_fact_water_management(df_clean)
-    results['fact_agro_inputs'] = build_fact_agro_inputs(df_clean)
-    results['fact_economics'] = build_fact_economics(df_clean)
-    results['fact_recordkeeping'] = build_fact_recordkeeping(df_clean)
-    results['fact_nescafe_plan'] = build_fact_nescafe_plan(df_clean)
+    for name, func in fact_functions.items():
+        results[name] = func(df_clean)
 
-    results['fact_revenue_economics'] = build_fact_revenue_economics(df_clean)
-
-    # Feedback
+    # 💬 Feedback Models
     results['fact_feedback_demographics'] = build_fact_feedback_demographics(df_clean, dim_education_df)
-    results['fact_feedback_agronomy'] = build_fact_feedback_agronomy(df_clean)
-    results['fact_feedback_climate'] = build_fact_feedback_climate(df_clean)
-    results['fact_feedback_programs'] = build_fact_feedback_programs(df_clean)
-    results['fact_feedback_validator'] = build_fact_feedback_validator(df_clean)
+
+    feedback_funcs = {
+        'fact_feedback_agronomy': build_fact_feedback_agronomy,
+        'fact_feedback_climate': build_fact_feedback_climate,
+        'fact_feedback_programs': build_fact_feedback_programs,
+        'fact_feedback_validator': build_fact_feedback_validator
+    }
+
+    for name, func in feedback_funcs.items():
+        results[name] = func(df_clean)
 
     used_columns.update(
         results['fact_feedback_agronomy'].question_label.tolist() +
@@ -80,16 +98,16 @@ def run_pipeline(df_raw: pd.DataFrame, df_cft: pd.DataFrame) -> dict:
         results['fact_feedback_validator'].question_label.tolist()
     )
 
-    results['fact_survey_feedback'] = build_fact_survey_feedback(df_clean,dim_education_df, used_columns)
+    results['fact_survey_feedback'] = build_fact_survey_feedback(df_clean, dim_education_df, used_columns)
 
-    #CFT 
-    # CFT models for df_cft_clean
-    results['dim_entity_cft'] = build_dim_entity_cft(df_cft_clean)
-    #results['dim_field_geolocation_cft'] = build_dim_field_geolocation_cft(df_cft_clean)
-    # results['fact_assessment_cft'] = build_fact_assessment_cft(df_cft_clean)
-    # results['fact_climate_crops_cft'] = build_fact_climate_crops_cft(df_cft_clean)
-    # results['fact_soil_cft'] = build_fact_soil_cft(df_cft_clean)
-    # results['fact_waste_management_cft'] = build_fact_waste_management_cft(df_cft_clean)
+    # 🌱 CFT Dimensions and Lookup
+    dim_entity_cft_df = build_dim_entity_cft(df_cft_clean)
+    results['dim_entity_cft'] = dim_entity_cft_df
 
+    entity_lookup = dict(zip(dim_entity_cft_df['entity_id'], dim_entity_cft_df['entity_id']))
+    results['dim_geolocation_cft'] = build_dim_geolocation(df_cft_clean)
+
+    # ⚡️ Energy Usage Fact
+    results['fact_energy_cft'] = build_fact_energy_usage(df_energy, entity_lookup)
 
     return results

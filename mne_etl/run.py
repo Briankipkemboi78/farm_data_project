@@ -24,10 +24,19 @@ def main():
     df_cft_raw = pd.read_excel(os.path.join(raw_dir, "cft.xlsx"), sheet_name=0)
     df_cft_cleaned = clean_cft(df_cft_raw)
 
-    # 🚀 Run pipeline on both datasets
-    results = run_pipeline(df_cleaned, df_cft_cleaned)
+    df_co_product = pd.read_excel(os.path.join(raw_dir, "cft.xlsx"), sheet_name=1)
+    df_co_product_cleaned = clean_cft(df_co_product)
 
-    # 📦 Save outputs
+    df_energy = pd.read_excel(os.path.join(raw_dir, "cft.xlsx"), sheet_name=4)
+    df_energy = clean_cft(df_energy)
+
+    df_fertilizer_input = pd.read_excel(os.path.join(raw_dir, "cft.xlsx"), sheet_name=1)
+    df_fertilizer_input = clean_cft(df_fertilizer_input)
+
+    # Run pipeline on the cleaned datasets
+    results = run_pipeline(df_cleaned, df_cft_cleaned, df_co_product_cleaned, df_energy, df_fertilizer_input)
+
+    # Saving outputs
     for name, df in results.items():
         output_path = os.path.join(output_dir, f"{name}.csv")
         df.to_csv(output_path, index=False)
