@@ -17,6 +17,7 @@ Year of previous M&E assessment(s) - 2020,Year of previous M&E assessment(s) - 2
 Year of previous M&E assessment(s) - 2021,Year of previous M&E assessment(s) - 2021,True
 Year of previous M&E assessment(s) - 2022,Year of previous M&E assessment(s) - 2022,True
 Year of previous M&E assessment(s) - 2023,Year of previous M&E assessment(s) - 2023,True
+Year of previous M&E assessment(s) - 2024,Year of previous M&E assessment(s) - 2024,True
 Currency,Currency,True
 Area unit,Area unit,True
 Volume unit,Volume unit,True
@@ -26,6 +27,9 @@ Species - Liberica,Species - Liberica,True
 Entity picture,Entity picture,True
 Farmer signature,Farmer signature,True
 Data collection cant be completed,Data collection cant be completed,True
+Please explain,Please explain,True
+Completion status step 1,Completion status step 1,True
+Remarks step 1,Remarks step 1,True
 Do you want to update existing information?,Do you want to update existing information?,True
 Do you want to autofill the field with existing information?,Do you want to autofill the field with existing information?,True
 Farm ID,Farm ID,True
@@ -33,11 +37,14 @@ Address 1,Address 1,True
 Address 2,Address 2,True
 Region,Region,True
 Sub Region,Sub Region,True
+Sub-unit,Sub-unit,True
 Latitude,Latitude,True
 Longitude,Longitude,True
 Altitude,Altitude,True
+GPS method,GPS method,True
 Polygon,Polygon,True
 Calculate Polygon Area,Calculate Polygon Area,True
+Polygon method,Polygon method,True
 Total Farm Area,Total Farm Area,True
 Existing Plot - Plot number,Existing Plot - Plot number,True
 Do you want to update existing plot information?,Do you want to update existing plot information?,True
@@ -48,19 +55,32 @@ Year Started,Year Started,True
 Production,Production,True
 Production (Kg),Production (Kg),True
 Total Coffee Area,Total Coffee Area,True
+Total Coffee Tree,Total Coffee Tree,True
 Coffee Area Under Active Production,Coffee Area Under Active Production,True
+Coffee Tree Under Active Production,Coffee Tree Under Active Production,True
 Coffee Area Under Rejuvenation Stage (less than 3 years),Coffee Area Under Rejuvenation Stage (less than 3 years),True
+Coffee Tree Under Rejuvenation Stage (less than 3 years),Coffee Tree Under Rejuvenation Stage (less than 3 years),True
+Coffee Tree Under Rejuvenation Stage ( less than 3 years),Coffee Tree Under Rejuvenation Stage ( less than 3 years),True
 Coffee Area Intercropping,Coffee Area Intercropping,True
+Coffee Tree Intercropping,Coffee Tree Intercropping,True
 Intercropping crops,Intercropping crops,True
 Coffee Area Monocropping,Coffee Area Monocropping,True
+Coffee Tree Monocropping,Coffee Tree Monocropping,True
 Other Crops,Other Crops,True
 Land Area Other Crops,Land Area Other Crops,True
+Total Tree Other Crops,Total Tree Other Crops,True
+Total Tree Other Crops Update),Total Tree Other Crops Update),True
 Land Area Under Natural Habitat or Conservation Management,Land Area Under Natural Habitat or Conservation Management,True
+Total Tree Under Natural Habitat or Conservation Management,Total Tree Under Natural Habitat or Conservation Management,True
 Farm Area Dedicated to Other Uses,Farm Area Dedicated to Other Uses,True
+Total Tree Dedicated to Other Uses,Total Tree Dedicated to Other Uses,True
 Total Area,Total Area,True
+Total Tree,Total Tree,True
 Calculate Polygon Area (Ha),Calculate Polygon Area (Ha),True
 New Plot - Plot number,New Plot - Plot number,True
 Calculated Polygon Area (Ha),Calculated Polygon Area (Ha),True
+Completion status step 2,Completion status step 2,True
+Remarks step 2,Remarks step 2,True
 Pick People,Pick People,True
 Do you want to update existing people information?,Do you want to update existing people information?,True
 Do you want to autofill the field with existing people information?,Do you want to autofill the field with existing people information?,True
@@ -82,6 +102,8 @@ Email,Email,True
 Number of adults in farmers family,Number of adults in farmers family,True
 Number of boys in the family (living in the farm household),Number of boys in the family (living in the farm household),True
 Number of girls in the family (living in the farm household),Number of girls in the family (living in the farm household),True
+Completion status step 3,Completion status step 3,True
+Remarks step 3,Remarks step 3,True
 Year joined Nescafe Plan,Year joined Nescafe Plan,True
 Number of Nescafe training sessions in last 12 months male,Number of Nescafe training sessions in last 12 months male,True
 Number of Nescafe training sessions in last 12 months female,Number of Nescafe training sessions in last 12 months female,True
@@ -100,13 +122,211 @@ How satisfied is the farmer with the quality of plantlets received from Nescafe?
 Expansion,Expansion,True
 Filling up the gaps/renovation,Filling up the gaps/renovation,True
 Not applicable,Not applicable,True
-1st main cash crop beside coffee,1st main cash crop beside coffee,True
-2nd main cash crop beside coffee,2nd main cash crop beside coffee,True
-Other crop 1,Other crop 1,True
-Other crop 2,Other crop 2,True
-Other crops,Other crops,True
-Livestock,Livestock,True
-How do you sell your coffee,How do you sell your coffee,True
+Completion status step 4,Completion status step 4,True
+Remarks step 4,Remarks step 4,True
+Average Green Bean Price,Average Green Bean Price,True
+Average Wet Parchment Price,Average Wet Parchment Price,True
+Average Dry Parchment Price,Average Dry Parchment Price,True
+Average Fresh Cherry Price,Average Fresh Cherry Price,True
+Average Dry Cherry Price,Average Dry Cherry Price,True
+Average Husk Coffee Price,Average Husk Coffee Price,True
+Coffee Family Labor (days/year) - male,Coffee Family Labor (days/year) - male,True
+Coffee Family Labor (days/year) - female,Coffee Family Labor (days/year) - female,True
+Coffee Family Labor (days/year) - other family members,Coffee Family Labor (days/year) - other family members,True
+Coffee Total Family Labor,Coffee Total Family Labor,True
+Coffee Temp Labor,Coffee Temp Labor,True
+Coffee Permanent Labor,Coffee Permanent Labor,True
+Coffee Average wage of paid labor/day,Coffee Average wage of paid labor/day,True
+1st cash crop Family Labor (days/year) - male,1st cash crop Family Labor (days/year) - male,True
+1st cash crop Family Labor (days/year) - female,1st cash crop Family Labor (days/year) - female,True
+1st cash crop Family Labor (days/year) - other family members,1st cash crop Family Labor (days/year) - other family members,True
+1st cash crop Total Family Labor,1st cash crop Total Family Labor,True
+1st cash crop Temp Labor,1st cash crop Temp Labor,True
+1st cash crop Permanent Labor,1st cash crop Permanent Labor,True
+1st Cash Crop Average wage of paid labor/day,1st Cash Crop Average wage of paid labor/day,True
+2nd cash crop Family Labor (days/year) - male,2nd cash crop Family Labor (days/year) - male,True
+2nd cash crop Family Labor (days/year) - female,2nd cash crop Family Labor (days/year) - female,True
+2nd cash crop Family Labor (days/year) - other family members,2nd cash crop Family Labor (days/year) - other family members,True
+2nd cash crop Total Family Labor,2nd cash crop Total Family Labor,True
+2nd cash crop Temp Labor,2nd cash crop Temp Labor,True
+2nd cash crop Permanent Labor,2nd cash crop Permanent Labor,True
+2nd Cash Crop Average wage of paid labor/day,2nd Cash Crop Average wage of paid labor/day,True
+Other crop Family Labor (days/year) - male,Other crop Family Labor (days/year) - male,True
+Other crop Family Labor (days/year) - female,Other crop Family Labor (days/year) - female,True
+Other crop Family Labor (days/year) - other family members,Other crop Family Labor (days/year) - other family members,True
+Total Other crop Family Labor,Total Other crop Family Labor,True
+Other crop Temp Labor,Other crop Temp Labor,True
+Other crop Permanent Labor,Other crop Permanent Labor,True
+Other Crops Average wage of paid labor/day,Other Crops Average wage of paid labor/day,True
+Livestock Family Labor (days/year) - male,Livestock Family Labor (days/year) - male,True
+Livestock Family Labor (days/year) - female,Livestock Family Labor (days/year) - female,True
+Livestock Family Labor(days/year) - other family members,Livestock Family Labor(days/year) - other family members,True
+Livestock Total Family Labor,Livestock Total Family Labor,True
+Livestock Temp Labor,Livestock Temp Labor,True
+Livestock Permanent Labor,Livestock Permanent Labor,True
+Livestock Average wage of paid labor/day,Livestock Average wage of paid labor/day,True
+Coffee Fertilizer,Coffee Fertilizer,True
+Coffee Agrochemicals,Coffee Agrochemicals,True
+Coffee Herbicide,Coffee Herbicide,True
+Coffee Water for irrigation,Coffee Water for irrigation,True
+Coffee Electricity / fuel for irrigation,Coffee Electricity / fuel for irrigation,True
+Coffee Plantlet / planting material,Coffee Plantlet / planting material,True
+Coffee Other input,Coffee Other input,True
+Coffee Other input Comment,Coffee Other input Comment,True
+Coffee Total input cost,Coffee Total input cost,True
+1st Cash Crop Fertilizer,1st Cash Crop Fertilizer,True
+1st Cash Crop Agrochemicals,1st Cash Crop Agrochemicals,True
+1st Cash Crop Herbicide,1st Cash Crop Herbicide,True
+1st Cash Crop Water for irrigation,1st Cash Crop Water for irrigation,True
+1st Cash Crop Electricity / fuel for irrigation,1st Cash Crop Electricity / fuel for irrigation,True
+1st Cash Crop Plantlet / planting material,1st Cash Crop Plantlet / planting material,True
+1st Cash Crop Other input,1st Cash Crop Other input,True
+1st Cash Crop Other input Comment,1st Cash Crop Other input Comment,True
+1st Cash Crop Total input cost,1st Cash Crop Total input cost,True
+2nd Cash Crop Fertilizer,2nd Cash Crop Fertilizer,True
+2nd Cash Crop Agrochemicals,2nd Cash Crop Agrochemicals,True
+2nd Cash Crop Herbicide,2nd Cash Crop Herbicide,True
+2nd Cash Crop Water for irrigation,2nd Cash Crop Water for irrigation,True
+2nd Cash Crop Electricity / fuel for irrigation,2nd Cash Crop Electricity / fuel for irrigation,True
+2nd Cash Crop Plantlet / planting material,2nd Cash Crop Plantlet / planting material,True
+2nd Cash Crop Other input,2nd Cash Crop Other input,True
+2nd Cash Crop Other input Comment,2nd Cash Crop Other input Comment,True
+2nd Cash Crop Total input cost,2nd Cash Crop Total input cost,True
+Other Crops Fertilizer,Other Crops Fertilizer,True
+Other Crops Agrochemicals,Other Crops Agrochemicals,True
+Other Crops Herbicide,Other Crops Herbicide,True
+Other Crops Water for irrigation,Other Crops Water for irrigation,True
+Other Crops Electricity / fuel for irrigation,Other Crops Electricity / fuel for irrigation,True
+Other Crops Plantlet / planting material,Other Crops Plantlet / planting material,True
+Other Crops Other input,Other Crops Other input,True
+Other Crops Other input Comment,Other Crops Other input Comment,True
+Other Crops Total input cost,Other Crops Total input cost,True
+Livestock Animal feed,Livestock Animal feed,True
+Livestock Animal feed Comment,Livestock Animal feed Comment,True
+Livestock Veterinary expenses,Livestock Veterinary expenses,True
+Livestock Veterinary expenses Comment,Livestock Veterinary expenses Comment,True
+"Livestock Equipment, material and ustensils","Livestock Equipment, material and ustensils",True
+"Livestock Equipment, material and ustensils Comment","Livestock Equipment, material and ustensils Comment",True
+Livestock Electricity and fuels,Livestock Electricity and fuels,True
+LivestockElectricity and fuels Comment,LivestockElectricity and fuels Comment,True
+Livestock Transportation,Livestock Transportation,True
+Livestock Transportation Comment,Livestock Transportation Comment,True
+Livestock Other input,Livestock Other input,True
+Livestock Other input cost Comment,Livestock Other input cost Comment,True
+Livestock Total input cost,Livestock Total input cost,True
+Coffee - Other expenses,Coffee - Other expenses,True
+1st cash crop - Other expenses,1st cash crop - Other expenses,True
+2nd cash crop - Other expenses,2nd cash crop - Other expenses,True
+Other Crops - Other expenses,Other Crops - Other expenses,True
+Volume,Volume,True
+Robusta sold to Nestle - Coffee volume amount of green coffee bean,Robusta sold to Nestle - Coffee volume amount of green coffee bean,True
+Robusta sold to Nestle - Price of green coffee bean (Currency/Volume unit),Robusta sold to Nestle - Price of green coffee bean (Currency/Volume unit),True
+Robusta sold to Nestle - Coffee volume amount of fresh cherry,Robusta sold to Nestle - Coffee volume amount of fresh cherry,True
+Robusta sold to Nestle - Price of fresh cherry (Currency/Volume unit),Robusta sold to Nestle - Price of fresh cherry (Currency/Volume unit),True
+Robusta sold to Nestle - Coffee volume amount of dry cherry (Volume unit),Robusta sold to Nestle - Coffee volume amount of dry cherry (Volume unit),True
+Robusta sold to Nestle - Price of dry cherry (Currency/Volume unit),Robusta sold to Nestle - Price of dry cherry (Currency/Volume unit),True
+Robusta sold to Nestle - Coffee volume amount of dry parchment (Volume unit),Robusta sold to Nestle - Coffee volume amount of dry parchment (Volume unit),True
+Robusta sold to Nestle - Price of dry parchment (Currency/Volume unit),Robusta sold to Nestle - Price of dry parchment (Currency/Volume unit),True
+Robusta sold to Nestle - Notes (i.e. the reason why the coffee yield is very low or very high),Robusta sold to Nestle - Notes (i.e. the reason why the coffee yield is very low or very high),True
+Robusta sold to others - Coffee volume amount of green coffee bean,Robusta sold to others - Coffee volume amount of green coffee bean,True
+Robusta sold to others - Price of green coffee bean (Currency/Volume unit),Robusta sold to others - Price of green coffee bean (Currency/Volume unit),True
+Robusta sold to others - Coffee volume amount of fresh cherry,Robusta sold to others - Coffee volume amount of fresh cherry,True
+Robusta sold to others - Price of fresh cherry (Currency/Volume unit),Robusta sold to others - Price of fresh cherry (Currency/Volume unit),True
+Robusta sold to others - Coffee volume amount of dry cherry (Volume unit),Robusta sold to others - Coffee volume amount of dry cherry (Volume unit),True
+Robusta sold to others - Price of dry cherry (Currency/Volume unit),Robusta sold to others - Price of dry cherry (Currency/Volume unit),True
+Robusta sold to others - Notes (i.e. the reason why the coffee yield is very low or very high),Robusta sold to others - Notes (i.e. the reason why the coffee yield is very low or very high),True
+Arabica sold to Nestle - Coffee volume amount of green coffee bean,Arabica sold to Nestle - Coffee volume amount of green coffee bean,True
+Arabica sold to Nestle - Price of green coffee bean (Currency/Volume unit),Arabica sold to Nestle - Price of green coffee bean (Currency/Volume unit),True
+Arabica sold to Nestle - Coffee volume amount of fresh cherry,Arabica sold to Nestle - Coffee volume amount of fresh cherry,True
+Arabica sold to Nestle - Price of fresh cherry (Currency/Volume unit),Arabica sold to Nestle - Price of fresh cherry (Currency/Volume unit),True
+Arabica sold to Nestle - Coffee volume amount of wet parchment (Volume unit),Arabica sold to Nestle - Coffee volume amount of wet parchment (Volume unit),True
+Arabica sold to Nestle - Price of wet parchment (Currency/Volume unit),Arabica sold to Nestle - Price of wet parchment (Currency/Volume unit),True
+Arabica sold to Nestle - Coffee volume amount of dry parchment (Volume unit),Arabica sold to Nestle - Coffee volume amount of dry parchment (Volume unit),True
+Arabica sold to Nestle - Price of dry parchment (Currency/Volume unit),Arabica sold to Nestle - Price of dry parchment (Currency/Volume unit),True
+Arabica sold to Nestle - Coffee volume amount of husk coffee (Volume unit),Arabica sold to Nestle - Coffee volume amount of husk coffee (Volume unit),True
+Arabica sold to Nestle - Price of husk coffee (Currency/Volume unit),Arabica sold to Nestle - Price of husk coffee (Currency/Volume unit),True
+Arabica sold to Nestle - Notes (i.e. the reason why the coffee yield is very low or very high),Arabica sold to Nestle - Notes (i.e. the reason why the coffee yield is very low or very high),True
+Arabica sold to others - Coffee volume amount of green coffee bean (Volume unit),Arabica sold to others - Coffee volume amount of green coffee bean (Volume unit),True
+Arabica sold to others - Price of green coffee bean (Currency/Volume unit),Arabica sold to others - Price of green coffee bean (Currency/Volume unit),True
+Arabica sold to others - Coffee volume amount of fresh cherry (Volume unit),Arabica sold to others - Coffee volume amount of fresh cherry (Volume unit),True
+Arabica sold to others - Price of fresh cherry (Currency/Volume unit),Arabica sold to others - Price of fresh cherry (Currency/Volume unit),True
+Arabica sold to others - Coffee volume amount of dry cherry (Volume unit),Arabica sold to others - Coffee volume amount of dry cherry (Volume unit),True
+Arabica sold to others - Price of dry cherry (Currency/Volume unit),Arabica sold to others - Price of dry cherry (Currency/Volume unit),True
+Arabica sold to others - Coffee volume amount of wet parchment (Volume unit),Arabica sold to others - Coffee volume amount of wet parchment (Volume unit),True
+Arabica sold to others - Price of wet parchment (Currency/Volume unit),Arabica sold to others - Price of wet parchment (Currency/Volume unit),True
+Arabica sold to others - Coffee volume amount of dry parchment (Volume unit),Arabica sold to others - Coffee volume amount of dry parchment (Volume unit),True
+Arabica sold to others - Price of dry parchment (Currency/Volume unit),Arabica sold to others - Price of dry parchment (Currency/Volume unit),True
+Arabica sold to others - Notes (i.e. the reason why the coffee yield is very low or very high),Arabica sold to others - Notes (i.e. the reason why the coffee yield is very low or very high),True
+Unsold coffee (in the storage) - Coffee volume amount of green coffee bean,Unsold coffee (in the storage) - Coffee volume amount of green coffee bean,True
+Unsold coffee (in the storage) - Price of green coffee bean (Currency/Volume unit),Unsold coffee (in the storage) - Price of green coffee bean (Currency/Volume unit),True
+Unsold coffee (in the storage) - Coffee volume amount of fresh cherry,Unsold coffee (in the storage) - Coffee volume amount of fresh cherry,True
+Unsold coffee (in the storage) - Price of fresh cherry (Currency/Volume unit),Unsold coffee (in the storage) - Price of fresh cherry (Currency/Volume unit),True
+Unsold coffee (in the storage) - Coffee volume amount of wet parchment (Volume unit),Unsold coffee (in the storage) - Coffee volume amount of wet parchment (Volume unit),True
+Unsold coffee (in the storage) - Price of wet parchment (Currency/Volume unit),Unsold coffee (in the storage) - Price of wet parchment (Currency/Volume unit),True
+Unsold coffee (in the storage) - Coffee volume amount of dry parchment (Volume unit),Unsold coffee (in the storage) - Coffee volume amount of dry parchment (Volume unit),True
+Unsold coffee (in the storage) - Price of dry parchment (Currency/Volume unit),Unsold coffee (in the storage) - Price of dry parchment (Currency/Volume unit),True
+Unsold coffee (in the storage) - Notes (i.e. the reason why the coffee yield is very low or very high),Unsold coffee (in the storage) - Notes (i.e. the reason why the coffee yield is very low or very high),True
+Species - 2,Species - 2,True
+Unsold coffee (in the storage) - Coffee volume amount of green coffee bean - 2,Unsold coffee (in the storage) - Coffee volume amount of green coffee bean - 2,True
+Unsold coffee (in the storage) - Price of green coffee bean (Currency/Volume unit) - 2,Unsold coffee (in the storage) - Price of green coffee bean (Currency/Volume unit) - 2,True
+Unsold coffee (in the storage) - Coffee volume amount of dry cherry (Volume unit) - 2,Unsold coffee (in the storage) - Coffee volume amount of dry cherry (Volume unit) - 2,True
+Unsold coffee (in the storage) - Price of dry cherry (Currency/Volume unit) - 2,Unsold coffee (in the storage) - Price of dry cherry (Currency/Volume unit) - 2,True
+Unsold coffee (in the storage) - Notes (i.e. the reason why the coffee yield is very low or very high) - 2,Unsold coffee (in the storage) - Notes (i.e. the reason why the coffee yield is very low or very high) - 2,True
+Unharvested - Coffee volume amount of green coffee bean,Unharvested - Coffee volume amount of green coffee bean,True
+Unharvested - Price of green coffee bean (Currency/Volume unit),Unharvested - Price of green coffee bean (Currency/Volume unit),True
+Unharvested - Coffee volume amount of fresh cherry,Unharvested - Coffee volume amount of fresh cherry,True
+Unharvested - Price of fresh cherry (Currency/Volume unit),Unharvested - Price of fresh cherry (Currency/Volume unit),True
+Unharvested - Coffee volume amount of dry cherry (Volume unit),Unharvested - Coffee volume amount of dry cherry (Volume unit),True
+Unharvested - Price of dry cherry (Currency/Volume unit),Unharvested - Price of dry cherry (Currency/Volume unit),True
+Unharvested - Coffee volume amount of dry parchment (Volume unit),Unharvested - Coffee volume amount of dry parchment (Volume unit),True
+Unharvested - Price of dry parchment (Currency/Volume unit),Unharvested - Price of dry parchment (Currency/Volume unit),True
+Unharvested - Notes (i.e. the reason why the coffee yield is very low or very high),Unharvested - Notes (i.e. the reason why the coffee yield is very low or very high),True
+Unharvested - The reason why the farmer didnt harvest all coffee cherries,Unharvested - The reason why the farmer didnt harvest all coffee cherries,True
+Harvest sharing - Coffee volume amount of green coffee bean,Harvest sharing - Coffee volume amount of green coffee bean,True
+Harvest sharing - Price of green coffee bean (Currency/Volume unit),Harvest sharing - Price of green coffee bean (Currency/Volume unit),True
+Harvest sharing - Coffee volume amount of fresh cherry,Harvest sharing - Coffee volume amount of fresh cherry,True
+Harvest sharing - Price of fresh cherry (Currency/Volume unit),Harvest sharing - Price of fresh cherry (Currency/Volume unit),True
+Harvest sharing - Coffee volume amount of dry cherry (Volume unit),Harvest sharing - Coffee volume amount of dry cherry (Volume unit),True
+Harvest sharing - Price of dry cherry (Currency/Volume unit),Harvest sharing - Price of dry cherry (Currency/Volume unit),True
+Harvest sharing - Coffee volume amount of wet parchment (Volume unit),Harvest sharing - Coffee volume amount of wet parchment (Volume unit),True
+Harvest sharing - Price of wet parchment (Currency/Volume unit),Harvest sharing - Price of wet parchment (Currency/Volume unit),True
+Harvest sharing - Coffee volume amount of dry parchment (Volume unit),Harvest sharing - Coffee volume amount of dry parchment (Volume unit),True
+Harvest sharing - Price of dry parchment (Currency/Volume unit),Harvest sharing - Price of dry parchment (Currency/Volume unit),True
+Harvest sharing - Notes (i.e. the reason why the coffee yield is very low or very high),Harvest sharing - Notes (i.e. the reason why the coffee yield is very low or very high),True
+1st main cash crop - Volume amount,1st main cash crop - Volume amount,True
+1st main cash crop - Price amount,1st main cash crop - Price amount,True
+1st main cash crop - Total revenue,1st main cash crop - Total revenue,True
+Volume amount unsold (Volume unit),Volume amount unsold (Volume unit),True
+Price amount unsold (Currency/Volume unit),Price amount unsold (Currency/Volume unit),True
+2nd main cash crop - Volume amount,2nd main cash crop - Volume amount,True
+2nd main cash crop - Price amount,2nd main cash crop - Price amount,True
+2nd main cash crop - Total revenue,2nd main cash crop - Total revenue,True
+Other crop 1 main cash crop - Volume amount,Other crop 1 main cash crop - Volume amount,True
+Other crop 1 main cash crop - Price amount,Other crop 1 main cash crop - Price amount,True
+Other crop 1 main cash crop - Total revenue,Other crop 1 main cash crop - Total revenue,True
+Other crop 2 main cash crop - Volume amount,Other crop 2 main cash crop - Volume amount,True
+Other crop 2 main cash crop - Price amount,Other crop 2 main cash crop - Price amount,True
+Other crop 2 main cash crop - Total revenue,Other crop 2 main cash crop - Total revenue,True
+Other crops main cash crop - Volume amount,Other crops main cash crop - Volume amount,True
+Other crops main cash crop - Price amount,Other crops main cash crop - Price amount,True
+Other crops main cash crop - Total revenue,Other crops main cash crop - Total revenue,True
+Livestock - Volume amount,Livestock - Volume amount,True
+Livestock - Price amount,Livestock - Price amount,True
+Livestock - Total revenue,Livestock - Total revenue,True
+Non-commercialcrop 1,Non-commercialcrop 1,True
+Non-commercialcrop 1 - Volume amount,Non-commercialcrop 1 - Volume amount,True
+"Non-commercialcrop 1 - Price amount, if farmers difficult to answer, refer to the market price","Non-commercialcrop 1 - Price amount, if farmers difficult to answer, refer to the market price",True
+Non-commercialcrop 1 - Total revenue,Non-commercialcrop 1 - Total revenue,True
+Non-commercialcrop 2,Non-commercialcrop 2,True
+Non-commercialcrop 2 - Volume amount,Non-commercialcrop 2 - Volume amount,True
+"Non-commercialcrop 2 - Price amount, if farmers difficult to answer, refer to the market price","Non-commercialcrop 2 - Price amount, if farmers difficult to answer, refer to the market price",True
+Non-commercialcrop 2 - Total revenue,Non-commercialcrop 2 - Total revenue,True
+Non-commercialcrop 3,Non-commercialcrop 3,True
+Non-commercial crop 3 - Volume amount,Non-commercial crop 3 - Volume amount,True
+"Non-commercial crop 3 - Price amount, if farmers difficult to answer, refer to the market price","Non-commercial crop 3 - Price amount, if farmers difficult to answer, refer to the market price",True
+Non-commercialcrop 3 - Total revenue,Non-commercialcrop 3 - Total revenue,True
+Source of off-farm income,Source of off-farm income,True
+Off-farm income (in total),Off-farm income (in total),True
 "What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)","What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)",True
 "Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?","Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?",True
 "What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?","What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?",True
@@ -116,7 +336,7 @@ Upload evidence,Upload evidence,True
 "Do you calculate your annual fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?","Do you calculate your annual fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?",True
 What is the soil organic matter (SOM) level in your soils (%)?,What is the soil organic matter (SOM) level in your soils (%)?,True
 What is the Soil pH?,What is the Soil pH?,True
-"What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter, and/or biochar?","What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter, and/or biochar?",True
+"What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter?","What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter?",True
 Organic fertilizer applied kg per ha,Organic fertilizer applied kg per ha,True
 Total fertilizer applied kg per ha,Total fertilizer applied kg per ha,True
 Percentage organic fertiliser vs total fertiliser applied per ha (organic/ total applied x 100),Percentage organic fertiliser vs total fertiliser applied per ha (organic/ total applied x 100),True
@@ -154,6 +374,8 @@ Are you member of an approved RS Unit,Are you member of an approved RS Unit,True
 FAT score,FAT score,True
 FAT %,FAT %,True
 FAT Level,FAT Level,True
+Completion status step 6,Completion status step 6,True
+Remarks step 6,Remarks step 6,True
 Number coffee trees arabica - if applicable (trees/ha),Number coffee trees arabica - if applicable (trees/ha),True
 Number coffee trees robusta (trees/ha),Number coffee trees robusta (trees/ha),True
 Coffee trees age 0-2 (%),Coffee trees age 0-2 (%),True
@@ -168,7 +390,9 @@ What portion of shade trees are native? (%),What portion of shade trees are nati
 Where does the irrigation water come from?,Where does the irrigation water come from?,True
 How many irrigation rounds/year?,How many irrigation rounds/year?,True
 How much irrigation water per round? (m3/ha/round),How much irrigation water per round? (m3/ha/round),True
-How satisfied are you about the Nescafe Plan this year?,How satisfied are you about the Nescafe Plan this year?,True
+Completion status step 7,Completion status step 7,True
+Remarks step 7,Remarks step 7,True
+How satisfied are you about the Nescafe Plan/projects this year?,How satisfied are you about the Nescafe Plan/projects this year?,True
 "If the respondent is dissatisfied, what is the reason/cause?","If the respondent is dissatisfied, what is the reason/cause?",True
 How confident are you that your children / next generation will have a good livelihood from coffee farming?,How confident are you that your children / next generation will have a good livelihood from coffee farming?,True
 Who is the sucessor to your farm?,Who is the sucessor to your farm?,True
@@ -184,16 +408,110 @@ Other (please specify),Other (please specify),True
 Other (please specify) text,Other (please specify) text,True
 None,None,True
 How do you tackle the challenges,How do you tackle the challenges,True
+Completion status step 8,Completion status step 8,True
+Remarks step 8,Remarks step 8,True
 Status by enumerator,Status by enumerator,True
 Comment by enumerator,Comment by enumerator,True
 Status by validator,Status by validator,True
 Assessment header (M&E step 1),Assessment header (M&E step 1),True
-Farm and plot information (M&E step 2),Farm and plot information (M&E step 2),True
-Farmer and household information (M&E step 3),Farmer and household information (M&E step 3),True
-Nescafe Plan interaction/ technical assistance (M&E step 4),Nescafe Plan interaction/ technical assistance (M&E step 4),True
-Farm economics & recordkeeping (M&E step 5),Farm economics & recordkeeping (M&E step 5),True
-FAT Coffee V2 (M&E step 6),FAT Coffee V2 (M&E step 6),True
-RegAgri & Carbon (M&E step 7),RegAgri & Carbon (M&E step 7),True
-Qualitative (M&E step 8),Qualitative (M&E step 8),True
-Comments by validator,Comments by validator,True
-Validator name,Validator name,True
+Completion status step 9,Completion status step 9,True
+Remarks step 9,Remarks step 9,True
+Solar dryer,Solar dryer,True
+GRP (Tree planting),GRP (Tree planting),True
+GIZ,GIZ,True
+Did you receive a solar dryer from Co-Honducafe/Nescafe?,Did you receive a solar dryer from Co-Honducafe/Nescafe?,True
+"If you have received a solar dryer, what is the current condition of the dryer?","If you have received a solar dryer, what is the current condition of the dryer?",True
+Did you receive any trees?,Did you receive any trees?,True
+How many trees?,How many trees?,True
+From how many species?,From how many species?,True
+How many trees have survived?,How many trees have survived?,True
+How to handle and care for trees plantlet that have been planted in the farm to ensure that they grow well?,How to handle and care for trees plantlet that have been planted in the farm to ensure that they grow well?,True
+What is the main factors that cause the tree planted to die?,What is the main factors that cause the tree planted to die?,True
+Regenerative Agriculture,Regenerative Agriculture,True
+Farmer Business School (FBS),Farmer Business School (FBS),True
+I did not participate in any trainings conducted by Nestle or GIZ,I did not participate in any trainings conducted by Nestle or GIZ,True
+Other,Other,True
+please specify,please specify,True
+Number of training sessions in last 12 months for participant in age 15 to 24 years,Number of training sessions in last 12 months for participant in age 15 to 24 years,True
+Number of training sessions in last 12 months for participant in age 25 to 35 years old,Number of training sessions in last 12 months for participant in age 25 to 35 years old,True
+Number of training sessions in last 12 months for participant in age 36 and over,Number of training sessions in last 12 months for participant in age 36 and over,True
+Did the Nestle / GIZ trainings that you participated in over the last 12 months increase your knowledge / skills?,Did the Nestle / GIZ trainings that you participated in over the last 12 months increase your knowledge / skills?,True
+Were you able to apply the knowledge and skills gained during the Nestle / GIZ trainings that you participated in over the last 12 months?,Were you able to apply the knowledge and skills gained during the Nestle / GIZ trainings that you participated in over the last 12 months?,True
+Climate resilience assessment: Was the training relevant to skills addressing the impacts of climate change?,Climate resilience assessment: Was the training relevant to skills addressing the impacts of climate change?,True
+Did you learn a lot about risks related to climate change ?,Did you learn a lot about risks related to climate change ?,True
+Did you increase your skills regarding the specific adaptation to or mitigation of climate change risks,Did you increase your skills regarding the specific adaptation to or mitigation of climate change risks,True
+Please explain: Which specific climate risks or consequences will you be able to better cope with if you apply the new skills?,Please explain: Which specific climate risks or consequences will you be able to better cope with if you apply the new skills?,True
+Did you already apply the skills in order to better address climate risks ?,Did you already apply the skills in order to better address climate risks ?,True
+Please explain: What did you change in order to better cope with the consequences of climate change or to be prepared for future consequences?,Please explain: What did you change in order to better cope with the consequences of climate change or to be prepared for future consequences?,True
+"More Work: Additional hours by e.g, expansion of farming activities","More Work: Additional hours by e.g, expansion of farming activities",True
+Improved working conditions,Improved working conditions,True
+More income from farming activities,More income from farming activities,True
+Please select the 1st priority,Please select the 1st priority,True
+Please select the 2nd priority,Please select the 2nd priority,True
+How would you describe your work?,How would you describe your work?,True
+If you got additional working hours as a result of participating at the trainings: How many additional working hours did you have per dayon average?,If you got additional working hours as a result of participating at the trainings: How many additional working hours did you have per dayon average?,True
+"If you got additional working hours as a result of participating in the trainings, please describe what influence the trainings had in this regard.","If you got additional working hours as a result of participating in the trainings, please describe what influence the trainings had in this regard.",True
+Operational safety & health conditions,Operational safety & health conditions,True
+Work quality (e.g. use of technology or techniques that ease physical portion of work),Work quality (e.g. use of technology or techniques that ease physical portion of work),True
+Equality for women,Equality for women,True
+Farmers groups structure,Farmers groups structure,True
+Others,Others,True
+Others - Please provide details,Others - Please provide details,True
+"If your working conditions have improved as a result of participating in the traingings, please describe what influence the trainings had in this regard.","If your working conditions have improved as a result of participating in the traingings, please describe what influence the trainings had in this regard.",True
+"If your income has increased from the farming activities as a result of participating in the trainings, please describe what influence the trainings had in this regard.","If your income has increased from the farming activities as a result of participating in the trainings, please describe what influence the trainings had in this regard.",True
+Productivity increase,Productivity increase,True
+Income increase,Income increase,True
+Income diversification,Income diversification,True
+Crop diversification,Crop diversification,True
+Recordkeeping improvement,Recordkeeping improvement,True
+Farm management improvement,Farm management improvement,True
+Working conditions improvement,Working conditions improvement,True
+Other improvement,Other improvement,True
+Other improvement - Please provide details,Other improvement - Please provide details,True
+Comment,Comment,True
+How many of the members in your household are directly involved in the coffee activities?,How many of the members in your household are directly involved in the coffee activities?,True
+How many are women?,How many are women?,True
+Who usually takes the financial decisions in the household expenses?,Who usually takes the financial decisions in the household expenses?,True
+Who usually takes the financial decisions in the coffee income?,Who usually takes the financial decisions in the coffee income?,True
+Who usually takes the financial decisions in the farm income?,Who usually takes the financial decisions in the farm income?,True
+How many in your household are members of cooperatives or local coffee groups,How many in your household are members of cooperatives or local coffee groups,True
+How many men in your household are members of cooperatives or local coffee groups,How many men in your household are members of cooperatives or local coffee groups,True
+How many women in your household are members of cooperatives or local coffee groups,How many women in your household are members of cooperatives or local coffee groups,True
+How many of the women in your household are members of womens groups,How many of the women in your household are members of womens groups,True
+How many in your household are members of VSLA groups,How many in your household are members of VSLA groups,True
+How many men in your household are members of VSLA groups,How many men in your household are members of VSLA groups,True
+How many women in your household are members of VSLA groups,How many women in your household are members of VSLA groups,True
+"Compared to before the Nestle/GIZ support, please let us know if any of the below applies?","Compared to before the Nestle/GIZ support, please let us know if any of the below applies?",True
+Please specify,Please specify,True
+What other support would?you / Women in your household? require?,What other support would?you / Women in your household? require?,True
+Number of boys in school age,Number of boys in school age,True
+How many are fully going to school?,How many are fully going to school?,True
+How many are partially going to school?,How many are partially going to school?,True
+Number of girls in school age,Number of girls in school age,True
+Who owns the coffee farm?,Who owns the coffee farm?,True
+Who keeps the records and documents of the farm?,Who keeps the records and documents of the farm?,True
+Who handles and receives payments from the sale of the coffee,Who handles and receives payments from the sale of the coffee,True
+In whose name is the title deed (ownership of the farm),In whose name is the title deed (ownership of the farm),True
+Who is an official member of the cooperative / producer organization,Who is an official member of the cooperative / producer organization,True
+Who has a bank account or mobile money account?,Who has a bank account or mobile money account?,True
+"Who usually takes the financial decisions in the household (household expenses, investment, saving, sales)?","Who usually takes the financial decisions in the household (household expenses, investment, saving, sales)?",True
+Who usually keeps the cash money in the household?,Who usually keeps the cash money in the household?,True
+Has your coffee farm been pruned in the last 12 months?,Has your coffee farm been pruned in the last 12 months?,True
+Do you have area pruned in the last 3 years,Do you have area pruned in the last 3 years,True
+What is the total area pruned in the last 3 years?,What is the total area pruned in the last 3 years?,True
+What percentage of the coffee farm has been rejuvenated by full stumping in the last 12 months (%),What percentage of the coffee farm has been rejuvenated by full stumping in the last 12 months (%),True
+What percentage of the coffee farm has been rejuvenated by partial stumping (with remaining branch ) in the past 12 months? (%),What percentage of the coffee farm has been rejuvenated by partial stumping (with remaining branch ) in the past 12 months? (%),True
+Describe the quality of maintenance after rejuvenation/stumping rejuvenation/stumping,Describe the quality of maintenance after rejuvenation/stumping rejuvenation/stumping,True
+If you receive fertilizer from Nestle Philippines fertilizer program,If you receive fertilizer from Nestle Philippines fertilizer program,True
+How many bags and type of fertilizer received?,How many bags and type of fertilizer received?,True
+What is the type of fertilizer received,What is the type of fertilizer received,True
+When did you receive/ apply the fertilizer?,When did you receive/ apply the fertilizer?,True
+Where in particular (plot) in your coffee farm did you apply the fertilizer?,Where in particular (plot) in your coffee farm did you apply the fertilizer?,True
+Did you observe noticeable differences in crop stand and/or yield improvement from the applied area/plot? (take note of the qualitative (crop stand) and quantitative (yield - kgs),Did you observe noticeable differences in crop stand and/or yield improvement from the applied area/plot? (take note of the qualitative (crop stand) and quantitative (yield - kgs),True
+yield - kgs,yield - kgs,True
+Are you satisfied/convinced from the results of your fertilized area/plot?,Are you satisfied/convinced from the results of your fertilized area/plot?,True
+please explain,please explain,True
+Are you willing to invest in fertilization for your farm yield improvement?,Are you willing to invest in fertilization for your farm yield improvement?,True
+Completion status step 8a,Completion status step 8a,True
+Remarks step 8a,Remarks step 8a,True
+Status Code Farmer,Status Code Farmer,True

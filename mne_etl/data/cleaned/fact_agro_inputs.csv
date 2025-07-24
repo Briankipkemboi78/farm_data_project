@@ -1,343 +1,1940 @@
 entity_id,fertilizer_used,n_pct,p_pct,k_pct,unacceptable_4c,weed_management
-1470157558564695309,Lu00e2n Vu0103n u0110iu1ec3n,15.0,,,No,mowing/cutting
-1470157558564695295,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1470157558564694946,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564695057,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564694699,npk 21-11-8,21.0,11.0,8.0,No,mowing/cutting
-1470157558564694968,Uru00ea 46,46.0,0.0,0.0,No,mowing/cutting
-1470157558564694704,npk 18-8-18,18.0,8.0,18.0,No,mowing/cutting
-1470157558564695065,npk 20-10-10,20.0,0.0,0.0,No,mowing/cutting
-1470157558564694989,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1470157558564695215,uru00ea 46%,46.0,0.0,0.0,No,mowing/cutting
-1470157558564694714,npk 20-15-15,20.0,15.0,15.0,No,mowing/cutting
-1470157558564694722,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564694903,ure,46.0,0.0,0.0,No,mowing/cutting
-1470157558564694972,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1470157558564694797,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1470157558564695074,ure,46.0,0.0,0.0,No,mowing/cutting
-1470157558564694799,npk 25-5-19,25.0,5.0,19.0,No,mowing/cutting
-1470157558564695163,ure,46.0,0.0,0.0,No,mowing/cutting
-1470157558564695952,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564695873,npk 20-20-10,20.0,20.0,10.0,No,mowing/cutting
-1470157558564695063,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564695879,ure,46.0,0.0,0.0,No,mowing/cutting
-1470157558564696002,ure,45.0,0.0,0.0,No,mowing/cutting
-1470157558564695991,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1470157558564695965,npk 16 -16-8,16.0,16.0,8.0,No,mowing/cutting
-1470157558564695118,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1470157558564694820,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1470157558564695191,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
-1470157558564695739,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564695307,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1470157558564695573,npk 20-15-5,20.0,15.0,5.0,No,mowing/cutting
-1470157558564695554,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1470157558564695390,ure,46.0,0.0,0.0,No,mowing/cutting
-1470157558564695569,ure,46.0,0.0,0.0,No,combination of practices
-1470157558564695558,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1470157558564695628,npk 20-10-10,20.0,10.0,10.0,No,combination of practices
-1470157558564695562,npk17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1470157558564695658,npk20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564695386,20-5-6,20.0,5.0,6.0,No,mowing/cutting
-1470157558564695504,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1470157558564695096,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1470157558564695337,,,,,,
-1470157558564695889,,,,,,
-1470157558564695757,,,,,,
-1469278379854639222,,,,,,
-1469278379854639342,ure,46.0,0.0,0.0,No,combination of practices
-1469278379854638502,npk 20-10-15,20.0,10.0,15.0,No,combination of practices
-1469278379854638316,NPK 22-6-4,22.0,6.0,4.0,No,combination of practices
-1469883818362504539,npk 20-20-15,20.0,20.0,15.0,No,combination of practices
-1469278379855013128,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
-1469278379855012334,NPK16-8-16,16.0,8.0,16.0,No,combination of practices
-1469278379855013186,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469883818362504743,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854782274,NPK 20.8.20,20.0,8.0,20.0,No,mowing/cutting
-1469278379855014872,npk 20-5-5 phú m?,20.0,5.0,5.0,No,mowing/cutting
-1469278379855004447,npk phú m? 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854781944,NPK 20-20-15,20.0,20.0,15.0,No,mowing/cutting
-1469278379854781789,NPk 20.6.19,20.0,6.0,19.0,No,mowing/cutting
-1469278379854781780,NPk 16.16.8,16.0,16.0,8.0,No,mowing/cutting
+7955439997587190375,,,,,No,combination of practices
+7955439997588533131,,,,,,
+7955439997587190373,,,,,No,
+7955439997587190702,,,,,No,combination of practices
+7955439997588533366,,,,,,
+7955662907713785526,,,,,,
+7955439997587190374,,,,,No,combination of practices
+7955439997588533423,,,,,,
+7955439997588534114,,,,,,
+1470157558628970564,,,,,,
+1470157558628970682,,,,,,
+7955439997587190925,,,,,,
+7955439997588533148,,,,,,
+7955439997588534184,,,,,,
+7955439997587191908,,,,,No,mowing/cutting
+7955439997587190737,npk 20 10 10,20.0,10.0,10.0,No,mowing/cutting
+7955439997587191763,,,,,No,mowing/cutting
+7955439997588533098,,,,,,
+7955439997588534133,,,,,,
+7955439997588534047,,,,,,
+7955439997587190716,npk 20 10 10,20.0,10.0,10.0,No,mowing/cutting
+7955439997588534040,,,,,,
+7955439997587190950,,,,,No,combination of practices
+7955439997588534414,,,,,,
+7955439997587190875,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997588534076,,,,,,
+7955439997588534797,,,,,,
+7955439997587191837,,,,,No,mowing/cutting
+7955439997587190728,npk 20 10 10,20.0,10.0,10.0,No,mowing/cutting
+7955439997587191871,,,,,No,mowing/cutting
+7955439997574930177,,,,,Yes,mowing/cutting
+1470157558628970660,,,,,,
+1470157558628971470,,,,,,
+1470157558628970593,,,,,,
+7955439997588532733,,,,,,
+7955439997588531222,,,,,,
+7955439997588532551,,,,,,
+7955439997587191514,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997588532550,,,,,,
+7955439997588531529,,,,,,
+1470157558628971395,,,,,,
+7955439997587191230,ure,46.0,0.0,0.0,No,combination of practices
+7955439997587191483,,,,,No,mowing/cutting
+7955439997588533036,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587191421,ure,46.0,0.0,0.0,No,combination of practices
+7955439997588531667,,,,,,
+7955439997588532513,,,,,,
+1469278379854639612,,,,,,
+7955439997588531550,,,,,,
+7955439997587191563,ure,46.0,0.0,0.0,No,combination of practices
+7955439997588532792,,,,,,
+1470157558628971521,,,,,,
+1469278379854639842,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997588531824,,,,,,
+7955439997587191503,,,,,No,
+7955439997588531538,,,,,,
+7955439997587191442,,,,,No,mowing/cutting
+1469278379854642005,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854638829,NPK 30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997588532350,,,,,,
+1469278379854642038,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854639857,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469278379854639545,,,,,,
+1469278379854638528,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997587191557,,,,,No,combination of practices
+7955439997587191538,,,,,No,combination of practices
+7955439997588531463,,,,,,
+1470157558628971345,,,,,,
+1470157558628971333,,,,,,
+1470157558628971504,,,,,,
+1470157558628971146,,,,,,
+7955662907712541052,,0.0,0.0,0.0,No,combination of practices
+1469592163271953811,,,,,No,combination of practices
+7955439997588532710,,,,,,
+1470157558628971174,,,,,,
+7955439997586893348,,,,,,
+1470157558628971355,,,,,,
+7955439997588532722,,,,,,
+7955439997587861178,DAP,18.0,46.0,0.0,No,combination of practices
+1469592163271965499,TRIPLE 17,17.0,17.0,17.0,No,combination of practices
+1470157558628971176,,,,,,
+1470002575956820699,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575956820686,,,,,No,combination of practices
+1469592163271959049,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945831593,,,,,No,mowing/cutting
+7955439997588531757,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997588531874,,,,,,
+1469592163271958111,UREA,46.0,0.0,0.0,No,combination of practices
+1470157558628970924,,,,,,
+7955439997587190116,,,,,,cover crops
+7955439997587191402,,,,,,
+1470002575936435263,,,,,,
+1470157558628971093,,,,,,
+7955439997587190147,,,,,No,mowing/cutting
+7955439997588531440,,,,,,
+7955439997588531450,,,,,,
+1469278379854639715,,,,,,
+1469592163271958912,20-10-20,20.0,10.0,20.0,Yes,combination of practices
+7955439997587191409,,,,,No,combination of practices
+1470157558628970921,,,,,,
+7955439997588531832,,,,,,
+1469278379854640110,NPK,15.0,15.0,15.0,No,mowing/cutting
+1469592163271960708,20-10-20,20.0,10.0,20.0,No,combination of practices
+7955439997587191207,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469592163271951997,UREA,46.0,0.0,0.0,No,combination of practices
+1470157558628970896,,,,,,
+7955439997588531563,,,,,,
+7955439997588532899,,,,,,
+1470002575945833344,,,,,No,mowing/cutting
+1469278379854639326,npk 20 20 18,20.0,20.0,18.0,No,combination of practices
+7955439997587191060,,,,,No,combination of practices
+7955439997588531891,,,,,,
+7955439997587191373,npk 16 16 13,16.0,16.0,13.0,No,mowing/cutting
+1469278379854638739,NPK 20:20:15,20.0,20.0,15.0,No,mowing/cutting
+1469278379854639968,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997588531558,NPP16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997588531867,,,,,,
+1469278379854640124,SA,21.0,0.0,0.0,No,mowing/cutting
+7955439997588531920,NPK 16-8-16,16.0,8.0,16.0,No,combination of practices
+1469278379854638754,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997588531331,,,,,,
+7955439997588532906,,,,,,
+1469278379854639226,,,,,,
+7955439997587190093,,,,,,
+7955439997588531881,,,,,,
+7955439997587191099,,,,,No,combination of practices
+1469278379854639404,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854639388,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1469278379854640050,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+1469278379854639391,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997587191196,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587191197,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469569898290015317,,,,,,
+1469569898290012844,,,,,,
+7955439997588499919,,,,,,
+1469592163271956852,20-10-20,20.0,10.0,20.0,No,combination of practices
+1469592163271951725,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271956462,18-12-6,18.0,12.0,6.0,No,combination of practices
+1469592163271957083,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997586893337,,,,,No,none
+1469592163271956239,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271953346,,,,,No,combination of practices
+1469592163271962809,,,,,No,combination of practices
+1470002575956820720,YARA,20.0,10.0,20.0,No,combination of practices
+1469278379854638178,SA Nh?t,21.0,0.0,0.0,No,combination of practices
+1469592163271955629,UREA,46.0,0.0,0.0,No,combination of practices
+7955662907699201166,,,,,,
+1469592163271950828,DAP,18.0,46.0,0.0,No,combination of practices
+1469592163271957097,UREA,46.0,0.0,0.0,Yes,combination of practices
+1469592163271951095,,,,,No,combination of practices
+1469278379854641211,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1469592163271956611,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271963493,,,,,No,combination of practices
+1469278379854638152,NPK 20-10-20,20.0,10.0,20.0,No,combination of practices
+1469278379854638436,NPK ??U TRÂU  20-20-5,20.0,20.0,5.0,No,combination of practices
+1469592163271959589,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575936435740,"Cafetalera Plus, Nitrato de amonio, Nitrato de calcio y (12-24-12)",24.0,5.0,8.0,No,combination of practices
+7955439997582550302,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854641116,NPK Mùa khô,20.0,5.0,5.0,No,mowing/cutting
+1469278379854638382,NPK CÀ MAU 20-20-15,20.0,20.0,15.0,No,combination of practices
+1469278379854638630,urê,46.0,0.0,0.0,No,combination of practices
+1469278379854638126,NPK 20-10-20,20.0,10.0,20.0,No,combination of practices
+1469278379854641156,Urea,46.0,0.0,0.0,No,mowing/cutting
+1469278379854639111,NPK,20.0,10.0,20.0,No,mowing/cutting
+1469592163271957294,yara nitrabor,15.0,0.0,0.0,No,combination of practices
+1469592163271965074,NITROMAG,27.0,0.0,0.0,No,combination of practices
+1469278379854640290,NPK ??U TRÂU 30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997587189758,npk 20-5-6 c?a ??u trâu,20.0,5.0,6.0,No,combination of practices
+1469592163271960824,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575936436099,Ferticrop y Gallinaza (Organico),20.0,9.0,16.0,No,combination of practices
+1469592163271957765,18-12-06,18.0,12.0,6.0,No,combination of practices
+7955439997587189849,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+1470002575936436118,,,,,,
+7955439997587189752,npk 20-5-6 c?a ??u trâu,20.0,5.0,6.0,No,combination of practices
+1469592163271961328,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271955386,5D ORIGINAL,20.0,10.0,20.0,No,combination of practices
+1469592163271950946,,,,,No,combination of practices
+1469592163271962961,,,,,No,combination of practices
+1469592163271952673,FIPA,20.0,10.0,20.0,No,combination of practices
+1469592163271965977,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271964771,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587189658,npk,20.0,5.0,5.0,No,mowing/cutting
+1469278379854641295,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1470002575936435286,,,,,,
+1469592163271951964,DAP,18.0,46.0,0.0,No,combination of practices
+1469278379854640582,NPK M?T TR?I M?I,20.0,5.0,5.0,No,combination of practices
+1469592163271962850,UREA,,,,No,none
+7955439997587189540,npk 20-5-6 c?a ??u trâu,20.0,5.0,6.0,No,combination of practices
+1470002575936435604,Formula Cafetalera plus,20.0,5.0,17.0,No,shade
+1469278379854641485,NPK,20.0,5.0,5.0,No,mowing/cutting
+1469592163271958136,,,,,No,combination of practices
+1469278379854640621,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+1469278379854641488,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854640852,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997587189937,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997587189640,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854641463,NPK,20.0,5.0,5.0,No,mowing/cutting
+1469278379854640901,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587189712,ure c?a phú m?,46.0,0.0,0.0,No,combination of practices
+1469883818362504507,npk 20 10 15,20.0,10.0,15.0,No,combination of practices
+7955439997587189936,ure,46.0,0.0,0.0,No,hand hoe
+7955662907702140009,,,,,,
+1470002575936435612,Cafetalera plus,20.0,5.0,17.0,No,shade
+7955662907702140000,npk,10.0,10.0,10.0,No,mulching
+7955439997587187586,ure,46.0,0.0,0.0,No,combination of practices
+7955439997587861513,,,,,No,combination of practices
+1469592163271957427,UREA,46.0,0.0,0.0,No,combination of practices
+7955662907699200862,12-24-12,12.0,24.0,12.0,No,shade
+1470002575956820610,,,,,No,combination of practices
+7955439997587861298,,0.0,,,No,combination of practices
+1469592163271961683,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575956820727,DAP,18.0,46.0,0.0,No,combination of practices
+1469592163271961684,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997582550081,urê,46.0,0.0,0.0,No,combination of practices
+1470002575956820200,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587187540,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+7955662907699200876,FOrmula cafetalera plus,20.0,5.0,17.0,No,shade
+1469569898290009880,16-16-16,16.0,16.0,16.0,No,mulching
+7955439997587861424,,,,,No,combination of practices
+1469278379854642324,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587187356,NPK 22-5-6,22.0,5.0,6.0,No,combination of practices
+1469278379854641057,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587187544,Urea 46-0-0,46.0,0.0,0.0,No,combination of practices
+1470002575956820627,UREA,46.0,0.0,0.0,No,combination of practices
+1469278379854640984,NPK,20.0,5.0,5.0,No,mowing/cutting
+1469592163271951560,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587188056,URE,46.0,0.0,0.0,No,combination of practices
+1470002575956820202,,,,,No,combination of practices
+1470002575943383722,,,,,No,combination of practices
+1469278379854642347,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587187549,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379854642365,SA NH?T,21.0,0.0,0.0,No,combination of practices
+1470002575956821012,FERTISQUISA,20.0,10.0,20.0,No,combination of practices
+1470002575956820600,,,,,No,combination of practices
+1469278379854641969,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854642733,npk 16 16 16,16.0,16.0,16.0,No,combination of practices
+7955439997587187267,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587188186,NPK 20-5-6,20.0,5.0,6.0,No,hand hoe
+1469278379854639479,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854642319,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469278379854639435,NPK,20.0,5.0,5.0,No,mowing/cutting
+1470002575945819824,,,,,,
+7955439997587188145,ure,46.0,0.0,0.0,No,combination of practices
+1469278379854642851,urê,46.0,0.0,0.0,No,combination of practices
+7955439997587187472,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+1469278379854641597,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470002575936436326,12-24-12,12.0,24.0,12.0,No,shade
+1469569898290010106,,,,,,
+7955439997586893418,urea,46.0,0.0,0.0,No,combination of practices
+7955439997586893364,,,,,,
+1469569898290010214,,,,,,
+1469592163271951570,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587187760,Ure,46.0,0.0,0.0,No,combination of practices
+7955439997587861340,,,,,No,combination of practices
+7955439997587861442,UREA,46.0,0.0,0.0,No,combination of practices
+7955662907699201217,,,,,No,hand hoe
+1469592163271960794,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271963032,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575956820617,COMPLEX,20.0,10.0,10.0,No,combination of practices
+7955439997587187832,ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997587187280,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587187247,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587188514,20-10-10,20.0,10.0,10.0,No,combination of practices
+1470002575936435583,,,,,,
+7955439997587861354,,,,,No,combination of practices
+7955439997587187827,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+7955439997587186973,npk 20-5-5 c?a ??u trâu,20.0,5.0,5.0,No,mowing/cutting
+7955439997587861406,UREA,46.0,0.0,0.0,No,combination of practices
+1469883818362504473,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470002575936436257,12-24-12,12.0,24.0,12.0,No,shade
+1469592163271957438,,,,,No,combination of practices
+7955439997587189228,NPK 16-16-16,16.0,16.0,16.0,No,combination of practices
+7955439997587861203,,,,,No,combination of practices
+7955439997587188907,30-10-10,30.0,10.0,10.0,No,combination of practices
+1469278379854641878,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+1470002575956820249,,,,,No,combination of practices
+7955439997587861493,,,,,No,combination of practices
+1469278379854641900,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997587187139,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997587187613,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575956820979,UREA,46.0,0.0,0.0,No,combination of practices
+1469278379854643034,NPK CÀ MAU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575936435355,,,,,No,hand hoe
+1469278379854642185,urê,46.0,0.0,0.0,No,combination of practices
+1469278379854639161,,,,,,
+7955439997587188702,30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997587187880,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575956820251,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587188844,21,21.0,0.0,0.0,No,mowing/cutting
+1469883818362504483,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587187136,SA,21.0,0.0,0.0,No,combination of practices
+7955439997587189148,npk 20-5-5 c?a ??u trâu,20.0,5.0,5.0,No,combination of practices
+1469278379854643307,,,,,,
+1469278379854643024,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379854641788,NPK 20:20:18,20.0,20.0,18.0,No,mowing/cutting
+7955439997587187559,SA,21.0,0.0,0.0,No,mowing/cutting
+7955439997587188709,20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587187178,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587187424,21,21.0,0.0,0.0,No,combination of practices
+7955439997586893401,,0.0,,,No,none
+1469883818362504470,NPK20-20-15,20.0,20.0,15.0,No,mowing/cutting
+1469278379854642183,npk 16 8 16,16.0,8.0,16.0,No,combination of practices
+1469278379854639106,,,,,,
+1469278379854641818,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854641822,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997587189175,npk 20-5-5 c?a ??u trâu,20.0,5.0,5.0,No,combination of practices
+7955439997587187892,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469278379854642099,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+1469278379854642607,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587188619,20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854643075,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854638326,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+7955439997587189408,16,16.0,16.0,8.0,No,hand hoe
+7955439997587189489,Ure phú m?,46.0,0.0,0.0,No,combination of practices
+7955439997587188391,Ure,46.0,0.0,0.0,No,combination of practices
+1469278379854638324,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997587189422,19,19.0,12.0,6.0,No,combination of practices
+1470002575945833969,,,,,No,mowing/cutting
+7955439997587188484,16-16-8,16.0,16.0,8.0,No,combination of practices
+1470002575936435396,(12-24-12) y Nitrostend,33.0,6.0,3.0,No,combination of practices
+1469592163271952272,NYTRABOR,15.0,0.0,0.0,No,combination of practices
+1470002575956820233,,,,,No,combination of practices
+1470002575956820856,,,,,No,combination of practices
+1469278379854639019,Urea 46%,46.0,0.0,0.0,No,mowing/cutting
+7955439997587187792,30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997587189287,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997588499928,,,,,No,mowing/cutting
+1470002575956820270,,,,,No,combination of practices
+1470002575943383713,,,,,No,combination of practices
+1470002575956820269,,,,,No,combination of practices
+1469278379854639028,NPK,20.0,5.0,5.0,No,mowing/cutting
+1470002575956820205,,,,,No,combination of practices
+1470002575956820810,,,,,No,combination of practices
+1470002575956820982,,,,,No,hand hoe
+1469278379854640648,,,,,,
+7955439997587188607,46,46.0,0.0,0.0,No,combination of practices
+7955439997587189347,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587187854,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587188091,ure,46.0,0.0,0.0,No,combination of practices
+7955439997587188954,ure46,46.0,0.0,0.0,No,combination of practices
+1470002575936435487,,,,,,
+1470002575945833359,,,,,No,mowing/cutting
+1470002575945833431,,,,,No,mowing/cutting
+7955439997587188078,ure,46.0,0.0,0.0,No,combination of practices
+1469278379854641425,NPK 18:8:18,18.0,8.0,18.0,No,mowing/cutting
+7955439997587188315,Ure,46.0,0.0,0.0,No,none
+7955439997587188300,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+1469278379854640651,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587189307,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854640725,,,,,,
+7955439997587188503,20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587189403,,,,,,
+1469278379854641423,SA,21.0,0.0,0.0,No,mowing/cutting
+7955439997587189216,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+1470002575945833159,,,,,No,combination of practices
+7955439997588499930,,,,,No,combination of practices
+1470002575945830604,,0.0,0.0,0.0,No,mowing/cutting
+1470002575945830273,,,,,No,mowing/cutting
+7955439997588499907,,,,,No,mowing/cutting
+1470002575945833244,,,,,No,mowing/cutting
+1470002575945831632,,,,,No,mowing/cutting
+1470002575945832945,,,,,No,mowing/cutting
+7955439997588499925,,,,,No,mowing/cutting
+1470002575945832928,,,,,No,mowing/cutting
+1470002575936435961,,,,,,
+1470002575945825511,,,,,No,mowing/cutting
+1470002575936435935,,,,,Yes,hand hoe
+1470002575945823872,,,,,No,combination of practices
+1470002575945825341,,,,,No,mowing/cutting
+1470002575945823889,,,,,No,combination of practices
+1470002575945833708,,,,,No,none
+1470002575936435249,,,,,No,
+1470002575945833136,,,,,No,mowing/cutting
+1470002575945825366,,,,,No,mowing/cutting
+1470002575945823997,,,,,No,cover crops
+1470002575945823969,,,,,No,cover crops
+1470002575945824004,,,,,No,cover crops
+7955439997588499906,,,,,No,combination of practices
+1470002575945833036,,,,,No,mowing/cutting
+1470002575936436150,,,,,,
+7955439997586686982,Ure Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997587858581,MEZCLA FISICA,20.0,10.0,20.0,No,combination of practices
+7955439997586685654,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997586686224,npk mùa khô 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586686034,Urê,46.0,0.0,0.0,No,combination of practices
+1470002575945824835,,,,,No,mowing/cutting
+1470002575945831979,,,,,No,mowing/cutting
+7955439997586683824,urea,46.0,0.0,0.0,No,mowing/cutting
+1470002575945824820,,,,,No,mowing/cutting
+1470002575945832265,,,,,No,mowing/cutting
+7955662907699201219,,,,,,
+7955439997588499917,,,,,No,mowing/cutting
+1470002575945824728,,,,,No,mowing/cutting
+7955439997587859399,,,,,No,combination of practices
+1470002575945832312,,,,,No,mowing/cutting
+7955439997587859266,,,,,No,combination of practices
+1470002575945824747,,0.0001,0.0001,0.0001,No,mowing/cutting
+1470002575945829101,,,,,No,combination of practices
+7955439997587861655,,,,,No,combination of practices
+1470002575936435237,Sulfato de amonio,0.21,0.0,0.0,No,hand hoe
+1470002575945824656,,,,,No,combination of practices
+7955439997587859262,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997586685516,urê,46.0,0.0,0.0,No,combination of practices
+1470002575945828932,,,,,No,combination of practices
+7955439997587861897,,,,,No,combination of practices
+1470002575945832607,,,,,No,mowing/cutting
+7955439997587858571,HIDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997586683478,NPK 20-10-20,20.0,10.0,20.0,No,mowing/cutting
+1470002575945828928,,,,,No,cover crops
+7955439997586686976,NPK PHÚ M? 20-20-5,20.0,20.0,5.0,No,combination of practices
+7955439997586682514,NPK,20.0,20.0,15.0,No,mowing/cutting
+1470002575945829054,,,,,No,combination of practices
+1470002575936435504,12-24-12,12.0,24.0,12.0,No,combination of practices
+7955439997588499920,,,,,No,mowing/cutting
+1470002575945832187,,,,,No,mowing/cutting
+7955439997586683823,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997586685614,npk 16-16-8,16.0,10.0,16.0,No,combination of practices
+7955439997586683835,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+1470002575945829050,,,,,No,combination of practices
+7955439997586683527,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586685626,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586685606,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955439997586687148,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575945832546,,,,,No,mowing/cutting
+7955439997586683882,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+7955439997586683830,NPK,20.0,10.0,10.0,No,mowing/cutting
+1470002575945825121,,,,,No,combination of practices
+7955439997587191885,npk 15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997586682705,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586682617,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469278379854783002,Urea 46%N,46.0,0.0,0.0,No,mowing/cutting
+1470002575945824237,,,,,No,combination of practices
+1470002575945832320,,,,,No,mowing/cutting
+1470002575945831791,,,,,No,mowing/cutting
+1469569898290016373,,,,,,
+7955439997587858689,,,,,No,combination of practices
+7955439997587861810,,,,,No,combination of practices
+7955439997587858579,,,,,No,combination of practices
+7955439997588499923,,,,,No,mowing/cutting
+7955439997587861523,,,,,No,combination of practices
+1470002575945824211,,,,,,
+1470002575936436071,12-24-12 y Urea,0.17,20.0,0.1,No,hand hoe
+7955439997587861809,,,,,No,combination of practices
+1470002575936436536,Fertilizante Gobierno,17.0,3.0,17.0,No,combination of practices
+1470002575936436077,,,,,,
+1470002575945824248,,,,,No,combination of practices
+7955439997587861797,,,,,No,combination of practices
+7955439997587858781,,,,,No,combination of practices
+7955439997587859520,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575945830218,,,,,No,combination of practices
+1470002575936436408,,,,,No,hand hoe
+7955439997587861803,,,,,No,combination of practices
+7955439997587858782,,,,,No,combination of practices
+7955439997587858783,,,,,No,combination of practices
+1470002575945830208,,,,,No,combination of practices
+1470002575936436490,,,,,,
+7955439997587861542,,,,,No,combination of practices
+7955439997586686569,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586686316,URE PHÚ M?,46.3,0.0,0.0,No,combination of practices
+7955439997586686866,npk t? tr?n 24-0-10,24.0,0.0,10.0,No,combination of practices
+1469569898290017071,,,,,,
+1470002575936435477,Formula del Gorbierno (17-3-17) y Sulfato de amonio,20.0,1.0,6.0,No,combination of practices
+1470002575945824126,,,,,No,combination of practices
+7955439997586686740,??m sunfat SA,21.0,0.0,0.0,No,combination of practices
+7955439997586687105,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997586683590,NPK Mùa khô,20.0,5.0,5.0,No,mowing/cutting
+7955439997586686349,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586686336,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575945824137,,,,,No,combination of practices
+7955439997586683745,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586683800,Ure,46.0,0.0,0.0,No,mowing/cutting
+1470002575945820730,,,,,No,combination of practices
+1470002575945820721,,,,,No,combination of practices
+1470002575945820514,,,,,No,combination of practices
+1470002575945820699,,,,,No,cover crops
+1470002575945820700,,,,,No,cover crops
+7955439997586683917,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997587858948,,,,,No,combination of practices
+7955439997587859291,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587859303,DAP,18.0,46.0,0.0,No,combination of practices
+7955439997587861817,,,,,No,combination of practices
+1470002575936436177,,,,,,
+1469592163271953933,,,,,No,combination of practices
+7955439997587861821,,,,,No,combination of practices
+7955439997586685538,ure Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997587859255,,,,,No,combination of practices
+7955439997586685609,npk 20 6 4,20.0,6.0,4.0,No,combination of practices
+7955439997586685534,npk 20 5 5 Viet Nhat,20.0,5.0,5.0,No,combination of practices
+7955439997586685523,NPK 25-5-5,25.0,5.0,5.0,No,combination of practices
+7955439997586682819,,,,,,
+7955439997586683852,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997586683333,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,hand hoe
+7955439997586683356,,,,,,
+7955439997587861580,,,,,No,combination of practices
+7955439997586685525,NPK ??U TRÂU 20-5-6,22.0,5.0,6.0,No,combination of practices
+7955439997587859293,,,,,No,combination of practices
+7955439997587861583,,,,,No,combination of practices
+7955439997587859254,0,,,,No,combination of practices
+7955439997586683809,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586682605,NPK,18.0,8.0,18.0,No,mowing/cutting
+7955439997586685521,npk 19 6 19,19.0,6.0,19.0,No,combination of practices
+7955439997586685578,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+7955439997586685572,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586683130,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997586683279,,,,,,
+1470002575945812171,,,,,No,mowing/cutting
+1470002575945830830,,,,,No,mowing/cutting
+7955439997587861952,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587861658,,,,,No,combination of practices
+7955439997587859024,,,,,No,combination of practices
+7955439997587858967,YARA MILA STAR,21.0,17.0,3.0,No,combination of practices
+7955439997587859369,,,,,No,combination of practices
+7955439997587858973,YARA MILA STAR,21.0,17.0,3.0,No,cover crops
+1470002575936435132,,,,,,
+1470002575936435880,,,,,,
+1470002575945830814,,,,,No,mowing/cutting
+7955439997587858984,HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997587859375,,,,,No,combination of practices
+7955439997587861731,,,,,No,combination of practices
+7955439997587858965,,,,,No,combination of practices
+7955439997586686609,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997587861676,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997586683241,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586686673,SA Phú M?,21.0,0.0,0.0,No,combination of practices
+7955439997586686506,npk 20 20 15,20.0,20.0,15.0,No,combination of practices
+7955439997586682558,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586683265,,,,,,
+7955439997586686414,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+7955439997586683710,NPK,20.0,10.0,10.0,No,hand hoe
+7955439997586686335,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997586686422,urê,46.0,0.0,0.0,No,combination of practices
+7955439997586683616,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586682824,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1470002575936435795,,,,,,
+7955439997586686460,NPK 25-5-5,25.0,5.0,5.0,No,combination of practices
+7955439997586686432,urê,46.0,0.0,0.0,No,combination of practices
+7955439997586682508,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997586686803,NPK PHÚ M? 20-6-5,20.0,6.0,5.0,No,combination of practices
+7955439997586683656,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586683737,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586683610,,,,,,
+1470002575945834348,,,,,No,mowing/cutting
+1470002575945834446,,,,,No,mowing/cutting
+1470002575945814803,,,,,No,combination of practices
+7955439997588499915,,,,,No,mowing/cutting
+1470002575945814982,,,,,No,combination of practices
+1470002575945814890,,,,,No,combination of practices
+7955439997588499931,,,,,No,mowing/cutting
+1470002575945814969,,,,,No,combination of practices
+7955439997586687009,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575945820046,NPK,18.0,23.0,0.0,,
+7955439997587859129,,,,,No,combination of practices
+1470002575936435898,18-46-0,18.0,46.0,0.0,No,combination of practices
+1470002575936436517,,,,,,
+1470002575936435758,18-46-0,188.0,46.0,0.0,No,shade
+7955439997587859240,DAP,18.0,46.0,0.0,No,combination of practices
+7955439997587858997,HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997587859142,,,,,No,combination of practices
+7955439997587861834,,,,,No,combination of practices
+7955439997586684224,??m sunfat SA,21.0,0.0,0.0,No,combination of practices
+7955439997586684402,NPK ??U TRÂU 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575936435762,,,,,,
+7955439997587861836,YARA MILA HIDRAN,19.0,4.0,19.0,Yes,combination of practices
+7955439997586685294,,,,,,
+7955439997587861981,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997586684109,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575945814185,,,,,No,cover crops
+7955439997586685268,urê,46.0,0.0,0.0,No,combination of practices
+7955439997586684553,,,,,,
+7955439997586684659,urê,46.0,0.0,0.0,No,combination of practices
+7955439997588499918,,,,,No,mowing/cutting
+1470002575945820183,,,,,No,cover crops
+1470002575945820232,,,,,No,combination of practices
+1470002575945831209,,,,,No,mowing/cutting
+1470002575945821818,,,,,No,mowing/cutting
+1470002575945820296,,,,,No,combination of practices
+1470002575945815007,,,,,No,mowing/cutting
+1470002575945821447,,,,,No,mowing/cutting
+1470002575945821695,,,,,No,mowing/cutting
+7955439997587859448,,,,,No,combination of practices
+7955439997587861603,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997588499939,,,,,No,combination of practices
+1470002575945821438,,,,,No,mowing/cutting
+1470002575936435630,12-24-12,12.0,4.0,12.0,No,hand hoe
+1470002575945821998,,,,,No,mowing/cutting
+7955439997587859136,,,,,No,combination of practices
+1470002575971475906,,,,,,
+7955439997587859027,DAP,18.0,46.0,0.0,No,combination of practices
+7955439997587862014,,,,,No,combination of practices
+7955439997587858742,,,,,No,combination of practices
+1470002575945822051,,,,,No,mowing/cutting
+7955439997587859141,,,,,,
+1470002575945831092,,,,,No,mowing/cutting
+7955439997587859107,,,,,No,combination of practices
+7955439997586687088,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586686647,,,,,,
+7955439997587858733,,,,,No,combination of practices
+1470002575945821562,,,,,No,mowing/cutting
+1470002575936436249,18 46 0,18.0,46.0,0.0,No,hand hoe
+7955439997586685138,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955662907698966679,,,,,,
+7955439997586682836,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586686722,NPK PHÚ M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575936436421,Formula cafetalera,20.0,5.0,17.0,No,combination of practices
+7955439997587861876,,,,,No,combination of practices
+7955439997586687069,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997586686719,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586682939,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997586685387,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955439997587861604,,0.0,0.0,0.0,No,combination of practices
+7955439997588499911,,,,,No,mowing/cutting
+7955439997586687040,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997586685423,,,,,,
+7955439997586682840,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586686813,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586682812,NPK,20.0,5.0,5.0,No,mowing/cutting
+1470002575945815003,,,,,No,mowing/cutting
+7955439997587861601,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575945815087,,,,,No,mowing/cutting
+1470002575936435772,,,,,,
+7955439997587861988,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997587858719,,,,,No,combination of practices
+1470002575945831170,,,,,No,mowing/cutting
+7955439997586684321,ure Phú M?,46.3,0.0,0.0,No,combination of practices
+1470002575945831148,,,,,No,mowing/cutting
+1470002575936435133,(12-24-12) y Urea,28.0,13.0,6.0,No,combination of practices
+7955439997587862009,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575936435236,12 24 12cy urea,0.28,13.0,0.6,No,hand hoe
+7955439997587859456,YARAMILA,19.0,4.0,19.0,No,combination of practices
+7955439997587858813,,,,,No,combination of practices
+7955439997586683732,NPK 20:20:10,20.0,20.0,10.0,No,mowing/cutting
+7955439997586682476,NPK 19-9-19,19.0,9.0,19.0,No,mowing/cutting
+7955439997587858935,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997586685204,Ure Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586687417,Urê Phú M?,46.0,0.0,0.0,No,mowing/cutting
+1470002575945831179,,,,,No,mowing/cutting
+1470002575936435257,nitro xted,0.4,0.0,0.0,No,hand hoe
+7955439997586682282,NPK,16.0,16.0,8.0,No,mowing/cutting
+7955439997587861565,,,,0.0,No,combination of practices
+7955439997586683391,Urea 46%,46.0,0.0,0.0,No,mowing/cutting
+7955439997586686490,,,,,,
+1470002575936435304,FASTRAC,20.0,5.0,17.0,No,combination of practices
+7955439997587861692,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997586682445,NPK 19-9-19,19.0,9.0,19.0,No,mowing/cutting
+1470002575945831182,,,,,No,mowing/cutting
+7955439997586683384,NPK,30.0,10.0,10.0,No,mowing/cutting
+7955439997586682313,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586687403,Ure Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997586685170,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586686902,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1470002575945831199,,,,,No,mowing/cutting
+1470002575936435636,FOrmula cafetalera plus,20.0,5.0,17.0,No,shade
+7955439997586683660,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586682325,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997586686518,,,,,,
+1470002575945822283,,,,,No,mowing/cutting
+1470002575945812192,,,,,No,combination of practices
+7955439997587861528,,,,,No,combination of practices
+7955439997588499922,,,,,No,cover crops
+1470002575945812036,,,,,No,mowing/cutting
+1470002575945812052,composte,1.0,,,No,mowing/cutting
+1470002575945812038,,,,,No,mowing/cutting
+7955439997587858916,,,,,No,combination of practices
+7955439997587858898,,,,,No,combination of practices
+7955439997587858859,,,,,No,combination of practices
+1470002575945812296,compost,1.0,0.0,0.0,No,cover crops
+1470002575945812552,,,,,No,mowing/cutting
+1470002575945812516,,,,,No,mowing/cutting
+1470002575945812217,compost,1.0,0.0,0.0,No,cover crops
+7955439997587858848,,,,,No,combination of practices
+7955662907699201292,12 24 12,45.0,14.0,45.0,No,hand hoe
+1470002575945812542,,,,,No,mowing/cutting
+7955439997587858815,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945812144,,,,,No,mowing/cutting
+7955439997587861599,,,,,No,combination of practices
+1470002575945812220,compost,1.0,0.0,0.0,No,cover crops
+1470002575945812316,compost,1.0,0.0,0.0,No,cover crops
+1470002575936436602,FASTRAC PRODUCCION,20.0,5.0,17.0,No,combination of practices
+7955439997587858928,,,,,No,combination of practices
+7955439997587861600,DAP,18.0,46.0,0.0,No,combination of practices
+1470002575945812559,,,,,No,mowing/cutting
+1470002575945815899,,,,,No,mowing/cutting
+7955662907699201046,nitrogeno,20.0,9.0,7.0,No,hand hoe
+7955439997587861598,,,,,No,combination of practices
+7955439997586685348,SA phú m?,21.0,0.0,0.0,No,mowing/cutting
+7955439997587861596,,0.0,,0.0,No,combination of practices
+7955439997586684220,SA Phú M?,21.0,0.0,0.0,No,combination of practices
+7955439997588499913,,,,,No,mowing/cutting
+1470157558628971343,,,,,,
+1470157558628970818,,,,,No,combination of practices
+7955662907698966683,,,,,,
+1470157558628971463,urea,46.0,0.0,0.0,No,combination of practices
+1470002575945831309,,0.0,,,No,mowing/cutting
+7955662907699201300,nitro xted,40.0,0.0,0.0,No,hand hoe
+7955439997586682278,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997586682401,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586683546,,,,,,
+7955439997586686870,,,,,,
+1470002575945815975,,,,,No,mowing/cutting
+7955439997586683574,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470002575945831297,,,,,No,mowing/cutting
+7955439997586686851,urê,46.0,0.0,0.0,No,combination of practices
+1470002575936435561,nitrogeno,22.0,4.0,12.0,No,hand hoe
+7955439997586683386,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586687435,NPK CÀ MAU 16-16-8,16.0,16.0,8.0,No,combination of practices
+1470002575945816025,,,,,No,mowing/cutting
+7955439997586687533,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997586682488,NPK 20-8-6,20.0,8.0,6.0,No,mowing/cutting
+7955439997586682311,NPK,16.0,16.0,16.0,No,mowing/cutting
+7955439997586683548,,,,,,
+7955439997586687130,,,,,,
+7955439997586687030,npk,20.0,5.0,6.0,No,combination of practices
+1470002575945815954,,,,,No,mowing/cutting
+1470002575936436462,Nitrogeno,27.0,3.0,9.0,No,hand hoe
+1470157558628971323,urea,46.0,0.0,0.0,No,combination of practices
+1470002575936436362,Nitrogeno,20.0,5.0,15.0,No,hand hoe
+1470002575936435364,,,,,Yes,combination of practices
+1470002575945831393,,,,,No,mowing/cutting
+1470002575936435811,Nitrogeno,30.0,,3.0,No,hand hoe
+1470002575945831447,,,,,No,mowing/cutting
+1470002575945822264,,0.0,,,No,mowing/cutting
+7955439997586683395,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586687366,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586683672,NPK 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+1470002575936436202,cafetalera plus,145.0,14.0,145.0,No,hand hoe
+7955662907699201042,Nitrogeno,20.0,9.0,14.0,No,hand hoe
+1470002575945822274,,,,,No,mowing/cutting
+7955439997586685205,??m sunfat SA,21.0,0.0,0.0,No,combination of practices
+7955439997586685202,,,,,,
+1470002575936435833,"Urea, Formula cafetalera (17-3-17)",,,,No,combination of practices
+7955439997586687395,NPK CÀ MAU,20.0,5.0,5.0,No,combination of practices
+7955439997586682271,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997586685070,,,,,,
+7955439997586687372,NPK ??U TRÂU,20.0,5.0,6.0,No,combination of practices
+7955439997586685163,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997586683603,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997586687400,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997586682403,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1470002575936436027,Nitrogeno,20.0,6.0,15.0,No,hand hoe
+7955439997586683570,NPK 22-10-10,22.0,10.0,10.0,No,mowing/cutting
+7955439997586683506,NPK,20.0,10.0,10.0,No,mowing/cutting
+7955439997585088377,,,,,,
+1470002575945822918,,,,,No,combination of practices
+7955439997586683688,NPK 30 10 10,30.0,10.0,10.0,No,mowing/cutting
+7955439997586687516,NPK PHÚ M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586686166,,,,,,
+1470002575945829848,,,,,No,mowing/cutting
+1470002575945830053,,,,,No,mowing/cutting
+7955439997588499935,,,,,No,mowing/cutting
+1470002575945829741,,,,,No,mowing/cutting
+1470002575945830076,,,,,No,mowing/cutting
+1470002575936436181,Nitrogeno,37.0,15.0,0.0,No,hand hoe
+1470002575945829956,,,,,No,combination of practices
+1470002575945829178,compost,1.0,0.0,0.0,No,cover crops
+7955439997586687475,NPK 20-5-5,20.0,0.0,0.0,No,combination of practices
+1470002575945830089,,,,,No,mowing/cutting
+7955439997586685669,,,,,,
+1470002575945829977,,0.0,,,No,hand hoe
+1470002575945829161,,,,,No,mowing/cutting
+7955439997586682339,NPK,16.0,16.0,8.0,No,mowing/cutting
+1470002575936436430,Nitrogeno,16.0,13.0,14.0,No,hand hoe
+1470002575945829351,COMPOSTE,1.0,,,No,mowing/cutting
+1470002575945829459,compost,1.0,0.0,0.0,No,cover crops
+7955439997586683618,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470002575945829970,,,,,No,mowing/cutting
+7955439997586685923,npk 20 10 20,20.0,10.0,20.0,No,combination of practices
+7955439997586682259,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997586683461,NPK,20.0,10.0,10.0,No,mowing/cutting
+7955439997586685935,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955439997586687500,ure Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997586687354,NPK vi?t Liên 20-8-18,20.0,8.0,18.0,No,mowing/cutting
+7955439997586682286,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997586683467,Ure,46.0,0.0,0.0,No,mowing/cutting
+1470002575936435800,Nitrogeno,18.0,11.0,17.0,No,hand hoe
+7955439997586683653,Urea Ca Mau,46.0,0.0,0.0,No,mowing/cutting
+7955439997586683667,NPK 30-10-10,30.0,10.0,10.0,No,mowing/cutting
+1470002575945827521,,,,,No,combination of practices
+1470002575945826113,,,,,No,mowing/cutting
+1469278379854782229,NPK,16.0,16.0,20.0,No,mowing/cutting
+1470002575945823188,,,,,No,combination of practices
+1470002575945823560,,,,,No,
+1470157558564695065,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575945822966,,,,,No,combination of practices
+1470002575945819598,,0.0,,,No,mowing/cutting
+1470002575945819604,Composte,1.0,,,No,mowing/cutting
+1470002575945826851,,,,,No,mowing/cutting
+1470002575945819373,,0.0,,,No,mowing/cutting
+1470002575945822925,,,,,No,combination of practices
+1470002575945823612,,,,,No,combination of practices
+1469592163271958238,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945819884,,0.0,,,No,mowing/cutting
+1469592163271954699,UREA,46.0,,,No,combination of practices
+1469592163271956459,,,,,No,combination of practices
+1470157558564695029,NPK 22-5-6,22.0,5.0,6.0,No,combination of practices
+1469592163271958696,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379855013201,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1470157558564694968,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469592163271956517,,,,,No,hand hoe
+1469278379855013711,NPK PHÚ M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855013162,npk 25-25-5,25.0,25.0,5.0,No,combination of practices
+1470157558564695503,urê,46.0,0.0,0.0,No,combination of practices
+1469278379855013999,NPK,20.0,5.0,5.0,No,combination of practices
+1469278379855013178,Ure 46%,46.0,0.0,0.0,No,combination of practices
+1469278379855013709,URE ??M PHÚ M?,46.3,0.0,0.0,No,combination of practices
+1470157558564695302,NPK 30-10-10,30.0,10.0,10.0,No,combination of practices
+1469278379855013866,urê,46.0,0.0,0.0,No,combination of practices
+1470157558564695246,NPK 22-5-6,22.0,5.0,6.0,No,combination of practices
+1469278379855014013,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575945826812,,,,,No,mowing/cutting
+1470002575945815400,,0.0,,,No,mowing/cutting
+1470157558564696020,urê 46,46.0,0.0,0.0,No,combination of practices
+1470157558564695015,NPK 30-10-10,30.0,10.0,10.0,No,combination of practices
+1470157558564695278,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+1470157558564696048,20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564694955,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564695316,NPK 17-7-17,17.0,7.0,17.0,No,combination of practices
+1469592163271966877,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575956819287,TRIPLE 17,17.0,17.0,17.0,No,hand hoe
+1470002575936435666,,,,,No,hand hoe
+1469592163271966831,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575945818784,,0.0,,,No,mowing/cutting
+7955662907699201023,Nitrogeno,31.0,3.0,10.0,No,hand hoe
+1470002575936435240,Formula Cafetalera + Sulfato de amonio,20.0,3.0,9.0,Yes,combination of practices
+1469592163271964379,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469986569858493820,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945826389,,,,,No,mowing/cutting
+1470002575945828681,,,,,No,mowing/cutting
+1470002575945815204,,0.0,,,No,mowing/cutting
+1470157558564695670,20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575945818642,,0.0,,,No,mowing/cutting
+1470157558564694951,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+1470002575936435923,Cafetalera producción,20.0,5.0,17.0,No,combination of practices
+1469278379855012351,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855012457,urê,46.0,0.0,0.0,No,combination of practices
+7955662907699201188,urea,0.21,14.0,0.25,No,hand hoe
+1470157558564695696,20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855013783,urê,46.0,0.0,0.0,No,combination of practices
+1470002575956819423,TRIPLE 17,17.0,17.0,17.0,No,combination of practices
+7955439997582573439,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582573418,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1470157558564695255,ure,46.0,0.0,0.0,No,combination of practices
+1470002575936435348,12-24-12,12.0,24.0,12.0,No,combination of practices
+1470157558564696083,ure,46.0,0.0,0.0,No,combination of practices
+1469278379855009957,SA Phú M?,21.0,0.0,0.0,No,combination of practices
+1470002575945815356,,,,,No,mowing/cutting
+1470157558564695271,NPK20-5-5,20.0,5.0,5.0,No,combination of practices
+7955662907699200979,Formula cafetalera plus,2.0,5.0,17.0,No,shade
+1469592163271951607,,,,,No,combination of practices
+1469592163271951933,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575945827931,,,,,No,combination of practices
+1470157558564694924,npn 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582573651,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470002575956819417,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945826131,,,,,No,mowing/cutting
+1469278379855013081,??m sunfat,21.0,0.0,0.0,No,combination of practices
+1469278379855012250,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955662907699201026,Urea,21.0,13.0,16.0,No,hand hoe
+1469278379855013134,urea,46.0,0.0,0.0,No,combination of practices
+1470002575945826322,,,,,No,mowing/cutting
+1470157558564694907,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469278379855009939,SA Phú M?,21.0,0.0,0.0,No,combination of practices
+1470002575945815250,,0.0,,,No,mowing/cutting
+1470157558564695463,urê 46,46.0,0.0,0.0,No,combination of practices
+7955439997582573662,SA Phú M?,21.0,0.0,0.0,No,mowing/cutting
+7955439997582573336,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1470157558564694891,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469278379855013106,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+1469278379855013088,NPK 20-10-15,20.0,10.0,15.0,No,combination of practices
+1470157558564695244,NPK20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582573280,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469278379855012632,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470157558564696022,NPK 20-20-15,20.0,20.0,15.0,No,combination of practices
+1470002575936435710,Cafetalera plus,25.0,5.0,11.0,No,none
+1470157558564695655,20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564695976,npk 20-20-15 c?a song mã,20.0,20.0,15.0,No,mowing/cutting
+1470157558564695748,ure,46.0,0.0,0.0,No,hand hoe
+1470157558564695621,npk 20-6-6,20.0,6.0,6.0,No,combination of practices
+1470157558564694696,urê,46.0,0.0,0.0,No,combination of practices
+1470157558564695719,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470157558564695009,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564695323,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582573707,NPK 30:10:10,30.0,10.0,10.0,No,mowing/cutting
+7955439997582573750,NPK,20.0,10.0,10.0,No,mowing/cutting
+1470157558564695896,ure,46.0,0.0,0.0,No,combination of practices
+7955662907699201170,12 24 12,0.12,24.0,0.12,No,hand hoe
+1470002575945826660,,,,,No,mowing/cutting
+1470157558564695510,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469592163271962113,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271961656,,,,,No,combination of practices
+1470157558564696041,npk 20-5-5 c?a ??u trâu,20.0,5.0,5.0,No,mowing/cutting
+1469592163271962434,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575945826840,,,,,No,mowing/cutting
+1470157558564695528,urê,46.0,0.0,0.0,No,combination of practices
+1470002575945828197,composte,1.0,0.0,0.0,No,mowing/cutting
+1469592163271963764,HYDRAN,19.0,4.0,19.0,No,hand hoe
+1470157558564695683,urê,46.0,0.0,0.0,No,combination of practices
+1469592163271963897,DAP,18.0,46.0,0.0,No,combination of practices
+1469592163271956708,,,,,No,combination of practices
+1470157558564695362,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955662907699201181,,,,,,
+1469592163271957049,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1470157558564694762,NPK 20-9-19,20.0,9.0,19.0,No,combination of practices
+1470157558564695971,npk 10-9-15 c?a song mã,20.0,9.0,15.0,No,combination of practices
+1469278379855004484,Ure Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997582573852,Urea 46%,46.0,0.0,0.0,No,mowing/cutting
+1469592163271966208,,,,,,
+1470157558564694892,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564694811,NPK 30-10-10,30.0,10.0,10.0,No,combination of practices
+1470002575936435544,Formula cafetslera plus,20.0,5.0,17.0,No,combination of practices
+1469592163271962452,,,,,No,combination of practices
+7955439997587860139,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469883818362504929,npk 20 7 5,20.0,7.0,5.0,No,combination of practices
+7955439997582574258,urea cà mau,46.0,0.0,0.0,No,mowing/cutting
+1469592163271951077,UREA,46.0,0.0,0.0,No,combination of practices
+1470157558564695361,ure,46.0,8.0,0.0,No,combination of practices
+1469278379855011999,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582573897,NPK,20.0,5.0,5.0,No,mowing/cutting
+1470002575945820006,,,,,No,mowing/cutting
+1470157558564695454,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564695955,npk 20-10-10 c?a ??u trâu,20.0,10.0,10.0,No,combination of practices
+1470002575945819969,,,,,No,mowing/cutting
+1469278379855012134,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470157558564695707,nok 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+1469278379855012195,npk 20 20 5,20.0,20.0,5.0,No,combination of practices
+1470157558564695072,NPK20-10-10,28.0,10.0,10.0,No,combination of practices
+1469278379855012035,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470157558564695386,ure,46.0,0.0,0.0,No,combination of practices
+1469278379855012093,,,,,,
+1469278379855012118,Ure ??m Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997582574177,NPK 20-20-15,20.0,20.0,15.0,No,mowing/cutting
+7955439997582573822,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582573782,NPK,20.0,5.0,5.0,No,mowing/cutting
+1470157558564695154,ure,46.0,0.0,0.0,No,mowing/cutting
+1470002575945823122,,,,,,
+1470002575945819961,,0.0,,,No,cover crops
+1470002575945819631,COMPOSTE,1.0,,,No,mowing/cutting
+1470157558564695090,npk 20-20-15,20.0,20.0,15.0,No,mowing/cutting
+1470157558564695774,npk 20-5-5 c?a ??u trâu,20.0,5.0,5.0,No,combination of practices
+1470157558564695579,URE,46.0,0.0,0.0,No,combination of practices
+1470002575956819449,0,,,,No,combination of practices
+1470002575945819649,COMPOSTE,1.0,,,No,mowing/cutting
+1470157558564695134,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955662907699201205,Nitrato de amonio y urea,17.0,,30.0,No,hand hoe
+1470002575945819562,,0.0,,,No,combination of practices
+1470157558564695932,npk 20-5-5 c?a bình ?i?n,20.0,5.0,5.0,No,combination of practices
+1470002575945819418,COMPOSTE,1.0,,,No,mowing/cutting
+1470157558564695567,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+1470002575945819660,,0.0,,,No,cover crops
+7955439997587862079,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575945820030,,,,,No,mowing/cutting
+1470157558564695201,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
+1470002575936435220,,,,,,
+1469592163271957710,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945819650,COMPOSTE,1.0,,,No,mowing/cutting
+1469592163271952064,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997582573679,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1470157558564695836,npk 20-20-15,20.0,20.0,15.0,No,combination of practices
+1470002575945819662,,0.0,,,No,cover crops
+1469592163271965018,TRIPLE 17,17.0,17.0,17.0,No,combination of practices
+1469592163271960033,,0.0,0.0,0.0,No,combination of practices
+7955439997582573772,NPK,20.0,5.0,5.0,No,mowing/cutting
+1470002575945819639,NPK,0.0,0.0,0.0,No,mowing/cutting
+1469278379855009862,NPK ??U TRÂU 22-7-7,22.0,7.0,7.0,No,combination of practices
+1469592163271954845,HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997582574029,??m Cà Mau,46.3,0.0,0.0,No,mowing/cutting
+1469278379855012981,20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855009801,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1470157558564695571,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575956821719,,0.0,0.0,0.0,No,combination of practices
+1470002575945823060,,0.0,,,No,mowing/cutting
+1470002575945819573,,,,,No,mowing/cutting
+1470157558564695188,npk 20-15-20,20.0,15.0,20.0,No,mowing/cutting
+1470002575945819447,,,,,No,mowing/cutting
+1470002575945819474,,,,,No,mowing/cutting
+1470002575945819886,,,,,,
+7955439997582573956,NPK16 16 8,16.0,16.0,8.0,No,mowing/cutting
+1470002575945819673,,0.0,,,No,combination of practices
+1470157558564695798,npk 17-7-17 c?a ??u trâu,17.0,7.0,17.0,No,combination of practices
+1470002575945819865,compost,1.0,,,No,mowing/cutting
+1469592163271962078,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945819565,compost,1.0,,,No,mowing/cutting
+1469278379855012956,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1470002575945819340,COMPOSTE,1.0,,,No,mowing/cutting
+1469278379855012979,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582574083,NPK 16-16-8,16.0,16.0,8.0,No,mowing/cutting
+7955439997582573380,NPK,20.0,5.0,5.0,No,mowing/cutting
+1469592163271965242,,,,,No,combination of practices
+1469278379855012901,npk 20-20-15,20.0,20.0,15.0,No,combination of practices
+1470157558564695151,npk16-16-8,16.0,16.0,8.0,No,mowing/cutting
+1469592163271953490,,,,,No,combination of practices
+7955439997583324761,20,20.0,20.0,10.0,No,mowing/cutting
+1470157558564695800,npk 20-5-5 c?a ??u trâu,20.0,5.0,5.0,No,combination of practices
+7955439997583324905,20,20.0,5.0,6.0,No,combination of practices
+1469278379855012971,urê,46.0,0.0,0.0,No,combination of practices
+1469278379855009787,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470157558564696089,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582573354,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1469278379855009791,NPK PHÚ M? 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955662907699200965,Nitrato de amonio,34.4,0.0,0.0,No,combination of practices
+7955439997582574093,NPK 20-10-15,20.0,10.0,15.0,No,mowing/cutting
+7955439997582573959,Tr?n 14 Urea 6 Kali 8 Vi l??ng 0.4 Humic,18.0,46.0,0.0,No,mowing/cutting
+1469278379855012985,npk 20 20 20,20.0,20.0,20.0,No,combination of practices
+7955439997583325890,NPK20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583325089,urê,46.0,0.0,0.0,No,combination of practices
+7955439997583325665,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583325143,18,18.0,8.0,18.0,No,hand hoe
+1469592163271954239,0,,,,No,combination of practices
+7955439997583325117,46,4.0,0.0,0.0,No,mowing/cutting
+1469592163271962263,DAP,18.0,46.0,0.0,Yes,combination of practices
+1469592163271956653,,,,,No,combination of practices
+1469592163271962368,,,,,No,combination of practices
+1469592163271958337,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997583325939,NPK 20-18-18,20.0,18.0,18.0,No,combination of practices
+7955439997583325875,urê,46.0,0.0,0.0,No,combination of practices
+7955439997583325325,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583325348,21,21.0,0.0,0.0,No,mowing/cutting
+1470002575956821870,FOSTAFO DIAMONICO,18.0,46.0,0.0,No,combination of practices
+1469278379855013358,Urea,46.0,0.0,0.0,No,combination of practices
+1469278379855013404,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1470002575956819363,DAP,18.0,46.0,0.0,No,combination of practices
+1469278379855014583,NPK CON CÒ 20-10-10,20.0,10.0,10.0,No,combination of practices
+1470002575956821868,,,,,No,combination of practices
+1469592163271956256,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997582576310,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
 1469278379855014611,NPK 24-8-7,24.0,8.0,7.0,No,combination of practices
-1469278379855014782,npk ??u trâu 20-10-5,20.0,10.0,5.0,No,mowing/cutting
-1469278379855013420,NPK20-20-15,20.0,20.0,15.0,No,combination of practices
-1469278379855013426,NPK16-16-8,16.0,16.0,8.0,No,hand hoe
-1469278379855008977,SA 21%,21.0,0.0,0.0,No,combination of practices
-1469278379854782189,npk 20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469883818362504707,NPK20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855004763,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854782176,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1469278379855013194,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854783010,urê 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379855012739,NPK 19-9-19,19.0,9.0,19.0,No,combination of practices
-1469278379854783130,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855009281,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469883818362505057,npk 20-10-5,20.0,10.0,5.0,No,mowing/cutting
-1469278379854782955,npk 21-5-5,21.0,5.0,5.0,No,mowing/cutting
-1469278379854782066,Ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379854782983,npk 19-9-19,19.0,9.0,19.0,No,combination of practices
-1469278379855009775,NPK20-10-10,20.0,10.0,10.0,No,combination of practices
-1469278379854781982,NPK 20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469883818362504785,NPK 20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854782311,Ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469883818362504788,NPK 27-6-6,27.0,6.0,6.0,No,mowing/cutting
-1469278379854782873,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855013487,NPK20-10-15,20.0,10.0,15.0,No,combination of practices
-1469278379854782303,urê 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379854782330,NPK 19.9.19,19.0,9.0,19.0,No,mowing/cutting
-1469278379855013538,NPK22-5-5,22.0,5.0,5.0,No,combination of practices
-1469278379854677182,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379854782765,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379854677051,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379855012279,NPK20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854782856,urê 46,46.0,0.0,0.0,No,combination of practices
-1469278379855009590,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854677054,npk 17-17-18,17.0,17.0,18.0,No,mowing/cutting
-1469278379855012573,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854783229,npk 30-10-10,30.0,10.0,10.0,No,combination of practices
-1469278379854781962,NPK 20.5.5,20.0,5.0,5.0,No,hand hoe
-1469278379854677037,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379855012570,NPK20-5-6,20.0,5.0,6.0,No,combination of practices
-1469883818362504744,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379855012184,u4re 46,46.0,0.0,0.0,No,combination of practices
-1469883818362504715,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379854783135,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1469278379855012158,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379854783115,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
-1469278379854782426,SA 21%,21.0,0.0,0.0,No,mowing/cutting
-1469278379855013057,URE 46,46.0,0.0,0.0,No,combination of practices
-1469278379854783104,Ure 46%,46.0,0.0,0.0,No,mowing/cutting
-1469278379854782419,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379855009927,NPK16-16-8,16.0,16.0,8.0,No,hand hoe
-1469278379854677226,NPK 20-12-17,20.0,12.0,17.0,No,combination of practices
-1469278379855012818,NPK22-5-5,22.0,5.0,5.0,No,combination of practices
-1469278379854677162,npk 20-10-10,20.0,10.0,10.0,No,combination of practices
-1469278379854782733,Npk 20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854677174,npk 20-20-15,20.0,20.0,15.0,No,combination of practices
-1469278379854783053,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379854782727,NPK 20.10.10,20.0,10.0,10.0,No,mowing/cutting
-1469278379855013676,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855013697,NPK20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854782243,npk 20-8-20,20.0,8.0,20.0,No,combination of practices
-1469278379855012382,Npk20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854783211,npk 20-18-6,20.0,18.0,6.0,No,combination of practices
-1469278379855012339,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379854783216,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855012856,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855013932,NPK 17-9-19,17.0,9.0,19.0,No,combination of practices
-1469278379855013152,NPK 20-20-20,20.0,20.0,20.0,No,combination of practices
-1469278379855014007,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855013593,Npk phú m? 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855013826,NPK 16-8-16,16.0,16.0,8.0,No,combination of practices
-1469278379855012881,NPK 16-8-16,16.0,8.0,16.0,No,combination of practices
-1469278379855013861,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
-1469278379855013563,NPK Yaramila racel 21-17-3,21.0,17.0,3.0,No,combination of practices
-1469278379855012835,NPK20-20-20,20.0,20.0,20.0,No,combination of practices
-1469278379855009880,Phân Urê,46.0,0.0,0.0,No,mowing/cutting
-1469278379855009844,NPK 17-7-17,17.0,7.0,17.0,No,combination of practices
-1469278379855009842,npk 20-8-6,20.0,8.0,6.0,No,mowing/cutting
-1469278379854641911,Npk 17-8-17,17.0,8.0,17.0,No,mowing/cutting
-1469278379855005159,SA 21%,21.0,0.0,0.0,No,mowing/cutting
-1469278379855008338,NPK 16-16-8+13s +Te,16.0,16.0,8.0,No,combination of practices
-1469278379854638788,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379855008185,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855009021,SA 21%,21.0,0.0,0.0,No,mowing/cutting
-1469278379855004887,NPK phú m? 20-7-7 +Te,20.0,7.0,7.0,No,mowing/cutting
-1469278379854638847,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855004785,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855004825,NPK phú M? 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855014199,NPK 20-5-6,20.0,5.0,6.0,No,mowing/cutting
-1469278379855014401,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379854640837,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855014074,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379854639556,npk 25-5-5,25.0,5.0,5.0,No,mowing/cutting
-1469278379854640166,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469883818362504681,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379855014088,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
-1469278379855014073,npk 16-16-16,16.0,16.0,16.0,No,hand hoe
-1469278379855014104,npk 17-5-19,17.0,5.0,19.0,No,combination of practices
-1469278379855014345,npk phú m? 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469883818362504890,NPK 20-5-5+TE,20.0,5.0,5.0,No,combination of practices
-1469278379855014289,npk vi?t nh?t 16-10-6,16.0,10.0,6.0,No,combination of practices
-1469278379854641656,NPK 20-5-6,20.0,5.0,6.0,No,mowing/cutting
-1469278379854642031,NPK 21-16-6,21.0,16.0,6.0,No,mowing/cutting
-1469278379855008648,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855008633,NPK 25-25-5,25.0,25.0,5.0,No,combination of practices
-1469278379854639991,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469883818362504409,16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855014643,Npk mùa khô 20-5-6,20.0,5.0,6.0,No,combination of practices
-1469278379855009318,NPK 21-0-0,21.0,0.0,0.0,No,mowing/cutting
-1469278379854638141,npk 17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1469278379855009319,npk ??u trâu 20-10-10,20.0,10.0,10.0,No,combination of practices
-1469278379854640735,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379855008002,NPK mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855009390,npk phú m? 17-8-19,17.0,8.0,19.0,No,combination of practices
-1469278379854638365,NPK 20-5-5,20.0,5.0,5.0,No,hand hoe
-1469278379854641789,npk 20-16-8,20.0,16.0,8.0,No,mowing/cutting
-1469278379854642507,npk 16-16-8,16.0,16.0,8.0,No,hand hoe
-1469278379854641951,npk 20-20-15,20.0,20.0,15.0,No,mowing/cutting
-1469278379855008000,Npk 16-16-8 -13s,16.0,16.0,8.0,No,hand hoe
-1469278379854642852,NPK 20-20-5,20.0,20.0,5.0,No,hand hoe
-1469278379854638345,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379854638306,NPK 20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855004840,npk 20-7-7,20.0,7.0,7.0,No,combination of practices
-1469278379854642720,npk 30-10-10,30.0,10.0,10.0,No,mowing/cutting
-1469278379855005225,Phân Urê,46.0,0.0,0.0,No,mowing/cutting
-1469278379855005212,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379854638332,npk 20 5 5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854642963,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
-1469278379854638287,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379855005276,SA 21%,21.0,0.0,0.0,No,mowing/cutting
-1469278379855005249,npk 18-18-6,18.0,18.0,6.0,No,combination of practices
-1469278379854642946,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855008686,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855008072,phân bón Hoá Sinh 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379855005043,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379854641146,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855005002,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855005032,npk ??u trâu 18-16-0,18.0,16.0,0.0,No,combination of practices
-1469278379855005028,NPK 16-10-6,16.0,10.0,6.0,No,mowing/cutting
-1469278379854640452,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379854638593,npk 17-6-17,17.0,6.0,17.0,No,mowing/cutting
-1469278379855008702,npk 20-6-4,20.0,6.0,4.0,No,combination of practices
-1469278379854639859,NPK 20.5.5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854638512,npk 20-10-15,20.0,10.0,15.0,No,combination of practices
-1469278379854641222,SA 21%,21.0,0.0,0.0,No,mowing/cutting
-1469278379854639942,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1469278379854638490,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379854638519,Ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379854638792,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854642831,npk 20-10-8,20.0,10.0,8.0,No,hand hoe
-1469278379854639534,npk 20-6-6,20.0,6.0,6.0,No,mowing/cutting
-1469278379854638214,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379854639354,npk 22-15-16,22.0,15.0,16.0,No,mowing/cutting
-1469278379854638432,Ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379854639362,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854638434,npk 20-20-15,20.0,20.0,15.0,No,mowing/cutting
-1469278379854639448,NpK 22.6.4,22.0,6.0,4.0,No,mowing/cutting
-1469278379854639340,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854638373,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854639445,NPK 21-6-19,21.0,6.0,19.0,No,mowing/cutting
-1469278379854639420,npk 30-10-10,30.0,10.0,10.0,No,combination of practices
-1469278379854642243,SA,21.0,0.0,0.0,No,mowing/cutting
-1469278379854642131,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379854639686,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379854642125,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379854640951,NPK 20-10-20,20.0,10.0,20.0,No,mowing/cutting
-1469278379854642215,SA,21.0,0.0,0.0,No,mowing/cutting
-1469278379854640079,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854642194,SA,21.0,0.0,0.0,No,mowing/cutting
-1469278379854640971,NPK 20-10-10,20.0,10.0,10.0,No,mowing/cutting
-1469278379854640065,npk 23 -15-5,23.0,15.0,5.0,No,combination of practices
-1469278379854642173,SA,21.0,24.0,0.0,No,mowing/cutting
-1469278379854641215,npk 20-20-15,20.0,15.0,15.0,No,mowing/cutting
-1469278379854640961,NPK ??u Trâu 20-20-15,20.0,20.0,15.0,No,mowing/cutting
-1469278379854640900,NPK 22-20-20,22.0,20.0,20.0,No,mowing/cutting
-1469278379854642890,npk 17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1469278379854640339,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854643031,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854641605,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379854640257,npk 16-16-10,16.0,16.0,10.0,No,mowing/cutting
-1469278379854643043,NpK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854641569,npk 20-15-21,20.0,15.0,21.0,No,cover crops
-1469278379854642073,SA,21.0,0.0,0.0,No,mowing/cutting
-1469278379854642301,npk 20-10-15,20.0,10.0,15.0,No,mowing/cutting
-1469278379854640613,npk 20-20-15,20.0,20.0,15.0,No,mowing/cutting
-1469278379854642479,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379854640625,NPK 17-17-20,17.0,17.0,20.0,No,mowing/cutting
-1469883818362505174,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855039037,ure,46.0,0.0,0.0,No,combination of practices
-1469278379855040664,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855036915,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855037067,ure46,46.0,0.0,0.0,No,combination of practices
-1469278379855038019,npk17-7-17,17.0,7.0,17.0,No,combination of practices
-1469278379855037842,NPK 22-5-5,22.0,5.0,5.0,No,combination of practices
-1469278379855040862,npk 20-5-5,20.0,5.0,5.0,No,hand hoe
-1469278379855038442,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855004727,,,,,,
-1469278379855040212,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855039053,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855038729,sa,21.0,0.0,0.0,No,combination of practices
-1469278379855038358,Npk 20-5-6+13s+te,20.0,5.0,6.0,No,mowing/cutting
-1469278379855037425,SA,21.0,0.0,0.0,No,mowing/cutting
-1469278379855038409,Npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855039084,npk 16-16-8,16.0,16.0,8.0,No,mowing/cutting
-1469278379855040001,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379855038668,npk 17-15-9 Te,17.0,16.0,9.0,No,mowing/cutting
-1469278379855009580,,,,,,
-1469278379855040455,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855040422,npk 20 -5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855039608,ure,46.0,0.0,0.0,No,mowing/cutting
-1469278379855038830,npk 17- 7- 17,17.0,7.0,17.0,No,combination of practices
-1469278379855039042,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469883818362505115,npk 20 -5-6,20.0,5.0,6.0,No,combination of practices
-1469883818362505118,Ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855038999,SA,21.0,0.0,0.0,No,mowing/cutting
-1469278379855039728,SA 21,21.0,0.0,0.0,No,combination of practices
-1469278379855039878,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855038499,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855039832,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855037698,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855037177,npk 17-7-17,17.0,7.0,17.0,No,combination of practices
-1469278379855037185,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
-1469278379855040741,NPK 20-10-5,20.0,0.0,0.0,No,combination of practices
-1469278379855037201,npk 16-16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855039787,16 -16-8,16.0,16.0,8.0,No,combination of practices
-1469278379855040252,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855040132,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855039488,ure,46.0,0.0,0.0,No,hand hoe
-1469278379855040307,npk 20-5-5,20.0,5.0,6.0,No,mowing/cutting
-1469278379855039486,npk 20-5-6,20.0,5.0,6.0,No,hand hoe
-1469278379855040352,npk ??u trâu,20.0,5.0,5.0,No,mowing/cutting
-1469278379855039407,npk 20-10-20,20.0,10.0,20.0,No,hand hoe
-1469278379855040432,npk ??u trâu 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855038122,NPK 16-16-8,16.0,0.0,0.0,No,combination of practices
-1469278379855040242,NPK 20 20 15,20.0,15.0,15.0,No,hand hoe
-1469278379855039629,ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469883818362505224,NPK 16-16-8 TE,16.0,16.0,8.0,No,combination of practices
-1469278379855040198,npk 20-5-5 mùa khô,20.0,5.0,5.0,No,hand hoe
-1469278379855040099,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
-1469278379855038070,Npk 20-20-15,20.0,0.0,0.0,No,combination of practices
-1469278379855038552,NPK 16-8-16,16.0,0.0,0.0,No,combination of practices
-1469278379855038690,NPK 20-5-6 +13s+te,20.0,5.0,6.0,No,mowing/cutting
-1469278379855037403,NPK 20-5-5 TE,20.0,5.0,5.0,No,combination of practices
-1469278379855038672,npk20-10-5,20.0,10.0,5.0,No,combination of practices
-1469278379855037409,ure46,46.0,0.0,0.0,No,combination of practices
-1469278379855037416,npk 16 16 8,16.0,16.0,8.0,No,hand hoe
-1469278379855037520,NPK 25-5-5,25.0,5.0,5.0,No,hand hoe
-1469278379855037251,Ure 46,46.0,0.0,0.0,No,mowing/cutting
-1469278379855040589,npk ??u trâu 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855036998,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379854782610,npk 17-7-17,17.0,7.0,17.0,No,mowing/cutting
-1469278379855039342,NPK 17 - 7 -17,17.0,7.0,17.0,No,combination of practices
-1469278379855037024,??u Trâu,20.0,10.0,5.0,No,hand hoe
-1469278379855039320,,,,,,
-1469278379855036851,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
-1469278379855036956,NPK 20-5-6,20.0,5.0,6.0,No,mowing/cutting
-1469278379855012202,,,,,,
-1469278379855037391,bbnn,12.0,15.0,18.0,No,hand hoe
-1469278379854640502,npk 15-15-15,15.0,15.0,15.0,No,mowing/cutting
-1469278379854640527,ure 46,46.0,0.0,0.0,No,combination of practices
-1469278379855013741,,,,,,
-1469278379855039900,,,,,,
-1469278379855040542,,,,,,
-1469278379855004500,,,,,,
-1469278379855004491,,,,,,
-1469278379854641314,NPK ??u trâu,16.0,16.0,8.0,No,combination of practices
-1469278379855036603,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
-1469278379855037069,npk,25.0,5.0,5.0,No,hand hoe
-1469278379855037183,NPK sao vàng,17.0,17.0,7.0,Yes,combination of practices
-1469278379855037071,Npk,17.0,7.0,17.0,Yes,hand hoe
-1469278379855036960,NPK sao vàng,16.0,16.0,8.0,Yes,mowing/cutting
-1469278379855036789,npk ??u trâu,20.0,10.0,15.0,Yes,combination of practices
-1469278379855037002,npk ??u trâu,16.0,16.0,8.0,Yes,combination of practices
-1469278379855036719,Npk ??u trâu,20.0,10.0,15.0,Yes,combination of practices
-1469278379855036643,NPK,16.0,8.0,16.0,Yes,combination of practices
-1469278379855009751,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
-1469278379855004455,,,,,,
-1469278379855004533,,,,,,
-1469278379855040784,NPK 20-10-5,20.0,0.0,0.0,Yes,hand hoe
-1469278379855004487,,,,,,
-1469278379855038127,npk,46.0,,,Yes,hand hoe
-1469278379855004451,,,,,,
-1469278379854782766,,,,,,
+7955439997582576316,??m Ke bo,46.0,0.0,0.0,No,combination of practices
+7955439997583325744,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575956819390,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997582573318,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1470002575945827273,,0.0,,,No,mowing/cutting
+7955439997583325269,npk 20-20-20,20.0,20.0,20.0,No,combination of practices
+1469592163271955087,DAP,18.0,46.0,0.0,No,combination of practices
+1470002575956821872,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945828406,,0.0,,,No,mowing/cutting
+7955439997582573554,Ure,46.0,0.0,0.0,No,hand hoe
+1469278379855014591,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855014596,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583325231,urê 46,46.0,0.0,0.0,No,combination of practices
+7955439997582576323,NPK mùa khô,20.0,5.0,5.0,No,mowing/cutting
+1469278379855013918,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955439997583325840,urê,46.0,0.0,0.0,No,combination of practices
+7955439997583325960,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379855013924,npk mùa khô,20.0,5.0,6.0,No,combination of practices
+7955439997582576288,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582573292,NPK 20:5:6,20.0,5.0,6.0,No,hand hoe
+7955439997582573484,NPK,22.0,6.0,4.0,No,mowing/cutting
+7955439997583324735,20,20.0,5.0,6.0,No,mowing/cutting
+7955439997583324753,46,46.0,0.0,0.0,No,mowing/cutting
+1470002575945827397,,,,,No,mowing/cutting
+1470002575945827251,,,,,No,mowing/cutting
+1470002575956819375,,,,,No,combination of practices
+1469592163271956426,DAP,18.0,46.0,0.0,No,combination of practices
+7955439997587860171,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575956819248,YARAMILA STAR,21.0,17.0,3.0,No,combination of practices
+1469883818362505080,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469592163271956428,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379855005426,npk 21-5-5,21.0,5.0,5.0,No,combination of practices
+7955439997587860166,,,,,No,combination of practices
+7955439997586929225,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+1469883818362505012,NPK PHÚ M? 20-7-7,20.0,7.0,7.0,No,combination of practices
+7955439997583324848,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855014451,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1470002575956819361,MEZCLA FISICA,18.0,12.0,6.0,No,combination of practices
+7955439997583325860,NPK 20-10-15,20.0,10.0,15.0,No,combination of practices
+7955439997583325094,20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855014731,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583325804,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469592163271961931,YARA MIRA HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997587862108,DAP,18.0,46.0,0.0,No,combination of practices
+1470002575956819246,,,,,No,combination of practices
+7955439997586929229,??m sunfat,46.0,0.0,0.0,No,combination of practices
+7955439997583325072,20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583325682,19,19.0,9.0,19.0,No,mowing/cutting
+7955439997583325716,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997583325714,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583325743,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997583325814,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379855014657,urea,46.0,0.0,0.0,No,combination of practices
+1469883818362505040,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997583325136,46,46.0,0.0,0.0,No,combination of practices
+7955439997583325568,21,21.0,21.0,14.0,No,combination of practices
+1469278379855008683,NPK 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+1469278379855004461,Ure Phú M?,46.3,0.0,0.0,No,combination of practices
+1469278379854783274,NPK mùa khô,30.0,10.0,10.0,No,mowing/cutting
+1470002575945828365,,0.0,,,No,cover crops
+7955439997588499916,,,,,No,mowing/cutting
+1470002575945823114,,,,,No,mowing/cutting
+1470002575945827988,,0.0,,,No,combination of practices
+1470002575945827721,,0.0,,,No,combination of practices
+1470002575945823466,,,,,No,mowing/cutting
+1470002575945827252,,1.0,0.0,0.0,No,hand hoe
+7955439997588499934,,,,,No,combination of practices
+1469592163271962897,UREA,46.0,0.0,0.0,No,combination of practices
+1470002575945828569,,,,,No,mowing/cutting
+1470002575945827587,compost,1.0,0.0,0.0,No,cover crops
+1470002575945826888,,,,,No,mowing/cutting
+1470002575945818823,,0.0,,,No,mowing/cutting
+1470002575945827224,compost,1.0,0.0,0.0,No,cover crops
+1470002575945818760,,1.0,,,No,mowing/cutting
+1470002575945828561,compost,1.0,0.0,0.0,No,combination of practices
+1470002575945818801,,1.0,,,No,mowing/cutting
+1470002575945827204,,,,,No,mowing/cutting
+1470002575945828048,,0.0,,,No,mowing/cutting
+1470002575945827286,Compost,1.0,0.0,0.0,No,mowing/cutting
+1470002575945828609,,,,,No,mowing/cutting
+1470002575945818838,,1.0,0.0,0.0,No,mowing/cutting
+1469592163271960926,,,,,No,combination of practices
+1470002575945818836,,0.0,,,No,mowing/cutting
+1470002575945818802,,1.0,,,No,mowing/cutting
+1470002575945828565,compost,1.0,0.0,0.0,No,cover crops
+1470002575945826896,,,,,No,mowing/cutting
+1470002575945818829,,0.0,,,No,mowing/cutting
+1470002575945818758,,1.0,,,No,mowing/cutting
+1470002575945818732,,,,,No,mowing/cutting
+1470002575945818664,,,,,No,mowing/cutting
+1470002575945828612,,,,,No,mowing/cutting
+1470002575945827111,,0.0,,,No,mowing/cutting
+1470002575956819629,FOSFATO DIAMONICO,18.0,46.0,0.0,Yes,combination of practices
+1470002575945828452,,,,,No,combination of practices
+1469592163271955139,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271962843,,0.0,0.0,0.0,No,combination of practices
+7955439997583325208,30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997587382970,ure,46.0,0.0,0.0,No,mowing/cutting
+1469592163271960239,,0.0,0.0,0.0,Yes,combination of practices
+7955439997583325326,urê,46.0,0.0,0.0,No,combination of practices
+1470002575945818641,,0.0,,,No,mowing/cutting
+7955439997583325028,NPK 30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997583325019,urê,46.0,0.0,0.0,No,combination of practices
+7955439997587382976,ure phú m?,46.0,0.0,0.0,No,mowing/cutting
+1470002575945828346,,,,,No,mowing/cutting
+1470002575945827564,,0.0,,,No,mowing/cutting
+7955439997583325633,17,17.0,7.0,17.0,No,mowing/cutting
+7955439997583325183,SA21,21.0,0.0,0.0,No,combination of practices
+7955439997583325017,Urê,46.0,0.0,0.0,No,combination of practices
+1470002575945818674,,0.0,,,No,mowing/cutting
+1469278379855014057,NPK ??U TRÂU 20-5-5,20.0,5.0,5.0,No,combination of practices
+1470002575945827296,,,,,No,mowing/cutting
+1469278379855014078,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583324983,NPK 19-9-19,19.0,9.0,19.0,No,combination of practices
+7955439997587382630,npk 22-10-12,22.0,10.0,12.0,No,mowing/cutting
+7955439997586929230,urê,46.0,0.0,0.0,No,combination of practices
+7955439997586929227,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583324930,46,46.0,0.0,0.0,No,mowing/cutting
+1470002575945827301,,,,,No,mowing/cutting
+1470002575945827192,,,,,No,mowing/cutting
+1470002575945818819,,0.0,,,No,mowing/cutting
+1470002575945827882,,,,,No,mowing/cutting
+7955439997583325318,urê,46.0,0.0,0.0,No,combination of practices
+1470002575956819661,,0.0,,,No,combination of practices
+7955439997587382959,SA c?a thái Lan,21.0,0.0,0.0,No,mowing/cutting
+7955439997587382605,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+7955439997583324994,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997586929231,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1470002575945826974,,,,,No,mowing/cutting
+1469278379855014157,NPK 16-16-8,16.0,16.0,8.0,No,hand hoe
+1469278379855008618,Urea 46%,46.0,0.0,0.0,No,combination of practices
+1469278379855014171,NPK CÀ MAU 22-5-6,22.0,5.0,6.0,No,combination of practices
+1470002575945827026,,,,,No,mowing/cutting
+7955439997587382927,NPK20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587382872,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997587382925,URE,46.0,0.0,0.0,No,combination of practices
+7955439997583324819,npk 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997587382625,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+1470002575945818834,,0.0,,,No,mowing/cutting
+7955439997583324912,17,17.0,17.0,8.0,No,mowing/cutting
+7955439997583324962,NPK 20-10-15,20.0,10.0,15.0,No,combination of practices
+1470002575945827703,,,,,No,mowing/cutting
+7955662907700729406,,,,,,
+7955439997583325219,20,20.0,5.0,5.0,No,mowing/cutting
+7955439997583923973,,,,,,
+7955439997587382532,npk 15-15-15 c?a zara,15.0,15.0,15.0,No,combination of practices
+7955439997587382600,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+7955439997587382546,npk 20-5-5 c?a bình ?i?n,20.0,5.0,5.0,No,mowing/cutting
+7955439997587382711,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+7955439997587859950,,,,,,
+7955439997587382536,npk 20-5-5 c?a nauy,20.0,5.0,5.0,No,mowing/cutting
+7955439997587382655,NPK30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997587382663,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997587382733,npk 20--10-10,20.0,10.0,10.0,No,mowing/cutting
+7955439997583324831,46,46.0,0.0,0.0,No,mowing/cutting
+7955439997583325281,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583324824,NPK,46.0,0.0,0.0,No,combination of practices
+7955439997587382477,ure phú m?,46.0,0.0,0.0,No,combination of practices
+1469278379855004689,NPK 23-5-5,23.0,5.0,5.0,No,combination of practices
+7955439997583324839,Ure,46.0,8.0,0.0,No,combination of practices
+1469278379855004656,Ure Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997587382726,npk 22-5-6,22.0,5.0,6.0,No,mowing/cutting
+7955439997583325030,30-10-10,30.0,10.0,10.0,No,combination of practices
+1469278379855004745,NPK 20-5-5 Cà mau,20.0,5.0,5.0,No,combination of practices
+7955439997583324818,21,21.0,0.0,0.0,No,mowing/cutting
+7955439997583324802,NPK 30-10-10,30.0,10.0,10.0,No,combination of practices
+7955662907700729410,,,,,,
+7955439997587382343,NPK20-5-6,20.0,5.0,6.0,No,combination of practices
+7955662907700729413,,,,,,
+1469278379855008981,NPK Phú M? Mùa Khô 20-7-7,20.0,7.0,7.0,No,combination of practices
+7955439997587382427,npk 20-20-15 c?a hàn vi?t,20.0,20.0,15.0,No,mowing/cutting
+7955439997587382139,NPK 20-20-20,20.0,20.0,20.0,No,combination of practices
+1469278379855008968,??m sunfat SA,21.0,0.0,0.0,No,combination of practices
+7955439997583325445,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855004642,NPK PHÚ M? 20-5-5,20.0,5.0,55.0,No,combination of practices
+7955439997583324837,19 - 9-19,19.0,9.0,19.0,No,combination of practices
+7955439997587382715,npk 17-17-17,17.0,17.0,17.0,No,mowing/cutting
+1469592163271952223,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379855004669,NPK 22-5-6,22.0,5.0,6.0,No,combination of practices
+1469278379855008939,??m sunfat SA,21.0,0.0,0.0,No,combination of practices
+7955439997587382313,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587382181,npk 16-16-8 c?a Nga,16.0,16.0,8.0,No,combination of practices
+1469278379855004819,NPK 22-5-6,22.0,5.0,6.0,No,combination of practices
+1469278379855004566,NPK ??U TRÂU 20-5-5,20.0,5.0,55.0,No,combination of practices
+7955439997583325662,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997583325550,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997587382064,NPK c?a hà lan,20.0,5.0,5.0,No,mowing/cutting
+7955439997587382070,npk 20-10-20,20.0,10.0,20.0,No,mowing/cutting
+7955439997587382394,npk 20-10-10 c?a nga,20.0,10.0,10.0,No,mowing/cutting
+7955439997587382084,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587382420,NPK 30-10-10,30.0,0.0,0.0,No,combination of practices
+7955439997583325134,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469592163271960051,DAP,18.0,46.0,0.0,No,combination of practices
+7955439997583325172,NPK 17 -8-19,17.0,8.0,19.0,No,combination of practices
+1469592163271966521,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271964201,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997583324884,urê,46.0,0.0,0.0,No,combination of practices
+1469278379854782992,NPK 17-17-17,17.0,17.0,17.0,No,mowing/cutting
+7955439997583324780,46,46.0,0.0,0.0,No,mowing/cutting
+1469592163271966522,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997587381838,npk20-20-15,20.0,20.0,15.0,No,mowing/cutting
+1469592163271963224,Triple 17,17.0,17.0,17.0,No,combination of practices
+7955439997587382142,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583325179,25,25.0,0.0,0.0,No,combination of practices
+1469278379855014870,NPK ??u trâu mùa khô 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855014850,npk 22 5 6,22.0,5.0,6.0,No,combination of practices
+1469883818362505065,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469883818362505068,NPK ??U TRÂU 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997587381878,npk 19-9-19 v?nh th?ch,19.0,9.0,19.0,No,mowing/cutting
+1469592163271960747,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997583324878,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583324795,17,17.0,7.0,17.0,No,mowing/cutting
+1469592163271962153,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379854677088,NPK,20.0,5.0,5.0,No,hand hoe
+1469278379854782863,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587382117,URE,46.0,0.0,0.0,No,hand hoe
+7955439997583325440,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+1469278379855009149,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469592163271958226,UREA,46.0,0.0,0.0,No,combination of practices
+7955439997583325175,46,46.0,0.0,0.0,No,combination of practices
+1469278379854677048,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469883818362504748,NPK,20.0,10.0,10.0,No,mowing/cutting
+1469278379855009107,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997587382012,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+7955439997583325040,urê,46.0,0.0,0.0,No,combination of practices
+1469278379855009143,SA ??u trâu,21.0,0.0,0.0,No,combination of practices
+1469278379855008909,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+1469278379854782933,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+1469278379855008896,urea,46.0,0.0,0.0,No,combination of practices
+7955439997587382020,npk 30-10-1,30.0,0.0,0.0,No,combination of practices
+1469278379854781842,,,,,No,mowing/cutting
+1469278379854781834,NPK ??u trâu,20.0,5.0,6.0,No,mowing/cutting
+1469278379854782526,NPK ??u trâu mùa khô,16.0,16.0,8.0,No,mowing/cutting
+1469278379854677051,??m Cà Mau,46.0,0.0,0.0,No,mowing/cutting
+7955439997587382011,ure phú m?,46.0,0.0,0.0,No,combination of practices
+7955439997583325486,18,18.0,8.0,18.0,No,mowing/cutting
+1469592163271960777,YARAMILA HIDRAN.,19.0,4.0,19.0,No,combination of practices
+7955662907700729414,,,,,,
+7955439997587381699,npk phú m?,20.0,10.0,10.0,No,mowing/cutting
+7955439997587381677,npk 16 8 16,16.0,8.0,16.0,No,mowing/cutting
+7955439997587381683,NPK 30-10-1,30.0,10.0,10.0,No,combination of practices
+7955439997587381706,npk 20-8-20,20.0,8.0,20.0,No,mowing/cutting
+7955439997587381932,ure phú m?,46.0,0.0,0.0,No,mowing/cutting
+1470002575956819706,YARA MILA,19.0,4.0,19.0,No,combination of practices
+7955439997587860202,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271967037,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379855005004,NPK Phú M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855008262,urê,46.0,0.0,0.0,No,combination of practices
+1469278379855005101,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379854782145,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587381805,NPK 20-20-10,20.0,20.0,10.0,No,mowing/cutting
+1469278379855008401,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854782199,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854783032,NPK 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+1469278379854782215,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469592163271954209,YARA MILA,19.0,4.0,19.0,No,combination of practices
+1469592163271960616,DAP,18.0,46.0,0.0,No,combination of practices
+7955439997587381884,cà mau,22.0,5.0,6.0,No,mowing/cutting
+1469278379855008269,urê,46.0,0.0,0.0,No,combination of practices
+7955439997587381959,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+1469592163271964117,UREA,46.0,0.0,0.0,No,combination of practices
+1469278379855008124,NPK PHÚ M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854783035,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469592163271966530,,,,,No,combination of practices
+7955439997587381889,NPK 22-5-6,22.0,5.0,6.0,No,mowing/cutting
+1469278379855008060,NPK 20-5-7,20.0,5.0,7.0,No,combination of practices
+1469278379854782985,Phân Ure 46%,46.0,0.0,0.0,No,mowing/cutting
+1469278379854782123,NPK,18.0,6.0,18.0,No,mowing/cutting
+1469278379854781877,Yara Mila Faster,25.0,7.0,7.0,No,mowing/cutting
+1469278379855008816,NPK 18-8-18 ??u Trâu,18.0,8.0,18.0,No,combination of practices
+1469278379855008041,NPK USA 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855008072,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855008812,??m SA,21.0,0.0,0.0,No,combination of practices
+7955439997587381722,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587381774,npk 20-5-5. phân c?a BM c?a ??c,20.0,5.0,5.0,No,mowing/cutting
+1469278379854782996,NPK Cà Mau 18-6-18,18.0,6.0,18.0,No,mowing/cutting
+1469883818362504719,SA,21.0,0.0,0.0,No,mowing/cutting
+1469883818362504819,YARA Mila Racer,21.0,17.0,3.0,No,mowing/cutting
+7955439997587381738,ure 46,46.0,0.0,0.0,No,combination of practices
+1469592163271956842,DAP,18.0,46.0,0.0,No,combination of practices
+1469278379854782474,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1469278379854783171,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469278379855005184,phân SA ??m,21.0,0.0,0.0,No,combination of practices
+1469592163271956798,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271962268,,,,,No,combination of practices
+1470002575956819221,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379855008161,SA Phú M?,21.0,0.0,0.0,No,combination of practices
+1469278379854782782,NPK,16.0,16.0,8.0,No,mowing/cutting
+1469278379855004922,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854782076,??m Phú M?,46.0,0.0,0.0,No,mowing/cutting
+1469592163271958267,,0.0,0.0,0.0,No,combination of practices
+1470002575956819604,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1470002575956819603,UREA,46.0,,0.0,No,combination of practices
+1469592163271958257,YARAMILA STAR,21.0,17.0,3.0,No,combination of practices
+1469278379855008350,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379854782109,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469592163271960170,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379855004915,NPK Phú M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855004992,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+1469883818362504808,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1469278379855004968,NPK mùa khô Phú M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855008417,NPK Phú M? 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855008436,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469278379854782492,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469883818362504791,SA,21.0,0.0,0.0,No,mowing/cutting
+1469278379854782092,NPK Vi?t Nh?t 20-15-5,20.0,15.0,5.0,No,mowing/cutting
+1469278379855005215,urê,46.0,0.0,0.0,No,combination of practices
+7955439997587860220,TRIPLE 17,17.0,17.0,17.0,No,combination of practices
+1469592163271967068,YARA MIKA HYDRAN,19.0,4.0,19.0,No,combination of practices
+7955439997587860204,TRIPLE 17,17.0,17.0,17.0,No,combination of practices
+1469592163271966489,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271960069,YARA MILA HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271963217,YARA MILA,19.0,4.0,19.0,No,combination of practices
+7955662907700729412,,,,,,
+7955662907700729408,,,,,,
+1469592163271954133,MEZCLA FISICA,17.0,17.0,17.0,No,combination of practices
+1469592163271958407,,,,,No,combination of practices
+1469592163271961960,,,,,No,combination of practices
+1469278379854782876,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997587860246,,,,,No,combination of practices
+1469278379854782828,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854782119,NPK,16.0,16.0,20.0,No,mowing/cutting
+1469592163271964968,,,,,No,combination of practices
+1469278379854782851,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854782268,SA,21.0,0.0,0.0,No,mowing/cutting
+1469278379854782283,NPK 30:10:10,30.0,10.0,10.0,No,mowing/cutting
+1469592163271956790,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271961950,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271956037,,,,,No,combination of practices
+1469592163271954470,DAP,18.0,46.0,,No,combination of practices
+1469592163271951726,,0.0,0.0,0.0,No,combination of practices
+1469278379854782050,NPK mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469592163271959560,,,,,No,combination of practices
+1469592163271960177,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271963955,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271954429,YARA MILA,12.0,,,No,combination of practices
+1469592163271963926,,0.0,0.0,0.0,No,combination of practices
+1469278379854783140,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+1469278379854781994,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854783068,NPK,20.0,5.0,5.0,No,mowing/cutting
+1469883818362504759,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+1469278379854781931,NPK Mùa khô,20.0,5.0,5.0,No,mowing/cutting
+1469278379854783099,NPK,20.0,15.0,15.0,No,mowing/cutting
+7955662907700729405,,0.0,0.0,0.0,,hand hoe
+7955439997587860207,YARA MILA HIDRAN,19.0,4.0,19.0,No,combination of practices
+1469592163271961702,UREA,46.0,0.0,0.0,No,combination of practices
+1469592163271961614,YARAMILA,19.0,4.0,19.0,No,combination of practices
+1469592163271960967,DAP,18.0,46.0,0.0,No,combination of practices
+1469592163271960243,,0.0,0.0,0.0,No,combination of practices
+1469592163271963393,HYDRAN,19.0,4.0,19.0,No,combination of practices
+1469278379854677161,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+1469278379854677158,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+7955439997582574640,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582574390,NPK 17-7-17,17.0,7.0,17.0,No,combination of practices
+1469278379854782909,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+7955439997582574361,Phân SA Nh?t,21.0,0.0,0.0,No,combination of practices
+7955439997582574438,urê,46.0,0.0,0.0,No,combination of practices
+1469278379854677186,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469278379854782910,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582574398,NPK ??u Trâu 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582574632,urea,46.0,0.0,0.0,No,combination of practices
+7955439997582574418,NPK 20-5-5,20.0,0.0,0.0,No,combination of practices
+7955439997582574691,urê,46.0,0.0,0.0,No,hand hoe
+1469278379854781801,NPK Mùa khô 20-5-5,20.0,5.0,5.0,No,hand hoe
+7955439997582574594,Npk 20-5-6,20.0,0.0,0.0,No,combination of practices
+7955439997582574503,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+1469883818362504782,NPK 16-16-8,16.0,16.0,8.0,No,mowing/cutting
+1469278379854783238,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575567,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582574448,??u Trâu Mùa Khô NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582574458,ure ??m Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997582574553,Npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582574535,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+1469278379854782689,Phân bón mùa khô 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575502,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575487,Ure,46.0,0.0,0.0,No,hand hoe
+1469453888487996632,16-16-16,16.0,16.0,16.0,No,combination of practices
+1469453888487995462,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997582574782,SA PHÚ M?,21.0,0.0,0.0,No,combination of practices
+7955439997582576065,??m sunfat,21.0,0.0,0.0,No,combination of practices
+7955439997582576107,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582576012,Npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582574817,NPK Thiên Tr??ng,20.0,5.0,5.0,No,combination of practices
+7955439997582576000,NPK Mùa khô 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582576071,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997582575413,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582575412,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575354,Phân tr?n: Ure K Bo Zn Humic,27.0,0.0,27.0,No,mowing/cutting
+7955439997582575649,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582575655,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575614,Phân Bón Mi?n Nam NPK 22-3-5 18S TE,22.0,3.0,5.0,No,mowing/cutting
+7955439997582575722,Urea 46%,46.0,0.0,0.0,No,mowing/cutting
+7955439997582575697,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575606,GARSONY 30-9-9,30.0,9.0,9.0,No,mowing/cutting
+7955439997582575770,,,,,,
+7955439997582575771,NPK ??u trâu,20.0,5.0,5.0,No,mowing/cutting
+7955439997582575100,NPK 19-9-19,19.0,9.0,19.0,No,mowing/cutting
+7955439997582576973,NPK Hà Lan 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582575304,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997582575038,NPK mùa khô,20.0,20.0,5.0,No,mowing/cutting
+7955439997582575356,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582577018,NPK Hà Lan (công ty ? Long An) 20-5-5-13S,20.0,5.0,5.0,No,combination of practices
+7955439997582577141,urê,46.0,0.0,0.0,No,combination of practices
+7955439997582577085,NPK ??U TRÂU 20-5-5,20.0,5.0,55.0,No,combination of practices
+7955439997582577212,Urê Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997582575099,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+7955439997582577089,NPK LONG VI?T 20-5-5,20.0,665.0,5.0,No,combination of practices
+7955439997582575258,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582577291,Yara NPK 15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997582575028,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+7955439997582575118,NPK ??m cao,20.0,20.0,5.0,No,mowing/cutting
+7955439997582575260,NPK,16.0,16.0,8.0,No,mowing/cutting
+7955439997582577244,Npk 16- 6- 19,16.0,6.0,19.0,No,combination of practices
+7955439997582577153,urê,46.0,0.0,0.0,No,combination of practices
+7955439997582577183,urê,46.0,0.0,0.0,No,combination of practices
+7955662907697650386,,,,,,
+7955662907697650384,TRIPLE 17,17.0,17.0,17.0,No,cover crops
+7955662907697650381,,,,,,
+7955662907697650388,UREA,46.0,0.0,0.0,,
+7955439997582577869,Phân tr?n Urea Kali (31N:20K),31.0,0.0,20.0,No,mowing/cutting
+7955439997582577877,NPK ??u Trâu 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582577864,Urea,46.0,0.0,0.0,No,combination of practices
+7955439997582576617,Npk 20- 5- 6,20.0,5.0,6.0,No,hand hoe
+7955439997582576696,NPK 20:5:6,20.0,5.0,6.0,No,hand hoe
+7955439997582576622,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+7955662907697650383,,,,,,
+7955439997582579410,??u trâu mùa khô 20-5- 6,20.0,5.0,6.0,No,combination of practices
+7955439997582579059,NPK Mua kho,20.0,20.0,5.0,No,mowing/cutting
+7955439997582577940,Phân SA,21.0,0.0,0.0,No,hand hoe
+7955439997582577941,NPK 19:4:6,19.0,4.0,6.0,No,mowing/cutting
+7955439997582577909,NPK ??u trâu 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582577922,urê,46.0,0.0,0.0,No,combination of practices
+7955439997582577912,Npk  20- 5 -6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582576572,??u Trâu mùa khô,20.0,5.0,6.0,No,mowing/cutting
+7955439997582576682,NPK,30.0,10.0,10.0,No,mowing/cutting
+7955439997582576669,??u Trâu 20-20-15,20.0,20.0,15.0,No,combination of practices
+7955439997582577856,Npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582576661,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582577841,NPK ??U TRÂU 20-5-6-13S,20.0,5.0,6.0,No,combination of practices
+7955439997582577840,ure,46.0,0.0,0.0,No,combination of practices
+7955439997582576651,??u trâu mùa khô 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582576671,NPK,20.0,5.0,6.0,No,hand hoe
+7955439997582576656,NPK  Phú M? 16-16-8,16.0,16.0,8.0,No,mowing/cutting
+7955662907697650387,,,,,,
+7955439997582579138,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955662907697650378,urea,46.0,0.0,0.0,Yes,combination of practices
+7955662907697650390,urea,46.0,0.0,0.0,Yes,hand hoe
+7955662907697650379,,,,,Yes,none
+7955439997582579408,NPK ??u Trâu 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582579537,npk 16 16 8,16.0,16.0,8.0,No,combination of practices
+7955439997582579490,??u Trâu mùa khô 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582579066,NPK mua kho,20.0,5.0,6.0,No,mowing/cutting
+7955439997582579358,NPK 20:5:5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582579305,NPK,20.0,5.0,5.0,No,mowing/cutting
+7955439997582579546,npk 20 - 5 - 5,20.0,5.0,5.0,No,combination of practices
+7955439997582579244,NPK ??U TRÂU 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582579516,NPK mùa khô 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582579389,SA phú m?,21.0,0.0,0.0,No,combination of practices
+7955662907697650385,UREA,46.0,0.0,0.0,Yes,combination of practices
+1469453888487995656,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469418069232862133,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469453888487995490,20-10-30,20.0,10.0,30.0,No,mowing/cutting
+7955439997588499927,,,,,No,combination of practices
+7955439997582578155,Phân tr?n Urea Kali (15 Urea: 8 Kali),30.0,0.0,21.0,No,mowing/cutting
+7955439997582578159,NPK 17- 7- 17,17.0,7.0,17.0,No,combination of practices
+7955439997582578124,ure ??m Phú M?,46.3,0.0,0.0,No,combination of practices
+1469418069232862185,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997582576791,Urea 46%,46.0,0.0,0.0,No,combination of practices
+7955439997582576739,Urea,46.0,0.0,0.0,No,mowing/cutting
+1469453888487995677,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997582576756,,,,,,
+7955439997582576719,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997582578393,NPK 16:16:8,16.0,16.0,8.0,No,mowing/cutting
+7955439997582576750,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955439997582578315,Urea 46%,46.0,0.0,0.0,No,combination of practices
+7955439997582578320,Phân tr?n 2 Ure 2 Kali 1 SA,24.0,0.0,24.0,No,mowing/cutting
+7955439997583736661,46,46.0,0.0,0.0,No,hand hoe
+7955439997583736520,16-16-8,16.0,16.0,8.0,No,mowing/cutting
+1469453888487995282,15-15-15,15.0,15.0,15.0,No,mowing/cutting
+7955439997582578200,ure ??m Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997582576808,Urê Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997582576735,Ure 46% N,46.0,0.0,0.0,No,mowing/cutting
+7955439997583736557,20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997582576742,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997583736659,16,16.0,8.0,14.0,No,mowing/cutting
+7955439997582577984,npk 20 5 5,20.0,5.0,5.0,No,hand hoe
+7955439997588499914,,,,,,
+1469453888487996695,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+7955662907697650380,,,,,Yes,hand hoe
+7955439997583736504,20,20.0,10.0,10.0,No,mowing/cutting
+1469453888487995527,46-0-0,46.0,0.0,0.0,No,none
+7955439997583736626,30-10-10,30.0,10.0,10.0,No,combination of practices
+7955439997582177084,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955662907697650382,YARA MILA,19.0,4.0,19.0,No,combination of practices
+7955439997583736779,,,,,,
+1469453888487996742,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997582576938,NPK ??u trâu 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583736725,npk 20 5 5,20.0,5.0,5.0,No,combination of practices
+7955439997583736782,Npk 22-5-6,22.0,5.0,6.0,No,combination of practices
+7955439997582578839,NPK,20.0,5.0,6.0,No,hand hoe
+7955439997582576934,SA 21%,21.0,0.0,0.0,No,combination of practices
+7955439997583736793,20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582578719,NPK 16:16:8,16.0,16.0,8.0,No,mowing/cutting
+7955439997582576864,Urê Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997583736452,??u trâu,20.0,5.0,6.0,No,mowing/cutting
+7955439997582576878,ure ??m Phú M?,46.0,0.0,0.0,No,combination of practices
+1469453888487995700,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997582576829,NPK Bình ?i?n ??u Trâu 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582578854,NPK,20.0,5.0,6.0,No,mowing/cutting
+1469453888487995452,15-15-15,15.0,15.0,15.0,No,mowing/cutting
+7955439997583736728,ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997582578880,??m sunfat,21.0,0.0,0.0,No,combination of practices
+7955439997582576924,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997582576955,SA,21.0,0.0,0.0,No,mowing/cutting
+7955439997583736583,20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583736588,46,46.0,0.0,0.0,No,mowing/cutting
+7955439997582576889,Npk 20- 5- 5,20.0,5.0,5.0,No,hand hoe
+7955439997583736569,SA,21.0,0.0,0.0,No,combination of practices
+7955439997583736750,??u trâu,20.0,5.0,6.0,No,mowing/cutting
+7955439997582576567,NPK 16:8:8,16.0,8.0,8.0,No,mowing/cutting
+7955439997583736709,NPK 20-5-5,20.0,5.0,5.0,No,hand hoe
+7955439997582576887,SA,21.0,0.0,0.0,No,hand hoe
+7955439997583736746,npk,20.0,20.0,5.0,No,mowing/cutting
+7955439997583736803,20 6 4,20.0,6.0,4.0,No,combination of practices
+7955439997583736836,20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997583736806,NPK 20-5-5,20.0,5.0,5.0,No,hand hoe
+7955439997583736809,npk 20-5-6,20.0,5.0,6.0,No,mowing/cutting
+1469453888487996644,15-15-15,15.0,15.0,15.0,No,shade
+7955439997583736605,Urê,46.0,0.0,0.0,No,combination of practices
+7955439997583736454,npk 16 16 8,16.0,16.0,8.0,No,mowing/cutting
+7955439997583736453,??u trâu,20.0,5.0,6.0,No,combination of practices
+7955439997583736459,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583736457,Urê,46.0,0.0,0.0,No,hand hoe
+1469453888487996662,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997583736619,46,46.0,0.0,0.0,No,combination of practices
+7955439997583736634,urê,46.0,0.0,0.0,No,hand hoe
+7955439997583736613,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469453888487996448,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997582576548,ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997582578921,NPK 20-5-6-13S+TE,20.0,5.0,6.0,No,combination of practices
+7955439997583736882,20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997582579014,NPK 20:5:6,20.0,5.0,6.0,No,hand hoe
+7955439997583736535,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582576543,Ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997582578603,NPK M?T TR?I M?I 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997582578985,NPK ??u trâu mùa khô,20.0,5.0,5.0,No,mowing/cutting
+7955439997582578671,Npk 20- 5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583736463,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583736550,16-16-16,16.0,16.0,16.0,No,combination of practices
+7955439997587382033,,,,,,
+7955439997583736860,con cò,20.0,10.0,10.0,No,mowing/cutting
+7955439997582578885,Urea 46%,46.0,0.0,0.0,No,combination of practices
+7955439997583736876,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469453888487996557,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997582578963,NPK Mùa khô ??u trâu,20.0,5.0,5.0,No,hand hoe
+7955439997583736843,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583736552,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583736514,46,46.0,0.0,0.0,No,hand hoe
+7955439997583736672,Ure,46.0,0.0,0.0,No,combination of practices
+7955439997583736671,con cò,20.0,10.0,10.0,No,mowing/cutting
+7955439997582576546,ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997582578621,Ure ??m Phú M?,46.3,0.0,0.0,No,combination of practices
+7955439997582578614,Ure Phu My,46.3,0.0,0.0,No,combination of practices
+7955439997583736490,npk 10-10-20,20.0,10.0,10.0,No,combination of practices
+7955439997582579007,NPK 20:5:6,20.0,5.0,6.0,No,hand hoe
+7955439997583736663,npk 20 5 5,20.0,5.0,5.0,No,mowing/cutting
+7955439997583736511,,,,,,
+7955439997583736476,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583736472,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469453888487996539,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+1469453888487996565,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997584718841,,,,,,
+1469418069232862221,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469453888487996353,21-0-0,21.0,0.0,0.0,No,mowing/cutting
+1469453888487996366,16-0-0,16.0,0.0,0.0,No,combination of practices
+1469453888487996335,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997582577321,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469453888487996354,15-15-15,15.0,15.0,15.0,No,mowing/cutting
+7955439997582576498,Ure ??m Phú M?,46.0,0.0,0.0,No,combination of practices
+7955439997582577425,Npk 20- 5- 6 -13S+TE,20.0,5.0,6.0,No,combination of practices
+7955439997582577393,npk 20 10 10,20.0,10.0,10.0,No,combination of practices
+7955439997582577395,NPK 20:6:5,20.0,6.0,5.0,No,mowing/cutting
+7955439997582577442,Ure,46.0,0.0,0.0,No,mowing/cutting
+1469453888487995624,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469453888487995505,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487995480,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487996968,46-0-0,46.0,0.0,0.0,No,shade
+7955439997582577341,NPK ??u trâu 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997582577497,NPK 20:6:5,20.0,6.0,5.0,No,hand hoe
+7955439997582577525,NPK ??u trâu mùa khô,20.0,5.0,5.0,No,mowing/cutting
+7955439997582577510,NPK,20.0,5.0,6.0,No,hand hoe
+7955439997582576523,NPK Viet Nhat,21.0,3.0,5.0,No,mowing/cutting
+7955439997582576459,Lân phosphate ( DAP),18.0,46.0,0.0,No,combination of practices
+7955439997582577567,ure,46.0,0.0,0.0,No,combination of practices
+1469418069232862199,21-0-0,21.0,0.0,0.0,No,mowing/cutting
+7955439997583734775,20-5-6,20.0,5.0,6.0,No,combination of practices
+1469453888487995992,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997582577485,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+7955439997582577352,NPK ??u Trâu 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997582577517,NPK,20.0,5.0,6.0,No,mowing/cutting
+7955439997582577592,NPK Mùa khô ??u trâu,17.0,7.0,7.0,No,mowing/cutting
+7955439997583735187,SA 21,21.0,0.0,0.0,No,combination of practices
+7955439997583734806,18,18.0,6.0,18.0,No,mowing/cutting
+7955439997583735240,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583735242,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583735139,urê 46,46.0,0.0,0.0,No,hand hoe
+7955439997583734829,20,20.0,5.0,5.0,No,combination of practices
+7955439997583735115,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997583736252,ure,46.0,0.0,0.0,No,hand hoe
+7955439997583734947,20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583734950,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583735459,NPK BÌNH ?I?N,20.0,5.0,6.0,No,combination of practices
+7955439997583736182,npk 20 20 5,20.0,20.0,5.0,No,mowing/cutting
+7955439997583736199,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583734756,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997583734939,20,20.0,5.0,6.0,No,combination of practices
+1469453888487995311,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+1469453888487995307,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469418069232862130,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469418069232862175,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997583735971,ure,46.0,0.0,0.0,No,hand hoe
+7955439997583736114,npk 20-20-5,20.0,20.0,5.0,No,mowing/cutting
+7955439997583736060,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997583736033,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997583734703,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583736021,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+1469453888487995309,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469453888487996712,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997583734684,20,20.0,5.0,6.0,No,combination of practices
+7955439997583736062,npk 20 20 15,20.0,20.0,15.0,No,hand hoe
+7955439997583734617,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583734607,20-15-20,20.0,15.0,20.0,No,combination of practices
+7955439997583734601,Urea,46.0,0.0,0.0,No,combination of practices
+7955439997583736118,npk 20-5-6,20.0,5.0,6.0,No,hand hoe
+7955439997583736045,npk 20 5 6,20.0,5.0,6.0,No,hand hoe
+7955439997583735982,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997587360486,Urea,46.0,0.0,0.0,No,mowing/cutting
+7955439997583980593,,,,,,
+7955439997583735389,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583734824,16-16-16,16.0,16.0,16.0,No,combination of practices
+1469453888487996629,15-5-25,15.0,5.0,25.0,No,shade
+1469278379855037778,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469418069232862155,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997583734867,,0.0,0.0,0.0,No,combination of practices
+7955439997583736178,ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997583736190,npk 16 16 8,16.0,16.0,8.0,No,combination of practices
+7955439997583736188,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997583734819,urê,46.0,0.0,0.0,No,combination of practices
+7955439997583736204,??u trâu,16.0,8.0,16.0,No,mowing/cutting
+1469278379855038216,??u Trâu Mùa Khô NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469453888487996624,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997583736280,ure,46.0,0.0,0.0,No,hand hoe
+7955439997583736228,npk 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997583736247,urê,46.0,0.0,0.0,No,combination of practices
+1469278379855040311,SA,21.0,0.0,0.0,No,mowing/cutting
+7955439997583736222,??u trâu bình ?i?n,20.0,5.0,6.0,No,combination of practices
+7955439997582420562,NPK Bình ?i?n,20.0,5.0,6.0,No,mowing/cutting
+7955439997583736230,ure,46.0,0.0,0.0,No,hand hoe
+1469418069232862152,25-7-7,25.0,7.0,7.0,No,combination of practices
+7955439997583736261,URE 46,46.0,0.0,0.0,No,combination of practices
+1469418069232862192,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469278379855038420,NPK 17-9-19,17.0,9.0,19.0,No,mowing/cutting
+7955439997583735460,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997583735466,20,20.0,5.0,6.0,No,mowing/cutting
+7955439997583735434,urê,46.0,0.0,0.0,No,combination of practices
+1469278379855039238,NPK 20-20-5,20.0,20.0,5.0,No,combination of practices
+7955439997583736294,ure 46,46.0,0.0,0.0,No,hand hoe
+1469278379855036872,Npk 20- 5- 5,20.0,5.0,5.0,No,combination of practices
+1469278379855038410,NPK Vi?t Nh?t 18-6-8,18.0,6.0,8.0,No,combination of practices
+1469278379855037433,npk 16-5-5,16.0,5.0,5.0,No,mowing/cutting
+1469278379855038003,??m Phú M? (ure),46.3,0.0,0.0,No,mowing/cutting
+1469278379855038441,NPK,20.0,5.0,5.0,No,hand hoe
+7955439997583736432,npk 20 20 20,20.0,20.0,20.0,No,mowing/cutting
+7955439997583736382,npk 16-16-16,16.0,16.0,16.0,No,mowing/cutting
+1469418069232862226,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469278379855038115,NPK 20:10:5,20.0,10.0,5.0,No,mowing/cutting
+1469278379855038085,NPK 20:10:10,20.0,10.0,10.0,No,mowing/cutting
+7955439997583736346,SA,21.0,0.0,0.0,No,combination of practices
+7955439997583736423,npk 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469418069232862188,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+7955439997583736350,npk 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+7955439997583736344,npk 20 6 5,20.0,6.0,5.0,No,combination of practices
+7955439997583735340,NPK 20-5-6  Bình ?i?n,20.0,5.0,6.0,No,combination of practices
+7955439997583735354,46%,46.0,0.0,50.0,No,hand hoe
+7955439997583735250,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583736378,npk 25-7-7,25.0,7.0,7.0,No,combination of practices
+7955439997583736424,,0.0,0.0,0.0,No,mowing/cutting
+7955439997583736355,NPK 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469453888487996882,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997583735271,16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379855038263,NPK Cà Mau 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469453888487996473,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469278379855038001,NPK Vi?t Nh?t mùa khô,20.0,8.0,5.0,No,mowing/cutting
+7955439997583735248,20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855037340,Phân t? tr?n,40.0,30.0,30.0,No,hand hoe
+7955439997583735150,NPK 21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997583735148,URE 46,46.0,0.0,0.0,No,combination of practices
+1469278379855040744,NPK 20-20-5,20.0,20.0,5.0,No,combination of practices
+7955439997583736002,ure,46.0,0.0,0.0,No,hand hoe
+7955439997583735144,NPK 20-5-6,20.0,5.0,6.0,No,hand hoe
+7955439997583735924,npk 20 20 15,20.0,20.0,15.0,No,hand hoe
+7955439997583735322,22,22.0,5.0,5.0,No,mowing/cutting
+1469278379855038067,NPK mùa khô,20.0,5.0,5.0,No,mowing/cutting
+1469278379855037832,Npk 20- 5- 5,20.0,5.0,5.0,No,mowing/cutting
+7955439997583735919,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+1469278379855038205,Urea,46.0,0.0,0.0,No,combination of practices
+1469278379855037385,NPK 17-7-17,17.0,7.0,17.0,No,mowing/cutting
+1469453888487996450,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469278379855037941,npk 20 - 5 -5,20.0,5.0,5.0,No,mowing/cutting
+7955439997583735881,npk 20 5 5,20.0,5.0,5.0,No,hand hoe
+7955439997583735314,20,20.0,5.0,5.0,No,mowing/cutting
+7955439997583735193,20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583735170,NPK 21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997583735176,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997582420595,Npk 22- 4- 4,22.0,4.0,4.0,No,combination of practices
+1469278379855037718,NPK 19:7:5,19.0,7.0,5.0,No,mowing/cutting
+7955439997583735991,ure,46.0,0.0,0.0,No,mowing/cutting
+7955439997583736132,ure,46.0,0.0,0.0,No,hand hoe
+1469278379855037669,NPK ??u Trâu,20.0,10.0,5.0,No,mowing/cutting
+7955439997582420594,NPK 16-8-16,16.0,8.0,16.0,No,combination of practices
+1469453888487996519,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487996496,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469418069232862174,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469418069232862173,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997583736127,ure,46.0,0.0,0.0,No,hand hoe
+1469278379855039095,sunphat ??m,21.0,0.0,0.0,No,combination of practices
+7955439997583734926,sa 21,21.0,0.0,0.0,No,combination of practices
+1469278379855040414,NPK m?t tr?i ??,20.0,5.0,5.0,No,mowing/cutting
+1469278379855037910,Urea ??m Cà Mau,46.0,0.0,0.0,No,combination of practices
+7955439997583736076,npk usa 20 12 8,20.0,12.0,8.0,No,combination of practices
+7955439997583736064,ure 46,46.0,0.0,0.0,No,combination of practices
+1469278379855040894,NPK 18:14:7,18.0,14.0,7.0,No,mowing/cutting
+7955439997583735105,ure,46.0,0.0,0.0,No,combination of practices
+7955439997583735114,Urea,46.0,0.0,0.0,No,combination of practices
+1469278379855039757,phân t? tr?n,23.4,46.9,23.4,No,combination of practices
+1469278379855039059,Npk 20- 5- 5,20.0,5.0,5.0,No,combination of practices
+1469278379855040896,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+7955439997583734996,npk 20-20-15,20.0,20.0,15.0,No,combination of practices
+1469278379855038859,NPK 20-20-15,20.0,20.0,15.0,No,combination of practices
+7955439997583734965,22,22.0,5.0,5.0,No,mowing/cutting
+7955439997583735937,NPK 16-16-8,16.0,16.0,8.0,No,mowing/cutting
+7955439997583735098,NPK 20-6-7,20.0,6.0,7.0,No,combination of practices
+1469278379855038587,NPK ??u Trâu,20.0,5.0,5.0,No,mowing/cutting
+7955439997583736183,npk 20-6-5,20.0,6.0,5.0,No,combination of practices
+7955439997583735066,18-5-9,18.0,5.0,9.0,No,combination of practices
+1469278379855039777,NPK 20-5-5,20.0,5.0,5.0,No,hand hoe
+1469278379855040089,SA Phú M?,21.0,0.0,0.0,No,mowing/cutting
+7955439997582420597,NPK Mùa Khô ??u Trâu,20.0,5.0,6.0,No,combination of practices
+1469453888487996110,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469278379855039075,NPK 20-10-10,20.0,10.0,10.0,No,combination of practices
+7955439997583734984,,,,,,
+1469278379855039955,SA,21.0,0.0,0.0,No,mowing/cutting
+1469418069232862172,16-16-16,16.0,16.0,16.0,No,combination of practices
+1469278379855039036,Npk mùa khô 20- 5- 5,20.0,5.0,5.0,No,combination of practices
+7955439997583734972,,,,,,
+7955439997583735035,npk 16 16 8,16.0,16.0,8.0,No,mowing/cutting
+7955439997583734966,,,,,,
+1469278379855040840,npk 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469418069232862184,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469278379855040903,NPK 20:4:6:5s,20.0,4.0,6.0,No,mowing/cutting
+1469453888487996081,16-16-16,16.0,16.0,16.0,No,mowing/cutting
+1469278379855038789,NPK M?t tr?i m?i,20.0,5.0,5.0,No,mowing/cutting
+1469278379855039434,NPK 17-7-17 TE,17.0,7.0,17.0,No,mowing/cutting
+1469453888487996124,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469418069232862157,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469278379855040235,Urea Phú M?,46.0,0.0,0.0,No,combination of practices
+1469278379855039327,NPK Hà Lan 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469418069232862163,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469278379855040338,NPK 16 16 8,16.0,16.0,8.0,No,hand hoe
+1469278379855040198,??u trâu mùa khô 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469278379855040148,NPK ??m Phú M?,20.0,7.0,7.0,No,mowing/cutting
+1469418069232862160,,0.0,,,No,combination of practices
+1469278379855040214,NPK 20-5-6-13S+TE,20.0,5.0,6.0,No,mowing/cutting
+1469278379855039138,ure ??m phú m?,46.0,0.0,0.0,No,combination of practices
+1469278379855040609,Npk 20- 5- 5,20.0,5.0,5.0,No,combination of practices
+1469453888487996145,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469418069232862159,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469278379855039698,NPK 20-5-5,20.0,5.0,5.0,No,mowing/cutting
+1469883818362505273,NPK 19:12:8,19.0,12.0,8.0,No,mowing/cutting
+1469278379855036689,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1469278379855040292,??m SA,21.0,0.0,0.0,No,mowing/cutting
+7955439997587381874,,,,,,
+1469453888487996199,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469453888487996195,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+1469278379855038661,??m sunfat,21.0,0.0,0.0,No,combination of practices
+7955439997583735733,SA,21.0,0.0,0.0,No,hand hoe
+1469453888487996201,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997583735804,"NPK ??u trâu Bình ?i?n , Vi?t Nam",20.0,5.0,6.0,No,combination of practices
+7955439997583735627,npk 20-5-6,20.0,5.0,6.0,No,hand hoe
+7955439997583735819,urê,46.0,0.0,0.0,No,combination of practices
+7955439997583735793,NPK 16-16-8,16.0,16.0,8.0,No,combination of practices
+1469278379855039859,NPK 20-10-10,20.0,10.0,10.0,No,mowing/cutting
+7955439997583736561,,,,,No,combination of practices
+1469278379855036710,20-10-15,20.0,10.0,15.0,No,mowing/cutting
+7955439997583735479,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583735567,,,,,,
+7955439997583735579,0,0.0,0.0,0.0,No,mowing/cutting
+7955439997583735741,ure,46.0,0.0,0.0,No,hand hoe
+1469278379855038730,NPK Bình ?i?n 16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997583735685,21,21.0,3.0,5.0,No,hand hoe
+1469278379855037255,Urê phú m?,46.0,0.0,0.0,No,combination of practices
+1469278379855038729,npk 16 16 8,16.0,16.0,8.0,No,combination of practices
+7955439997583735770,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583735605,sunfat,21.0,0.0,0.0,No,mowing/cutting
+7955439997583735588,npk 20-10-12,22.0,10.0,12.0,No,combination of practices
+1469278379855037217,ure ??m phú m?,46.0,0.0,0.0,No,combination of practices
+7955439997583735633,16-16-8,16.0,16.0,8.0,No,combination of practices
+7955439997583735732,ure,46.0,0.0,0.0,No,hand hoe
+7955439997583735526,NPK 20-20-15,20.0,20.0,15.0,No,mowing/cutting
+1469418069232862167,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997583735521,npk 20-20-5,20.0,20.0,5.0,No,combination of practices
+7955439997583735591,npk bình ?i?n 20 5 6,20.0,5.0,6.0,No,combination of practices
+7955439997583735639,,,,,,
+7955439997583735601,npk 20 -5-6,20.0,5.0,6.0,No,hand hoe
+7955439997583735790,NPK 20-5-6 Bình ?i?n,20.0,5.0,6.0,No,combination of practices
+7955439997583735773,SA,21.0,0.0,0.0,No,combination of practices
+1469278379855038649,Max one 20-5-6,20.0,5.0,6.0,No,combination of practices
+7955439997583735665,22,22.0,5.0,4.0,No,hand hoe
+1469278379855038689,urê,46.0,0.0,0.0,No,mowing/cutting
+1469278379855037176,NPK DTP,20.0,5.0,6.0,No,mowing/cutting
+1469278379855037271,??m Phú M?,46.0,0.0,0.0,No,combination of practices
+1469278379855037274,ure ??m phú m?,46.0,0.0,0.0,No,combination of practices
+1469418069232862217,16-16-16,16.0,16.0,16.0,No,combination of practices
+1469453888487995331,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469278379855036953,Phân NPK Hà Lan,21.0,5.0,6.0,No,mowing/cutting
+1469278379855036637,NPK 20:5:6,20.0,5.0,6.0,No,hand hoe
+1469278379855036596,NPK 20:5:6,20.0,5.0,6.0,No,mowing/cutting
+1469453888487995806,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469278379855037023,??u trâu 20 10 5,20.0,10.0,5.0,No,hand hoe
+1469278379855037069,NPK ??u trâu 20 10 5,20.0,10.0,5.0,No,mowing/cutting
+1469418069232862098,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487995779,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469453888487995822,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469418069232862178,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469418069232862176,16-0-0,16.0,0.0,0.0,No,combination of practices
+1470002575945832268,,,,,,
+1469418069232862114,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469418069232862113,21-0-0,21.0,0.0,0.0,No,shade
+1469418069232862107,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469418069232862101,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+1469418069232862103,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469278379855039484,NPK Seven mùa khô,20.0,5.0,4.0,No,mowing/cutting
+1469453888487995619,15-15-15,15.0,15.0,15.0,No,mowing/cutting
+1469453888487995637,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997587000313,,,,,,
+1469453888487995617,46-0-0,46.0,0.0,0.0,No,mowing/cutting
+7955439997583735110,ure,46.0,0.0,0.0,No,combination of practices
+1469453888487995632,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487995629,21-0-0,21.0,0.0,0.0,No,mowing/cutting
+1469418069232862220,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469278379855037239,,,,,,
+1469278379855037091,Npk m?t tr?i m?i 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469418069232862084,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469861430152705312,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469453888487995757,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469453888487995827,15-5-20,15.0,5.0,20.0,No,combination of practices
+1469278379855037063,NPK 20-16-13S,20.0,16.0,13.0,No,mowing/cutting
+7955439997583734767,,,,,,
+7955439997583735451,,20.0,5.0,6.0,No,combination of practices
+7955439997583735929,,,,,,
+1469418069232862088,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997582177079,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997583735364,NPK 20-5-6,20.0,5.0,6.0,No,combination of practices
+1469953747529844086,10-10-10,10.0,10.0,10.0,No,combination of practices
+1469418069232862219,15-15-15,15.0,15.0,15.0,No,combination of practices
+1469453888487995787,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487997179,46-0-0,46.0,0.0,0.0,No,combination of practices
+1469453888487995938,13-13-11,13.0,13.0,21.0,No,combination of practices
+1469453888487995860,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469278379855036726,,,,,,
+7955439997583923699,,,,,,
+7955439997582574208,,,,,,
+7955439997582574188,,,,,,
+7955439997582576294,,,,,,
+7955439997583325919,,,,,No,combination of practices
+7955439997583325777,npk 20-5-5,20.0,5.0,5.0,No,combination of practices
+7955439997583325730,,,,,,
+1469453888487995940,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469418069232862079,21-0-0,21.0,0.0,0.0,No,combination of practices
+1469453888487995942,15-15-15,15.0,15.0,15.0,No,mowing/cutting
+1469453888487995932,15-15-15,15.0,15.0,15.0,No,combination of practices
+7955439997583927543,,,,,,
+7955439997586684495,,,,,,
+1469418069232862198,21-0-0,21.0,0.0,0.0,No,combination of practices
+7955439997583922910,20-20-15,20.0,20.0,15.0,Yes,hand hoe
+1469418069232862203,46-0-0,46.0,0.0,0.0,No,combination of practices
+7955439997582576333,,,,,,
+7955439997582573929,,,,,,
+7955439997583923562,,,,,,
+7955439997582574259,ure,46.0,0.0,0.0,No,combination of practices
+7955439997582576976,??u trâu nh?t,30.0,50.0,20.0,,
+7955439997582576633,,,,,,
+10045263171842759826,,,,,,
+7955439997582573871,,,,,,
+7955439997582573559,npk 15 15 15,60.0,20.0,20.0,Yes,mulching
+7955439997582574081,npk 15 -15 -15,60.0,20.0,20.0,Yes,mulching
+7955439997582573868,,,,,,
+1469278379855038652,,,,,,
+7955439997582573513,,,,,,
+7955439997582576979,,,,,,
+7955439997583869131,NPK 20-20-15,20.0,20.0,15.0,Yes,combination of practices
+7955439997583325667,dau trau,20.0,5.0,5.0,Yes,combination of practices
+7955439997583325031,npk,16.0,16.0,8.0,No,combination of practices
+7955439997583324875,npk 20-10-10,20.0,10.0,10.0,No,cover crops
+7955439997583325138,??m phú m?,46.0,0.0,0.0,Yes,combination of practices
+7955439997583325904,20-5-5,20.0,5.0,5.0,No,hand hoe
+7955439997583953571,,,,,,
+1469278379855039948,,,,,,
+7955439997583324789,,,,,,
+7955439997580647630,1,1.0,1.0,98.0,Yes,none
+10045222585760773352,,34.0,,,Yes,none
+7955439997574930123,test,5.0,5.0,5.0,Yes,mowing/cutting
+7955439997577295143,,,,,,
+7955439997574930069,,,,,,

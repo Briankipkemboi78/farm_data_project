@@ -1,5 +1,8 @@
+
+from etl.utils.matcher import match
+
 def build_dim_entity(df):
-    from etl.utils.matcher import match
+    
     cols = {
         'entity_id': match(df, ['Entity ID']),
         'entity_name': match(df, ['Entity Name']),

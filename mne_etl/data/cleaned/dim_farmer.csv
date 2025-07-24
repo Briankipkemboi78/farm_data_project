@@ -1,343 +1,1787 @@
-entity_id,first_name,last_name,phone,email,identification_type,identification_type,education_level
-1470157558564695309,v?n minh,nguy?n,+84 363568581,,Citizen ID,Citizen ID,Senior High School
-1470157558564695295,Phap,Nguyen Ngoc,+84 0962519567,-,Citizen ID,Citizen ID,Primary school
-1470157558564694946,Nam,Vu Phuong,+84 0987665225,không,Citizen ID,Citizen ID,Senior High School
-1470157558564695057,N?i,K,+84 348361691,,Citizen ID,Citizen ID,Primary school
-1470157558564694699,Dung,Tran Thi,+84 0989307668,-,Citizen ID,Citizen ID,Primary school
-1470157558564694968,Vinh,Cao Van,+84 0972943069,-,Citizen ID,Citizen ID,Primary school
-1470157558564694704,Hung,Nguyen Van,+84 0365984402,-,National/Identification ID,National/Identification ID,Primary school
-1470157558564695065,th? nhung,??ng,+84 366095495,,Citizen ID,Citizen ID,Secondary school
-1470157558564694989,Bien,Duong Cong,+84 0916643531,ko,Citizen ID,Citizen ID,Secondary school
-1470157558564695215,Tong,Nguyen Ba,+84 0379530479,-,Citizen ID,Citizen ID,Primary school
-1470157558564694714,Diep,Ngo Van,+84 0395457129,-,Citizen ID,Citizen ID,Senior High School
-1470157558564694722,Thai,Ho Minh,+84 0369566619,-,Citizen ID,Citizen ID,Senior High School
-1470157558564694903,v?n tuân,tr?n,+84 353369440,,Citizen ID,Citizen ID,Secondary school
-1470157558564694972,Lien,Nguyen Thi,+84 0975164937,-,Citizen ID,Citizen ID,Primary school
-1470157558564694797,Toi,Pham Ba,+84 0974922985,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695074,qu?c ph??ng,tr?n,+84 0977560108,không,Citizen ID,Citizen ID,Secondary school
-1470157558564694799,Binh,Cao Thai,+84 0367778463,0,Citizen ID,Citizen ID,Senior High School
-1470157558564695163,Hi?n,?inh v?n,+84 972828782,,Citizen ID,Citizen ID,Primary school
-1470157558564695952,Thoa,Nguyen Thi,+84 0326401313,0,National/Identification ID,National/Identification ID,Senior High School
-1470157558564695873,Quang,Nguyen Van,+84 0356859508,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695063,Hoan,Nguyen Van,+84 0964061372,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695879,Thuy,Tran Thi,+84 0396780430,-,Citizen ID,Citizen ID,Primary school
-1470157558564696002,Tinh,Ho Dinh,+84 0368603538,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695991,Cham,Nguyen Thi,+84 0975538416,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695965,Phuong,Mai Trong,+84 0379161321,-,Citizen ID,Citizen ID,Primary school
-1470157558564695118,Vuong,Tran Quoc,+84 0792043507,không,Citizen ID,Citizen ID,Secondary school
-1470157558564694820,Vinh,Tran Duc,+84 0336363930,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695191,Gêm,K,+84 886516762,,Citizen ID,Citizen ID,
-1470157558564695739,Thong,Hoang Trung,+84 0373791332,-,Citizen ID,Citizen ID,Primary school
-1470157558564695307,V?n Ti?n,Nguyen,+84 0367916676,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695573,Muc,Vu Viet,+84 093254339,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695554,Hao,Pham Cong,+84 0348588300,-,National/Identification ID,National/Identification ID,Secondary school
-1470157558564695390,Anh,Vu Hoang,+84 0387097915,-,Citizen ID,Citizen ID,University
-1470157558564695569,Tu?n,??ng v?n,+84 976670862,0,Citizen ID,Citizen ID,Primary school
-1470157558564695558,v?n thu?n,nguy?n,+84 0352167461,không,Citizen ID,Citizen ID,Secondary school
-1470157558564695628,th? v?n,Nguy?n,+84 947139085,,Citizen ID,Citizen ID,Secondary school
-1470157558564695562,Vuong,Lang Van,+84 0389842878,không,Citizen ID,Citizen ID,Secondary school
-1470157558564695658,Tinh,Dao Van,+84 0372106215,-,Citizen ID,Citizen ID,Primary school
-1470157558564695386,Vinh,Ho Quang,+84 0975077391,-,Citizen ID,Citizen ID,Senior High School
-1470157558564695504,Len,Nguyen Thi,+84 0348527002,0,Citizen ID,Citizen ID,Secondary school
-1470157558564695096,v?n s?,Nguy?n,+84 352246487,0,Citizen ID,Citizen ID,Primary school
-1470157558564695337,,,,,,,
-1470157558564695889,,,,,,,
-1470157558564695757,Tam,Nguyen Huu,+84 0388636952,-,National/Identification ID,National/Identification ID,-
-1469278379854639222,V?n Thanh,Tr?n,+84 8484397089259,,National/Identification ID,National/Identification ID,
-1469278379854639342,??uh,K,+84 8484369813704,,Citizen ID,Citizen ID,Primary school
-1469278379854638502,Trung ??ng,Bùi,+84 8484395565090,,Citizen ID,Citizen ID,Primary school
-1469278379854638316,Quang Tri?u,Tr?n,+84 0356332305,,Citizen ID,Citizen ID,Senior High School
-1469883818362504539,V?n L?nh,Ph?m,+84 0982842524,,Citizen ID,Citizen ID,Primary school
-1469278379855013128,V?n L??ng,Nguy?n,+84 0395439717,,Citizen ID,Citizen ID,Secondary school
-1469278379855012334,,,,,,,
-1469278379855013186,V?n T?ng,?? V?n,+84 0986216393,,Citizen ID,Citizen ID,Secondary school
-1469883818362504743,Ti?n L?c,Lê,+84 84345331380,,Citizen ID,Citizen ID,Senior High School
-1469278379854782274,Nguy?n Thùy D??ng,Phan,+84 84355868958,,National/Identification ID,National/Identification ID,Tertiary education
-1469278379855014872,T?ng,Ph?m V?n,+84 84972541579,,Citizen ID,Citizen ID,Secondary school
-1469278379855004447,Hòa,Tr?n V?n,+84 84987537982,,Citizen ID,Citizen ID,Senior High School
-1469278379854781944,V?n H?nh,??ng,+84 84338898795,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854781789,Th? Hu?,Tr?n,+84 84353709236,,Citizen ID,Citizen ID,
-1469278379854781780,V?n C??ng,Nguy?n,+84 84774508555,không,National/Identification ID,National/Identification ID,Secondary school
-1469278379855014611,V?n Minh,?ào V?n,+84 0389144275,,Citizen ID,Citizen ID,Secondary school
-1469278379855014782,Hùng,Nguy?n V?n,+84 0369453582,,Citizen ID,Citizen ID,Secondary school
-1469278379855013420,?ào,Nguy?n Th?,+84 0988787757,,Citizen ID,Citizen ID,Secondary school
-1469278379855013426,C??ng,Nguy?n Kh?c,+84 0365330933,,Citizen ID,Citizen ID,Senior High School
-1469278379855008977,???c,Lê Ng?c,+84 0949525001,,Citizen ID,Citizen ID,Secondary school
-1469278379854782189,V?n Khuê,Tr?n,+84 84942161933,,National/Identification ID,National/Identification ID,Secondary school
-1469883818362504707,Hoàng Hi?n,Ph?m,+84 84978970927,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379855004763,Lâm,Nguy?n T?t,+84 84975882800,,Citizen ID,Citizen ID,Primary school
-1469278379854782176,Cún Kíu,Ch?c,+84 0977869932,không,Citizen ID,Citizen ID,
-1469278379855013194,Th? Niêm,Võ,+84 84987705256,,Citizen ID,Citizen ID,Secondary school
-1469278379854783010,Th? Liên,Bùi,+84 84393294341,,Citizen ID,Citizen ID,Primary school
-1469278379855012739,Rung,R? Châm A,+84 0865194417,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854783130,V?n ??ng,Ph?m,+84 84963463166,,Citizen ID,Citizen ID,Primary school
-1469278379855009281,H??ng,Nguy?n Ng?c,+84 84352257891,,Citizen ID,Citizen ID,Secondary school
-1469883818362505057,Hu?,Lê Th?,+84 84395380937,,Citizen ID,Citizen ID,Secondary school
-1469278379854782955,?ình V?n,Tr?n,+84 84908747726,,Citizen ID,Citizen ID,Senior High School
-1469278379854782066,Th? Thu H??ng,Cù,+84 84387096007,,Citizen ID,Citizen ID,Secondary school
-1469278379854782983,Minh Phúc,Lê,+84 84374842702,,Citizen ID,Citizen ID,Senior High School
-1469278379855009775,S?n,Mai Ng?c,+84 84975543781,,Citizen ID,Citizen ID,Primary school
-1469278379854781982,Ng?c Anh,Tr?n,+84 84982950637,không5,National/Identification ID,National/Identification ID,Primary school
-1469883818362504785,Qu?c D?ng,Bùi,+84 84353475348,,National/Identification ID,National/Identification ID,Primary school
-1469278379854782311,V?n T?nh,Nguy?n,+84 84932593917,,Citizen ID,Citizen ID,Primary school
-1469883818362504788,Công C??ng,??,+84 84779400269,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379854782873,Xuân Phúc,Nguy?n,+84 84388881098,,Citizen ID,Citizen ID,Secondary school
-1469278379855013487,Khang,Nguy?n V?n,+84 03554888878,,Citizen ID,Citizen ID,Secondary school
-1469278379854782303,V?n D?,Tr??ng,+84 0988950989,,Citizen ID,Citizen ID,Senior High School
-1469278379854782330,?ình D?ng,Tr?n,+84 0964324785,không,Citizen ID,Citizen ID,Senior High School
-1469278379855013538,Môn,Ngô Nh?,+84 84978570631,,Citizen ID,Citizen ID,Secondary school
-1469278379854677182,V?n Trình,?inh,+84 0974909539,-,Citizen ID,Citizen ID,
-1469278379854782765,Hoàng Minh,??ng,+84 0372168859,,Citizen ID,Citizen ID,Primary school
-1469278379854677051,Th? Công,Nguy?n,+84 964118498,,Citizen ID,Citizen ID,Senior High School
-1469278379855012279,Loan,Ph?m Th?,+84 84972459006,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854782856,V?n H?n,??ng,+84 84345138413,,Citizen ID,Citizen ID,Primary school
-1469278379855009590,Chi?n,Uông V?n,+84 0366486946,,Citizen ID,Citizen ID,Secondary school
-1469278379854677054,V?n Công,Tr?n,+84 84981380798,,Citizen ID,Citizen ID,Secondary school
-1469278379855012573,C??ng,?? V?n,+84 0987568125,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854783229,V?n L?u,Ph?m,+84 84977048435,,National/Identification ID,National/Identification ID,Primary school
-1469278379854781962,Th? Ngh?a,Tr?n,+84 84365509445,không,National/Identification ID,National/Identification ID,
-1469278379854677037,?ình Liêm,H?,+84 0335295131,,Citizen ID,Citizen ID,Primary school
-1469278379855012570,V?n Loát,Ph?m,+84 0708418731,,Citizen ID,Citizen ID,Secondary school
-1469883818362504744,V?n Ti?n,Vi,+84 84976508515,-,National/Identification ID,National/Identification ID,Primary school
-1469278379855012184,Th?ng,H? Th?,+84 0935740805,,Citizen ID,Citizen ID,Secondary school
-1469883818362504715,Th? Thu Th?y,Tr??ng,+84 0948759714,,Citizen ID,Citizen ID,Primary school
-1469278379854783135,?Ình Hoàng,Tr?n,+84 84397888491,,Citizen ID,Citizen ID,Senior High School
-1469278379855012158,Du?n,Nguy?n V?n,+84 0375164679,,Citizen ID,Citizen ID,Secondary school
-1469278379854783115,H?u Bình,Lê,+84 84345491860,,Citizen ID,Citizen ID,Primary school
-1469278379854782426,Quang S?n,Ph?m,+84 0964191075,,Citizen ID,Citizen ID,Secondary school
-1469278379855013057,X?p,Puih,+84 84334802604,,Citizen ID,Citizen ID,Primary school
-1469278379854783104,V?n N?,Tr?n,+84 03571568872,,Citizen ID,Citizen ID,Secondary school
-1469278379854782419,Th? Thu?n,Nguy?n,+84 0363237425,,Citizen ID,Citizen ID,Secondary school
-1469278379855009927,Th? Chích,Nguy?n,+84 0337998569,-,National/Identification ID,National/Identification ID,Primary school
-1469278379854677226,?ình Chung,??,+84 84972136869,,Citizen ID,Citizen ID,Primary school
-1469278379855012818,Th? M? Di?m,Tr?n,+84 84389466182,,Citizen ID,Citizen ID,Primary school
-1469278379854677162,V?n Ty,Nông,+84 84903563080,,Citizen ID,Citizen ID,Primary school
-1469278379854782733,V?n Hu?nh,Tr?n,+84 0939319911,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379854677174,V?n Ngán,Chu,+84 84378736217,,Citizen ID,Citizen ID,Primary school
-1469278379854783053,H?u Tr?ng,Nguy?n,+84 0945265217,,Citizen ID,Citizen ID,Senior High School
-1469278379854782727,V?n T?p,Tr?n,+84 84917453741,không,National/Identification ID,National/Identification ID,Secondary school
-1469278379855013676,Hi?n,Phan Th?,+84 0968279527,,Citizen ID,Citizen ID,Secondary school
-1469278379855013697,Tu?n anh,Nguy?n,,,Citizen ID,Citizen ID,Senior High School
-1469278379854782243,Th? Kim Vy,Nguy?n,+84 84914788105,,Citizen ID,Citizen ID,Primary school
-1469278379855012382,??c Trung,Nguy?n,+84 0974233500,,Citizen ID,Citizen ID,Secondary school
-1469278379854783211,V?n S?n,Tr?n,+84 0949792167,,Citizen ID,Citizen ID,Primary school
-1469278379855012339,,,+84 0363439899,,Citizen ID,Citizen ID,Primary school
-1469278379854783216,T?,Võ,+84 0935805812,,Citizen ID,Citizen ID,Secondary school
-1469278379855012856,Th? Nhung,Phan,+84 84329601949,,Citizen ID,Citizen ID,Secondary school
-1469278379855013932,B?o Vi?t,Hoàng,+84 84987602903,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855013152,Ph?i,Nguy?n V?n,+84 0984609704,,Citizen ID,Citizen ID,Secondary school
-1469278379855014007,Ngh?a,Phùng V?n,+84 84367854213,,Citizen ID,Citizen ID,Secondary school
-1469278379855013593,V?n Tuy?n,D??ng V?n,+84 84379400220,,Citizen ID,Citizen ID,Secondary school
-1469278379855013826,??ng,Hoàng H?i,+84 84975849228,,Citizen ID,Citizen ID,Secondary school
-1469278379855012881,,,,,,,
-1469278379855013861,H??ng,Nguy?n Th?,+84 0372525367,,Citizen ID,Citizen ID,Secondary school
-1469278379855013563,V?n Ba,Lê,+84 84382486036,,Citizen ID,Citizen ID,Senior High School
-1469278379855012835,Hu?,D??ng Th?,+84 84367775095,,Citizen ID,Citizen ID,Secondary school
-1469278379855009880,Thanh Tu?n,Hoàng,+84 84359453019,,Citizen ID,Citizen ID,Senior High School
-1469278379855009844,??c Th?c,Ngô,+84 84988584557,,Citizen ID,Citizen ID,Senior High School
-1469278379855009842,Khiên,L??ng Xuân,+84 0934708559,,Citizen ID,Citizen ID,Senior High School
-1469278379854641911,Br?p,K,+84 0327151874,không,National/Identification ID,National/Identification ID,Primary school
-1469278379855005159,Hren,R? Lan,+84 84377471024,,Citizen ID,Citizen ID,Secondary school
-1469278379855008338,Ng?c Sáng,Nguy?n,+84 984872499,,Citizen ID,Citizen ID,Primary school
-1469278379854638788,Minh Hòa,Nguy?n,+84 0986954780,,Citizen ID,Citizen ID,Primary school
-1469278379855008185,H?ng,Lê Th? minh,+84 0782704833,,Citizen ID,Citizen ID,Senior High School
-1469278379855009021,S?n,Ph?m Th?,+84 84962186867,,Citizen ID,Citizen ID,Primary school
-1469278379855004887,Quang Tuy?n,Nguy?n,+84 84905120420,,Citizen ID,Citizen ID,Senior High School
-1469278379854638847,M?nh Ho?t,Tr?n,+84 0344044765,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379855004785,Thân,??ng ?ình,+84 84393918310,,Citizen ID,Citizen ID,Secondary school
-1469278379855004825,H?ng ?i?p,?? H?ng,+84 84935906678,,Citizen ID,Citizen ID,Primary school
-1469278379855014199,Th? H??ng,Võ,+84 84398627939,,Citizen ID,Citizen ID,Senior High School
-1469278379855014401,H?i,H? Th?,+84 84399329870,,Citizen ID,Citizen ID,Primary school
-1469278379854640837,V?n Ngh?,Nguy?n,+84 0336883970,,Citizen ID,Citizen ID,Primary school
-1469278379855014074,Xuân Long,Tr?n,+84 84395191667,,Citizen ID,Citizen ID,Secondary school
-1469278379854639556,Ngheoh,K,+84 0337109354,,Citizen ID,Citizen ID,Primary school
-1469278379854640166,Mai Loan,Tr?n,+84 0974236417,,Citizen ID,Citizen ID,Primary school
-1469883818362504681,Th? H??ng,Nguy?n,+84 0356678414,,Citizen ID,Citizen ID,Primary school
-1469278379855014088,Th? H?nh,Phùng,+84 0337758269,,Citizen ID,Citizen ID,Secondary school
-1469278379855014073,th? l?,ph?m,+84 0905427655,,Citizen ID,Citizen ID,Secondary school
-1469278379855014104,Qu?c,Nguy?n Ti?n,+84 84933440050,,Citizen ID,Citizen ID,Vocational High School
-1469278379855014345,H?i,Nguy?n,+84 84397841189,-,Citizen ID,Citizen ID,Senior High School
-1469883818362504890,Thanh Ngh?a,Tr?n,+84 84941543978,,Citizen ID,Citizen ID,Primary school
-1469278379855014289,Hùng,Nguy?n Kim,+84 84984808145,,Citizen ID,Citizen ID,Senior High School
-1469278379854641656,,,+84 0974243855,,Citizen ID,Citizen ID,Primary school
-1469278379854642031,H?ng,Ka,+84 0394269323,không,National/Identification ID,National/Identification ID,Primary school
-1469278379855008648,Quang Toàn,H?,+84 84336780085,,Citizen ID,Citizen ID,Primary school
-1469278379855008633,D??ng,Nguy?n Th?,+84 84335164697,,Citizen ID,Citizen ID,Secondary school
-1469278379854639991,?i?u,K,+84 0358345815,,Citizen ID,Citizen ID,Secondary school
-1469883818362504409,Na,K,,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855014643,V?n Hi?p,V?,+84 84395768916,-,Citizen ID,Citizen ID,Secondary school
-1469278379855009318,Ti?n,Nguy?n T?t,+84 0343162438,,Citizen ID,Citizen ID,Primary school
-1469278379854638141,V?n H?c,Tr??ng,+84 0977478538,,Citizen ID,Citizen ID,Secondary school
-1469278379855009319,V?,H? Th?,+84 84372376869,,Citizen ID,Citizen ID,Primary school
-1469278379854640735,Th? H??ng,Bùi,+84 0975717319,,Citizen ID,Citizen ID,Secondary school
-1469278379855008002,Prinh,Rmah,+84 84364861493,,Citizen ID,Citizen ID,Primary school
-1469278379855009390,B?,Tr?n V?n,+84 84972410306,,Citizen ID,Citizen ID,Primary school
-1469278379854638365,Th? Ba,Bùi,+84 0326609607,-,National/Identification ID,National/Identification ID,Senior High School
-1469278379854641789,Th? Th?y,??ng,+84 0328884416,,Citizen ID,Citizen ID,Primary school
-1469278379854642507,Th? ??nh,V?,+84 0399249610,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854641951,Hi?n,Ka,+84 0389909143,,Citizen ID,Citizen ID,Secondary school
-1469278379855008000,Lam,Rmah,+84 0386129639,,Citizen ID,Citizen ID,Primary school
-1469278379854642852,S? S?,Hoàng,+84 0987452578,,Citizen ID,Citizen ID,Secondary school
-1469278379854638345,??c Th?,Nguy?n,+84 0783330977,không,National/Identification ID,National/Identification ID,Primary school
-1469278379854638306,Th? Nguyên,Nguy?n,8.48435E+12,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855004840,?ông,Tr?n V?n,+84 84977165214,,Citizen ID,Citizen ID,Primary school
-1469278379854642720,Th? ??nh,Nguy?n,+84 03944942133,,Citizen ID,Citizen ID,Secondary school
-1469278379855005225,Th? Trang,Nguy?n,+84 84348776657,,Citizen ID,Citizen ID,Primary school
-1469278379855005212,Th?nh,Tr?n Xuân,+84 84976649814,,Citizen ID,Citizen ID,Secondary school
-1469278379854638332,Th? Kim Dung,Tr??ng,84912335710,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854642963,Th? H?ng,Nguy?n,+84 0985634464,,Citizen ID,Citizen ID,Primary school
-1469278379854638287,Xuân Hào,Phan,+84 0338186148,,Citizen ID,Citizen ID,Secondary school
-1469278379855005276,Th? Vê,Nguy?n,+84 0327486504,,Citizen ID,Citizen ID,Primary school
-1469278379855005249,Ph??ng,Bùi Qu?c,+84 84353625379,,Citizen ID,Citizen ID,Primary school
-1469278379854642946,,,,,,,
-1469278379855008686,Blip,Puih,+84 974193936,,Citizen ID,Citizen ID,Primary school
-1469278379855008072,C?,Lê,+84 84385607330,,Citizen ID,Citizen ID,Primary school
-1469278379855005043,Th? V?ng,Lê,+84 84965413769,,Citizen ID,Citizen ID,Secondary school
-1469278379854641146,Gass,K,+84 8484349772731,,Citizen ID,Citizen ID,Primary school
-1469278379855005002,Nhung,Bùi Th?,+84 0984420287,,Citizen ID,Citizen ID,Secondary school
-1469278379855005032,Minh,Nguy?n V?n,+84 0984224458,,Citizen ID,Citizen ID,Secondary school
-1469278379855005028,Cao Hùng,Nguy?n,+84 84348320409,,Citizen ID,Citizen ID,Senior High School
-1469278379854640452,Chí Hi?u,??,+84 0902456095,,Citizen ID,Citizen ID,Senior High School
-1469278379854638593,Tr?ng Kiên,Nguy?n,8.48439E+12,,Citizen ID,Citizen ID,Senior High School
-1469278379855008702,Pluih,Puih,+84 0346000822,,Citizen ID,Citizen ID,
-1469278379854639859,Kh?c Thanh,L??ng,+84 0986674670,không,National/Identification ID,National/Identification ID,University
-1469278379854638512,V?n V?,?inh,84969580949,,Citizen ID,Citizen ID,Senior High School
-1469278379854641222,Li?u,Ka,+84 0329634988,,Citizen ID,Citizen ID,Secondary school
-1469278379854639942,Trung Du?,Thái,+84 0979378772,không,National/Identification ID,National/Identification ID,Secondary school
-1469278379854638490,Duy Dinh,Hoàng,,,Citizen ID,Citizen ID,Secondary school
-1469278379854638519,Th? Vinh,Nguy?n,+84 0962602292,,Citizen ID,Citizen ID,Senior High School
-1469278379854638792,H?ng Phong,Tr?n,+84 0382235018,,Citizen ID,Citizen ID,Tertiary education
-1469278379854642831,Th? Oanh,Chu,+84 0374787651,,Citizen ID,Citizen ID,Secondary school
-1469278379854639534,Brin,K',+84 0379994217,,Citizen ID,Citizen ID,Senior High School
-1469278379854638214,Thanh ??m,Phan,+84 0343023001,,Citizen ID,Citizen ID,Primary school
-1469278379854639354,Niêm,K',+84 0347494615,,Citizen ID,Citizen ID,
-1469278379854638432,V?n Minh,Tr?n,+84 0988310100,,Citizen ID,Citizen ID,Secondary school
-1469278379854639362,V?n Quy?n,Nguy?n,+84 0354674250,,Citizen ID,Citizen ID,Secondary school
-1469278379854638434,Thanh Hà,Lê,+84 0325484208,,Citizen ID,Citizen ID,Senior High School
-1469278379854639448,,,,,,,
-1469278379854639340,Gi?h,K,,,Citizen ID,Citizen ID,Secondary school
-1469278379854638373,,,+84 0971887719,,Citizen ID,Citizen ID,Senior High School
-1469278379854639445,Vinh,K,+84 0354592578,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379854639420,Biôs,K,+84 0354670849,,Citizen ID,Citizen ID,
-1469278379854642243,Thanh Nhàn,Võ,+84 0907855212,,Citizen ID,Citizen ID,Primary school
-1469278379854642131,V?n Môn,Lê,8.48436E+12,,National/Identification ID,National/Identification ID,Senior High School
-1469278379854639686,Nos,K,+84 0384018812,,Citizen ID,Citizen ID,Secondary school
-1469278379854642125,Ng?c Nhâm,V?,+84 0987748459,,Citizen ID,Citizen ID,Secondary school
-1469278379854640951,V?n Ph??ng,Nguy?n,8.48498E+12,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854642215,Ng?c Hu?,Hu?nh,+84 0987594298,,Citizen ID,Citizen ID,Primary school
-1469278379854640079,V?n ?ông,Nguy?n,+84 0356313585,,Citizen ID,Citizen ID,Tertiary education
-1469278379854642194,V?n C?,??ng,84839579846,,National/Identification ID,National/Identification ID,Secondary school
-1469278379854640971,V?n Vinh,Ph?m,+84 0915253026,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379854640065,Th? Kim Ngân,Nguy?n,+84 0979864087,,Citizen ID,Citizen ID,Tertiary education
-1469278379854642173,V?n Xuân,??ng,+84 0976450178,,Citizen ID,Citizen ID,Primary school
-1469278379854641215,S?t,K',+84 0938013395,,Citizen ID,Citizen ID,
-1469278379854640961,Griin,K,+84 0348832581,không,National/Identification ID,National/Identification ID,Secondary school
-1469278379854640900,??c M?nh,Tr?n,+84 0374270892,không,National/Identification ID,National/Identification ID,Secondary school
-1469278379854642890,Quang Trung,Ngô,+84 0942883917,,Citizen ID,Citizen ID,Secondary school
-1469278379854640339,?ình ??o,Tr?n,+84 0979823644,không,National/Identification ID,National/Identification ID,Secondary school
-1469278379854643031,V?n Nguy?n,Tr?n,+84 0972389157,,Citizen ID,Citizen ID,Secondary school
-1469278379854641605,V?n ?áng,V?,+84 0917186256,,Citizen ID,Citizen ID,Secondary school
-1469278379854640257,Th? Lý,H?,8.48436E+12,,National/Identification ID,National/Identification ID,
-1469278379854643043,V?n C?,Nguy?n,+84 0336366924,,Citizen ID,Citizen ID,Secondary school
-1469278379854641569,V?n Ho?n,Nguy?n,+84 0395036616,,Citizen ID,Citizen ID,Secondary school
-1469278379854642073,V?n Ninh,Ph?m,8.48439E+12,,Citizen ID,Citizen ID,Senior High School
-1469278379854642301,Quang Lành,?ào,+84 0969599249,,Citizen ID,Citizen ID,Secondary school
-1469278379854640613,Br?i,K,+84 0398500451,không,National/Identification ID,National/Identification ID,Primary school
-1469278379854642479,Minh Toàn,Nguy?n,+84 0383767179,,Citizen ID,Citizen ID,Senior High School
-1469278379854640625,S?,K,8.48438E+12,,National/Identification ID,National/Identification ID,Senior High School
-1469883818362505174,Phúc,Tr?n V?n,+84 0389199348,,National/Identification ID,National/Identification ID,Senior High School
-1469278379855039037,??c,D??ng V?n,+84 0985751395,,Citizen ID,Citizen ID,Primary school
-1469278379855040664,Tu?n,Nguy?n V?n,+84 0985435314,,Citizen ID,Citizen ID,Secondary school
-1469278379855036915,H Yin,By?,+84 0349227504,,Citizen ID,Citizen ID,
-1469278379855037067,Ngh?,Nguy?n Th?,+84 0706177004,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855038019,Lâm,Ngô Tùng,+84 0947841930,,Citizen ID,Citizen ID,Primary school
-1469278379855037842,Tu?n,Nguy?n V?n,+84 84989674519,,Citizen ID,Citizen ID,Primary school
-1469278379855040862,Trà,Phan Bá,+84 0987554721,,Citizen ID,Citizen ID,Secondary school
-1469278379855038442,h juin,H Duyên By?,+84 0859542738,,Citizen ID,Citizen ID,Secondary school
-1469278379855004727,,,,,,,
-1469278379855040212,Niê,Y Men,+84 0398461847,,Citizen ID,Citizen ID,Secondary school
-1469278379855039053,Tuy?n,Hoàng V?n,+84 84965841457,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855038729,v?n hóa,nông,+84 0917360187,,National/Identification ID,National/Identification ID,Primary school
-1469278379855038358,V?n Ph??ng,Tr??ng,+84 84388308061,,Citizen ID,Citizen ID,Senior High School
-1469278379855037425,Vi?t Quý,L??ng,+84 84377122681,,Citizen ID,Citizen ID,Primary school
-1469278379855038409,Th?  Nguy?t,Xa,+84 0913895322,,Citizen ID,Citizen ID,Primary school
-1469278379855039084,th? ph??ng,Nguy?n,+84 0941423423,,Citizen ID,Citizen ID,Senior High School
-1469278379855040001,Trí Di?m,Tr?n,+84 84385864597,,Citizen ID,Citizen ID,Senior High School
-1469278379855038668,Y Niên,Alio,+84 84344964244,,Citizen ID,Citizen ID,Primary school
-1469278379855009580,,,,,,,
-1469278379855040455,By?,H Ri,+84 0772426306,,National/Identification ID,National/Identification ID,Senior High School
-1469278379855040422,Êban,H N?p,+84 0355295300,,Citizen ID,Citizen ID,Senior High School
-1469278379855039608,Xuân Lai,Nguy?n,+84 0949244349,,Citizen ID,Citizen ID,Senior High School
-1469278379855038830,,,+84 0342231879,,Citizen ID,Citizen ID,
-1469278379855039042,??c,Nguy?n Xuân,+84 84859278379,,Citizen ID,Citizen ID,Secondary school
-1469883818362505115,Kp?r,H Jia,+84 84375768578,-,National/Identification ID,National/Identification ID,Primary school
-1469883818362505118,H??k,H Djum,+84 0948688845,-,National/Identification ID,National/Identification ID,Secondary school
-1469278379855038999,H?i,Lê Th?,+84 84975176681,,Citizen ID,Citizen ID,Primary school
-1469278379855039728,y Myun,niê,+84 0358239346,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855039878,y tuk,adr?ng,+84 0385854942,,Citizen ID,Citizen ID,Primary school
-1469278379855038499,,,+84 0335458733,,Citizen ID,Citizen ID,Primary school
-1469278379855039832,Vinh,?oàn V?n,+84 0383646341,,National/Identification ID,National/Identification ID,Senior High School
-1469278379855037698,Minh,Tr?n V?n,+84 84949310459,,National/Identification ID,National/Identification ID,Senior High School
-1469278379855037177,thu,?ào Th?,+84 0366299295,,Citizen ID,Citizen ID,Senior High School
-1469278379855037185,D?ng,Hoàng Vi?t,+84 0906502984,,National/Identification ID,National/Identification ID,Primary school
-1469278379855040741,V?n Lâm,L??ng,+84 84367886110,,National/Identification ID,National/Identification ID,Primary school
-1469278379855037201,,,,,,,
-1469278379855039787,Bkrong,H Mer,+84 0388813828,,Citizen ID,Citizen ID,Primary school
-1469278379855040252,ph?c h?ng,nguy?n,+84 0366657569,,Citizen ID,Citizen ID,University
-1469278379855040132,H?nh,??u Quang,+84 0933434362,,Citizen ID,Citizen ID,Secondary school
-1469278379855039488,V??ng,?inh Công,+84 84989105062,,Citizen ID,Citizen ID,Primary school
-1469278379855040307,th? h?ng chinh,nguy?n,+84 0766711688,,Citizen ID,Citizen ID,Secondary school
-1469278379855039486,C??ng,?inh Th?,+84 84396651292,-,National/Identification ID,National/Identification ID,Senior High School
-1469278379855040352,Ênuôl,Y Nôn,+84 84389696428,,National/Identification ID,National/Identification ID,Primary school
-1469278379855039407,Hà,Hoàng V?n,+84 0367307533,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855040432,Êban,Y J?,+84 0326686657,,Citizen ID,Citizen ID,Primary school
-1469278379855038122,Hùng,Nguy?n Minh,+84 84945588182,,National/Identification ID,National/Identification ID,Secondary school
-1469278379855040242,Ênuôl,H'Bum,+84 0399838731,không,National/Identification ID,National/Identification ID,Primary school
-1469278379855039629,Bình,Bùi V?n,+84 0946252426,,Citizen ID,Citizen ID,Secondary school
-1469883818362505224,?úng,Lê,+84 84935712234,,Citizen ID,Citizen ID,Tertiary education
-1469278379855040198,Êban,H Djuang,+84 84979265602,-,National/Identification ID,National/Identification ID,Senior High School
-1469278379855040099,Trí,Nguy?n Minh,+84 0905406766,,National/Identification ID,National/Identification ID,Primary school
-1469278379855038070,Trung,Nguy?n,+84 84977169324,,Citizen ID,Citizen ID,Primary school
-1469278379855038552,Th? út,?inh Th?,+84 84343361151,,Citizen ID,Citizen ID,Senior High School
-1469278379855038690,Doãn Trung,Ph?m,+84 0389198287,,Citizen ID,Citizen ID,Senior High School
-1469278379855037403,Chinh,Nguy?n Quang,+84 840,,Citizen ID,Citizen ID,Primary school
-1469278379855038672,H Yuan,H Yuan Hwing,,,Citizen ID,Citizen ID,Senior High School
-1469278379855037409,,,+84 0916521926,,Citizen ID,Citizen ID,Senior High School
-1469278379855037416,V?n Bình,Tr?n,+84 0387116175,không,National/Identification ID,National/Identification ID,Senior High School
-1469278379855037520,j?t by?,y,+84 84779034565,,Citizen ID,Citizen ID,
-1469278379855037251,,,,,,,
-1469278379855040589,Gi?u,Lê Th?,,,National/Identification ID,National/Identification ID,Senior High School
-1469278379855036998,v?n s?,??ng V?n,+84 84398244684,,Citizen ID,Citizen ID,Secondary school
-1469278379854782610,Th? Hoa,Nguy?n,+84 84339005072,-,Citizen ID,Citizen ID,Senior High School
-1469278379855039342,Th?c,Nguy?n Trung,+84 84988076527,,National/Identification ID,National/Identification ID,Senior High School
-1469278379855037024,,,+84 0356854763,,Citizen ID,Citizen ID,Primary school
-1469278379855039320,,,,,,,
-1469278379855036851,y hioh,adrong,,,Citizen ID,Citizen ID,Primary school
-1469278379855036956,Khánh,Lê ??ng,+84 84776165266,,National/Identification ID,National/Identification ID,Primary school
-1469278379855012202,,,,,,,
-1469278379855037391,Công Quý,Tr?nh,,,Citizen ID,Citizen ID,Secondary school
-1469278379854640502,Duy Chinh,Nguy?n,8.48493E+12,-,National/Identification ID,National/Identification ID,-
-1469278379854640527,V?n H?nh,Nguy?n,+84 3623123120,-,Citizen ID,Citizen ID,Secondary school
-1469278379855013741,,,,,,,
-1469278379855039900,,,,,,,
-1469278379855040542,,,,,,,
-1469278379855004500,,,,,,,
-1469278379855004491,,,,,,,
-1469278379854641314,H?ng,K,+84 84379019509,,Citizen ID,Citizen ID,Senior High School
-1469278379855036603,Th?ng,H? V?n,+84 0835586859,,National/Identification ID,National/Identification ID,Tertiary education
-1469278379855037069,,,,,,,
-1469278379855037183,Thành,??u Th?,+84 397767450,,Citizen ID,Citizen ID,Secondary school
-1469278379855037071,,,+84 376273374,maithinhung@gmail.com,Citizen ID,Citizen ID,Tertiary education
-1469278379855036960,,,,,,,
-1469278379855036789,,,,,,,
-1469278379855037002,,,,,,,
-1469278379855036719,Sâm,D??ng Thanh,+84 0918838146,thanhsam.012@gmail.com,Citizen ID,Citizen ID,-
-1469278379855036643,,,,,,,
-1469278379855009751,Phong,Bùi Vi?t,+84 0367855778,,Citizen ID,Citizen ID,Secondary school
-1469278379855004455,,,,,,,
-1469278379855004533,,,,,,,
-1469278379855040784,Qu?n,S?m V?n,+84 84972466413,,Citizen ID,Citizen ID,Secondary school
-1469278379855004487,,,,,,,
-1469278379855038127,,,,,,,
-1469278379855004451,,,,,,,
-1469278379854782766,,,,,,,
+entity_id,first_name,last_name,phone,email,education_level
+7955439997587190375,HO?NG,NGUY?N V?N,+84 0362288525,,
+7955439997588533131,?? V?N,HÓA,,,Secondary school
+7955439997587190373,H?I,TR?N V?N,+84 0389813200,,Secondary school
+7955439997587190702,S?,BÙI V?N,+84 0775481622,,Secondary school
+7955439997588533366,XING,,,,Primary school
+7955662907713785526,ELIJAH,MWANGI,+254 722593749,emwangi@gmail.com,Secondary school
+7955439997587190374,HINH,TR?N XUÂN,+84 0336661648,,Secondary school
+7955439997588533423,PEP,,,0,
+7955439997588533148,HOÀNG V?N,TH?NG,,,Secondary school
+7955439997587191908,TU?N,??NG QU?C,+84 0983432123,,Secondary school
+7955439997587190737,BA,NGUY?N V?N,+84 0365472639,,Secondary school
+7955439997587191763,HÙNG,NGUY?N CÔNG,+84 0355961856,,Secondary school
+7955439997588533098,D?CH,,,,Secondary school
+7955439997587190716,QUÂN,TR?N ?ÌNH,+84 0899379399,,Secondary school
+7955439997587190950,TÂM,T? ??C,+84 0868274491,,Secondary school
+7955439997588534414,AY?N,,,,
+7955439997587190875,H?I,TR?N V?N,+84 0988636307,,Secondary school
+7955439997588534797,HNG?,,,,
+7955439997587191837,TÁM,NGUY?N TH?,+84 0369129670,,Secondary school
+7955439997587190728,TH?A,HOÀNG TH?,+84 0394194838,,Secondary school
+7955439997587191871,THUY?T,LÊ XUÂN,+84 0978701649,,Primary school
+7955439997588531222,LÊ TH?,H?NG,,,Secondary school
+7955439997588532551,SIU,RIN,,,
+7955439997587191514,TH?Y,HÀ TH?,+84 0385336982,,Primary school
+7955439997588532550,SIU,PLUM,+84 9999999999,.,
+7955439997588531529,BÙI V?N,KH?E,,,Secondary school
+7955439997587191230,HÙNG,H? V?N,,,Secondary school
+7955439997587191483,PHONG,LÊ HOÀNG,+84 0343311827,,Secondary school
+7955439997588533036,YOAIH,Yoaih,+84 0346648216,,Primary school
+7955439997587191421,B?NG,NGUY?N V?N,+84 0966100532,,Secondary school
+7955439997588532513,NGUY?N TH?,TUYÊN,+84 9636989632,,
+7955439997588531550,PH?M NGUYÊN,???NG,,0,Secondary school
+7955439997587191563,XUY?N,LANG TH?,+84 0398126973,,Primary school
+1469278379854639842,Nhom,K,+84 339395684,,Secondary school
+7955439997587191503,TH?N,V??NG V?N,+84 0389303809,,Secondary school
+7955439997588531538,?ÀO DUY,TRUNG,+84 5,,Primary school
+7955439997587191442,HÂN,BÙI TR?NG,+84 0387507637,,Secondary school
+1469278379854642005,V?n H?ng,Tr?nh,+84 984051006,,Secondary school
+1469278379854638829,V?n Hùng,Ph?m,+84 978628218,,Secondary school
+7955439997588532350,SIU,BUR,+84 9085636985,,
+1469278379854642038,Linh,K,+84 339603982,,Primary school
+1469278379854639857,Broi,K,+84 387460392,,Secondary school
+1469278379854638528,??c B?n,L?u,+84 397524419,,Secondary school
+7955439997587191557,THÍCH,NGUY?N TH?,+84 0353973064,,Secondary school
+7955439997587191538,CHU?N,GIANG CÔNG,+84 0843030588,,Secondary school
+7955662907712541052,Prucherie,Nyirabazungu,,,Secondary school
+1469592163271953811,FELIPE,CRUZ GALEOTE,+52 2721317285,,Primary school
+7955439997588532710,HOÀNG,S?N,+84 3,,
+7955439997588532722,??NG TH?,THU?N,+84 353959178,không,
+7955439997587861178,BERNARDINO,VALDEZ MALDONADO,+52 5531024014,,Secondary school
+1469592163271965499,MAURO,TLEHUACTLE TEMOXTLE,+52 2721183713,,
+1470002575956820699,JOSE,MARTINEZ CORREA,,,
+1470002575956820686,GALDINO,QUIAHUA CHIAPAHUA,,,Primary school
+1469592163271959049,FILIBERTO,MARTINEZ CARBALLO,+52 2321544836,NO TIENE.,
+1470002575945831593,Kologo,Ibrahim,+225 0,,Primary school
+7955439997588531757,R? LAN,BEN,+84 0325327675,,
+1469592163271958111,JOSE,DE GANTE,+52 5612330448,,
+7955439997587190116,HI?U,V? V?N,+84 0376865235,,Secondary school
+7955439997587191402,SÁNG,H? NH?T,,,Primary school
+1470002575936435263,Josue Cardona Flores,Flores,+504 0,,
+7955439997587190147,TRANG,PH?M TH?,+84 0365138755,,Secondary school
+7955439997588531440,NGUY?N CHÍ,THANH,+84 0395011808,,Senior High School
+1469592163271958912,GENARO,LUNA MOTA,+52 2323297568,NO TIENE.,Secondary school
+7955439997587191409,TH?Y,PH?M TH?,+84 0889707738,,Secondary school
+7955439997588531832,NGUY?N ?ÌNH,TOÀN,,,Secondary school
+1469278379854640110,V?n Qu?n,?oàn,+84 984119406,,Primary school
+1469592163271960708,ADELAIDA,MOTA ORTIZ,+52 2321267099,NO TIENE,Primary school
+7955439997587191207,C??NG,NGUY?N T?N,+84 0942250475,,Secondary school
+1469592163271951997,ZENON,BARRAGAN MACUIXTLE,,,
+7955439997588531563,NGUY?N TH?,THÚY,+84 0914708077,,Secondary school
+7955439997588532899,R? LAN,HLET,,,Secondary school
+1470002575945833344,Aka,Tano Ambroise,+225 0,,Tertiary education
+1469278379854639326,Tam,K,+84 374270782,,Primary school
+7955439997587191060,LÝ,HOÀNG,+84 0392109882,,Secondary school
+7955439997587191373,??,LÊ H?NG,+84 0325772688,,Secondary school
+1469278379854638739,V?n Phong,Nguy?n,+84 376007665,,
+1469278379854639968,L?p,K,+84 386878984,,Secondary school
+7955439997588531558,BÙI TH?,TÌNH,+84 0378000274,,Secondary school
+7955439997588531867,NGUY?N TH?,NHUNG,+84 0344970127,0,Secondary school
+1469278379854640124,Th? Hi?n,Nguy?n,+84 933780042,,Primary school
+7955439997588531920,NGUY?N V?N,SANH,+84 0388666344,,Secondary school
+1469278379854638754,T?m,K,+84 355124147,,
+7955439997588531331,?? CÔNG,HUY?N,,,Secondary school
+7955439997588532906,HYIL,,+84 0999999999,g,
+1469278379854639226,Ng?c Mai,Ph?m,+84 369954618,,Primary school
+7955439997587190093,D?C,BÙI V?N,+84 0335728978,,Secondary school
+7955439997587191099,S?,PHAN NH?,+84 0396624240,,Secondary school
+1469278379854639404,Sêm,K,+84 377025078,,
+1469278379854639388,P?u,K,+84 39550874,,
+1469278379854640050,Du,K,+84 362027021,,Primary school
+1469278379854639391,?m,K,+84 355951013,,
+7955439997587191196,THIÊN,TR??NG V?N,+84 0363380441,,Secondary school
+7955439997587191197,THÍN,H?A V?N,+84 0333370140,,Secondary school
+1469569898290015317,Phoebe,Alegre,+63 630,none,Primary school
+1469592163271956852,JOSUE,GUERRERO MOTA,+52 2285228074,NO TIENE.,Secondary school
+1469592163271951725,RAUL,BARTOLO ARROYO,+52 0,NO TIENE.,
+1469592163271956462,LEONILA,GONZALEZ MARQUEZ,+52 0,NO TIENE.,
+1469592163271957083,ANTONIO,HERNANDEZ GONZALEZ,+52 2321543010,NO TIENE.,Primary school
+1469592163271956239,GRISELDA,GONZALEZ DOMINGUEZ,+52 2321494686,NO TIENE.,Primary school
+1469592163271953346,MARCELINA,CHIMALHUA MARTINEZ,+52 2721946594,,Primary school
+1469592163271962809,CLEMENTE,QUIAHUA XOCHICALE,+52 2781195114,,
+1470002575956820720,MERCEDES,GARCIA HIPOLITO,,,Primary school
+1469278379854638178,Thanh Th??ng,Tri?u,+84 368755274,,Secondary school
+1469592163271955629,LORENZO,GARCÍA HERRERA,+52 0,NO TIENE.,Primary school
+7955662907699201166,Idamy Daniel Ramirez Palma,Ramirez Palma,+504 96553420,,Primary school
+1469592163271950828,CIRENIA,AMADOR CALIHUA,,,
+1469592163271957097,ELIZABETH,HERNÁNDEZ GARCÍA,+52 2321609788,NO TIENE.,Primary school
+1469592163271951095,MARCIAL,ATZALA XOCHIQUIQUISQUI,+52 2202421552,,Primary school
+1469278379854641211,Brim,Ka,+84 817837722,,
+1469592163271956611,MANUEL,GONZALEZ ROMERO,,,
+1469592163271963493,PATRICIO,RODRIGUEZ CHIMALHUA,+52 2214383375,,Secondary school
+1469278379854638152,L?p H?ng,L?nh,+84 397690886,,Secondary school
+1469278379854638436,Thanh Giang,Tr?n,+84 983965780,,Secondary school
+1469592163271959589,ALEJANDRO,MACARIO SANCHEZ,+52 2781225883,,Senior High School
+1470002575936435740,Francisco Sanchez Perez,Pérez,+504 0,,Primary school
+7955439997582550302,L?u,K,+84 0378561298,,Secondary school
+1469278379854641116,Nhõih,Ka,+84 834962943,,Primary school
+1469278379854638382,V?n Phúc,Tr?n,+84 395956599,,Secondary school
+1469278379854638630,Th? M?t,Tr?n,+84 988917307,,Primary school
+1469278379854638126,Quang H?u,Tr?n,+84 168949160,,Primary school
+1469278379854641156,N??ng,K,+84 365977200,,Primary school
+1469278379854639111,Kim,Nguy?n,+84 987766020,,Secondary school
+1469592163271957294,MARIA,HEREDIA PEREZ,+52 2737322772,baheale09@gmail.com,Primary school
+1469592163271965074,AGUSTIN,SERRANO RODRIGUEZ,+52 2731063232,,Primary school
+1469278379854640290,Tr?ng Lu?t,Lê,+84 374211419,,Secondary school
+7955439997587189758,L?I,ÊBAN H,+84 0363262571,,
+1469592163271960824,MARIA,MORALES REYES,+52 2737322784,,
+1470002575936436099,Kenia Josefa Suazo Mejia,Suazo Mejia,+504 0,,Secondary school
+1469592163271957765,MELITA,JIMENEZ FALCON,+52 2731016839,,Tertiary education
+7955439997587189849,PLEO,NIÊ Y,+84 0842047129,,Primary school
+1470002575936436118,Lilian Esmeralda Redondo Banegas,Redondo Banegas,+504 0,,University
+7955439997587189752,ÍCH,NIÊ H,+84 0849603607,,Secondary school
+1469592163271961328,MARTINIANO,ORTIZ ESTUDILLO,+52 2261012855,NO TIENE.,Primary school
+1469592163271955386,CUTBERTO,GARCIA CAMPILLO,+52 2711084752,francisco_jitomat@hotmail.com,Primary school
+1469592163271950946,ALFONSO,ANAYA JIMENEZ,+52 2711257873,,Primary school
+1469592163271962961,FELIPE,RAMOS HERNANDEZ,+52 2731591213,,Primary school
+1469592163271952673,POMPILIO,CABRERA GARCIA,+52 2731239152,,Primary school
+1469592163271965977,FRANCISCO,VALLE RAMOS,+52 2711428511,,Primary school
+1469592163271964771,BERNABE,SALINAS PEREZ,,,
+7955439997587189658,HI?U,NIÊ H,+84 09417763736,,
+1469278379854641295,Br?i,K,+84 377084564,,Vocational High School
+1470002575936435286,Manuel Antonio Moreira Rodriguez,Moreira Rodriguez,+504 0,,
+1469592163271951964,JOEL,BAÑUELOS MURILLO,+52 2737322519,NINGUNO,Primary school
+1469278379854640582,Quý,K,+84 357142573,,Primary school
+1469592163271962850,PATRICIA,RAMOS BAROJAS,+52 2712849792,,Primary school
+7955439997587189540,??NG,PH?M QUANG,+84 0917852516,,Secondary school
+1469278379854641485,D?i,Ka,+84 976205918,,Secondary school
+1469592163271958136,VIRGINIA,LANDA MARTINEZ,+52 2251025977,NO TIENE.,Primary school
+1469278379854640621,Bi?n,K,+84 332666041,,Secondary school
+1469278379854641488,Br?n,K,+84 376524901,,Secondary school
+1469278379854640852,Heng,K,+84 797108901,,Secondary school
+7955439997587189937,THÔNG,LÊ TH?,+84 0354068832,,Secondary school
+7955439997587189640,T?T,MLÔ Y,+84 0962005747,,Secondary school
+1469278379854641463,Brôl,K,+84 915707783,,Secondary school
+1469278379854640901,?êng,K,+84 325114957,,Secondary school
+7955439997587189712,Y?NG,NIÊ H,+84 0971717285,,Primary school
+1469883818362504507,Th? Lan,Tr?n,+84 584483233,,Primary school
+7955439997587189936,LÀI,NGUY?N TH?,+84 0346798089,,Secondary school
+1470002575936435612,Edistenia Banegas Varela,Banegas Varela,+504 0,,Primary school
+7955662907702140000,"Dummy M,E Brazil 2025 1",,,,
+7955439997587187586,NH?T,VÕ S?,+84 0979446525,,Secondary school
+7955439997587861513,YESICA,GARCIA PUERTOS,+52 2781036701,,Secondary school
+1469592163271957427,VICTOR,JUAREZ HERRERA,+52 2251021538,NO TIENE.,Primary school
+7955662907699200862,Marvin Antonio Mendoza Medina,,+504 94877772,,Primary school
+1470002575956820610,JAVIER,MORALES PEREZ,,,Secondary school
+7955439997587861298,ISIDORO,TEZOYOTL BALTAZAR,+52 2711013977,,Secondary school
+1469592163271961683,GONZALO,PABLO BERNABE,+52 0,NO TIENE.,
+1470002575956820727,TOMAS,ALTEHUA GONZALEZ,,,
+1469592163271961684,PROCORO,PABLO BERNABE,+52 2262970858,NO TIENE.,Primary school
+7955439997582550081,Lài,??ng Th?,+84 0932593562,,Secondary school
+1470002575956820200,ABEL,HERNANDEZ LUNA,+52 2781181115,,
+7955439997587187540,PHONG,NGUY?N KH??NG,+84 0855784445,,Senior High School
+7955662907699200876,Edman Reinerio Cruz,,+504 98209041,,Secondary school
+1469569898290009880,Anilyn,Daculay,+63 630,none,Secondary school
+7955439997587861424,OCTAVIANO,IBARRA CASTILLEJOS,+52 2781128527,,Secondary school
+1469278379854642324,V?n L?i,Hu?nh,+84 346403518,,Primary school
+7955439997587187356,H?U,NGUY?N TH?,+84 0973451579,,Tertiary education
+1469278379854641057,S?p,K,+84 336460175,,Primary school
+7955439997587187544,TH?NG,L??NG NG?C,+84 0384032430,,Secondary school
+1470002575956820627,MISAEL,MUNGUIA ZAMUDIO,+52 2781037101,,Senior High School
+1469278379854640984,S?n,K,+84 987954162,,Secondary school
+1469592163271951560,AURELIO,AQUINO GARCIA,+52 2251094856,NO TIENE.,Primary school
+7955439997587188056,KHANH,NGUY?N ?ÌNH,+84 0907575479,,Tertiary education
+1470002575956820202,ALFONSO,GONZALEZ TEZOCO,+52 2712152132,NINGUNO,
+1470002575943383722,ABIAZER,FLORES ALCALA,+52 2781086108,,Secondary school
+1469278379854642347,Qu?c Hùng,Tr?n,+84 985451105,,
+7955439997587187549,TI?N,BÙI ?ÌNH,+84 0978562763,,Primary school
+1469278379854642365,Th? H?ng,Mai,+84 387152932,,Primary school
+1470002575956821012,VIDAL,ESCALANTE LOPEZ,+52 2712455986,,Primary school
+1470002575956820600,GALDINO,LOPEZ HERNANDEZ,+52 2781257913,,Primary school
+1469278379854641969,Bung,K,+84 335752147,,Secondary school
+1469278379854642733,Xuân Hào,Bùi,+84 967930266,,Secondary school
+7955439997587187267,CHI?NG,LÝ SÒI,+84 0363951530,,
+7955439997587188186,THEO,MJÂO Y,+84 0366616840,,
+1469278379854639479,Bis,K,+84 376163960,,Secondary school
+1469278379854642319,L? Hoàng,Ph?m,+84 916800253,,Primary school
+1469278379854639435,L?i,K,+84 392628174,,Secondary school
+1470002575945819824,Gban,Weu Sabine,+225 0,,
+7955439997587188145,GUH,NIÊ Y,+84 0382618654,,
+1469278379854642851,Ng?c T?o,Nguy?n,+84 355149508,,Tertiary education
+7955439997587187472,BÁCH,MÃI V?N,+84 0353830972,,Secondary school
+1469278379854641597,V?n H??ng,Nguy?n,+84 909474243,,Primary school
+1470002575936436326,Moises Machado Ortega,Ortega,+504 0,,
+7955439997586893418,Billy,Campaan,+63 9985869879,none,Vocational High School
+7955439997586893364,Enrique Jr,Bayot,+63 935624785,,Primary school
+1469569898290010214,Camilo,Lindongan,+63 09293495262,,Primary school
+1469592163271951570,LAZARO,AQUINO GARCIA,+52 0,NO TIENE.,Primary school
+7955439997587187760,HU?,BÙI TH?,+84 0946591747,,Secondary school
+7955439997587861340,JUAN,ROSEROS VELAZQUEZ,+52 2711937767,,Primary school
+7955439997587861442,RAFAEL,MARTINEZ CORTES,+52 2381039711,,Primary school
+7955662907699201217,Julian Romero Bueso,,+504 94761873,,Primary school
+1469592163271960794,ELODIA,MOTA RAMIREZ,+52 0,NO TIENE.,
+1469592163271963032,SOFIA,RAMIREZ MARTINEZ,+52 2251058498,NO TIENE.,Secondary school
+1470002575956820617,LILIANA,PIMENTEL LORENZO,+52 2781190864,,Tertiary education
+7955439997587187832,LUY?N,NGUY?N XUÂN,+84 0984090278,,Secondary school
+7955439997587187280,TR??NG,?INH V?N,+84 0388042760,,Primary school
+7955439997587187247,M?N,?INH TH?,+84 0379388615,,Tertiary education
+7955439997587188514,Y NUÔI,MLO,+84 0367020135,0,Primary school
+7955439997587861354,LETICIA,JESUS CASAS,+52 2781156514,NINGUNO,
+7955439997587187827,HÀ,BÙI TH?,+84 0386029656,,Secondary school
+7955439997587186973,HÒA,TR?N V?N,+84 0372258735,,Secondary school
+7955439997587861406,MODESTO,GARCIA CONTRERAS,+52 2381789678,,Primary school
+1469883818362504473,Th? Mây,Nguy?n,+84 978683061,,Secondary school
+1470002575936436257,Martha Elizabet Castillo,Castillo,+504 0,,Primary school
+1469592163271957438,FELIX,HERNANDEZ VENTURA,+52 6647477091,NO TIENE.,
+7955439997587189228,PH??NG,NGUY?N V?N,+84 0974317828,,Secondary school
+7955439997587861203,CLEOFAS,CRUZ DIAZ,+52 2381543014,,Secondary school
+7955439997587188907,HÙNG,LÊ V?N,+84 0968602667,0,Primary school
+1469278379854641878,Br?oh,K,+84 368401033,,Secondary school
+1470002575956820249,IMELDA,MEDRANO CARRERA,,,Secondary school
+7955439997587861493,SIMON,LA VEGA,+52 2364880185,,Secondary school
+1469278379854641900,Br?h,K,+84 983522790,,Secondary school
+7955439997587187139,C?NH,NGUY?N XUÂN,+84 0989678459,,Secondary school
+7955439997587187613,??C,TRI?U DI,+84 0886488786,,Secondary school
+1470002575956820979,ARTEMIO,VAZQUEZ CANTERO,+52 2381471191,,Primary school
+1469278379854643034,Ng?c Quy?n,Ph?m,+84 973857886,,Tertiary education
+1470002575936435355,Salvador Perez,Perez,+504 0,,Primary school
+1469278379854642185,Th? H?ng,Hu?nh,+84 979806281,,Primary school
+1469278379854639161,Th? Kh??ng,Lâm,+84 375578737,,Secondary school
+7955439997587188702,VI?N,?? THÀNH,+84 0976284182,0,Secondary school
+7955439997587187880,SUÔM,KDOH Y,+84 0961264863,,Primary school
+1470002575956820251,JOSEFINA,GARMENDIA LOZADA,+52 2781092453,NINGUNO,Secondary school
+7955439997587188844,THÀNH,NGUY?N V?N,+84 0373632031,không,Secondary school
+1469883818362504483,Trung Hoàng,Ph?m,+84 707498920,,Secondary school
+7955439997587187136,BÍCH,NGUY?N TH? NG?C,+84 0398126047,,Secondary school
+7955439997587189148,H?,NGUY?N TH?,+84 0866144227,,Secondary school
+1469278379854643024,Th? N?i,D??ng,+84 346763317,,Primary school
+1469278379854641788,Th? Tho,??ng,+84 344205337,,Secondary school
+7955439997587187559,MIÊN,HOÀNG V?N,+84 0378867269,,Secondary school
+7955439997587188709,M?,NGUY?N DUY,+84 0942879658,0,Secondary school
+7955439997587187178,NIÊN,?ÀM TH?,+84 0339378154,,Secondary school
+7955439997587187424,BÌNH,?? V?N,,không,Secondary school
+1469883818362504470,Ph?m Công,?oàn,+84 363463102,,Secondary school
+1469278379854642183,?ình Phía,Nguy?n,+84 979861653,,Secondary school
+1469278379854639106,V?n B?c,Phan,+84 942980092,,Primary school
+1469278379854641818,Th? ??,D??ng,+84 364046771,,Primary school
+1469278379854641822,T?,Ka,+84 788851026,,Primary school
+7955439997587189175,HUY,?? V?N,+84 0986583940,,Secondary school
+7955439997587187892,B?Y,HÀ NG?C,+84 0362282278,,Secondary school
+1469278379854642099,Tr?n Ng?,??,+84 914188844,,Secondary school
+1469278379854642607,V?n V?n,Phùng,+84 984990978,,Primary school
+7955439997587188619,HÀ,L?C TH?,+84 0367532660,0,Primary school
+1469278379854643075,Th? Oanh,Nguy?n,+84 165250399,,Primary school
+1469278379854638326,Th? Y?n,Nguy?n,+84 792433135,,
+7955439997587189408,HÀO,PHAN V?N,+84 966263163,không,
+7955439997587189489,??C,PHAN KH?C,+84 0989308553,,Secondary school
+7955439997587188391,Y MIW,NIÊ,+84 0379098219,,
+1469278379854638324,Xí,?oàn,+84 164464079,,Secondary school
+7955439997587189422,TI?N,HOÀNG D?NG,,,Secondary school
+1470002575945833969,Kabore,Oumarou,+225 0,,
+7955439997587188484,LEN,ÊBAN H,+84 0817831847,0,Primary school
+1470002575936435396,Alba Iris Mendoza Arguijo,Mendoza Arguijo,+504 0,,
+1469592163271952272,BONIFACIO,BERLIN RIVERA,+52 2364880192,NO TIENE,Primary school
+1470002575956820233,CRUZ,GRANJA ANTONIO,+52 2781136788,,Secondary school
+1470002575956820856,MARTIN,ESPERON LOPEZ,+52 9832760575,,Secondary school
+1469278379854639019,Th? Thoa,Nguy?n,+84 908090569,,Secondary school
+7955439997587187792,HI?U,NGUY?N TRUNG,+84 0961739876,0,Senior High School
+7955439997587189287,THANH,H? V?N,+84 0947473485,,Secondary school
+7955439997588499928,EHOUMAN BERTIN,EHOUMAN BERTIN,+225 0700156430,,Primary school
+1470002575956820270,RIGOBERTO,ROBLES GRANJA,,,Primary school
+1470002575943383713,ARNULFO,ROBLES LOPEZ,,,
+1470002575956820269,PLACIDO,ROBLES QUEZADA,,,
+1469278379854639028,Huy Tr??ng,Thang,+84 933979354,,Secondary school
+1470002575956820205,ADELA,CERVANTES RODRIGUEZ,,,Primary school
+1470002575956820810,ELPIDIO,LIMON LERIN,,NINGUNO,Primary school
+1470002575956820982,BONIFACIO,CRUZ DIAZ,+52 2711734221,,Primary school
+7955439997587188607,??,NÔNG V?N,+84 943570776,không,Secondary school
+7955439997587189347,VINH,HÀ V?N,+84 0383846976,,Secondary school
+7955439997587187854,NG?,LÊ TH?,+84 0378749035,,Secondary school
+7955439997587188091,TÀI,NGUY?N H?U,+84 0354913239,,
+7955439997587188954,C??NG,TR?NH QUANG,+84 0394919242,0,Secondary school
+1470002575936435487,Benigno Ulloa Lopez,Lopez,+504 0,,Primary school
+1470002575945833359,Bleou,Brou,+225 0,,
+1470002575945833431,Tano,NGoran Leon,+225 0,,
+7955439997587188078,HÀ,MAI H?U,+84 09750112284,,Secondary school
+1469278379854641425,T?n Hòa,Ph?m,+84 948620678,,Secondary school
+7955439997587188315,H BINH,NIÊ,+84 0339553395,,
+7955439997587188300,NAM,NGUY?N V?N,+84 0394751799,,Senior High School
+1469278379854640651,Dem,Ka,+84 348588050,,Secondary school
+7955439997587189307,H?I,L??NG V?N,+84 0377038018,,Tertiary education
+7955439997587188503,LIÊN,PHAN TH?,+84 0383876021,0,Senior High School
+1469278379854641423,Th? Ng?c Minh,Tr?n,+84 976023989,,Secondary school
+7955439997587189216,NGÂN,THÁI V?N,+84 03380646015,,Tertiary education
+1470002575945833159,Zongo,Albert,+225 0,,Primary school
+7955439997588499930,RAMDE,ISSIAKA,+225 0707405068,,Tertiary education
+1470002575945830604,Traore,Lassina,+225 0,,
+1470002575945830273,Oponon,Ablan Marie,+225 0,,
+7955439997588499907,ASSI,ASSI PHILIPPE,+225 0757343289,,Tertiary education
+1470002575945833244,Akoudjiu,Akoudjou Jules,+225 0,,Senior High School
+1470002575945831632,Ouattara,Lassina,+225 0,,
+1470002575945832945,Ebrottie,Hubert Willfried,+225 0,,Senior High School
+7955439997588499925,KOUASSI,ATSE ERNEST,+225 0101416279,,Primary school
+1470002575945832928,Dabone,Daouda,+225 0,,
+1470002575945825511,Poda,Bgognante,+225 0,,
+1470002575936435935,Jose Fausto Estrada,Estrada,+504 0,,
+1470002575945823872,Kouame Inza,Koffi Kouame Inza,+225 0,,
+1470002575945825341,Kone,Karidja,+225 0,,
+1470002575945823889,Konan,NGuessan Odette,+225 0,,
+1470002575945833708,Assi,Akou Mathieu,+225 0,,Tertiary education
+1470002575936435249,Jose Isais Flores Rosales,Flores Rosales,+504 0,,Primary school
+1470002575945833136,Yao,Kramo,+225 0,,Senior High School
+1470002575945825366,Kouakou,Tehua,+225 0,,Primary school
+1470002575945823997,Konan,Kouakou Arsene,+225 0,,
+1470002575945823969,Amani,Koffi,+225 0,,
+1470002575945824004,NGuessan,Amoin B,+225 0,,Primary school
+7955439997588499906,ASSE,NTA CELINE,+225 0787365964,,Primary school
+1470002575945833036,Mian,Kouame,+225 0,,
+1470002575936436150,Ma. Ramona Rosales Cubas,Rosales Cubas,+504 0,,Primary school
+7955439997586686982,Dinh Dinh,Truong,+84 0941976213,,Tertiary education
+7955439997587858581,EMILIANO,GARCIA MARTINEZ,+52 2381725480,emilianogarcia6505@gmail.com,Primary school
+7955439997586685654,Ksor,Sam,+84 0965636122,,Secondary school
+7955439997586686224,MAH NHIU,RO,+84 769405930,,Secondary school
+7955439997586686034,Ro lan,Han,+84 0343320274,,Secondary school
+1470002575945824835,Akpoua,Kouame Francois,+225 0,,Primary school
+1470002575945831979,Kra,San Yao Michel,+225 0,,
+7955439997586683824,Duy Vien,Duong,+84 984295983,,Secondary school
+1470002575945824820,Ouattara,Moussa,+225 0,,
+1470002575945832265,Tewua,Adja Nima Angeline,+225 0,,Tertiary education
+7955439997588499917,FORI,ADOU KOUAKOU FERDINAND,+225 0142739151,,
+1470002575945824728,Songbo,Kakou Luc,+225 0,,Primary school
+7955439997587859399,OMAR,CRISTOBAL ROJAS,+52 2382022284,,Secondary school
+1470002575945832312,Kouman,Kouadio Dakoua,+225 0,,
+7955439997587859266,REINA,TEMOXTLE ACAHUA,+52 2781065515,NINGUNO,
+1470002575945824747,Oussou Frédéric,NGuessan Oussou Frédéric,+225 0,,Primary school
+1470002575945829101,Yao,NGuessan Theodore,+225 0,,Primary school
+7955439997587861655,MARIA,AMADOR CILLO,+52 2781068974,,Primary school
+1470002575936435237,Jerson Adrian Flores Flores,Flores Flores,+504 0,,Primary school
+1470002575945824656,Kouame,Kadjo,+225 0,,Senior High School
+7955439997587859262,LUZ,OLIVEROS GARCIA,+52 2781113236,luzgarcia092004@gmail.com,Secondary school
+7955439997586685516,Tran Minh,Dien,+84 0978782898,,Tertiary education
+1470002575945828932,Kouassi,Kouadio Eric,+225 0,,Primary school
+7955439997587861897,LUIS,HERNANDEZ XIMELLO,+52 2219660332,,Secondary school
+1470002575945832607,Kouassi,Koffi Martin,+225 0,,Tertiary education
+7955439997587858571,TOMAS,ANASTACIO YESCAS,+52 2781134355,,
+7955439997586683478,Van Hung,Ngo,+84 393083210,,Primary school
+1470002575945828928,Kouame,Konan Leopold,+225 0,,Primary school
+7955439997586686976,Huu Anh,Dang,+84 0986542242,,Secondary school
+7955439997586682514,Chieu,K,+84 398704754,,Primary school
+1470002575945829054,Konan,Konan Thomas,+225 0,,Primary school
+7955439997588499920,KOBENAN,KOUASSI ADAMOU GASPARD,+225 0708812655,,
+1470002575945832187,Tano,Kouame,+225 0,,
+7955439997586683823,Jes,K',+84 347520682,,Secondary school
+7955439997586685614,Keng,Rlan,+84 0335585721,,Secondary school
+7955439997586683835,Brem,K,+84 385013500,,Primary school
+1470002575945829050,Kouame,Konan,+225 0,,Primary school
+7955439997586683527,Van Tun,Bui,+84 979570988,,Primary school
+7955439997586685626,Pet,Rlan,+84 0328189370,,
+7955439997586685606,Lan Greh,Ro,+84 0364977831,,Primary school
+7955439997586687148,Quoc Binh,Vu,+84 0979754855,,Secondary school
+1470002575945832546,Yao,Effin,+225 0,,Primary school
+7955439997586683882,Jos,K,+84 386308842,,Secondary school
+7955439997586683830,H?u,Ka,+84 968465962,,Secondary school
+1470002575945825121,Kouassi,Konan Patrice,+225 0,,Primary school
+7955439997587191885,TÚ,?? ??C,,,Secondary school
+7955439997586682705,Thi Hai,Dang,+84 355496516,,Secondary school
+7955439997586682617,Van Tinh,Vu,+84 834772101,,Primary school
+1469278379854783002,V?n Thành,Nguy?n,+84 964430362,,Secondary school
+1470002575945824237,Tao,Boukary,+225 0,,
+1470002575945832320,Adou,Kouame Kouakou Marc,+225 0,,
+1470002575945831791,Yameogo,Emmanuel,+225 0,,
+1469569898290016373,Dario,Tagailo,+63 630,,Primary school
+7955439997587858689,MARCOS,ZOPILLAXTLE TEPOLE,,,Primary school
+7955439997587861810,MARIO,ARRILLAGA TEHUINTLE,+52 6131248350,mariocruzarrillagatehuintle02@gmail.com,Secondary school
+7955439997587858579,CONSTANTINO,ZEPAHUA TEMOXTLE,,,
+7955439997588499923,KOUAKOU,YAO BRONZAM EMMANUEL,+225 0565634371,,
+7955439997587861523,MARGARITA,PIMENTEL GONZALEZ,+52 2712317953,,Secondary school
+7955439997587861809,CRISTIAN,GARCIA ARRILLAGA,+52 2781105262,NO TIENE,Senior High School
+1470002575936436536,Santos Fidel Mejia Rodriguez,Mejia Rodriguez,+504 0,,Primary school
+1470002575945824248,Moulaye,Fanny,+225 0,,
+7955439997587861797,REYNA,ARRILLAGA ALTA,+52 2781086860,NINGUNO,Primary school
+7955439997587858781,HONORIO,PANTZO ALVAREZ,+52 278112721,NO TIENE.,Primary school
+7955439997587859520,PEDRO,PANZO QUIAHUA,+52 2781031927,,Secondary school
+1470002575945830218,Sanga,Adama,+225 0,,Primary school
+7955439997587861803,ANTONIO,ARRILLAGA LARA,+52 2781174158,NINGUNO,Secondary school
+7955439997587858782,ISAI,GARCIA ANTONIO,+52 2781092532,,Primary school
+7955439997587858783,ISIDRO,GARCIA HERNANDEZ,+52 2781031348,NO TIENE.,Secondary school
+1470002575945830208,Kone,Adama,+225 0,,Primary school
+7955439997587861542,FRANCISCO,SANCHEZ LUNA,+52 2781079215,,Primary school
+7955439997586686569,Van Giao,Ha,+84 0905268296,,Secondary school
+7955439997586686316,Van Ngoc,Tran,+84 0915655235,,Secondary school
+7955439997586686866,Thi Tuyet,Vu,+84 974100608,,Secondary school
+1469569898290017071,Randy,Pareño,+63 630,,
+1470002575936435477,Baudilio Orellana,Orellana,+504 0,,
+1470002575945824126,Warma,Aboulaye,+225 0,,Primary school
+7955439997586686740,Thanh Cong,Nguyen,+84 0347566359,,Secondary school
+7955439997586687105,Vu Trieu,Nguyen,+84 332573729,,Secondary school
+7955439997586683590,Van Thien,Le,+84 933414127,,Secondary school
+7955439997586686349,Thi Nhan,Lo,+84 0394207770,,Secondary school
+7955439997586686336,Thi Lan,Nguyen,+84 0382809036,,Primary school
+1470002575945824137,Dosso,Inza,+225 0,,
+7955439997586683745,Thi Nga,Pham,+84 982159768,,Primary school
+7955439997586683800,The Dung,Huynh,+84 972020424,,Secondary school
+1470002575945820730,Sarambe,Adama,+225 0,,
+1470002575945820721,Kouassi,Kouassi Franck,+225 0,,Primary school
+1470002575945820514,Ouedraogo,Karim,+225 0,,Primary school
+1470002575945820699,Kouadio,Konan Daniel,+225 0,,Primary school
+1470002575945820700,Yobouet,Okou Norbert,+225 0,,Primary school
+7955439997586683917,thi Duyen,Dam,+84 386924791,,Secondary school
+7955439997587858948,LEOBARDO,MONTALVO CABANZO,,,
+7955439997587859291,DAMIAN,GARCIA HERNANDEZ,+52 6242648404,NO TIENE.,Primary school
+7955439997587859303,ABEL,ARRILLAGA MARTINEZ,+52 5649063592,,
+7955439997587861817,BERNARDO,TEMOXTLE ZOPIYAXTLE,+52 2781005574,,Primary school
+1469592163271953933,VICTOR,CUELLO ROJAS,+52 9213248598,NO TIENE.,Primary school
+7955439997587861821,CIRINO,LEZAMA BAUTISTA,+52 2781139833,no tiene,Secondary school
+7955439997586685538,Phung Van,Anh,+84 0979757286,,Secondary school
+7955439997587859255,FELIX,MARTINEZ GARCIA,+52 2781242503,,
+7955439997586685609,Thi Binh,Nguyen,+84 0975722167,,Secondary school
+7955439997586685534,Thi Y,Nguyen,+84 353029440,,
+7955439997586685523,Hoang Thi,Hoai,+84 0855223494,,Tertiary education
+7955439997586683852,Thanh Dung,Phan,+84 972023639,,Primary school
+7955439997586683333,Van Nguyen,Tinh,+84 389131259,,Primary school
+7955439997587861580,JORGE,HERNANDEZ FLORES,,Ninguno,
+7955439997586685525,Nguyen Kim,Ngoc,+84 0582406479,,Secondary school
+7955439997587859293,ISAIAS,MAGDALENO TEMOXTLE,+52 2781100268,NO TIENE.,Primary school
+7955439997587861583,EDUARDO,HERNANDEZ CRUZ,+52 2781080443,,Secondary school
+7955439997587859254,FEDERICO,MARTINEZ TEMOXTLE,+52 2781057673,,
+7955439997586683809,Thi Thanh Thuy,Le,+84 912129731,,Secondary school
+7955439997586682605,That Thanh,Ton,+84 388272575,,Tertiary education
+7955439997586685521,Kpa,Toan,+84 345889492,,Secondary school
+7955439997586685578,Ku,Kpa,+84 0834778013,,
+7955439997586685572,Ven,Puih,+84 0353841953,,
+7955439997586683130,Thai Ngo,Sinh,+84 334173122,,Secondary school
+1470002575945812171,Yameogo,Paul,+225 0,,Primary school
+1470002575945830830,Daou,Drissa,+225 0,,
+7955439997587861952,LUIS,PALILLO CORONA,,,
+7955439997587861658,JUSMAN,MONTALVO MARTINEZ,+52 2219659632,,Primary school
+7955439997587859024,LIGORIO,ALFARO CILLO,+52 0,NO TIENE.,
+7955439997587858967,JOAQUIN,CABANZO GARCIA,,,Primary school
+7955439997587859369,ROMEO,MARTINEZ DIAZ,,,Primary school
+7955439997587858973,NOE,CABANZO JIMENEZ,,,Secondary school
+1470002575936435132,Alexi Figueroa Dominguez,Dominguez,+504 0,,
+1470002575945830814,Djire,Amadou,+225 0,,
+7955439997587858984,BENITA,HERNANDES RAMIREZ,+52 2781180305,NO TIENE.,
+7955439997587859375,GABINO,SANCHEZ HERNANDEZ,,,Primary school
+7955439997587861731,GLORIA,CALDERON ALVA,+52 3343681894,,Primary school
+7955439997587858965,FIDENCIO,CANO RAMOS,+52 2381193569,,Primary school
+7955439997586686609,Xuan Tien,Phan,+84 0988960893,,Tertiary education
+7955439997587861676,NICANDRO,CABANZO MONTALVO,+52 2781224960,,Primary school
+7955439997586683241,Van Toa,Tran,+84 385011755,,Secondary school
+7955439997586686673,Ngu,Dang,+84 0348476657,,Primary school
+7955439997586686506,Ngoc Thanh,Tong,+84 384584771,,Secondary school
+7955439997586682558,Van Lam,Nguyen,+84 974144051,,Secondary school
+7955439997586686414,Thi Tinh,Tran,+84 0395274308,,Primary school
+7955439997586683710,Van Hong,Ho,+84 386175189,,Secondary school
+7955439997586686335,Thi Minh,Nguyen,+84 0973917014,,Secondary school
+7955439997586686422,Huy Toan,Trinh,+84 0963418595,,Secondary school
+7955439997586683616,,,+84 338252029,,Primary school
+7955439997586682824,Xuan Hong,Dinh,+84 979291309,,Secondary school
+7955439997586686460,Thi Hai Hanh,Le,+84 0392403567,,Tertiary education
+7955439997586686432,Tri Thu,Nguyen,+84 0988873461,,Tertiary education
+7955439997586682508,Viet Bao,Vu,+84 986221058,,Secondary school
+7955439997586686803,Thi Tuyet Mai,Vo,+84 0362605383,,Secondary school
+7955439997586683656,,,+84 352061237,,Primary school
+7955439997586683737,Tho Hung,Bui,+84 334151343,,Secondary school
+1470002575945834348,Kotia,Ignace,+225 0,,
+1470002575945834446,Ouedraogo,Moussa,+225 0,,
+1470002575945814803,Bamoni,Boureima,+225 0,,
+7955439997588499915,DEMBELE,MAMADOU,+225 0545455674,,Tertiary education
+1470002575945814982,Ouedraogo,Jean-Baptiste,+225 0,,Tertiary education
+1470002575945814890,Kindo,Salif,+225 0,,
+7955439997588499931,SANOU,SEYDOU,+225 0506972126,,
+1470002575945814969,Ouattara,Zie Aboulaye,+225 0,,Primary school
+7955439997586687009,Khe,Pham,+84 0814958562,,Secondary school
+7955439997587859129,JUAN,FERNANDEZ VALDIVIA,+52 0,NO TIENE,Primary school
+7955439997587859240,VERONICA,NOLASCO ROBLES,+52 2381985284,,Secondary school
+7955439997587858997,ELVIRA,HERNANDEZ BERNABE,,,Primary school
+7955439997587859142,MINERVA,BERNABE RIVERA,+52 5667498037,NO TIENE,Primary school
+7955439997587861834,ERNESTO,RODRIGUEZ ORTEGA,+52 2781105924,,Secondary school
+7955439997586684224,Van Tuyen,Hoang,+84 0963230871,,Primary school
+7955439997586684402,Thao,,+84 0344566054,,
+7955439997587861836,VICTOR,BARRERA RODRIGUEZ,+52 2712059610,,Secondary school
+7955439997587861981,RODOLFO,HUERTA NOGUERA,+52 2712256089,,Secondary school
+7955439997586684109,0 Alan,,+84 0327747641,,Secondary school
+1470002575945814185,Koanda,Alidou,+225 0,,
+7955439997586685268,Van Tam,Vo,+84 0362101524,,Tertiary education
+7955439997586684659,Van Hung,Le,+84 0906442036,,Primary school
+7955439997588499918,GUINA,BODO CHARLES,+225 0778739666,,Secondary school
+1470002575945820183,Birba,Rasmani,+225 0,,
+1470002575945820232,Selenga,Lamine,+225 0,,
+1470002575945831209,Ouattara,Souleymane,+225 0,,Primary school
+1470002575945821818,Kouassi,Konan M.,+225 0,,Tertiary education
+1470002575945820296,Ganame,Souleymane,+225 0,,
+1470002575945815007,Sankara,Dramane,+225 0,,Primary school
+1470002575945821447,Sawadogo,Thomas,+225 0,,Primary school
+1470002575945821695,Zemba,Norbert,+225 0,,Primary school
+7955439997587859448,FORTINO,TORRES HERNANDEZ,+52 5659977525,NO TIENE.,
+7955439997587861603,JUAN,JESUS CORTES,+52 2781082496,,Secondary school
+7955439997588499939,TUO,SONGUIFOLO,+225 0747431315,,Primary school
+1470002575945821438,NGbra,Koffi Bernard,+225 0,,
+1470002575945821998,Sana,Boukari,+225 0,,
+7955439997587859136,LORENZA,FLORES SANCHEZ,,,
+1470002575971475906,Igor,Grassi,,,
+1470002575971475906,Etevaldo Cesar,Grassi,,,
+7955439997587859027,LUIS,LOPEZ MORALES,+52 9951144829,,Secondary school
+7955439997587862014,MARIA,PEREZ PAZ,+52 2787363173,,Secondary school
+7955439997587858742,LEONEL,TRINIDAD FLORES,+52 8336360171,NO TIENE,Secondary school
+1470002575945822051,Compaore,Saga,+225 0,,
+1470002575945831092,NDri,Kouassi Charles,+225 0,,Tertiary education
+7955439997587859107,ENRIQUE,LEON RIVERA,,,Secondary school
+7955439997586687088,Van Hao,Tran,+84 0392425966,,Primary school
+7955439997587858733,SOCORRO,JESUS MACUIXTLE,+52 2781061490,NO TIENE,Secondary school
+1470002575945821562,Maiga,Hamade,+225 0,,Primary school
+1470002575936436249,Marlon Yassir Martinez,Martinez,+504 0,,Primary school
+7955439997586685138,Thi Ly,Dinh,+84 0985427186,,Secondary school
+7955439997586682836,Thi Loan,Do,,,Secondary school
+7955439997586686722,Mah O,Ro,+84 0333227973,,
+1470002575936436421,Pastora Castro Cruz,Cruz,+504 0,,Primary school
+7955439997587861876,ENRIQUE,TZANAHUA ZEPAHUA,+52 2781084894,,Secondary school
+7955439997586687069,Xuan Dat,Le,+84 0935336579,,Tertiary education
+7955439997586686719,Thinh,Ksor,+84 0964437717,,
+7955439997586682939,Thi Ban,Dinh,+84 375038926,,Secondary school
+7955439997586685387,Dinh Tu,Dinh,+84 0379146082,,Secondary school
+7955439997587861604,AGUSTIN,PEREZ RAMIREZ,+52 9581748552,,Secondary school
+7955439997588499911,BAZIE,ABDOURAMANE,+225 0709001286,,
+7955439997586687040,Ngoc Xua,Ho,+84 0984003744,,Primary school
+7955439997586682840,Luon,Tran,+84 986333257,,Primary school
+7955439997586686813,Lan Lien,Ro,+84 0373294308,,Primary school
+7955439997586682812,Van Gia,Kim,+84 342223050,,Secondary school
+1470002575945815003,Ramde,Noaga,+225 0,,
+7955439997587861601,ILDIBERTO,ESCOBAR VALDIVIA,+52 2781082180,,Secondary school
+1470002575945815087,Zongo,Zemeyon,+225 0,,
+1470002575936435772,Gilberto Perez,Perez,+504 0,,Primary school
+7955439997587861988,ELIAS,BARBOSA OLIVER,+52 8445041250,,Tertiary education
+7955439997587858719,EUFRACIO,SALAZAR MARTINEZ,+52 2781069014,NO TIENE,Primary school
+1470002575945831170,Diarra,Oumar,+225 0,,
+7955439997586684321,Blum,,+84 0349180040,,Secondary school
+1470002575945831148,Assale,Essoua Konin Stanislas,+225 0,,Tertiary education
+1470002575936435133,Alfonso Enrrique Romero Flores,Romero Flores,+504 0,,
+7955439997587862009,ERASMO,MONTALVO TELLEZ,,,
+1470002575936435236,Jeremias Castro Cordova,Cordova,+504 0,,Primary school
+7955439997587859456,JORGE,MONTALVO MONTALVO,+52 2781185548,,Primary school
+7955439997587858813,CELIA,GASPAR SANCHEZ,+52 0,NO TIENE,Primary school
+7955439997586683732,Xuan Long,To,+84 827896876,,Secondary school
+7955439997586682476,Thi Phuong,Lam,+84 382328964,,Secondary school
+7955439997587858935,SILVINO,SANCHEZ VIVEROS,,,
+7955439997586685204,Quang Kiet,Tran,+84 0945635289,,Secondary school
+7955439997586687417,Phi,Nguyen,+84 0984296114,,Secondary school
+1470002575945831179,Fayama,Mamadou,+225 0,,
+1470002575936435257,Jose Pastor Padilla Ponce,Padilla Ponce,+504 0,,Primary school
+7955439997586682282,Thi Hien,Bui,+84 973559297,,Primary school
+7955439997587861565,VALENTIN,DE JESUS,+52 2781221327,,Primary school
+7955439997586683391,Cong Hai,Hoang,+84 347478503,,Secondary school
+1470002575936435304,Mario Adoni Torres Hernandez,Torres Hernandez,+504 0,,
+7955439997587861692,JUAN,MEZA APONTE,+52 2722256862,,Secondary school
+7955439997586682445,Van Hien,La,+84 375112540,,Primary school
+1470002575945831182,Kabore,Issa,+225 0,,
+7955439997586683384,Cong Khoa,Hoang,+84 369196649,,Secondary school
+7955439997586682313,Dinh Nam,Nguyen,+84 984020136,,Secondary school
+7955439997586687403,Thai Hoc,Nguyen,+84 0972872774,,Secondary school
+7955439997586685170,Ngoc Se,Nguyen,+84 0332934568,,Tertiary education
+7955439997586686902,Van Can,Pham,+84 0365559448,,Secondary school
+1470002575945831199,Lankouande,Issiaka,+225 0,,
+7955439997586683660,Hoang Huy,Pham,+84 867590586,,Secondary school
+7955439997586682325,Duy Nhac,Nguyen,+84 979823990,,Secondary school
+1470002575945822283,Koala,Yamba,+225 0,,Primary school
+1470002575945812192,Bohoussou,Kouassi Lambert,+225 0,,Primary school
+7955439997587861528,MARIA,AMADOR XOCHIQUIQUIXTLE,,,
+7955439997588499922,KOUAKOU,KOUAKOU,+225 0708551908,,
+1470002575945812036,Bado,Maurice,+225 0,,
+1470002575945812052,Kabore,Lalraogo,+225 0,,
+1470002575945812038,Bougoum,Anasse,+225 0,,Primary school
+7955439997587858916,RICARDO,CABANZO SANCHEZ,,,
+7955439997587858898,EVARISTO,CRISTINO MONTALVO,+52 2383893474,,Senior High School
+7955439997587858859,YESICA,MARTINEZ RAMIREZ,+52 2381329559,,Primary school
+1470002575945812296,Kouakou,Yao Jules,+225 0,,Primary school
+1470002575945812552,Kouakou,Koffi Eric,+225 0,,Tertiary education
+1470002575945812516,Zongo,Rasmane,+225 0,,
+1470002575945812217,Kinda,Zakaria,+225 0,,
+7955439997587858848,RODOLFO,MARTINEZ YAÑEZ,,,
+1470002575945812542,Kabore,Raphael,+225 0,,Primary school
+7955439997587858815,CLEMENCIA,GARZON MONTALVO,+52 2381329559,,
+1470002575945812144,Kone,Flanon,+225 0,,
+7955439997587861599,FRANCISCO,TETZOYOTL IXTACUA,+52 2712441610,,Secondary school
+1470002575945812220,Koffi,Ahou Helene,+225 0,,
+1470002575945812316,Kouassi,Yao Aubin,+225 0,,Primary school
+1470002575936436602,Vicente Martinez Bonilla,Bonilla,+504 0,,
+7955439997587858928,EDITH,CONTRERAS RIVERA,+52 2224731091,NO TIENE.,
+7955439997587861600,JOSE,ATLAHUA FLORES,+52 2781169189,,Primary school
+1470002575945812559,Nebie,Adama,+225 0,,Primary school
+1470002575945815899,Togbaho,Simon Abraham,+225 0,,Primary school
+7955662907699201046,Paulino Santos Orellana,Orellana,+504 99984012,,
+7955439997587861598,LEOBARDO,AMADOR TEPOLE,,,Secondary school
+7955439997586685348,Xui,,+84 0373180165,,
+7955439997587861596,MARTIN,TELLO RODRIGUEZ,+52 2711660210,,Primary school
+7955439997586684220,0 Ngrap,,+84 0374788551,,Secondary school
+7955439997588499913,COULIBALY,ISSA,+225 0504180094,,Primary school
+1470157558628971343,RAMESH KRISHNAIAH ACHARYA,,+91 null,,Primary school
+1470157558628970818,VAIKKATTIL RAMAKRISHNA LALITHA SHIVAN,,+91 9447228458,,
+1470157558628971463,RAGHAV HORANADU,,+91 7899085509,,
+1470002575945831309,Tontyaré,Kimsé M,+225 0,,
+7955662907699201300,Julio Cesar Palma Murillo,,+504 96956475,,
+7955439997586682278,Tien Han,Hoang,+84 974914524,,Secondary school
+7955439997586682401,Cong Trong,Hoang,+84 963657978,,Secondary school
+1470002575945815975,Bamba,Andoulaye,+225 0,,
+7955439997586683574,Van Son,Nguyen,+84 838452676,,Primary school
+1470002575945831297,Sombié,Abdoulaye,+225 0,,
+7955439997586686851,Van Thanh,Nguyen,+84 0384689556,,Secondary school
+1470002575936435561,Darlyn Adolfo Hernandez Hernandez,Hernández Hernandez,+504 0,,Secondary school
+7955439997586683386,Ngoc Tin,Nguyen,+84 337739866,,Secondary school
+7955439997586687435,Bot,,+84 0343722089,,
+1470002575945816025,Kone,Yahoue,+225 0,,
+7955439997586687533,Hai,,+84 0327605338,,Primary school
+7955439997586682488,Thi Thao,Le,+84 964237085,,Secondary school
+7955439997586682311,Van Minh,Nguyen,+84 378239314,,Secondary school
+7955439997586687030,Thi Tam,Nguyen,+84 0912692578,,Secondary school
+1470002575945815954,Ouedraogo,Soumaila,+225 0,,
+1470002575936436462,Reinaldo Muñoz Vasquez,Vasquez,+504 0,,Primary school
+1470002575936436362,Nolvin Eliazer Leiva Rivera,Rivera,+504 0,,Secondary school
+1470002575945831393,Baboue,Leon,+225 0,,
+1470002575936435811,Heidy Sarahi Soriano Mendoza,Soriano Mendoza,+504 0,,Primary school
+1470002575945831447,Naba,Azoubina,+225 0,,
+1470002575945822264,Bagaya,Idrissa,+225 0,,
+7955439997586683395,Thi Ngoc Lien,Le,+84 832515152,,Secondary school
+7955439997586687366,Thi Huong,Le,+84 0368911179,,Secondary school
+7955439997586683672,Thi Le,Nguyen,+84 369647113,,Primary school
+1470002575936436202,Maria Del Carmen Gonzalez Gonzalez,Carmen González González,+504 0,,Secondary school
+7955662907699201042,Melvin Portillo Vega,Portillo Vega,+504 98233840,,Primary school
+1470002575945822274,Ouermi,Madi,+225 0,,
+7955439997586685205,Hoang Loc,Nguyen,+84 0343962655,,Tertiary education
+1470002575936435833,Isaura Estrada,Estrada,+504 0,,
+7955439997586687395,Duc Phuong,Nguyen,+84 0979169389,,Secondary school
+7955439997586682271,Van Dung,Do,+84 792343094,,Tertiary education
+7955439997586687372,Ngoc Tai,Vo,+84 0399773577,,Secondary school
+7955439997586685163,Anh Thuan,Tran,+84 0383089599,,Tertiary education
+7955439997586683603,Thi Tuyet Thuy,Huynh,+84 937057353,,Secondary school
+7955439997586687400,Thi Ha,Vo,+84 0385443725,,Secondary school
+7955439997586682403,Van Trung,Luu,+84 386269615,,Primary school
+1470002575936436027,Josue Rogelio Gonzales Reyes,Gonzales Reyes,+504 0,,Primary school
+7955439997586683570,Van Hoach,Tran,+84 989669807,,Secondary school
+7955439997586683506,Dinh Lam,Vo,+84 865365295,,Secondary school
+1470002575945822918,Bleu,Emile,+225 0,,Primary school
+7955439997586683688,Thi Hong Hanh,Dao,+84 0938819832,,Secondary school
+7955439997586687516,Thi Long,Dang,+84 0981211709,,Primary school
+1470002575945829848,Sanga,Tiehi Mathurin,+225 0,,
+1470002575945830053,Konate,Fankie,+225 0,,Tertiary education
+7955439997588499935,TIENDREBEOGO,BENJAMIN,+225 0757648620,,
+1470002575945829741,Zango,Inoussa,+225 0,,
+1470002575945830076,Tapsoba,Boukare,+225 0,,Primary school
+1470002575936436181,Marcos Ulloa,Ulloa,+504 0,,Primary school
+1470002575945829956,Sanon,Joseph,+225 0,,
+1470002575945829178,Porgo,Madi,+225 0,,Primary school
+7955439997586687475,Van Vu,Phan,+84 0386622945,,Primary school
+1470002575945830089,Yeo,Tanna,+225 0,,
+1470002575945829977,Guembre,Mahamadi,+225 0,,
+1470002575945829161,Saba,Demkaye,+225 0,,
+7955439997586682339,Van Phu,Pham,+84 382592027,,Secondary school
+1470002575936436430,Pedro Pineda Perdomo,Perdomo,+504 0,,Primary school
+1470002575945829351,Sawadogo,Norbert,+225 0,,
+1470002575945829459,Zongo,Yacouba,+225 0,,Primary school
+7955439997586683618,Van Duong,Tran,+84 354717709,,Secondary school
+1470002575945829970,Soro,Dognime,+225 0,,
+7955439997586685923,Liu,Puih,+84 0342262168,,Primary school
+7955439997586682259,Van Dai,Nguyen,+84 388495520,,Secondary school
+7955439997586683461,Van Trong,Nguyen,+84 347268310,,Secondary school
+7955439997586685935,Men,Ksor,+84 0357973086,,Secondary school
+7955439997586687500,Duc Phu,Ho,+84 0347459758,,
+7955439997586687354,Van Khiem,Le,+84 0389477471,,
+7955439997586682286,Van Hoang,Pham,+84 977850862,,Secondary school
+7955439997586683467,Van Nhat,Dao,+84 374797143,,Secondary school
+1470002575936435800,Gustavo Vega Perdomo,Perdomo,+504 0,,Primary school
+7955439997586683653,Ngoc Tan,Nguyen,+84 0839900538,,Tertiary education
+7955439997586683667,Thanh Hien,Nguyen,+84 906950050,,
+1470002575945827521,Gba,Ouega Henriette,+225 0,,
+1470002575945826113,Fofana,Yacouba,+225 0,,Tertiary education
+1469278379854782229,T?n Phong,Nguy?n,+84 395411258,,Secondary school
+1470002575945823188,Kiendrebeogo,Ouanessida Michel,+225 0,,
+1470157558564695065,Nhung,Dong Thi,+84 0366095495,,Secondary school
+1470002575945822966,Diomande,Lacine,+225 0,,
+1470002575945819598,Ouhin,Tokpa Jean,+225 0,,Primary school
+1470002575945819604,Ouin,Oulai Ferdinand,+225 0,,Primary school
+1470002575945826851,Sawaadogo,Harouna,+225 0,,Primary school
+1470002575945819373,Die,Decanou Adeline,+225 0,,
+1470002575945822925,Boni,Gbeho,+225 0,,Primary school
+1470002575945823612,Sewa,Gongbe Jerome,+225 0,,Primary school
+1469592163271958238,PEDRO,LEON LOPEZ,+52 9641138022,,
+1470002575945819884,Blah,Oulai Etienne,+225 0,,Tertiary education
+1469592163271954699,HORACIO,ESPINIOSA HERNANDEZ,+52 9621041571,,Tertiary education
+1469592163271956459,ISAI,GONZALEZ MORALES,+52 9625648125,,Secondary school
+1470157558564695029,Dai,Nguyen Van,+84 0798807988,,Secondary school
+1469592163271958696,ISIDRO,LOPEZ PEREZ,+52 9646279374,NO TIENE.,Secondary school
+1469278379855013201,Th?m,Nguy?n Th?,+84 946826213,,Secondary school
+1470157558564694968,Vinh,Cao Van,+84 0972943069,,Secondary school
+1469592163271956517,ERNESTO,GONZALEZ PEREZ,+52 9625648125,,
+1469278379855013711,Thông,Bùi Minh,+84 853343238,,Tertiary education
+1469278379855013162,Long,Phan V?n,+84 363680550,,Secondary school
+1470157558564695503,Quynh,Nguyen Thi,+84 0335396892,0,Primary school
+1469278379855013999,Tín,Võ ?ình,+84 385679801,,Secondary school
+1469278379855013178,Tram,??ng ?ình,+84 336423561,,Secondary school
+1469278379855013709,H??ng,Phan Th?,+84 353846676,,Secondary school
+1470157558564695302,Quang,Nguyen Trung,+84 0328678711,,Secondary school
+1469278379855013866,Tình,Nguy?n Th?,+84 344058519,,Secondary school
+1470157558564695246,Bros,K,+84 0379044680,,Secondary school
+1469278379855014013,Phong,Lê V?n,+84 989673756,,Tertiary education
+1470002575945826812,Younga,Idrissa,+225 0,,Tertiary education
+1470002575945815400,Toure,Moussa Alexandre,+225 0,,Primary school
+1470157558564696020,Nhung,Dao Thi,+84 0969873289,0,Secondary school
+1470157558564695015,Hung,Le Van,+84 0358941580,,Secondary school
+1470157558564695278,Tai,K,+84 0356446106,,Secondary school
+1470157558564696048,Hang,Nguyen Thi,+84 0385384857,0,Tertiary education
+1470157558564694955,Chung,Phong Quy,+84 0979977427,,Secondary school
+1470157558564695316,Cuc,Pham Thi,+84 0377003941,,Secondary school
+1469592163271966877,CAROLINA,ZAMORA SANTOS,,,Tertiary education
+1470002575956819287,FRANCISCO,BRAVO MORALES,+52 9614858354,,Secondary school
+1470002575936435666,Enrique Murillo Orellana,Orellana,+504 0,,Primary school
+1469592163271966831,ELIZABETH,ZAMORA MENDEZ,,,
+1470002575945818784,Sia,Jean Marie,+225 0,,Primary school
+7955662907699201023,Elmer Nahun Lara Enamorado,Lara Enamorado,+504 96098670,,Primary school
+1470002575936435240,Jose Antonio Elvir,Elvir,+504 0,,Primary school
+1469592163271964379,RENATA,SCHALIT CHANG,+52 9622537004,svenschalit@gmail.com,Tertiary education
+1469986569858493820,WELSY,FIGUEROA GONZALEZ,+52 9625159613,,Secondary school
+1470002575945826389,Porgo,Hamidou,+225 0,,
+1470002575945828681,Zran,Alphonse,+225 0,,
+1470002575945815204,Godie,Hortense,+225 0,,
+1470157558564695670,Thai,Nguyen Viet,+84 0977286106,0,Secondary school
+1470002575945818642,Dria,Daniel,+225 0,,Primary school
+1470157558564694951,Pau,Che Nhoc,+84 0972958024,,Secondary school
+1469278379855012351,Lý,H? V?n,+84 399738789,,Secondary school
+1469278379855012457,Th?o,Lê Th?,+84 374084674,,Secondary school
+7955662907699201188,Vicente Murillo Murillo,Murillo Murillo,+504 92455222,,Primary school
+1470157558564695696,Hoa,Bui Thi,+84 0814786249,0,Secondary school
+1469278379855013783,T?,Ngô Thái,+84 979323678,,Secondary school
+1470002575956819423,JAIME,LOPEZ PEREZ,+52 9641080147,,
+7955439997582573439,K?,V? Th?,+84 0916638915,,Secondary school
+7955439997582573418,Th?,V??ng ??c,+84 0377999180,,Primary school
+1470157558564695255,Tam,Pham Minh,+84 0384385322,,Secondary school
+1470002575936435348,Ronis Randolfo Ramirez Castillo,Ramirez Castillo,+504 0,,Primary school
+1470157558564696083,Tu,Le,+84 0975203166,,Secondary school
+1469278379855009957,??c,Lê V?n,+84 966912583,,Secondary school
+1470002575945815356,Sawadogo,Konyakonbasseba,+225 0,,
+1470157558564695271,Que,Duong Van,+84 0977892634,,Secondary school
+1469592163271951607,CIELO,AGUILAR MORALES,+52 9641161091,,Secondary school
+1469592163271951933,TRANSITO,DE LEON,+52 0,NO TIENE.,Primary school
+1470002575945827931,Kpanle,Therese,+225 0,,
+1470157558564694924,Sau,K,+84 0393451889,,Tertiary education
+7955439997582573651,Dung,Ka,+84 0916538269,,Tertiary education
+1470002575956819417,HERMILO,DE LEON,+52 9181190792,NO TIENE.,Primary school
+1470002575945826131,Guiro,Arouna,+225 0,,Tertiary education
+1469278379855013081,Ho?t,Nguy?n V?n,+84 373120720,,Tertiary education
+1469278379855012250,L?,Tr?nh V?n,+84 979178069,,Secondary school
+7955662907699201026,Guillermo Barrientos Amaya,Barrientos Amaya,+504 97038989,,Primary school
+1469278379855013134,D?ng,H? S?,+84 859158458,,Secondary school
+1470002575945826322,Ouedraogo,François,+225 0,,Primary school
+1470157558564694907,Sau,K,+84 0354154426,,Tertiary education
+1469278379855009939,Th?m,Tr?n Th? Thanh,+84 338613750,,Secondary school
+1470002575945815250,Kouan,Aime,+225 0,,Primary school
+1470157558564695463,Tho,Thai Van,+84 0388038088,0,Secondary school
+7955439997582573662,Th?y,Ka,+84 0978432724,,Secondary school
+7955439997582573336,H?ng,Nguy?n Th?,+84 0389246599,,Primary school
+1470157558564694891,Phien,Pham Van,+84 0984051733,,Primary school
+1469278379855013106,Ng?c,Phan Công,+84 376216202,,Secondary school
+1469278379855013088,?ào,Bùi Th?,+84 965159062,,Secondary school
+1470157558564695244,Thanh,Vo Duy,+84 0794783417,,Secondary school
+7955439997582573280,D?ng,Nguy?n V?n,+84 0976903178,,Tertiary education
+1469278379855012632,Hluk,R? Châm,+84 332117889,,Tertiary education
+1470157558564696022,Giang,Bui Van,+84 0858855839,,Tertiary education
+1470157558564695655,Mo,Hoang Thi,+84 0868208216,0,Secondary school
+1470157558564695976,Thao,Nguyen Thi,+84 0369126782,,Secondary school
+1470157558564695748,Hoa,Nguyen Thi,+84 0989308207,,Tertiary education
+1470157558564695621,Hua,Nguyen Thi,+84 0906899062,,
+1470157558564694696,Van,Nguyen Van,+84 0363092223,,Secondary school
+1470157558564695719,Duc,Lam Van,+84 0833731769,,Primary school
+1470157558564695009,Truc,Truong Cong,+84 0934025779,,Secondary school
+1470157558564695323,Thanh,Nguyen Duc,+84 0978238273,,Secondary school
+7955439997582573707,Muôn,Ph?m Th?,+84 0395795195,,Secondary school
+7955439997582573750,T??ng,L?u Quang,+84 0978083491,,Secondary school
+1470157558564695896,Khanh,K,+84 0862051667,,Secondary school
+7955662907699201170,Petrona Aminta Perez,perez,+504 95625998,,Primary school
+1470002575945826660,Keita,Salif,+225 0,,
+1470157558564695510,Do,Nguyen Duc,+84 0348832625,0,Secondary school
+1469592163271962113,ISMAEL,PERES HERNANDEZ,+52 9642828448,,Primary school
+1469592163271961656,OSVALDO,OSUNA SANTOS,+52 9642828316,,Tertiary education
+1470157558564696041,Tuan,K,+84 0365563450,,Primary school
+1469592163271962434,MARIO,PEREZ RODRIGUEZ,+52 9181007083,NO TIENE,Primary school
+1470002575945826840,Sanfo,Amado,+225 0,,
+1470157558564695528,Hoang,Le Sy,+84 0974605422,0,Primary school
+1470002575945828197,Oulai,Guede Maxime,+225 0,,Primary school
+1469592163271963764,ISAÍ,RODRÍGUEZ NOLASCO,+52 9641120747,,Primary school
+1470157558564695683,Manh,Ngo Viet,+84 0971337858,0,Primary school
+1469592163271963897,SANTOS,ROBLERO PEREZ,+52 9641063114,,
+1469592163271956708,MARINA,GONZALEZ VELAZQUEZ,+52 9623534674,,Primary school
+1470157558564695362,(gia),Nguyen Thi Dung,+84 0982237521,,Secondary school
+7955662907699201181,Pedro Perez Palma,,+504 92267024,,Primary school
+1469592163271957049,URIEL,HERNANDEZ DIAZ,+52 9625179903,,Primary school
+1470157558564694762,Phuong,Tran Van,+84 0989339684,,Secondary school
+1470157558564695971,Hoi,Vu Dinh,+84 384123009,,Primary school
+1469278379855004484,Thành,Nguy?n Th?,+84 341682279,,Secondary school
+7955439997582573852,Chông,R? Ông Ha,+84 0367916847,,Primary school
+1470157558564694892,Hanh,Nguyen Van,+84 0944827887,,Secondary school
+1470157558564694811,Tinh,Pham Xuan,+84 0334364489,,Secondary school
+1469592163271962452,VICENTE,PEREZ RODRIGUEZ,+52 9618112682,,Secondary school
+7955439997587860139,DANIEL,PEREZ VELAZQUEZ,+52 9646279530,NO TIENE.,Primary school
+1469883818362504929,T?,Nguy?n Th?,+84 355130682,,Primary school
+7955439997582574258,Tính,?ào V?n,+84 0357078356,,Secondary school
+1469592163271951077,BERZAIN,ARMAS VELAZQUEZ,+52 5665166939,,Secondary school
+1470157558564695361,Duyen,Nguyen Hanh,+84 0337434600,,Secondary school
+1469278379855011999,Tu?n,?? V?n,+84 989745575,,Secondary school
+7955439997582573897,Pút,K,+84 0376916912,,Primary school
+1470002575945820006,Kone,Zoumana,+225 0,,
+1470157558564695454,Linh,Nguyen Thi,+84 0332425426,0,Secondary school
+1470157558564695955,Bron,K,+84 0948437524,,Tertiary education
+1470002575945819969,Ouattara,Massieke,+225 0,,
+1469278379855012134,Liên,Tr?n Th?,+84 865637296,,Secondary school
+1470157558564695707,Thang,Nguyen Van,+84 0988400258,,Tertiary education
+1469278379855012195,Tu?n,Phan Xuân,+84 383741923,,Secondary school
+1470157558564695072,Luan,Tran Quoc,+84 0967348329,,Tertiary education
+1469278379855012035,Dun,R? Châm,+84 393432144,,Secondary school
+1470157558564695386,Vinh,Ho Quang,+84 0975077391,,Secondary school
+1469278379855012118,??c,Võ Xuân,+84 934846382,,Secondary school
+7955439997582574177,Thu?c,Bùi V?n,+84 0984418041,,Primary school
+7955439997582573822,Viên,Nguy?n Th?,+84 0978110154,,Secondary school
+7955439997582573782,Tuyên,Hoàng V?n,+84 0963526609,,Secondary school
+1470157558564695154,Thuy,Nguyen Thi,+84 0976584681,,Tertiary education
+1470002575945823122,Ilboudo,Dramane,+225 0,,
+1470002575945819961,Sidbega,Adama,+225 0,,
+1470002575945819631,Porgo,Seydou,+225 0,,
+1470157558564695090,Tuan,Hoang Van,+84 0382370657,,Tertiary education
+1470157558564695774,Dai,Ka,+84 0353177471,,Primary school
+1470157558564695579,Vu,Nguyen,+84 0986283667,,Secondary school
+1470002575956819449,MARINO,MORALEZ VELASQUEZ,+52 9624305552,,Primary school
+1470002575945819649,Sankara,Salifou,+225 0,,Primary school
+1470157558564695134,Thanh,Nguyen Thi,+84 0382931538,,Tertiary education
+1470002575945819562,Ouedraogo,Isso,+225 0,,
+1470157558564695932,Lien,Bui Thi,+84 0369160375,,Secondary school
+1470002575945819418,Guembre,Bangba,+225 0,,
+1470157558564695567,Thuy,Pham Dinh,+84 0342294319,,Tertiary education
+1470002575945819660,Savadogo,Yacouba,+225 0,,
+7955439997587862079,TOMAS,ARRIAGA GORDILLO,+52 9601866988,,Primary school
+1470002575945820030,Kabore,Hamidou,+225 0,,
+1470157558564695201,Thao,Hoang Anh,+84 0946118081,,Tertiary education
+1469592163271957710,RODOLFO,JERONIMO ROBLERO,+52 9617693224,,Secondary school
+1470002575945819650,Sankara,Zakaria,+225 0,,
+1469592163271952064,SANTIAGO,BRAVO PEREZ,+52 9721043635,,
+7955439997582573679,???c,Hu?nh V?n,+84 0378387541,,Secondary school
+1470157558564695836,Chich,Tran Thi,+84 0352143317,,Primary school
+1470002575945819662,Sawadogo,Assane,+225 0,,
+1469592163271965018,RODOLFO,SALAS VELAZQUEZ,+52 9641010827,,Primary school
+1469592163271960033,ANGEL,MEJIA PEREZ,,,Primary school
+7955439997582573772,Nh?t,Tri?u V?n,+84 0984998553,,University
+1470002575945819639,Romba,Moumouni,+225 0,,
+1469278379855009862,Tin,Ph?m ?ình,+84 982829564,,Secondary school
+1469592163271954845,SAUL,ESCOBAR SANCHEZ,+52 9621720445,NO TIENE.,Primary school
+7955439997582574029,Ho?ng,Nguy?n V?n,+84 0984172386,,Secondary school
+1469278379855012981,Long,??ng ?ình,+84 975261507,,Tertiary education
+1469278379855009801,Hoàng,Nguy?n Xuân,+84 935928231,,Secondary school
+1470157558564695571,Vay,Nguyen Van,+84 0335617682,,Secondary school
+1470002575956821719,ERVIN,PEREZ VAZQUEZ,,,Primary school
+1470002575945823060,Gbehi,Guei Emile,+225 0,,Primary school
+1470002575945819573,Ouedraogo,Ousmane,+225 0,,
+1470157558564695188,Thuong,K,+84 0383456250,,
+1470002575945819447,Kabore,Karim,+225 0,,
+1470002575945819474,Kabre,Adama,+225 0,,
+1470002575945819886,Zoungrana,Boureima,+225 0,,Primary school
+7955439997582573956,H??ng,Nguy?n Th?,+84 0836875576,,Secondary school
+1470002575945819673,Sawadogo,Moussa,+225 0,,
+1470157558564695798,Broi,K,+84 0365428152,,Primary school
+1470002575945819865,Kabore,Songrenoma Ambroise,+225 0,,
+1469592163271962078,JOEL,PEREZ GONZALEZ,,,
+1470002575945819565,Ouedraogo,Koudbi,+225 0,,
+1469278379855012956,Tr?ng,Nguy?n ??c,+84 969477555,,Tertiary education
+1470002575945819340,Banda,Moumouni,+225 0,,
+1469278379855012979,Qu?nh,??ng ?ình,+84 382048336,,Secondary school
+7955439997582574083,Xuân,Ph?m Th?,+84 0334255960,,Primary school
+7955439997582573380,Hoá,Nguy?n Hoàng ??c,+84 0941714759,,Senior High School
+1469592163271965242,ARCADIO,SOLIS PEREZ,+52 9622706270,,
+1469278379855012901,?u,Lê H?i,+84 392909004,,Secondary school
+1470157558564695151,Tang,K,+84 0393364070,,Tertiary education
+1469592163271953490,CESAR,COSME ESPINOZA,+52 9622590745,csrcosme@gmail.com,Tertiary education
+7955439997583324761,Ka Hoàn,.,+84 0829977472,không,Secondary school
+1470157558564695800,Tu,K,+84 0383095265,,Primary school
+7955439997583324905,Ka H?p,.,+84 376223915,không,Secondary school
+1469278379855012971,Bình,Mai Xuân,+84 365544135,,Tertiary education
+1469278379855009787,Luy?n,Nguy?n Th?,+84 984961164,,Secondary school
+1470157558564696089,Te,Le Xuan,+84 0917824962,,Secondary school
+7955439997582573354,Phong,??ng V?n,+84 0347223721,,Secondary school
+1469278379855009791,Liên,Lê Th? Kim,+84 982826726,,Secondary school
+7955439997582574093,V?n,Nguy?n V?n,+84 0395016430,,Primary school
+7955439997582573959,Ph??ng,Nguy?n Th?,+84 0348407785,,Secondary school
+1469278379855012985,Vinh,Nguy?n Kh?c,+84 977831479,,Secondary school
+7955439997583325890,?ình Nh??ng,Tr?n,+84 0368049620,,Secondary school
+7955439997583325089,Th? Tuy?t,L?i,+84 0349773429,0,Secondary school
+7955439997583325665,T?t L?c,L??ng,+84 0905610216,0,Secondary school
+7955439997583325143,Qu?c Tr?ng,L??ng,+84 868975760,không,Secondary school
+1469592163271954239,JUAN,DIAZ SANTIZ,+52 8143304002,,
+7955439997583325117,Thi?u,?oàn,+84 373200905,không,Secondary school
+1469592163271962263,MARGARITA,PEREZ MEJIA,+52 9641372070,,Primary school
+1469592163271956653,RODRIGO,GONZALEZ SARGENTO,+52 9641085146,,Primary school
+1469592163271962368,JUANA,PEREZ PEREZ,+52 8143304002,,Primary school
+1469592163271958337,BERNARDO,LOPEZ ALFARO,+52 9641160671,NO TIENE.,Primary school
+7955439997583325939,V?n Toàn,Nguy?n,+84 0349697607,,Primary school
+7955439997583325875,Quang ?i?u,Nguy?n,+84 0362033275,,Secondary school
+7955439997583325325,Th? H?ng,Tr?n,+84 0869190952,0,Secondary school
+7955439997583325348,A Há,Vòng,+84 816746538,không,Secondary school
+1470002575956821870,JUAN,LOPEZ BARTOLON,+52 9601006884,,Primary school
+1469278379855013358,B?,B?,+84 365474822,,Secondary school
+1469278379855013404,Lý,Tr?n Th? H?i,+84 823811879,,Secondary school
+1470002575956819363,DIEGO,AGUILAR SANTIZ,,,
+1469278379855014583,Côi,Nguy?n V?n,+84 989144570,,Secondary school
+1470002575956821868,BLANCA,VELAZQUEZ BRAVO,+52 9641370054,,Primary school
+1469592163271956256,JAVIER,GONZALEZ ESCALANTE,+52 9642039429,,Secondary school
+7955439997582576310,Sáu,Tr?nh Th?,+84 0358807757,,Primary school
+1469278379855014611,Minh,?ào V?n,+84 386507544,,Tertiary education
+7955439997582576316,B?n,?inh V?n,+84 0396033035,,Secondary school
+7955439997583325744,Th? V??ng,??,+84 0966171545,,Secondary school
+1470002575956819390,MARIA,GONZALEZ VELAZQUEZ,+52 0,NO TIENE.,Primary school
+7955439997582573318,Th??ng,Tr?nh Xuân,+84 0906009888,,Secondary school
+1470002575945827273,Diomande,Tiemoko Lambert,+225 0,,Tertiary education
+7955439997583325269,V?n Ph??ng,Hoàng,+84 0969260976,0,Secondary school
+1469592163271955087,JOSEFINA,FIGUEROA RODRIGUEZ,,,Primary school
+1470002575956821872,ABEL,VELAZQUEZ PEREZ,+52 9641382146,,
+1470002575945828406,Soumahoro,Gue Antoinette,+225 0,,
+7955439997582573554,Lin,Ha,+84 368792165,,Secondary school
+1469278379855014591,Nga,Ph?m Th?,+84 393713342,,Secondary school
+1469278379855014596,Ph??ng,Tr?n Th?,+84 988607486,,Secondary school
+7955439997583325231,V?n Duy,?inh,+84 0966332067,0,Secondary school
+7955439997582576323,Quy?t,Nguy?n V?n,+84 0978190402,,Secondary school
+1469278379855013918,H?nh,?? Th?,+84 345943205,,Primary school
+7955439997583325840,Ng?c M?nh,T?,+84 0358555938,,Secondary school
+7955439997583325960,Th? Nhài,?inh,+84 0974244158,,Secondary school
+1469278379855013924,Liên,Tr?n Th?,+84 935014238,,Secondary school
+7955439997582576288,Bình,Ph?m V?n,+84 0986902329,,Secondary school
+7955439997582573292,Là,Lê Th?,+84 0911410664,,Secondary school
+7955439997582573484,Lony,Kon Sa,+84 0395485105,,Senior High School
+7955439997583324735,k' bi?p,.,+84 349857036,không,Secondary school
+7955439997583324753,k' Br?i,.,+84 333778526,không,Secondary school
+1470002575945827397,Dosso,NGondjigui,+225 0,,Tertiary education
+1470002575945827251,Diomande,Oueuga,+225 0,,
+1470002575956819375,ALBER,MATIAS MAZARIEGOS,+52 9623993565,,Secondary school
+1469592163271956426,CARLOS,GONZALEZ MEJIA,+52 9641250828,,Secondary school
+7955439997587860171,ALICIA,DE LEON,+52 9625163668,NO TIENE,Primary school
+1470002575956819248,DOROTEO,AGUILAR VERDUGO,+52 9181122597,,Secondary school
+1469883818362505080,Phúc,Thái Ngân,+84 986802710,,Secondary school
+1469592163271956428,DONALDO,GONSALES MEJIA,+52 9624584920,,Secondary school
+1469278379855005426,Gun,RChâm,+84 355801402,,Primary school
+7955439997587860166,FLAVIO,PEREZ ZUNUN,+52 9641234412,,Primary school
+7955439997586929225,HNh?ng,,+84 0365372023,,
+1469883818362505012,Thành,Lê V?n,+84 384127452,,Secondary school
+7955439997583324848,V?n H?c,?oàn,+84 0396905805,0,Secondary school
+1469278379855014451,Phúc,Ph?m Xuân,+84 984021000,,Tertiary education
+1470002575956819361,ANANIAS,PEREZ MORALES,+52 9641145217,NO TIENE,Secondary school
+7955439997583325860,Công Th?ng,Nguy?n,+84 0348857208,,Secondary school
+7955439997583325094,Th? Thanh H??ng,Lê,+84 0394994323,0,Secondary school
+1469278379855014731,Ni,D??ng Hàn,+84 912652261,,Secondary school
+7955439997583325804,Th? T?,D??ng,+84 0983443459,,Secondary school
+1469592163271961931,JAIRO,PEREZ BRAVO,+52 9641250828,,Primary school
+7955439997587862108,ESTHELA,LEÒN SALAS,+52 9624666002,,Secondary school
+1470002575956819246,JAEL,GONZALEZ MEJIA,+52 9617050293,,Primary school
+7955439997586929229,Cân,,+84 0376887772,,Secondary school
+7955439997583325072,H?u Hùng,Nguy?n,+84 0395663211,0,Secondary school
+7955439997583325682,T?n Thìn,??,+84 976351828,không,Secondary school
+7955439997583325716,H?u S?,Nguy?n,+84 0978110008,,Secondary school
+7955439997583325714,Quang B?ch,Lê,+84 0367397078,,Secondary school
+7955439997583325743,Xuân ?ô,??,+84 0918568169,,Senior High School
+7955439997583325814,Th? Hà,Tr?n,+84 0985378734,,Secondary school
+1469278379855014657,Th??ng,H? V?n,+84 982673984,,Secondary school
+1469883818362505040,Na,Hoàng Zô,+84 362975285,,Tertiary education
+7955439997583325136,V?n N?m,Nguy?n,+84 968248968,không,Secondary school
+7955439997583325568,Th? Tuy?t,Tr?n,+84 786699785,không,Secondary school
+1469278379855008683,Plinh,Puih,+84 395502215,,
+1469278379855004461,Kek,Puih,+84 328794129,,Secondary school
+1469278379854783274,Phi Hùng,H?,+84 906443512,,Secondary school
+1470002575945828365,Sigui,Manle Suzanne,+225 0,,
+7955439997588499916,DIGBEU,NAHOUNOU MAXIME,+225 0565660991,,Primary school
+1470002575945823114,Gueu,Justin,+225 0,,Secondary school
+1470002575945827988,Louan,Oueukodie Antoine,+225 0,,Primary school
+1470002575945827721,Gue,Loua Pacome,+225 0,,
+1470002575945823466,Pehhou,Amed Gildas,+225 0,,Tertiary education
+1470002575945827252,Diomande,Ouega Brigitte,+225 0,,
+7955439997588499934,TIEMOKO,ALEXIS,+225 0161051395,,Primary school
+1469592163271962897,ANTONIO,RAMIREZ ESCOBAR,+52 9622047976,,Primary school
+1470002575945828569,Troh,Antoine,+225 0,,Tertiary education
+1470002575945827587,Goh,Likade Eugene,+225 0,,
+1470002575945826888,Bakayoko,Marguerite,+225 0,,Tertiary education
+1470002575945818823,Yabli,Gogbe Sebastien,+225 0,,
+1470002575945827224,Diomande,Gueu Pascal,+225 0,,
+1470002575945818760,Ouhama,Gbakoui Fulbert,+225 0,,
+1470002575945828561,Toure,Sopoude,+225 0,,Primary school
+1470002575945818801,Tia,Gouagbe Marcelin,+225 0,,
+1470002575945827204,Diomande,Doua,+225 0,,
+1470002575945828048,Momine,Christophe,+225 0,,Primary school
+1470002575945827286,Dion,Augustin,+225 0,,Primary school
+1470002575945828609,Wohi,Manmy Prosper,+225 0,,
+1470002575945818838,Zogbe,Yoro Augustin,+225 0,,Primary school
+1469592163271960926,MIGUEL,MORALES VILLATORO,+52 9622931547,,Primary school
+1470002575945818836,Zobe,Raoul,+225 0,,
+1470002575945818802,Tia,Ouanma Gerard,+225 0,,Primary school
+1470002575945828565,Toure,Yene,+225 0,,
+1470002575945826896,Bakayoko,Tiemoko,+225 0,,
+1470002575945818829,Yoro,Toure,+225 0,,
+1470002575945818758,Ouan,Tia Casimir,+225 0,,Primary school
+1470002575945818732,Loua,Anatole,+225 0,,Primary school
+1470002575945818664,Gbogbe,Blaise,+225 0,,Primary school
+1470002575945828612,Wohi,Simplice,+225 0,,
+1470002575945827111,Dan,Sahi,+225 0,,
+1470002575956819629,AMILCAR,ROBLERO CANCINO,+52 5545695415,,Primary school
+1470002575945828452,Tia,Oulai Arnaud,+225 0,,Primary school
+1469592163271955139,OSCAR,FLORES CHAVEZ,+52 9622540468,,Tertiary education
+1469592163271962843,JULIO,RAMIREZ BALTAZAR,,,Secondary school
+7955439997583325208,V?n V?,L?u,+84 0339386681,0,Secondary school
+7955439997587382970,THI THU DEP,NGUYEN,+84 0345089664,,Primary school
+1469592163271960239,BRIGIDA,MIRANDA PEREZ,+52 9622732659,,Primary school
+7955439997583325326,Th? Nga,Tr?n,+84 0396879542,0,Secondary school
+1470002575945818641,Douh,Lazard,+225 0,,
+7955439997583325028,Thiêng,Ma,+84 0388158599,,
+7955439997583325019,Ya Kim,,+84 0971812783,,
+7955439997587382976,thim,k',+84 0326794426,,Primary school
+1470002575945828346,Seu,Tan Arsene,+225 0,,
+1470002575945827564,Gnakoe,Marie,+225 0,,Primary school
+7955439997583325633,Bùi,V?n ??c,+84 838141777,không,Secondary school
+7955439997583325183,?ình Lâm,Võ,+84 0865365295,0,Secondary school
+7955439997583325017,Neu Huynh,Ma,+84 0338259299,,Secondary school
+1470002575945818674,Gogbede,Yake Fulbert,+225 0,,Tertiary education
+1469278379855014057,Ph?n,Nguy?n Th?,+84 937134269,,Primary school
+1470002575945827296,Dion,Dehi Anatole,+225 0,,Tertiary education
+1469278379855014078,?ông,Tr?nh V?n,+84 344137896,,Secondary school
+7955439997583324983,Tou Prong Ya ?uy?t,.,+84 0968667917,,Secondary school
+7955439997587382630,CONG HAI,PHAN,+84 0919582813,,Secondary school
+7955439997586929230,V?n Chi?u,Bùi,+84 0397940664,,Primary school
+7955439997586929227,Xuân Toán,Nguy?n,+84 968813745,,Secondary school
+7955439997583324930,k 'Jin,.,+84 338597535,không,Secondary school
+1470002575945827301,Dion,Emmanuel,+225 0,,Primary school
+1470002575945827192,Dio,Georges,+225 0,,Primary school
+1470002575945818819,Ty,Sahi Jeosephine,+225 0,,Tertiary education
+1470002575945827882,Kone,Lancine,+225 0,,Tertiary education
+7955439997583325318,Th? Mai,?oàn,+84 0868208497,0,Secondary school
+1470002575956819661,ANGEL,PEREZ HERNANDEZ,+52 9622925290,,Secondary school
+7955439997587382959,TAN DONG,DINH,+84 0374573559,,Secondary school
+7955439997587382605,HUY THANG,HOANG,+84 0399415812,,Secondary school
+7955439997583324994,S?m,.,+84 0368976630,,Secondary school
+7955439997586929231,Th? B?o,Nguy?n,+84 0338750213,,Secondary school
+1470002575945826974,Bih,Sylvain,+225 0,,Tertiary education
+1469278379855014157,Hi?u,??ng V?n,+84 393764032,,
+1469278379855008618,H?i,Tr?nh V?n,+84 935561642,,Secondary school
+1469278379855014171,Nhi,Tr?n Th?,+84 979983017,,
+1470002575945827026,Bleu,Matoma Solange,+225 0,,
+7955439997587382927,THANH PHUONG,LE,+84 0866442371,,Secondary school
+7955439997587382872,CONG LOC,TRAN,+84 0979266881,,Tertiary education
+7955439997587382925,DINH TRUONG,TRAN,+84 0346127370,,Secondary school
+7955439997583324819,Trung Kiên,Hoàng,+84 0399853152,0,Secondary school
+7955439997587382625,HUNG CUONG,MAI,+84 0342995900,,Primary school
+1470002575945818834,Zingbe,Kpan Yvonne,+225 0,,
+7955439997583324912,Ka Chêm,.,+84 336353941,không,Secondary school
+7955439997583324962,Ya Th?i,.,+84 0353016790,,Primary school
+1470002575945827703,Gue,Aime,+225 0,,Primary school
+7955439997583325219,Th? Quých,L?u,+84 03634910304,không,Primary school
+7955439997587382532,VAN NGAN,TRAN,+84 0332396939,,Secondary school
+7955439997587382600,THI TAN,TRAN,+84 0353092414,,Primary school
+7955439997587382546,VAN VU,NGUYEN,+84 0949176913,,Primary school
+7955439997587382711,Nam,K',+84 0985356413,,Secondary school
+7955439997587382536,VAN NAM,VU,+84 0345267112,,Secondary school
+7955439997587382655,TIEN GIAP,DANG,+84 0968765585,,Secondary school
+7955439997587382663,VAN BACH,NGUYEN,+84 0979804967,,Secondary school
+7955439997587382733,KA HIEU,Ka,+84 0385399376,,Secondary school
+7955439997583324831,V?n Hi?u,Ph?m,+84 0345965866,không,Secondary school
+7955439997583325281,Minh Ph?,Tr?n,+84 0385520369,,Secondary school
+7955439997583324824,Ti?n Hân,Hoàng,+84 0974914524,,Primary school
+7955439997587382477,VAN DUNG,NGUYEN,+84 0961576598,,Secondary school
+1469278379855004689,Vi?t,Lê,+84 344725761,,Secondary school
+7955439997583324839,Vinh Ngôn,Lê,+84 0979728521,,Primary school
+1469278379855004656,D?ng,Tr?n Ti?n,+84 938618679,,Secondary school
+7955439997587382726,Duong,K',+84 0384939643,,Secondary school
+7955439997583325030,Th? Hoa,Ph?m,+84 0379921514,0,Primary school
+1469278379855004745,N?ng,Nguy?n Bá,+84 989660637,,Secondary school
+7955439997583324818,Th? Nga,Tr?n,+84 0382169853,không,Primary school
+7955439997583324802,Th? Gánh,Nguy?n,+84 0869145619,,Secondary school
+7955439997587382343,TIEN HUY,NGUYEN,+84 0394095211,,Tertiary education
+1469278379855008981,T?nh,Ph?m V?n,+84 376883345,,Secondary school
+7955439997587382427,THANH SANG,NGUYEN,+84 0977494886,,Secondary school
+7955439997587382139,VAN HUY,LE,+84 0373809929,,Primary school
+1469278379855008968,S?n,Ph?m V?n,+84 967642607,,Tertiary education
+7955439997583325445,Ka,Nga,+84 0374450302,,
+1469278379855004642,Tr?ng,Nguy?n V?n,+84 987334868,,Primary school
+7955439997583324837,V?n Trinh,Ngô,+84 0387224836,0,Secondary school
+7955439997587382715,KA NHOM,,+84 0377473667,,
+1469592163271952223,NICOLAS,BEJARANO BUYOLI,+52 9621719561,inagro60@hotmail.com,Tertiary education
+1469278379855004669,Ph??ng,Nguy?n Th?,+84 399655073,,Secondary school
+1469278379855008939,Kham,Phan ??ng,+84 972738181,,Tertiary education
+7955439997587382313,VAN PHUC,BIEN,+84 0385678321,,Secondary school
+7955439997587382181,VAN DUC,NGUYEN,+84 0984560440,,Secondary school
+1469278379855004819,H?c,Tr?n V?n,+84 899383984,,Secondary school
+1469278379855004566,Nga,?inh Th?,+84 344753858,,Primary school
+7955439997583325662,Bùi,Th? S?n,+84 0984880834,,Primary school
+7955439997583325550,Th? Li?u,Nguy?n,+84 0978115771,,Secondary school
+7955439997587382064,VAN DUONG,DINH,+84 0396783258,,Secondary school
+7955439997587382070,DOAN CUONG,LA,+84 0972541898,,Secondary school
+7955439997587382394,THAI CHUNG,PHAM,+84 0907718982,,Secondary school
+7955439997587382084,THI UONG,TRIEU,+84 0393153222,,Secondary school
+7955439997587382420,THI KIM PHUNG,NGUYEN,+84 0855454151,,Primary school
+7955439997583325134,??ng Vi?t,??,+84 0917316139,,Secondary school
+1469592163271960051,JACINTO,MEJIA PEREZ,,,Secondary school
+7955439997583325172,Gia Phét,Gia Phét,+84 0333814877,,Primary school
+1469592163271966521,ANSELMO,VELAZQUEZ ZAMORA,+52 9625087388,,Primary school
+1469592163271964201,ALEXANDER,RUIZ ROBLERO,+52 9615395633,,Secondary school
+7955439997583324884,Ka Dép,.,+84 0912949046,0,Secondary school
+1469278379854782992,V?n Th?t,Tr?n,+84 984191544,,Secondary school
+7955439997583324780,Nguyên ??c,??ng,+84 397201374,không,Secondary school
+1469592163271966522,BERSAIN,VELAZQUEZ SAMORA,+52 9625087388,,Primary school
+7955439997587381838,KIEU CHUONG,DANG,+84 0785829183,,Secondary school
+1469592163271963224,JOEL,REYES GALVEZ,+52 9621402804,,Secondary school
+7955439997587382142,THI MOT,NGUYEN,+84 0376030258,,Secondary school
+7955439997583325179,T?o,T?o,+84 0356421844,,Primary school
+1469278379855014870,Vi?t,Phan V?n,+84 344858327,,Secondary school
+1469278379855014850,S?n,Nguy?n V?n,+84 363272231,,Primary school
+1469883818362505065,N?,L?u Th?,+84 982449065,,Secondary school
+1469883818362505068,Lan,?inh Th?,+84 339783920,,Secondary school
+7955439997587381878,VAN THANH,PHAN,+84 0937614536,,Secondary school
+1469592163271960747,INOCENTA,MORALES PEREZ,+52 9622177036,,
+7955439997583324878,ngói,.,+84 0357096700,0,Secondary school
+7955439997583324795,D?ng,Võ,+84 367364390,không,Secondary school
+1469592163271962153,CARLOS,PEREZ LOPEZ,+52 56555842649,,
+1469278379854677088,V?n Cao,Tr?n,+84 385671128,,Secondary school
+1469278379854782863,T?u,Tr??ng,+84 973290314,,Secondary school
+7955439997587382117,TON,NGUYEN,+84 0906758757,,Secondary school
+7955439997583325440,Ka,H?u,+84 0987289237,,Secondary school
+1469278379855009149,Di?n,Tr?n V?n,+84 333356791,,
+1469592163271958226,RAQUEL,LEON HERNANDEZ,+52 9624598662,perezorozcocarmela@gmail.com,Primary school
+7955439997583325175,Ch?i,Ch?i,+84 0368035788,,
+1469278379854677048,Th? Muôn,D??ng,+84 395397462,,Secondary school
+1469883818362504748,Duy Mân,?ào,+84 935996261,,Secondary school
+1469278379855009107,Phúc,Cao Xuân,+84 979302107,,Secondary school
+7955439997587382012,CHAU,VU,+84 0984683206,,Primary school
+7955439997583325040,k mes,k,+84 0362783746,0,Secondary school
+1469278379855009143,H?ng,Lê Th?,+84 964269313,,Secondary school
+1469278379855008909,Hoan,R? Lan,+84 982527904,,Primary school
+1469278379854782933,V?n Kim,L?ng,+84 384264345,,Primary school
+1469278379855008896,Kloa,Siu,+84 359485630,,Primary school
+7955439997587382020,THU,VAN,+84 0986771624,,Secondary school
+1469278379854781842,Kh?c Chánh,Phan,+84 332155471,,Secondary school
+1469278379854781834,V?n Chí,Nguy?n,+84 327662454,,Secondary school
+1469278379854782526,Trung H?ng,Cao,+84 355670032,,Secondary school
+1469278379854677051,Th? Công,Nguy?n,+84 964118998,,Secondary school
+7955439997587382011,CHI DUNG,NGUYEN,+84 0792217985,,Primary school
+7955439997583325486,Bùi,Th? Liên,+84 0987348539,không,Primary school
+1469592163271960777,ADELAIDA,MOLINA RIVERA,+52 9616441302,,Tertiary education
+7955439997587381699,TUAN VINH,LE,+84 0942118853,,Secondary school
+7955439997587381677,TAN TRUNG,NGUYEN,+84 0978789783,,Secondary school
+7955439997587381683,HUU VIET,NGUYEN,+84 0363474418,,Primary school
+7955439997587381706,KIM THOA,NGUYEN,+84 0357267079,,Primary school
+7955439997587381932,VAN LINH,NGUYEN,+84 0859868631,,Primary school
+1470002575956819706,OLIVER,LOPEZ COUTIÑO,+52 9622405238,,Secondary school
+7955439997587860202,ADRIANA,GONZALEZ SANTIAGO,+52 9622398200,,Secondary school
+1469592163271967037,HILMER,ZUÑIGA BARRIOS,+52 9622182394,,Primary school
+1469278379855005004,Ch??ng,Ph?m Ng?c,+84 938810119,,Secondary school
+1469278379855008262,Hà,Lê Ng?c,+84 332466269,,Primary school
+1469278379855005101,Dét,R? Mah,+84 375998251,,Secondary school
+1469278379854782145,Trí,Võ,+84 769527005,,Secondary school
+7955439997587381805,THI HIEN,TRAN,+84 0961561779,,Secondary school
+1469278379855008401,Ki?u,H? Th?,+84 394272881,,Secondary school
+1469278379854782199,??c Hùng,Nguy?n,+84 979494315,,Tertiary education
+1469278379854783032,A,L?u,+84 906204192,,Secondary school
+1469278379854782215,V?n Mi,Nguy?n,+84 787226969,,Secondary school
+1469592163271954209,ARMANDO,DIAZ PEREZ,+52 9623834995,,
+1469592163271960616,LEONARDO,MORALES LOPEZ,,,Secondary school
+7955439997587381884,QUOC THANG,NGUYEN,+84 0368881518,,Primary school
+1469278379855008269,Minh,Lê V?n,+84 342345935,,Tertiary education
+7955439997587381959,THAI DUONG,NGUYEN,+84 09332615585,,Primary school
+1469592163271964117,DARIA,DARIA ROBLERO,+52 9625211372,,
+1469278379855008124,V??ng,Tr?n Cao,+84 931618233,,Secondary school
+1469278379854783035,V?n Viên,Cao,+84 386411542,,Secondary school
+1469592163271966530,ZOILA,VELAZQUEZ ZAMORA,+52 9624474957,NO TIENE,Primary school
+7955439997587381889,VAN THUY,DOAN,+84 0985432219,,Secondary school
+1469278379855008060,Bình,Võ Thanh,+84 378756441,,Primary school
+1469278379854782985,V?n Thành,Nguy?n,+84 978977467,,Secondary school
+1469278379854782123,V?n Ninh,Nguy?n,+84 935445918,,Secondary school
+1469278379854781877,V?n Vi?t,Phan,+84 969636909,,Primary school
+1469278379855008816,Hút,Siu,+84 385349048,,Secondary school
+1469278379855008041,An,Nguy?n,+84 984560949,,Primary school
+1469278379855008072,C?,Lê,+84 385607330,,Primary school
+1469278379855008812,HGlun,Kp?,+84 375696501,,
+7955439997587381722,THI KIM THAO,TRAN,+84 0333153339,,Secondary school
+7955439997587381774,THI QUOC ANH,LE,+84 0363708119,,Secondary school
+1469278379854782996,Tu?n S?n,Lê,+84 979437357,,Secondary school
+1469883818362504719,Th? Ph??ng,Tr??ng,+84 949714391,,Secondary school
+1469883818362504819,Th? Thanh,Vi,+84 9670045,,Primary school
+7955439997587381738,HUU PHUOC,TRAN,+84 0333102911,,Primary school
+1469592163271956842,ERIC,GUTIERREZ MORALES,,,Secondary school
+1469278379854782474,V?n Tâm,Bùi,+84 399899527,,Secondary school
+1469278379854783171,V?n Hi?p,??,+84 935107869,,Secondary school
+1469278379855005184,He,Siu,+84 368676538,,
+1469592163271956798,ADULFO,GUZMAN GARCIA,+52 9619205224,NO TIENE,Primary school
+1469592163271962268,ORFA,PEREZ MEJIA,+52 9642052383,,
+1470002575956819221,FEDERICO,LOPEZ MORALES,,,
+1469278379855008161,Anh,Tr?n V?n,+84 365330195,,Secondary school
+1469278379854782782,Ng?c Hi?u,Nguy?n,+84 963476770,,Secondary school
+1469278379855004922,S?n,Ph?m V?n,+84 355947202,,Primary school
+1469278379854782076,Thanh Tùng,?oàn,+84 978623611,,Secondary school
+1469592163271958267,GENER,LEON PEREZ,+52 9997711817,,
+1470002575956819604,NEHEMIAS,LEON MONTEJO,+52 9642052383,,
+1470002575956819603,AMALIA,PEREZ DIAZ,+52 6613319131,,Primary school
+1469592163271958257,OTONIEL,LEON MONTEJO,+52 9642052583,,Primary school
+1469278379855008350,S?n,D??ng Minh,+84 987011801,,Tertiary education
+1469278379854782109,C?n,Nguy?n,+84 356958456,,Secondary school
+1469592163271960170,JOSE,MEJIA VELAZQUEZ,+52 9622236719,NO TIENE,
+1469278379855004915,Ba,Nguy?n H?u,+84 326180132,,Primary school
+1469278379855004992,Sang,Hu?nh Ng?c,+84 968136283,,Primary school
+1469883818362504808,Th? Lai,Tr?nh,+84 364972667,,Secondary school
+1469278379855004968,H?,Tr??ng V?n,+84 376181547,,Primary school
+1469278379855008417,Hùng,Tr??ng Thanh,+84 373555239,,Secondary school
+1469278379855008436,S?n,Nguy?n Thanh,+84 967405946,,Secondary school
+1469278379854782492,Ng?c H?o,Bùi,+84 985486340,,Secondary school
+1469883818362504791,Th? Thu Hi?n,V?,+84 363761449,,Tertiary education
+1469278379854782092,V?n Lâm,L??ng,+84 369909059,,Secondary school
+1469278379855005215,Tín,Lê H?u,+84 978910429,,Tertiary education
+7955439997587860220,HERMAN,VELAZQUEZ MEJIA,+52 5649391355,NO TIENE,Primary school
+1469592163271967068,LEVI,ZUNUN RODRIGUEZ,,,
+7955439997587860204,CARMEN,VELAZQUEZ PEREZ,+52 9936560865,NO TIENE.,Primary school
+1469592163271966489,JORGE,VELAZQUEZ VELAZQUEZ,+52 9621861000,,
+1469592163271960069,ARNOLDO,MEJIA ROBLERO,+52 9621475324,,Primary school
+1469592163271963217,ANGEL,REYES GALVEZ,+52 9621554148,,Primary school
+1469592163271954133,ROMAN,DIAZ ESCOBAR,,,Primary school
+1469592163271958407,PATRICIO,LOPEZ CHAVEZ,+52 9621523060,,Primary school
+1469592163271961960,FIDEL,PEREZ CHAVEZ,+52 9622869599,,Primary school
+1469278379854782876,V?n Chín,Ung,+84 987689428,,Secondary school
+7955439997587860246,THELMA,CASTILLO ESCOBAR,+52 9621316467,,Secondary school
+1469278379854782828,Thành Nông,??ng,+84 382050280,,Secondary school
+1469278379854782119,T?n Phong,Nguy?n,+84 937343456,,Secondary school
+1469592163271964968,ISMAEL,SANTOS TOLEDO,,,Tertiary education
+1469278379854782851,??c Thanh,Ngô,+84 364317857,,Secondary school
+1469278379854782268,Thanh Xuân,Nguy?n,+84 982433224,,Secondary school
+1469278379854782283,V?n Tâm,Nguy?n,+84 948349504,,Secondary school
+1469592163271956790,ATANACIO,GUTIERREZ FERNANDEZ,+52 9621429146,NO TIENE,Primary school
+1469592163271961950,ANITA,PEREZ CIFUENTES,+52 9624897881,anitacifuentez@gmail.com,Primary school
+1469592163271956037,EUGENIA,GAMBOA VERDUGO,+52 9621008792,,Primary school
+1469592163271954470,ENRIQUE,ESCALANTE RODAS,,,Secondary school
+1469592163271951726,VIRGINIA,BALTAZAR AGUILAR,+52 9622700545,NO TIENE CORREO,Secondary school
+1469278379854782050,Th? H?nh,Nguy?n,+84 901963182,,Secondary school
+1469592163271959560,PRAXEDES,MAZARIEGOS ROBLERO,+52 9626298974,,Primary school
+1469592163271960177,MARIO,MENCHU VAZQUEZ,+52 9621211089,NO TIENE,Primary school
+1469592163271963955,NELZON,ROBLEDO ROVELO,+52 9619308249,,Secondary school
+1469592163271954429,SECUNDINO,ESCALANTE LEONIDES,+52 9622947051,,Secondary school
+1469592163271963926,EDISON,ROBLEDO ROBELO,+52 9621099406,,Tertiary education
+1469278379854783140,?ình Trai,Nguy?n,+84 384457108,,Secondary school
+1469278379854781994,Th? Minh,H?,+84 362139193,,Secondary school
+1469278379854783068,Châu H?ng,Hoàng,+84 964919918,,Secondary school
+1469883818362504759,V?n Lán,Ph?m,+84 357352223,,Secondary school
+1469278379854781931,V?n Tr?,Tr?n,+84 354412388,,Primary school
+1469278379854783099,V?n Th?,Tr?n,+84 967507606,,Secondary school
+7955439997587860207,DOLORES,RAMIREZ BARRIOS,+52 9624395166,,Secondary school
+1469592163271961702,OREL,PACHECO CASTRO,+52 9621014103,,Secondary school
+1469592163271961614,NARCISO,ORDOÑEZ RAMIREZ,+52 9625167612,,
+1469592163271960967,FLORICELDA,MUÑOZ DOMINGUEZ,,,Secondary school
+1469592163271960243,GERARDO,MIRANDA PEREZ,+52 9622420535,,Secondary school
+1469592163271963393,LUIS,RIVERA TURRENT,+52 9625670669,NO TIENE,Secondary school
+1469278379854677161,V?n Ngh?a,Nguy?n,+84 888202779,,Secondary school
+1469278379854677158,V?n Giao,Mai,+84 932433209,,Secondary school
+7955439997582574640,Ý,Rchâm,+84 0373968402,,Primary school
+7955439997582574390,Th?o,Bùi Th?,+84 0357961459,,Tertiary education
+1469278379854782909,V?n Thành,Phan,+84 385062635,,Secondary school
+7955439997582574361,Sen,Nguy?n Th?,+84 0342350014,,Secondary school
+7955439997582574438,Chi?n,Nguy?n V?n,+84 0986242750,,Tertiary education
+1469278379854677186,V?n Minh,Nguy?n,+84 389163426,,
+1469278379854782910,V?n Yên,Tr?n,+84 973775077,,Secondary school
+7955439997582574398,N?i,Tr?n V?n,+84 0392059450,,Primary school
+7955439997582574632,Sam,Siu,+84 0392453427,,Primary school
+7955439997582574418,C??ng,Nguy?n V?n,+84 0982165620,,Primary school
+7955439997582574691,h?l,Siu,+84 0374177493,,
+1469278379854781801,Xuân Trãi,Ngô,+84 367140580,,Secondary school
+7955439997582574594,Ph??c,Nguy?n Thanh,+84 0947552635,,Primary school
+7955439997582574503,Th?ng,Phan ?ình,+84 0979298195,,Tertiary education
+1469883818362504782,Th? Thu Thi,Hà,+84 969465579,,Secondary school
+1469278379854783238,V?n Hu?nh,Mai,+84 987020512,,Secondary school
+7955439997582575567,Kiên,Ph?m Trung,+84 0935454445,,Secondary school
+7955439997582574448,Phúc,Nguy?n Thành,+84 0989703123,,Senior High School
+7955439997582574458,???ng,?? V?n,+84 0961877293,,Secondary school
+7955439997582574553,Tr??ng,Nguy?n V?n,+84 0338832498,,Secondary school
+7955439997582574535,Châu,Tr?n Th?,+84 0374145311,,Primary school
+1469278379854782689,Th? Công,Nguy?n,+84 352163614,,Secondary school
+7955439997582575502,?ông,?inh V?n,+84 0345593077,,Secondary school
+7955439997582575487,Th?m,??ng Th?,+84 0339649398,,Secondary school
+1469453888487996632,Khamphan,Naiyanate,+66 097-3040235,,Primary school
+1469453888487995462,Boonluck,Chantam,+66 098-6806425,,Primary school
+7955439997582574782,Vi?t,Tr?n Qu?c,+84 0775522662,,Secondary school
+7955439997582576065,Vinh,?? V?n,+84 0352391691,,Primary school
+7955439997582576107,Th?m,Lê Th?,+84 0385123488,,
+7955439997582576012,Liêm,Nguy?n V?n,+84 0334267450,,Secondary school
+7955439997582574817,Vân,Nguy?n Th?,+84 0369431066,,Primary school
+7955439997582576000,L?i,Nguy?n Ngoc,+84 0906508053,,Secondary school
+7955439997582576071,T?,Tr?n V?n,+84 0347651223,,
+7955439997582575413,B?n,Ph?m V?n,+84 0905349034,,Secondary school
+7955439997582575412,??ng,V?n Huy,+84 0984306357,,Secondary school
+7955439997582575354,Toàn,Tr?n Qu?c,+84 0339051014,,Senior High School
+7955439997582575649,Thái,Hoàng V?n,+84 0399099109,,Secondary school
+7955439997582575655,Tuy?,?oàn Th?,+84 0817416979,,Secondary school
+7955439997582575614,Thi?n,Tr?n Anh,+84 0987348122,,Secondary school
+7955439997582575722,Chín,Hoàng V?n,+84 0813246486,,Secondary school
+7955439997582575697,B?o,L??ng V?n,+84 0886498179,,Tertiary education
+7955439997582575606,Quá,Võ V?n,+84 0385449328,,Secondary school
+7955439997582575771,H?ng,??ng ?ình,+84 0919360941,,
+7955439997582575100,Tu?n,?? ?ình,+84 0934786896,,Secondary school
+7955439997582576973,Loan,Vo Thi,+84 0334931853,,Secondary school
+7955439997582575304,Duyên,Nguy?n Th?,+84 0334636038,,Secondary school
+7955439997582575038,Hình,Vi Th?,+84 0399759243,,Secondary school
+7955439997582575356,Trung,Nguy?n Thành,+84 0974166467,,Secondary school
+7955439997582577018,nga,Le thi Tu,+84 09349052273,,Secondary school
+7955439997582577141,Thai,Nguyen Van,+84 0974188334,,Secondary school
+7955439997582577085,hyih,Ro mah,+84 0984397305,,
+7955439997582577212,Giap,Hoang Van,+84 033332669,,Secondary school
+7955439997582575099,Thái,Hà Th?,+84 0707371957,,Secondary school
+7955439997582577089,Dung,Nguyen Ngoc,+84 0383131539,,Primary school
+7955439997582575258,Ng?c,?ào Th?,+84 0379177220,,Secondary school
+7955439997582577291,Thuong,Tran Thi My,+84 0333302867,,Secondary school
+7955439997582575028,Vi?t,Mai Qu?c,+84 0935842545,,Secondary school
+7955439997582575118,Anh,Nguy?n ??c Qu?nh,+84 0938054933,,Tertiary education
+7955439997582577244,Lanh,Nguyen Van,+84 0326445388,,Primary school
+7955439997582577153,Cau,Nguyen Huu,+84 0342438548,,Secondary school
+7955439997582577183,Quynh,Pham Ngoc,+84 978255167,,Secondary school
+7955662907697650384,"Dummy M,E 2025 Mexico 9",Dum,+52 5291001,,Primary school
+7955662907697650388,"Dummy M,E 2025 Mexico 13",Dum,+52 5291001,,Primary school
+7955439997582577869,Nie,Y Khol,+84 357146248,,Tertiary education
+7955439997582577877,Hwing,Y Dhen,+84 0379026406,,Secondary school
+7955439997582577864,Nie,Y Set,+84 793529440,,
+7955439997582576617,Hong,Chu Huy,+84 0167200900,,Secondary school
+7955439997582576696,Phai,Le Van,"+84 0987600029, 0909603347",,Secondary school
+7955439997582576622,Kien,Pham Trong,+84 0985515027,,Primary school
+7955662907697650383,"Dummy M,E 2025 Mexico 8",Dum,+52 5291001,,Primary school
+7955439997582579410,Hwing,Y Ngiang,+84 354555094,,Secondary school
+7955439997582579059,Mlo,H Bliak,+84 0961582454,,Primary school
+7955439997582577940,Giang,Nguyen Thuc,+84 0972140135,,Primary school
+7955439997582577941,Sen,Nguyen Thi,+84 972762608,,Secondary school
+7955439997582577909,Nie,Niê,+84 0383484628,,Tertiary education
+7955439997582577922,Ksor,Y Djen,+84 0378165563,,Primary school
+7955439997582577912,Nie,Y Sat,+84 375145734,,Secondary school
+7955439997582576572,Khanh,Nguyen Thac,+84 979835344,,Tertiary education
+7955439997582576682,Phuong,Vo Cong,+84 888831237,,Secondary school
+7955439997582576669,Nga,Dang Thi,+84 01686610695,,Secondary school
+7955439997582577856,Nie,H Bao,+84 362864945,,Secondary school
+7955439997582576661,Tan,Dang Van,+84 01667014029,,Secondary school
+7955439997582577841,Nie,H Blen,+84 395724800,,Secondary school
+7955439997582577840,Ayun,Y Khet,+84 0363443736,,Secondary school
+7955439997582576651,Ha,Le Van,+84 984692076,,Secondary school
+7955439997582576671,Thao,Nguyen Thi,+84 0978910182,,Secondary school
+7955439997582576656,Dan,Ha Sy,+84 857303818,,Secondary school
+7955662907697650387,"Dummy M,E 2025 Mexico 12",Dum,+52 5291001,,
+7955439997582579138,Kdoh,H Lan,+84 976940434,,Secondary school
+7955662907697650378,"Dummy M,E 2025 Mexico 3",Dum,+52 5291001,sin correo,Secondary school
+7955662907697650379,"Dummy M,E 2025 Mexico 4",Dum,+52 5291001,-,Primary school
+7955439997582579408,Kbuor,H Luen,+84 0339411712,,
+7955439997582579537,Hien,Pham Van,+84 946784367,,Secondary school
+7955439997582579490,Nguyen,Ha Duy,+84 352812733,,Secondary school
+7955439997582579066,Quy,Chiu Duc,+84 0328576427,,Primary school
+7955439997582579358,Eban,H Hien,+84 975397640,,Primary school
+7955439997582579305,Mlo,H Tham,+84 869652870,,Primary school
+7955439997582579546,Hieu,Vu Thi,+84 368297026,,Primary school
+7955439997582579244,Adrong,H Nhat,+84 0343435598,,
+7955439997582579516,Phuc,Nguyen Quang,+84 377178055,,Secondary school
+7955439997582579389,Nie,H Kim,+84 877921428,,Secondary school
+7955662907697650385,"Dummy M,E 2025 Mexico 10",Dum,+52 5291001,,Primary school
+1469453888487995656,Siripong,Sumlidnok,+66 080-696396,,Primary school
+1469418069232862133,Wanna,Khunphiluek,+66 087-2728579,,Primary school
+1469453888487995490,Uriwan,Sriphorm,+66 093-6091024,,Secondary school
+7955439997588499927,KOUASSI,KRA ARMAND,+225 0779081422,,
+7955439997582578155,Hwing,Y Jo,+84 0346697332,,
+7955439997582578159,Kdoh,Y Klol,+84 0346621948,,
+7955439997582578124,Kdoh,Y Lo,+84 0357848214,,
+1469418069232862185,Rookiat,kanakrut,+66 098-0573454,,Tertiary education
+7955439997582576791,Kbuor,H Ngiar,+84 365715876,,Primary school
+7955439997582576739,Van,Nguyen Van,+84 973423149,,Secondary school
+1469453888487995677,Ardoon,Nooraksa,+66 093-0347257,,Tertiary education
+7955439997582576719,Minh,Phan Quoc,+84 905404101,,
+7955439997582578393,Toi,Thai Viet,+84 0979772557,,Secondary school
+7955439997582576750,Bon,Tran Van,+84 0398560873,,Primary school
+7955439997582578315,Mlo,Y Bhi,+84 0944696217,,
+7955439997582578320,R,Y Sun,+84 0354221570,,
+7955439997583736661,Công Thành,Ngô,+84 0982809771,không,Secondary school
+7955439997583736520,V?n Thích,Nguy?n,+84 0965332100,,Primary school
+1469453888487995282,Jampee,Sakkhinadee,+66 090-486-3393,,Secondary school
+7955439997582578200,Hoaih,Y H,+84 0387465431,,Primary school
+7955439997582576808,Thu,Dang Cong,+84 986468241,,Secondary school
+7955439997582576735,Dieng,Nguyen Sy,+84 979122848,,Secondary school
+7955439997583736557,Thành Long,Võ,+84 0935311654,0,Primary school
+7955439997582576742,Nguyet,Nguyen Thi,+84 334046539,,
+7955439997583736659,V?n Tiêm,Lê,+84 0379423273,không,Primary school
+7955439997582577984,Nie,Y Hai,+84 0973224055,,
+1469453888487996695,Renu,Khotama,+66 098-0721039,,Primary school
+7955662907697650380,"Dummy M,E 2025 Mexico 5",Dum,+52 5291001,patito@hmail.com,
+7955439997583736504,H?u Chinh,Nguy?n,+84 0842171217,không,Primary school
+1469453888487995527,Taweewat,Hngaohlee,+66 098-6682182,,Tertiary education
+7955439997583736626,V?n Thúy,Nguy?n,+84 0392082133,0,Primary school
+7955439997582177084,Saiphin,Phumsuwan,+66 0862669445,,Primary school
+7955662907697650382,"Dummy M,E 2025 Mexico 7",Dum,+52 5291001,0,Primary school
+1469453888487996742,Bundit,Naewkamphon,+66 065-0276469,,Primary school
+7955439997582576938,Kdoh,Kdoh,+84 374367558,,
+7955439997583736725,Thành Luân,Nguy?n,+84 0382710129,-,Tertiary education
+7955439997583736782,V?n L?c,Nguy?n,+84 0352905126,,Primary school
+7955439997582578839,Bay,Nguyen Thi,+84 0335465574,,Primary school
+7955439997582576934,Huynh,Nguyen Hong,+84 825935754,,Secondary school
+7955439997583736793,Trung H?u,Tr?n,+84 0858596672,0,Primary school
+7955439997582578719,Van,Mai Dinh,+84 0987499843,,Secondary school
+7955439997582576864,Nie,Y Hien,+84 0389983783,,Secondary school
+7955439997583736452,V?n Thái,??,+84 0343747201,,Secondary school
+7955439997582576878,Sam,Pham Thi,+84 0395985263,,Tertiary education
+1469453888487995700,Somphon,Thepdam,+66 089-5948060,,Tertiary education
+7955439997582576829,Van,Nguyen Hung,+84 0382237388,,Tertiary education
+7955439997582578854,Hai,Nguyen Van,+84 036852170,,Secondary school
+1469453888487995452,Napatsawan,Thongkhaw,+66 091-0758335,,Primary school
+7955439997583736728,Th? Toàn,Nguy?n,+84 0354140988,-,Secondary school
+7955439997582578880,Dinh,Nguyen Van,+84 0382643115,,Secondary school
+7955439997582576924,Lien,Le Van,+84 937939090,,Tertiary education
+7955439997582576955,Nhan,Pham Van,+84 943105549,,Secondary school
+7955439997583736583,V?n ??c,Nguy?n,+84 0364672481,0,Secondary school
+7955439997583736588,V?n Quy?n,Ph?m,+84 0977048087,không,Secondary school
+7955439997582576889,Ty,Nguyen Thi,+84 0366612486,,
+7955439997583736569,Xuân Thái,Hoàng,+84 0815753339,,Primary school
+7955439997583736750,Th? Công,Tr?n,+84 0979228176,,Tertiary education
+7955439997582576567,Tan,Nguyen Thi,+84 0,,Secondary school
+7955439997583736709,V?n Quát,Hà,+84 0373536175,,Secondary school
+7955439997582576887,Xuan,Phung Duy,+84 0988702459,,Secondary school
+7955439997583736746,V?n An,Ph?m,+84 0976571792,-,Secondary school
+7955439997583736803,Kim Vích,??,+84 0983039174,-,Primary school
+7955439997583736836,V?n Tuy?n,Phùng,+84 0827291246,,Secondary school
+7955439997583736806,V?n T?nh,Hoàng,+84 0944256140,-,Secondary school
+7955439997583736809,Anh V?n,Nguy?n,+84 0379261703,,Primary school
+1469453888487996644,Phanumat,Sangparimane,+66 094-1083065,,Secondary school
+7955439997583736605,Th? Loan,Lê,+84 0337180996,,Primary school
+7955439997583736454,V?n Tr??ng,??,+84 0332181027,-,Secondary school
+7955439997583736453,V?n Th?,??,+84 0984176181,,Secondary school
+7955439997583736459,Duy V?nh,Nguy?n,+84 09635197824,-,Primary school
+7955439997583736457,V?n S?c,Nguy?n,+84 0948546647,-,Secondary school
+1469453888487996662,Songkran,Leusopha,+66 096-4300614,,Primary school
+7955439997583736619,V?n Bon,Nguy?n,+84 0352447478,không,Primary school
+7955439997583736634,??c D??ng,V?,+84 0353605248,0,Primary school
+7955439997583736613,Quý Mãn,Nguy?n,+84 0886329606,,Primary school
+1469453888487996448,Manirat,Danrat,+66 080-0166896,,Secondary school
+7955439997582576548,Hoa,Nguyen Dinh,+84 386295765,,Secondary school
+7955439997582578921,Minh,Vu Xuan,+84 0378263246,,Secondary school
+7955439997583736882,V?n Thu?t,?oàn,+84 0365538233,,Primary school
+7955439997582579014,Ecam,Y Djing,+84 0325558007,,
+7955439997583736535,Huy Báu,Tr?n,+84 0987044500,,Primary school
+7955439997582576543,Luoc,Tran Minh,+84 395589208,,Secondary school
+7955439997582578603,Thai,Dinh Van,+84 0916879146,,Secondary school
+7955439997582578985,Hmok,Y Nguyen,+84 0945405208,,Primary school
+7955439997582578671,Phong,Pham Van,+84 0367758254,,Secondary school
+7955439997583736463,V?n Thu?n,Nguy?n,+84 0945988679,-,Secondary school
+7955439997583736550,Quang Túc,Tr?nh,+84 0982377168,0,Tertiary education
+7955439997583736860,V?n ??c,Nguy?n,+84 0375737940,,Primary school
+7955439997582578885,Eban,H An,+84 0822717160,,Secondary school
+7955439997583736876,Xuân N?m,Mai,+84 0369348372,,Secondary school
+1469453888487996557,Satiam,Boonlin,+66 095-4032742,,Primary school
+7955439997582578963,Eban,Y Ai,+84 0388961920,,
+7955439997583736843,V?n ??ng,Hòa,+84 0984332457,-,Primary school
+7955439997583736552,Xuân Lâm,Tr?nh,+84 0392294542,,Primary school
+7955439997583736514,Th? Xuy?n,Nguy?n,+84 0363536066,không,Secondary school
+7955439997583736672,Th? Niên,Nguy?n,+84 0966147347,-,Tertiary education
+7955439997583736671,Th? Hi?n,Nguy?n,+84 0345404070,,Secondary school
+7955439997582576546,Tuyen,Tran Dinh,+84 985824398,,Secondary school
+7955439997582578621,Chuc,Nguyen Anh,+84 0972917592,,Secondary school
+7955439997582578614,Loi,Le Duc,+84 0389129609,,Secondary school
+7955439997583736490,Duy Toan,Lê,+84 0901933067,0,Primary school
+7955439997582579007,Mlo,Y Ken,+84 0362129661,,
+7955439997583736663,Bá Long,Nguy?n,+84 0815080308,-,Secondary school
+7955439997583736476,H?i ??ng,Cao,+84 0336009623,,Primary school
+7955439997583736472,Long Tân,Bùi,+84 08886629242,,Primary school
+1469453888487996539,Phinya,Khamphrao,+66 081-6077050,,Primary school
+1469453888487996565,Somsak,Wongchan,+66 088-2779924,,Primary school
+1469418069232862221,Ekkarat,Rinram,+66 086-2585595,,Primary school
+1469453888487996353,Nunoi,Khamnork,+66 093-6391828,,Primary school
+1469453888487996366,Samai,Thummachan,+66 089-8804277,,Primary school
+1469453888487996335,Kaomoei,Saejaw,+66 077-880925,,Primary school
+7955439997582577321,Dai,Tran Van,+84 0377647954,,Primary school
+1469453888487996354,Paojow,Moksakun,+66 084-8461319,,Primary school
+7955439997582576498,Hien,Phan Cong,+84 935826975,,Secondary school
+7955439997582577425,Cao,Pham Nam,+84 0905299331,,Secondary school
+7955439997582577393,Ngat,Truong Thi,+84 388754546,,Secondary school
+7955439997582577395,Hai,Bui Nhu,+84 367285009,,Secondary school
+7955439997582577442,Tan,Nguyen Van,+84 777444479,,Secondary school
+1469453888487995624,Nongyao,Ponaresa,+66 064-3092259,,Primary school
+1469453888487995505,Vijittra,Jindasuwan,+66 080-2239453,,Primary school
+1469453888487995480,Ratri,Taram,+66 093-6512654,,Primary school
+1469453888487996968,Jaturong,Wongsuk,+66 095-0266777,,Secondary school
+7955439997582577341,Thang,Hoang Van,"+84 0935490134, 0935400134",,Secondary school
+7955439997582577497,Xiem,Ngo Duy,+84 948622040,,Primary school
+7955439997582577525,Hung,Mai Van,+84 0902488974,,
+7955439997582577510,Tam,Tran Van,+84 0944894874,,Secondary school
+7955439997582576523,Men,Pham Van,+84 0,,Secondary school
+7955439997582576459,Long,Nguyen Huu,+84 779547220,,Secondary school
+7955439997582577567,Thu,Nguyen Anh,+84 0905110670,,Tertiary education
+1469418069232862199,Janta,Prasantong,+66 082-1281579,,Primary school
+7955439997583734775,V?n Quang,Nguy?n,+84 0986718175,0,Primary school
+1469453888487995992,Sangad,Polmedet,+66 061-9093065,,Tertiary education
+7955439997582577485,Son,Nguyen Van,+84 388961913,,Secondary school
+7955439997582577352,Son,Nguyen Van,+84 0834276045,,Secondary school
+7955439997582577517,Thinh,Phan Van,+84 968041538,,Secondary school
+7955439997582577592,Long,Nguyen Thanh,+84 0395998924,,
+7955439997583735187,y dhun,Y Dhun Bkrông,+84 0338547882,0,
+7955439997583734806,Ng?c ?oài,Nguy?n,+84 0989896963,không,Secondary school
+7955439997583735240,Sô,Lê,+84 0385219810,,Secondary school
+7955439997583735242,Quang M?o,Nguy?n,+84 0382628626,,Primary school
+7955439997583735139,y blot bkrong,Y Bl?t Bkrông,+84 0332703396,0,Primary school
+7955439997583734829,V?n V?,Nguy?n,+84 0989781329,không,Secondary school
+7955439997583735115,Kim H?,Hoàng,+84 0979248013,,Secondary school
+7955439997583736252,-,Y Mat Ay?n,+84 0399065249,-,Secondary school
+7955439997583734947,V?n K?,Tr?n,+84 0899912802,0,Primary school
+7955439997583734950,Th? Hòa,L?u,+84 0942844451,,Primary school
+7955439997583735459,V?n N?m,Nguy?n,+84 0909857530,,Primary school
+7955439997583736182,y sion,Y Sion Niê,+84 03992275056,-,Secondary school
+7955439997583736199,y th?m,Y Th?m Niê,+84 0354964573,,Secondary school
+7955439997583734756,V?n H?i,Tr?n,+84 0764901931,,Primary school
+7955439997583734939,Quang Vinh,Ph?m,+84 0869346470,không,Primary school
+1469453888487995311,Uraiwan,Chonlathep,+66 084-8447539,,Secondary school
+1469453888487995307,Somchai,Audthong,+66 080-6992309,,Primary school
+1469418069232862130,Salavan,Saein,+66 087-0585542,,Primary school
+1469418069232862175,Amphorn,Rattanajinda,+66 092-5095973,,Secondary school
+7955439997583735971,h'i?,ay?n,+84 0359524172,,Primary school
+7955439997583736114,-,Y T?m Niê,+84 0369983127,-,
+7955439997583736060,y l?n,Y L?n Êban,+84 0382393390,-,Primary school
+7955439997583736033,-,Y Griao Êban,+84 0949739283,-,Primary school
+7955439997583734703,Lê M? Dung,Ph?m,+84 0984477947,0,Primary school
+7955439997583736021,y djiu,Y Djiu Niê,+84 0337569667,-,Secondary school
+1469453888487995309,Thana,Klairung,+66 080-5238309,,Tertiary education
+1469453888487996712,Samon,Uaongrinyong,+66 098-8981382,,Primary school
+7955439997583734684,V?n Thành,Mai,+84 0906573914,không,Primary school
+7955439997583736062,-,Y Men Ay?n,+84 0905389958,-,Secondary school
+7955439997583734617,Hùng V??ng,Võ,+84 0932474637,,Primary school
+7955439997583734607,V?n Hi?u,Nguy?n,+84 0773521933,0,Primary school
+7955439997583734601,Phùng ?oan,Nguy?n,+84 0914633230,,Secondary school
+7955439997583736118,y t?,Y T? Êban,+84 0333856825,,Secondary school
+7955439997583736045,-,Y Jêl Niê,+84 0336357174,-,
+7955439997583735982,,Y Ber Ayun,+84 0385321484,,Primary school
+7955439997583735389,Ng?c Quang,Tr?n,+84 0987345779,,Secondary school
+7955439997583734824,Th? Nga,Nguy?n,+84 0777207065,,Primary school
+1469453888487996629,Duangchan,Matwungsang,+66 095-9068503,,Primary school
+1469278379855037778,Thu?n,Tr?n Ph??c,+84 973008022,,Tertiary education
+1469418069232862155,Chorthip,Duathaisong,+66 091-8596153,,Primary school
+7955439997583734867,Quang L?c,Võ,+84 0944013252,0,Primary school
+7955439997583736178,y prik,Y Prik Niê,+84 0867662213,-,
+7955439997583736190,-,Y Thu?t By?,+84 0387465267,-,Primary school
+7955439997583736188,Y Theng,Y Theng Niê,+84 0352195513,-,Secondary school
+7955439997583734819,Ti?n D?ng,??ng,+84 0934812243,0,Primary school
+7955439997583736204,y pôl,Y Pool Niê,+84 0826983747,,Secondary school
+1469278379855038216,Hi?u,V? Xuân,+84 984302098,,Secondary school
+1469453888487996624,Chamroon,Phimwanwong,+66 095-6291067,,Secondary school
+7955439997583736280,,Y Than Niê,+84 0906570731,,Secondary school
+7955439997583736228,-,Y Bor Niê Siêng,+84 0905616174,-,Primary school
+7955439997583736247,y Lhuih,Y Lhui Ay?n,+84 0352910594,-,Primary school
+1469278379855040311,??ng,Ngô Th?n Hoàng,+84 339229541,,Secondary school
+7955439997583736222,y an,Y Ãn Niê,+84 0,,Primary school
+7955439997582420562,Nghi?p,Hoàng V?n,+84 0395346779,,
+7955439997583736230,-,Y C? Hwing,+84 03257730323,-,Primary school
+1469418069232862152,Niphon,Doemthamram,+66 095-6080014,,Primary school
+7955439997583736261,y ngok,Y Ngok Êban,+84 0356887907,-,Primary school
+1469418069232862192,Audomsak,Kanhar,+66 097-1263945,,Primary school
+1469278379855038420,V?n,Nguy?n V?n,+84 364988976,,Secondary school
+7955439997583735460,V?n Ph??ng,Nguy?n,+84 0978841927,,Primary school
+7955439997583735466,Anh Khoa,Võ,+84 0396165144,không,Secondary school
+7955439997583735434,Th? M? L?,Nguy?n,+84 0395439827,,Primary school
+1469278379855039238,B?,L??ng V?n,+84 395702256,,Primary school
+7955439997583736294,-,Y Yô Sep Niê Kd?m,+84 0336854702,-,Secondary school
+1469278379855036872,By?,H Sin,+84 916496093,,
+1469278379855038410,Tâm,V?n H?u,+84 389197682,,Primary school
+1469278379855037433,Ph??ng,Tr?n Xuân,+84 935965373,,Secondary school
+1469278379855038003,?oàn,Ph?m V?n,+84 976105954,,Secondary school
+1469278379855038441,Y T? Kp?r,Y T? Kp?r,+84 974560400,,Tertiary education
+7955439997583736432,Ng?c Li?u,Ph?m,+84 0369936216,-,Secondary school
+7955439997583736382,Công D??ng,Ngô,+84 0944051156,,Secondary school
+1469418069232862226,Seksan,Sawardna,+66 095-7198457,,Secondary school
+1469278379855038115,Chuy?n,Ph?m V?n,+84 343198336,,Secondary school
+1469278379855038085,Oanh,Lê Th?,+84 375706936,,Secondary school
+7955439997583736346,Ngh?a H?ng,Hoàng,+84 0385567847,-,Primary school
+7955439997583736423,V?n Th?c,Nguy?n,+84 0335457378,,
+1469418069232862188,Non,Martwangsang,+66 093-7842911,,Secondary school
+7955439997583736350,V?n Hà,Hoàng,+84 0399043154,,Tertiary education
+7955439997583736344,V?n T?,?oàn,+84 0355594114,-,Primary school
+7955439997583735340,Lô C??ng,Mô,+84 0398506104,,Primary school
+7955439997583735354,?ình L??ng,Phan,+84 0335306635,không,Secondary school
+7955439997583735250,Trí Th?c,Nguy?n,+84 0972437074,0,Primary school
+7955439997583736378,Vi?t H?i,Lê,+84 0816485785,,Secondary school
+7955439997583736424,V?n Tr??ng,Nguy?n,+84 0973794735,-,Secondary school
+7955439997583736355,Ng?c Th?nh,H?,+84 0905616126,,Tertiary education
+1469453888487996882,Somsri,Chitchatri,+66 0821826830,,Primary school
+7955439997583735271,V?n Ngân,Tr?n,+84 0888775780,2,Primary school
+1469278379855038263,H??ng,L??ng V?n,+84 396426765,,Secondary school
+1469453888487996473,Sanit,Panarin,+66 094-2315464,,Primary school
+1469278379855038001,Khánh,Ph?m Kh?,+84 383224035,,Primary school
+7955439997583735248,V?n ?i?m,Nguy?n,+84 0978799735,0,Primary school
+1469278379855037340,?o?t,Nguy?n Th?,+84 338509527,,Secondary school
+7955439997583735150,Ktla,Y H?i Bkrông,+84 0388524517,,
+7955439997583735148,Y Yul,Y Yui Bkrông,+84 0342406544,,
+1469278379855040744,Cúc,Võ Qu?c,+84 375706936,,Secondary school
+7955439997583736002,y brôk,Y Brôk Niê,+84 0333736749,,
+7955439997583735144,Y Buôl,Y Buôl Niê,+84 0344585892,,
+7955439997583735924,y kac,Y K?c Niê,+84 03338055153,-,Secondary school
+7955439997583735322,V?n G?n,Phan,+84 0352743799,không,Primary school
+1469278379855038067,?ính,??ng Công,+84 985005828,-,Secondary school
+1469278379855037832,D?ng,Bùi V?n,+84 975315777,,Secondary school
+7955439997583735919,y j?c,Y J?c Niê,+84 0905417380,-,Secondary school
+1469278379855038205,Chánh,Bùi Tu?n,+84 384539381,,Primary school
+1469278379855037385,Chín,Lê Th?,+84 364544919,,Secondary school
+1469453888487996450,Naphaporn,Buranrom,+66 098-0542320,,Secondary school
+1469278379855037941,Bá,L??ng S?n,+84 947213038,,
+7955439997583735881,Y Béo Hwing,-,+84 0365622507,-,Primary school
+7955439997583735314,Th? Hòa,Ph?m,+84 0976606784,không,Tertiary education
+7955439997583735193,y djuk,Y Djuk Ktla,+84 0384780338,0,
+7955439997583735170,,Y Thu Niê,+84 0369589674,,
+7955439997583735176,Y Hun,Y Hun By?,+84 0383432201,,
+7955439997582420595,Tr??ng,Mai,+84 0987265245,,Secondary school
+1469278379855037718,Quý,Hu?nh V?n,+84 817063963,,Tertiary education
+7955439997583735991,y blim,Y Blim Ay?n,+84 0384321071,-,Secondary school
+7955439997583736132,y y?k,Y Y?k Niê,+84 0329931679,,Secondary school
+1469278379855037669,Thành,Tr?n V?n,+84 942828485,,Primary school
+7955439997582420594,Hà,Võ Thanh,+84 0976332699,,Secondary school
+1469453888487996519,Khampha,Sukthawee,+66 090-9973562,,Primary school
+1469453888487996496,Anuwat,Phuanpha,+66 064-5304355,,Primary school
+1469418069232862174,Songkait,Piladaeng,+66 098-0935424,,Secondary school
+1469418069232862173,Suphat,Khamtha,+66 065-3949589,,Primary school
+7955439997583736127,y th??ng,Y Th??ng Êya,+84 0945978445,,Primary school
+1469278379855039095,Tr??c,Lê V?n,+84 985559781,,Primary school
+7955439997583734926,Minh Quang,Nguy?n,+84 0327688077,0,Primary school
+1469278379855040414,Êban,H Guôt,+84 333667077,-,Primary school
+1469278379855037910,Quý,?ào Ng?c,+84 369585010,,Secondary school
+7955439997583736076,,Y Nuat Ayun,+84 0396520890,,Secondary school
+7955439997583736064,y muih,Y Muih Niê,+84 0977215500,0,Tertiary education
+1469278379855040894,Xoan,Lê Th?,+84 901901412,,Secondary school
+7955439997583735105,Trung Lâm,Tr?n,+84 0772415237,0,Primary school
+7955439997583735114,H?i Quan,Hà,+84 0369867043,,Primary school
+1469278379855039757,Niê,Y Pulong,+84 352992261,,Secondary school
+1469278379855039059,Bé,Phùng Th?,+84 349323226,,Secondary school
+1469278379855040896,Sén,L?c V?n,+84 942640059,,Primary school
+7955439997583734996,V?n B??ng,Cao,+84 0362269381,-,Secondary school
+1469278379855038859,Vìn,Hoàng Th?,+84 349724157,,
+7955439997583734965,Thi? Mê?n,Trâ?n,+84 0792395103,không,Primary school
+7955439997583735937,-,Y Lang Hwing,+84 0398486040,-,Primary school
+7955439997583735098,V?n Minh,Cao,+84 0933223772,,Primary school
+1469278379855038587,C??ng,Nông V?n,+84 345420977,-,Primary school
+7955439997583736183,h b?n,Y Siu Niê,+84 0339591502,-,Primary school
+7955439997583735066,V?n Kính,Nguy?n,+84 0363240226,0,Secondary school
+1469278379855039777,Niê,Y Bhia,+84 383265712,,Primary school
+1469278379855040089,Thi?n,Nguy?n Th?,+84 943578354,,
+7955439997582420597,Thái,Nguy?n Nh?t,+84 0911342146,,Secondary school
+1469453888487996110,Bunmee,Kanyama,+66 091-7055450,,Primary school
+1469278379855039075,Hùng,Ph?m V?n,+84 2318086,,Secondary school
+7955439997583734984,V?n ?iê?p,Bu?i,,,
+1469278379855039955,Ph??ng,Nguy?n Hoài,+84 393206479,,Secondary school
+1469418069232862172,Woraphan,Samiso,+66 095-2672525,,Secondary school
+1469278379855039036,Na,Lê Th?,+84 977140658,,Primary school
+7955439997583734972,Quang Trung,Nguy?n,,,
+7955439997583735035,Tro?ng Thanh,Nguyê?n,+84 0819862119,-,Secondary school
+1469278379855040840,Trung,L??ng V?n,+84 385830535,,Secondary school
+1469418069232862184,Narongsak,Ruengrong,+66 089 832 3473,,Tertiary education
+1469278379855040903,Công,Tr?nh Minh,+84 354340589,,Secondary school
+1469453888487996081,Moonee,Somnongaoo,+66 093-6484819,,Primary school
+1469278379855038789,Mlo,Y N?n,+84 367225893,,
+1469278379855039434,Thái,L??ng V?n,+84 941426878,,Secondary school
+1469453888487996124,Samphao,Kaenmalee,+66 087-8321519,,Primary school
+1469418069232862157,Bunmee,Chueachan,+66 089-0869617,,
+1469278379855040235,Ênuôl,H Yuel,+84 947511659,,Primary school
+1469278379855039327,Tr?ng,Nông V?n,+84 975755951,,Primary school
+1469418069232862163,Chanthakarn,Deeloed,+66 091-3184689,,Secondary school
+1469278379855040338,Ngh?a,Hoàng Th?,+84 394062426,,Secondary school
+1469278379855040198,Êban,H Djuang,+84 946027796,,Secondary school
+1469278379855040148,H?p,Tr?n Th?,+84 389540197,,Secondary school
+1469418069232862160,Watchara,Sanasang,+66 080-6971684,,Primary school
+1469278379855040214,Ênuôl,Y Let,+84 399718363,,
+1469278379855039138,M??i,Ph?m,+84 369923194,,Secondary school
+1469278379855040609,Nh?,Nguy?n V?n,+84 333019758,,Secondary school
+1469453888487996145,Narongsak,Thonin,+66 089-9297253,,Primary school
+1469418069232862159,Thongkham,Samrit,+66 087-2663871,,Primary school
+1469278379855039698,Hmok,Y Khim,+84 987255400,,Primary school
+1469883818362505273,L?ch,Nguy?n V?n,+84 337850019,,Tertiary education
+1469278379855036689,Ph??ng,Hoàng N?ng,+84 368697233,,Secondary school
+1469278379855040292,Th?ng,Ph?m V?n,+84 384248758,,Secondary school
+1469453888487996199,Jiradun,Taengto,+66 083-0781750,,Tertiary education
+1469453888487996195,Bunruen,Singsuwan,+66 091-10469767,,Primary school
+1469278379855038661,H Uê,H Uê Ktul,+84 383082030,,Secondary school
+7955439997583735733,V?n H?i,L?u,+84 0392812172,-,Secondary school
+1469453888487996201,Ramduan,Saengsuriwong,+66 083-0781750,,Primary school
+7955439997583735804,Thanh Sáu,V?n,+84 0935323749,,Primary school
+7955439997583735627,y thoen,Y Them Niê,+84 0896037664,,Primary school
+7955439997583735819,,Y Grok Adr?ng,+84 0336879865,0,Primary school
+7955439997583735793,Tr?ng Minh,Ph?m,+84 0986042311,,Primary school
+1469278379855039859,Bkrông,Y Kuôm,+84 345741670,,
+7955439997583736561,V?n Lênh,V?,,,
+1469278379855036710,An,Lê V?n,+84 385227053,,Secondary school
+7955439997583735479,Th? Tuy?t Hoa,??,+84 0353815409,-,Primary school
+7955439997583735579,Minh Loát,Tr?n,+84 0333894736,-,Primary school
+7955439997583735741,Th? Lân,Nguy?n,+84 0382922969,-,Secondary school
+1469278379855038730,M?,Tr?n Th?,+84 348353470,,Secondary school
+7955439997583735685,Th? Thành,Lê,+84 0979600992,không,Secondary school
+1469278379855037255,Lòng,Phan Th?,+84 935405206,,Primary school
+1469278379855038729,Hòa,Nông V?n,+84 353557830,,Primary school
+7955439997583735770,Th? Kim Thoa,D??ng,+84 0948282048,,Secondary school
+7955439997583735605,Th? Và,Ph??ng,+84 0988077226,,Primary school
+7955439997583735588,V?n Kh?i,Tr?n,+84 0359613127,-,Secondary school
+1469278379855037217,Tùng,Phan Anh,+84 934781481,,Secondary school
+7955439997583735633,h ngon hmok,H Ngon Hmok,+84 0946381482,0,Primary school
+7955439997583735732,V?n D??ng,L?u,+84 0386158518,-,Secondary school
+7955439997583735526,Thanh R?i,Nguy?n,+84 0906438337,-,Primary school
+1469418069232862167,Sayan,Phoonthongsane,+66 083-0530615,,Secondary school
+7955439997583735521,T?n An,Nguy?n,+84 0946590774,,Primary school
+7955439997583735591,Xuân Vinh,Tr?n,+84 0935780038,0,Secondary school
+7955439997583735601,M?nh Hùng,Hoàng,+84 0914115280,,Secondary school
+7955439997583735790,V?n S?,Nguy?n,+84 0354494152,,Primary school
+7955439997583735773,??c Kh??ng,Lê,+84 0329291220,,Primary school
+1469278379855038649,Thanh,Nông Th?,+84 326654686,,Secondary school
+7955439997583735665,?ình Ban,Hoàng,+84 0383486856,không,Primary school
+1469278379855038689,Nh?t,Tri?u Tôn,+84 972063717,,
+1469278379855037176,Th?o,Nguy?n Th? T,+84 366299295,,Primary school
+1469278379855037271,H?i,Nguy?n Vi?t,+84 346466642,,Secondary school
+1469278379855037274,M?nh,Nguy?n V?n,+84 399033118,,
+1469418069232862217,Yuphawadee,Koyram,+66 087-2609208,,Tertiary education
+1469453888487995331,Kanika,Panpinit,+66 093-0802678,,Secondary school
+1469278379855036953,Th?,D??ng Th?,+84 904559297,,Primary school
+1469278379855036637,S?n,Nguy?n H?u,+84 336452682,,Secondary school
+1469278379855036596,Tuy?n,V? H?ng,+84 384471361,,Tertiary education
+1469453888487995806,Thongkhun,Phocha,+66 083-3929227,,Primary school
+1469278379855037023,??i,D??ng Minh,+84 987067177,,Secondary school
+1469278379855037069,Hoài,Hà Th?,+84 974761792,,Secondary school
+1469418069232862098,Supattra,Ngernthong,+66 086-1431486,,Tertiary education
+1469453888487995779,Sommai,Simana,+66 087-1636447,,Primary school
+1469453888487995822,Somchit,Sriworasan,+66 087-1130146,,Secondary school
+1469418069232862178,Bophit,Ardsanachai,+66 098-7413116,,Primary school
+1469418069232862176,Thongdaeng,Nongna,+66 093-4652348,,Primary school
+1469418069232862114,Prasert,Prasertsinderm,+66 093-6239665,,Primary school
+1469418069232862113,Samran,Sangsawat,+66 061-2409619,,Primary school
+1469418069232862107,Nichakan,Jantaburee,+66 064-7126136,,Primary school
+1469418069232862101,Sakda,pranee,+66 086-2823021,,Secondary school
+1469418069232862103,Saitara,Lapmun,+66 085-6548322,,Secondary school
+1469278379855039484,Nga,Bùi Th? Kim,+84 396651292,,Primary school
+1469453888487995619,Duangchai,Polaresa,+66 095-9454464,,Primary school
+1469453888487995637,Sutchai,khamyod,+66 081-0905081,,Primary school
+1469453888487995617,Chaowai,Sinlapason,+66 093-6392800,,Primary school
+7955439997583735110,??c Tr??ng,Nguy?n,,,Senior High School
+1469453888487995632,Salee,Reakroung,+66 098-7132998,,Secondary school
+1469453888487995629,Prayun,Keaowphimon,+66 091-7895871,,Primary school
+1469418069232862220,Autid,Detwiset,+66 090-4932330,,Primary school
+1469278379855037239,K?,Nguy?n Cao,+84 944539117,,Senior High School
+1469278379855037091,Hoài,Nguy?n Tr?ng,+84 399049860,,
+1469418069232862084,Thidarat,Wongchan,+66 062-3705758,,Secondary school
+1469861430152705312,Somkhuan,Klaisom,+66 0937825489,,Primary school
+1469453888487995757,Wirayut,Nuansi,+66 089-2899752,,Tertiary education
+1469453888487995827,Khampon,Promyan,+66 061-1564269,,Primary school
+1469278379855037063,Tuyên,Ph?m Th?,+84 348391467,,Senior High School
+7955439997583734767,H?i,Nguy?n,,,
+7955439997583735451,Th? Tuy?t Loan,Nguy?n,+84 0944787548,,Senior High School
+7955439997583735929,-,Y Ku Hwing,-,-,Senior High School
+1469418069232862088,Thawatchai,Somyok,+66 085-2362758,,Secondary school
+7955439997582177079,Sawat,Bunrangap,+66 0828767252,,Primary school
+7955439997583735364,Quang Ng?c,Lê,+84 0984296340,0,Primary school
+1469953747529844086,Naphatsakon,Aunsariphap,+66 098-0567928,,Tertiary education
+1469418069232862219,Pin,Wongsurin,+66 083-3948430,,Secondary school
+1469453888487995787,Bunlai,Manut,+66 065-5902699,,Primary school
+1469453888487997179,Duangjai,Tanat,+66 0970482521,,Primary school
+1469453888487995938,Wari,Aintha,+66 090-9529260,,Primary school
+1469453888487995860,Janphen,Sathanthin,+66 064-4784767,,Primary school
+7955439997583325919,Th? Hiên,tr?n,+84 0342421447,,Primary school
+7955439997583325777,th? giang,v?,+84 0787769062,,Tertiary education
+7955439997583325730,Th? H?i,Nguy?n,+84 0853447776,,Senior High School
+1469453888487995940,Wichai,Songphetr,+66 095-4294442,,Tertiary education
+1469418069232862079,Prasert,Kittiwetyanuson,+66 084-8413725,,Primary school
+1469453888487995942,Worawat,Phudhom,+66 061-3035805,,Secondary school
+1469453888487995932,Thongsuk,Jikla,+66 065-4371440,,Primary school
+1469418069232862198,Rewat,Daengsakon,+66 089-5911305,,Tertiary education
+7955439997583922910,"Dummy M,E Vietnam 2025 2",Nguyen,+84 2888856,na,Senior High School
+1469418069232862203,Jaruk,Onpim,+66 087-2769528,,Primary school
+7955439997582574259,H??ng,Nguy?n H?ng,+84 0378106887,,
+7955439997582576976,Minh,Nguyen Viet,+84 0333347637,,
+10045263171842759826,People AM,test step 3,823827382,andy@gmail.com,Senior High School
+7955439997582574081,Hi?n,?? Th?,+84 0362911191,hiendo@gmail.com,Primary school
+7955439997582573868,Phin,Long ?inh K,+84 0945813099,,
+7955439997582573513,,,+84 0342422159,,
+7955439997583869131,"Dummy M,E Vietnam 2025 1",,+84 22222,,
+7955439997583325031,V?n Ngh?a,Nguy?n,,,Senior High School
+7955439997583324875,Ka S?i,.,+84 0366416660,-,Primary school
+7955439997583325138,Ph??c D?ng,Nguy?n,+84 0964545454,,Tertiary education
+7955439997583325904,V?n ??,Nguy?n,-,-,Senior High School
+10045222585760773352,abc,,+62 9098,,
+7955439997574930123,"Dummy M,E 2025",Indonesia 3,+62 222,,Senior High School
+7955439997574930069,Abra,Cadabra,,,Tertiary education

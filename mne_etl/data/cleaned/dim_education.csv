@@ -1,8 +1,7 @@
 education_id,education_level
-1,Senior High School
+1,Secondary school
 2,Primary school
-3,Secondary school
-4,University
-5,-
-6,Tertiary education
-7,Vocational High School
+3,Senior High School
+4,Tertiary education
+5,University
+6,Vocational High School

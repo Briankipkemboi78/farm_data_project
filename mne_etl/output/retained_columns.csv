@@ -17,6 +17,7 @@ Year of previous M&E assessment(s) - 2020
 Year of previous M&E assessment(s) - 2021
 Year of previous M&E assessment(s) - 2022
 Year of previous M&E assessment(s) - 2023
+Year of previous M&E assessment(s) - 2024
 Currency
 Area unit
 Volume unit
@@ -26,6 +27,9 @@ Species - Liberica
 Entity picture
 Farmer signature
 Data collection cant be completed
+Please explain
+Completion status step 1
+Remarks step 1
 Do you want to update existing information?
 Do you want to autofill the field with existing information?
 Farm ID
@@ -33,11 +37,14 @@ Address 1
 Address 2
 Region
 Sub Region
+Sub-unit
 Latitude
 Longitude
 Altitude
+GPS method
 Polygon
 Calculate Polygon Area
+Polygon method
 Total Farm Area
 Existing Plot - Plot number
 Do you want to update existing plot information?
@@ -48,19 +55,32 @@ Year Started
 Production
 Production (Kg)
 Total Coffee Area
+Total Coffee Tree
 Coffee Area Under Active Production
+Coffee Tree Under Active Production
 Coffee Area Under Rejuvenation Stage (less than 3 years)
+Coffee Tree Under Rejuvenation Stage (less than 3 years)
+Coffee Tree Under Rejuvenation Stage ( less than 3 years)
 Coffee Area Intercropping
+Coffee Tree Intercropping
 Intercropping crops
 Coffee Area Monocropping
+Coffee Tree Monocropping
 Other Crops
 Land Area Other Crops
+Total Tree Other Crops
+Total Tree Other Crops Update)
 Land Area Under Natural Habitat or Conservation Management
+Total Tree Under Natural Habitat or Conservation Management
 Farm Area Dedicated to Other Uses
+Total Tree Dedicated to Other Uses
 Total Area
+Total Tree
 Calculate Polygon Area (Ha)
 New Plot - Plot number
 Calculated Polygon Area (Ha)
+Completion status step 2
+Remarks step 2
 Pick People
 Do you want to update existing people information?
 Do you want to autofill the field with existing people information?
@@ -82,6 +102,8 @@ Email
 Number of adults in farmers family
 Number of boys in the family (living in the farm household)
 Number of girls in the family (living in the farm household)
+Completion status step 3
+Remarks step 3
 Year joined Nescafe Plan
 Number of Nescafe training sessions in last 12 months male
 Number of Nescafe training sessions in last 12 months female
@@ -100,13 +122,211 @@ How satisfied is the farmer with the quality of plantlets received from Nescafe?
 Expansion
 Filling up the gaps/renovation
 Not applicable
-1st main cash crop beside coffee
-2nd main cash crop beside coffee
-Other crop 1
-Other crop 2
-Other crops
-Livestock
-How do you sell your coffee
+Completion status step 4
+Remarks step 4
+Average Green Bean Price
+Average Wet Parchment Price
+Average Dry Parchment Price
+Average Fresh Cherry Price
+Average Dry Cherry Price
+Average Husk Coffee Price
+Coffee Family Labor (days/year) - male
+Coffee Family Labor (days/year) - female
+Coffee Family Labor (days/year) - other family members
+Coffee Total Family Labor
+Coffee Temp Labor
+Coffee Permanent Labor
+Coffee Average wage of paid labor/day
+1st cash crop Family Labor (days/year) - male
+1st cash crop Family Labor (days/year) - female
+1st cash crop Family Labor (days/year) - other family members
+1st cash crop Total Family Labor
+1st cash crop Temp Labor
+1st cash crop Permanent Labor
+1st Cash Crop Average wage of paid labor/day
+2nd cash crop Family Labor (days/year) - male
+2nd cash crop Family Labor (days/year) - female
+2nd cash crop Family Labor (days/year) - other family members
+2nd cash crop Total Family Labor
+2nd cash crop Temp Labor
+2nd cash crop Permanent Labor
+2nd Cash Crop Average wage of paid labor/day
+Other crop Family Labor (days/year) - male
+Other crop Family Labor (days/year) - female
+Other crop Family Labor (days/year) - other family members
+Total Other crop Family Labor
+Other crop Temp Labor
+Other crop Permanent Labor
+Other Crops Average wage of paid labor/day
+Livestock Family Labor (days/year) - male
+Livestock Family Labor (days/year) - female
+Livestock Family Labor(days/year) - other family members
+Livestock Total Family Labor
+Livestock Temp Labor
+Livestock Permanent Labor
+Livestock Average wage of paid labor/day
+Coffee Fertilizer
+Coffee Agrochemicals
+Coffee Herbicide
+Coffee Water for irrigation
+Coffee Electricity / fuel for irrigation
+Coffee Plantlet / planting material
+Coffee Other input
+Coffee Other input Comment
+Coffee Total input cost
+1st Cash Crop Fertilizer
+1st Cash Crop Agrochemicals
+1st Cash Crop Herbicide
+1st Cash Crop Water for irrigation
+1st Cash Crop Electricity / fuel for irrigation
+1st Cash Crop Plantlet / planting material
+1st Cash Crop Other input
+1st Cash Crop Other input Comment
+1st Cash Crop Total input cost
+2nd Cash Crop Fertilizer
+2nd Cash Crop Agrochemicals
+2nd Cash Crop Herbicide
+2nd Cash Crop Water for irrigation
+2nd Cash Crop Electricity / fuel for irrigation
+2nd Cash Crop Plantlet / planting material
+2nd Cash Crop Other input
+2nd Cash Crop Other input Comment
+2nd Cash Crop Total input cost
+Other Crops Fertilizer
+Other Crops Agrochemicals
+Other Crops Herbicide
+Other Crops Water for irrigation
+Other Crops Electricity / fuel for irrigation
+Other Crops Plantlet / planting material
+Other Crops Other input
+Other Crops Other input Comment
+Other Crops Total input cost
+Livestock Animal feed
+Livestock Animal feed Comment
+Livestock Veterinary expenses
+Livestock Veterinary expenses Comment
+"Livestock Equipment, material and ustensils"
+"Livestock Equipment, material and ustensils Comment"
+Livestock Electricity and fuels
+LivestockElectricity and fuels Comment
+Livestock Transportation
+Livestock Transportation Comment
+Livestock Other input
+Livestock Other input cost Comment
+Livestock Total input cost
+Coffee - Other expenses
+1st cash crop - Other expenses
+2nd cash crop - Other expenses
+Other Crops - Other expenses
+Volume
+Robusta sold to Nestle - Coffee volume amount of green coffee bean
+Robusta sold to Nestle - Price of green coffee bean (Currency/Volume unit)
+Robusta sold to Nestle - Coffee volume amount of fresh cherry
+Robusta sold to Nestle - Price of fresh cherry (Currency/Volume unit)
+Robusta sold to Nestle - Coffee volume amount of dry cherry (Volume unit)
+Robusta sold to Nestle - Price of dry cherry (Currency/Volume unit)
+Robusta sold to Nestle - Coffee volume amount of dry parchment (Volume unit)
+Robusta sold to Nestle - Price of dry parchment (Currency/Volume unit)
+Robusta sold to Nestle - Notes (i.e. the reason why the coffee yield is very low or very high)
+Robusta sold to others - Coffee volume amount of green coffee bean
+Robusta sold to others - Price of green coffee bean (Currency/Volume unit)
+Robusta sold to others - Coffee volume amount of fresh cherry
+Robusta sold to others - Price of fresh cherry (Currency/Volume unit)
+Robusta sold to others - Coffee volume amount of dry cherry (Volume unit)
+Robusta sold to others - Price of dry cherry (Currency/Volume unit)
+Robusta sold to others - Notes (i.e. the reason why the coffee yield is very low or very high)
+Arabica sold to Nestle - Coffee volume amount of green coffee bean
+Arabica sold to Nestle - Price of green coffee bean (Currency/Volume unit)
+Arabica sold to Nestle - Coffee volume amount of fresh cherry
+Arabica sold to Nestle - Price of fresh cherry (Currency/Volume unit)
+Arabica sold to Nestle - Coffee volume amount of wet parchment (Volume unit)
+Arabica sold to Nestle - Price of wet parchment (Currency/Volume unit)
+Arabica sold to Nestle - Coffee volume amount of dry parchment (Volume unit)
+Arabica sold to Nestle - Price of dry parchment (Currency/Volume unit)
+Arabica sold to Nestle - Coffee volume amount of husk coffee (Volume unit)
+Arabica sold to Nestle - Price of husk coffee (Currency/Volume unit)
+Arabica sold to Nestle - Notes (i.e. the reason why the coffee yield is very low or very high)
+Arabica sold to others - Coffee volume amount of green coffee bean (Volume unit)
+Arabica sold to others - Price of green coffee bean (Currency/Volume unit)
+Arabica sold to others - Coffee volume amount of fresh cherry (Volume unit)
+Arabica sold to others - Price of fresh cherry (Currency/Volume unit)
+Arabica sold to others - Coffee volume amount of dry cherry (Volume unit)
+Arabica sold to others - Price of dry cherry (Currency/Volume unit)
+Arabica sold to others - Coffee volume amount of wet parchment (Volume unit)
+Arabica sold to others - Price of wet parchment (Currency/Volume unit)
+Arabica sold to others - Coffee volume amount of dry parchment (Volume unit)
+Arabica sold to others - Price of dry parchment (Currency/Volume unit)
+Arabica sold to others - Notes (i.e. the reason why the coffee yield is very low or very high)
+Unsold coffee (in the storage) - Coffee volume amount of green coffee bean
+Unsold coffee (in the storage) - Price of green coffee bean (Currency/Volume unit)
+Unsold coffee (in the storage) - Coffee volume amount of fresh cherry
+Unsold coffee (in the storage) - Price of fresh cherry (Currency/Volume unit)
+Unsold coffee (in the storage) - Coffee volume amount of wet parchment (Volume unit)
+Unsold coffee (in the storage) - Price of wet parchment (Currency/Volume unit)
+Unsold coffee (in the storage) - Coffee volume amount of dry parchment (Volume unit)
+Unsold coffee (in the storage) - Price of dry parchment (Currency/Volume unit)
+Unsold coffee (in the storage) - Notes (i.e. the reason why the coffee yield is very low or very high)
+Species - 2
+Unsold coffee (in the storage) - Coffee volume amount of green coffee bean - 2
+Unsold coffee (in the storage) - Price of green coffee bean (Currency/Volume unit) - 2
+Unsold coffee (in the storage) - Coffee volume amount of dry cherry (Volume unit) - 2
+Unsold coffee (in the storage) - Price of dry cherry (Currency/Volume unit) - 2
+Unsold coffee (in the storage) - Notes (i.e. the reason why the coffee yield is very low or very high) - 2
+Unharvested - Coffee volume amount of green coffee bean
+Unharvested - Price of green coffee bean (Currency/Volume unit)
+Unharvested - Coffee volume amount of fresh cherry
+Unharvested - Price of fresh cherry (Currency/Volume unit)
+Unharvested - Coffee volume amount of dry cherry (Volume unit)
+Unharvested - Price of dry cherry (Currency/Volume unit)
+Unharvested - Coffee volume amount of dry parchment (Volume unit)
+Unharvested - Price of dry parchment (Currency/Volume unit)
+Unharvested - Notes (i.e. the reason why the coffee yield is very low or very high)
+Unharvested - The reason why the farmer didnt harvest all coffee cherries
+Harvest sharing - Coffee volume amount of green coffee bean
+Harvest sharing - Price of green coffee bean (Currency/Volume unit)
+Harvest sharing - Coffee volume amount of fresh cherry
+Harvest sharing - Price of fresh cherry (Currency/Volume unit)
+Harvest sharing - Coffee volume amount of dry cherry (Volume unit)
+Harvest sharing - Price of dry cherry (Currency/Volume unit)
+Harvest sharing - Coffee volume amount of wet parchment (Volume unit)
+Harvest sharing - Price of wet parchment (Currency/Volume unit)
+Harvest sharing - Coffee volume amount of dry parchment (Volume unit)
+Harvest sharing - Price of dry parchment (Currency/Volume unit)
+Harvest sharing - Notes (i.e. the reason why the coffee yield is very low or very high)
+1st main cash crop - Volume amount
+1st main cash crop - Price amount
+1st main cash crop - Total revenue
+Volume amount unsold (Volume unit)
+Price amount unsold (Currency/Volume unit)
+2nd main cash crop - Volume amount
+2nd main cash crop - Price amount
+2nd main cash crop - Total revenue
+Other crop 1 main cash crop - Volume amount
+Other crop 1 main cash crop - Price amount
+Other crop 1 main cash crop - Total revenue
+Other crop 2 main cash crop - Volume amount
+Other crop 2 main cash crop - Price amount
+Other crop 2 main cash crop - Total revenue
+Other crops main cash crop - Volume amount
+Other crops main cash crop - Price amount
+Other crops main cash crop - Total revenue
+Livestock - Volume amount
+Livestock - Price amount
+Livestock - Total revenue
+Non-commercialcrop 1
+Non-commercialcrop 1 - Volume amount
+"Non-commercialcrop 1 - Price amount, if farmers difficult to answer, refer to the market price"
+Non-commercialcrop 1 - Total revenue
+Non-commercialcrop 2
+Non-commercialcrop 2 - Volume amount
+"Non-commercialcrop 2 - Price amount, if farmers difficult to answer, refer to the market price"
+Non-commercialcrop 2 - Total revenue
+Non-commercialcrop 3
+Non-commercial crop 3 - Volume amount
+"Non-commercial crop 3 - Price amount, if farmers difficult to answer, refer to the market price"
+Non-commercialcrop 3 - Total revenue
+Source of off-farm income
+Off-farm income (in total)
 "What is the percentage of coffee crop land covered, during the whole year, with cover crops and/or application of crop residues, mulch, grass, clipping, straw and/or through agroforestry, coffee canopy, etc.? (acreage covered/total coffee acreage x 100)"
 "Do you implement any form of erosion control (e.g. terracing, contour planting, windbreaks, soil coverage, basin - on 100% of the field acreage)?"
 "What is the percentage of agricultural land with severe water and wind erosion (signs: siltation, sheet-rill-gully erosion, flying dust; as estimation)?"
@@ -116,7 +336,7 @@ Upload evidence
 "Do you calculate your annual fertilizer plan on the basis of crop nutrient requirements (e.g. recent soil analysis, productivity, crop cycle)?"
 What is the soil organic matter (SOM) level in your soils (%)?
 What is the Soil pH?
-"What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter, and/or biochar?"
+"What is the percentage of coffee crop land that receives, annually, organic fertilizer, and/or composted organic matter?"
 Organic fertilizer applied kg per ha
 Total fertilizer applied kg per ha
 Percentage organic fertiliser vs total fertiliser applied per ha (organic/ total applied x 100)
@@ -154,6 +374,8 @@ Are you member of an approved RS Unit
 FAT score
 FAT %
 FAT Level
+Completion status step 6
+Remarks step 6
 Number coffee trees arabica - if applicable (trees/ha)
 Number coffee trees robusta (trees/ha)
 Coffee trees age 0-2 (%)
@@ -168,7 +390,9 @@ What portion of shade trees are native? (%)
 Where does the irrigation water come from?
 How many irrigation rounds/year?
 How much irrigation water per round? (m3/ha/round)
-How satisfied are you about the Nescafe Plan this year?
+Completion status step 7
+Remarks step 7
+How satisfied are you about the Nescafe Plan/projects this year?
 "If the respondent is dissatisfied, what is the reason/cause?"
 How confident are you that your children / next generation will have a good livelihood from coffee farming?
 Who is the sucessor to your farm?
@@ -184,16 +408,110 @@ Other (please specify)
 Other (please specify) text
 None
 How do you tackle the challenges
+Completion status step 8
+Remarks step 8
 Status by enumerator
 Comment by enumerator
 Status by validator
 Assessment header (M&E step 1)
-Farm and plot information (M&E step 2)
-Farmer and household information (M&E step 3)
-Nescafe Plan interaction/ technical assistance (M&E step 4)
-Farm economics & recordkeeping (M&E step 5)
-FAT Coffee V2 (M&E step 6)
-RegAgri & Carbon (M&E step 7)
-Qualitative (M&E step 8)
-Comments by validator
-Validator name
+Completion status step 9
+Remarks step 9
+Solar dryer
+GRP (Tree planting)
+GIZ
+Did you receive a solar dryer from Co-Honducafe/Nescafe?
+"If you have received a solar dryer, what is the current condition of the dryer?"
+Did you receive any trees?
+How many trees?
+From how many species?
+How many trees have survived?
+How to handle and care for trees plantlet that have been planted in the farm to ensure that they grow well?
+What is the main factors that cause the tree planted to die?
+Regenerative Agriculture
+Farmer Business School (FBS)
+I did not participate in any trainings conducted by Nestle or GIZ
+Other
+please specify
+Number of training sessions in last 12 months for participant in age 15 to 24 years
+Number of training sessions in last 12 months for participant in age 25 to 35 years old
+Number of training sessions in last 12 months for participant in age 36 and over
+Did the Nestle / GIZ trainings that you participated in over the last 12 months increase your knowledge / skills?
+Were you able to apply the knowledge and skills gained during the Nestle / GIZ trainings that you participated in over the last 12 months?
+Climate resilience assessment: Was the training relevant to skills addressing the impacts of climate change?
+Did you learn a lot about risks related to climate change ?
+Did you increase your skills regarding the specific adaptation to or mitigation of climate change risks
+Please explain: Which specific climate risks or consequences will you be able to better cope with if you apply the new skills?
+Did you already apply the skills in order to better address climate risks ?
+Please explain: What did you change in order to better cope with the consequences of climate change or to be prepared for future consequences?
+"More Work: Additional hours by e.g, expansion of farming activities"
+Improved working conditions
+More income from farming activities
+Please select the 1st priority
+Please select the 2nd priority
+How would you describe your work?
+If you got additional working hours as a result of participating at the trainings: How many additional working hours did you have per dayon average?
+"If you got additional working hours as a result of participating in the trainings, please describe what influence the trainings had in this regard."
+Operational safety & health conditions
+Work quality (e.g. use of technology or techniques that ease physical portion of work)
+Equality for women
+Farmers groups structure
+Others
+Others - Please provide details
+"If your working conditions have improved as a result of participating in the traingings, please describe what influence the trainings had in this regard."
+"If your income has increased from the farming activities as a result of participating in the trainings, please describe what influence the trainings had in this regard."
+Productivity increase
+Income increase
+Income diversification
+Crop diversification
+Recordkeeping improvement
+Farm management improvement
+Working conditions improvement
+Other improvement
+Other improvement - Please provide details
+Comment
+How many of the members in your household are directly involved in the coffee activities?
+How many are women?
+Who usually takes the financial decisions in the household expenses?
+Who usually takes the financial decisions in the coffee income?
+Who usually takes the financial decisions in the farm income?
+How many in your household are members of cooperatives or local coffee groups
+How many men in your household are members of cooperatives or local coffee groups
+How many women in your household are members of cooperatives or local coffee groups
+How many of the women in your household are members of womens groups
+How many in your household are members of VSLA groups
+How many men in your household are members of VSLA groups
+How many women in your household are members of VSLA groups
+"Compared to before the Nestle/GIZ support, please let us know if any of the below applies?"
+Please specify
+What other support would?you / Women in your household? require?
+Number of boys in school age
+How many are fully going to school?
+How many are partially going to school?
+Number of girls in school age
+Who owns the coffee farm?
+Who keeps the records and documents of the farm?
+Who handles and receives payments from the sale of the coffee
+In whose name is the title deed (ownership of the farm)
+Who is an official member of the cooperative / producer organization
+Who has a bank account or mobile money account?
+"Who usually takes the financial decisions in the household (household expenses, investment, saving, sales)?"
+Who usually keeps the cash money in the household?
+Has your coffee farm been pruned in the last 12 months?
+Do you have area pruned in the last 3 years
+What is the total area pruned in the last 3 years?
+What percentage of the coffee farm has been rejuvenated by full stumping in the last 12 months (%)
+What percentage of the coffee farm has been rejuvenated by partial stumping (with remaining branch ) in the past 12 months? (%)
+Describe the quality of maintenance after rejuvenation/stumping rejuvenation/stumping
+If you receive fertilizer from Nestle Philippines fertilizer program
+How many bags and type of fertilizer received?
+What is the type of fertilizer received
+When did you receive/ apply the fertilizer?
+Where in particular (plot) in your coffee farm did you apply the fertilizer?
+Did you observe noticeable differences in crop stand and/or yield improvement from the applied area/plot? (take note of the qualitative (crop stand) and quantitative (yield - kgs)
+yield - kgs
+Are you satisfied/convinced from the results of your fertilized area/plot?
+please explain
+Are you willing to invest in fertilization for your farm yield improvement?
+Completion status step 8a
+Remarks step 8a
+Status Code Farmer

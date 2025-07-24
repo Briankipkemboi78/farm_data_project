@@ -15,11 +15,16 @@ def normalize_column_name(col: str) -> str:
     col = re.sub(r'\s+', ' ', col)
     return col.strip()
 
+import pandas as pd
+import os
+import re
+
 def deduplicate_columns(df: pd.DataFrame, output_log_path: str = "output/column_deduplication_log.csv") -> pd.DataFrame:
     col_groups = {}
     dedup_log = []
     cleaned_columns = {}
 
+    # Group columns by base name
     for col in df.columns:
         base = re.sub(r'\.\d+$', '', col)
         base = re.sub(r'\s*\(update\)', '', base, flags=re.IGNORECASE).strip()
@@ -27,27 +32,36 @@ def deduplicate_columns(df: pd.DataFrame, output_log_path: str = "output/column_
 
     for base, variants in col_groups.items():
         if len(variants) == 1:
-            best_col = variants[0]
+            cleaned_columns[base] = df[variants[0]]
+            dedup_log.append({"base_column": base, "original_column": variants[0], "kept": True})
         else:
-            update_cols = [col for col in variants if "(update)" in col.lower()]
-            best_col = update_cols[0] if update_cols else df[variants].notna().sum().idxmax()
+            # Combine all columns by priority
+            combined = pd.Series([pd.NA] * len(df), index=df.index)
+            for col in variants:
+                combined = combined.combine_first(df[col])
+            cleaned_columns[base] = combined
 
-        cleaned_columns[base] = df[best_col]
+            # Logging
+            most_used = pd.DataFrame({col: df[col].notna().sum() for col in variants}, index=["non_nulls"]).T
+            best_col = most_used["non_nulls"].idxmax()
+            for col in variants:
+                dedup_log.append({
+                    "base_column": base,
+                    "original_column": col,
+                    "kept": col == best_col  # Mark the most populated column as 'kept' for logging purposes
+                })
 
-        for col in variants:
-            dedup_log.append({
-                "base_column": base,
-                "original_column": col,
-                "kept": col == best_col
-            })
-
-    cleaned_df = pd.concat(cleaned_columns, axis=1)
+    cleaned_df = pd.DataFrame(cleaned_columns)
+    cleaned_df.columns.name = None
 
     os.makedirs(os.path.dirname(output_log_path), exist_ok=True)
     pd.DataFrame(dedup_log).to_csv(output_log_path, index=False)
     pd.DataFrame({"cleaned_column_name": cleaned_df.columns}).to_csv("output/cleaned_columns.csv", index=False)
 
     return cleaned_df
+
+
+
 
 
 def drop_empty_columns(df: pd.DataFrame, log_path: str = "output/null_columns_dropped.csv") -> pd.DataFrame:

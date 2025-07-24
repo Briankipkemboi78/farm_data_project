@@ -13,7 +13,7 @@ def main():
     os.makedirs(output_dir, exist_ok=True)
 
     # Load and clean main CSV dataset
-    df_raw = pd.read_csv(os.path.join(raw_dir, "raw_data.csv"), encoding='ISO-8859-1')
+    df_raw = pd.read_csv(os.path.join(raw_dir, "raw_data.csv"), encoding='ISO-8859-1', low_memory=False)
     df_cleaned = process_dataframe(df_raw)
 
     # Save cleaned main data (optional inspection)
