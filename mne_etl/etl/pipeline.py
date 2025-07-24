@@ -31,7 +31,10 @@ from etl.feedback.fact_survey_feedback import build_fact_survey_feedback
 # CFT Models
 from etl.dim.dim_entity_cft import build_dim_entity_cft
 from etl.dim.dim_geolocation_cft import build_dim_geolocation
+
+
 from etl.fact.fact_energy_use_cft import build_fact_energy_usage
+from etl.fact.fact_co_product import build_fact_co_product
 
 def run_pipeline(df_raw: pd.DataFrame, 
                  df_cft: pd.DataFrame,
@@ -109,5 +112,6 @@ def run_pipeline(df_raw: pd.DataFrame,
 
     # ⚡️ Energy Usage Fact
     results['fact_energy_cft'] = build_fact_energy_usage(df_energy, entity_lookup)
+    results['fact_co_product_cft'] = build_fact_co_product(df_co_product_cleaned, entity_lookup)
 
     return results
